@@ -1,0 +1,30 @@
+{
+  "actor_id": "CONTACT-03",
+  "tender_id": "UT-002",
+  "state": "DRAFT_ONLY",
+  "technical_offer": "Canadian metering delivery/integration lead candidate; training and support",
+  "counterparty": "Badger Meter",
+  "email": {
+    "subject": "Amherst metering: delivery + ultrasonic OEM scope",
+    "initial": "Hi Scott,\n\nAmherst’s RFP-26-09 calls for ultrasonic water metering and a phased rollout. Metercor’s Canadian metering work and its stated Badger distribution relationship suggest a practical conversation with Badger Meter about a compliant meter, communications and support bundle.\n\nThe Town expects to install most meters. The useful joint scope may be supply, data integration, training and support; lead qualifications and product/territory authorization need checking.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Timothy Wissing. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+    "followups": [
+      "Hi Scott,\n\nFollowing up on Amherst RFP-26-09 water metering. The first question is whether Badger Meter would add a distinct, necessary work package. For your side, I had in mind: canadian metering delivery/integration lead candidate; training and support.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+      "Hi Scott,\n\nA practical agenda for the proposed Badger Meter discussion would be: meter size/approval matrix; endpoint compatibility; network coverage; billing export; warranty; phased acceptance. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+      "Hi Scott,\n\nFor Amherst RFP-26-09 water metering, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Timothy Wissing at Badger Meter, once the access and scope questions are resolved?",
+      "Hi Scott,\n\nI’ll close this proposed Badger Meter introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Scott, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+    "initial": "Thanks for connecting. I’m reviewing Water metering upgrades. The possible role for your team is: Canadian metering delivery/integration lead candidate; training and support. A potential counterpart is Badger Meter, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+    "followups": [
+      "Would it help if I shared a brief for Water metering upgrades with the technical interfaces and open qualification questions?",
+      "For your team, the working scope is Canadian metering delivery/integration lead candidate; training and support. Which boundary would you want clarified before a scoping call?",
+      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+    ]
+  },
+  "send_authorized": false,
+  "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+  "snapshot_date": "2026-09-04"
+}

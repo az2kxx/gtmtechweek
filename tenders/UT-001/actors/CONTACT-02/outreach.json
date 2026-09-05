@@ -1,0 +1,30 @@
+{
+  "actor_id": "CONTACT-02",
+  "tender_id": "UT-001",
+  "state": "DRAFT_ONLY",
+  "technical_offer": "Potential telemetry/process-context specialist; scope must be demonstrated",
+  "counterparty": "Bridewell",
+  "email": {
+    "subject": "Southern Water MDR: a technical partnership check",
+    "initial": "Hi Roland,\n\nSouthern Water's IT/OT MDR notice names Nozomi, Cisco Cyber Vision and CrowdStrike. I’m assessing whether Bridewell and Ovarro could define a useful service split: SOC response ownership alongside water-process and telemetry context.\n\nThis is an exploratory pairing. Existing-tool support, subcontract rights and the notice’s conflicting deadline/value still need confirmation.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Peter Whyte. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+    "followups": [
+      "Hi Roland,\n\nFollowing up on Southern Water IT/OT MDR. The first question is whether Bridewell would add a distinct, necessary work package. For your side, I had in mind: potential telemetry/process-context specialist; scope must be demonstrated.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+      "Hi Roland,\n\nA practical agenda for the proposed Bridewell discussion would be: existing-tool ingestion; asset/process context; incident escalation; safe containment approvals; evidence ownership. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+      "Hi Roland,\n\nFor Southern Water IT/OT MDR, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Peter Whyte at Bridewell, once the access and scope questions are resolved?",
+      "Hi Roland,\n\nI’ll close this proposed Bridewell introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Roland, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+    "initial": "Thanks for connecting. I’m reviewing IT/OT managed detection and response. The possible role for your team is: Potential telemetry/process-context specialist; scope must be demonstrated. A potential counterpart is Bridewell, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+    "followups": [
+      "Would it help if I shared a brief for IT/OT managed detection and response with the technical interfaces and open qualification questions?",
+      "For your team, the working scope is Potential telemetry/process-context specialist; scope must be demonstrated. Which boundary would you want clarified before a scoping call?",
+      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+    ]
+  },
+  "send_authorized": false,
+  "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+  "snapshot_date": "2026-09-04"
+}

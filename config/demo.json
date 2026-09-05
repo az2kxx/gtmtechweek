@@ -1,0 +1,14 @@
+{
+  "project": "gtmtechweek",
+  "source_mode": "repository",
+  "github_repository": "az2kxx/gtmtechweek",
+  "github_branch": "main",
+  "scheduled_weekday": "Monday",
+  "schedule_timezone": "America/Los_Angeles",
+  "clay_data_credit_ceiling": 299,
+  "marketing_mode": "DRAFT_ONLY",
+  "attio_mode": "OPTIONAL_MIRROR_INTEGRATION_PRESERVED",
+  "heyreach": "TRIAL_EXPIRED",
+  "publication": "Professional profiles only; business email addresses and private CRM/Clay identifiers withheld.",
+  "public_dashboard": "https://gtmtechweek-tender-observatory.adrian-k-zebrowski.chatgpt.site"
+}

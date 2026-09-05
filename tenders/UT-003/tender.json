@@ -1,0 +1,35 @@
+{
+  "id": "UT-003",
+  "title": "Five-year NRW contractor panel",
+  "buyer": "DBSA / Water Partnerships Office",
+  "region": "Africa",
+  "country": "South Africa",
+  "official_reference": "RFR001.2026",
+  "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf",
+  "deadline": "2026-09-18",
+  "deadline_caveat": "23:55 Johannesburg",
+  "status": "Tender — earlier gate passed",
+  "evidence_grade": "Addendum 1 reviewed",
+  "evidence_date": "2026-09-04",
+  "next_action": "Check briefing attendance; consider eligible partner",
+  "technology": {
+    "Utility sector": "Water",
+    "Technology / function": "Performance-based NRW reduction",
+    "Software evidence": "Not extracted",
+    "Hardware evidence": "Not extracted",
+    "Suggested delivery bundle": "Eligible NRW lead + specialist partners",
+    "Smaller-party role": "Proposed: leakage analysis; field diagnostics; measurement",
+    "Participation caveat": "JV/consortium contemplated; verify eligibility",
+    "Evidence / source": "Addendum 1 pp.2,5,23. https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf"
+  },
+  "pair_ids": [
+    "PAIR-03"
+  ],
+  "actor_ids": [
+    "CONTACT-05",
+    "CONTACT-06"
+  ],
+  "delivery_route": "CONSORTIUM",
+  "outreach_state": "DRAFT_ONLY",
+  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+}

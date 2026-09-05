@@ -1,0 +1,1798 @@
+{
+  "project": "gtmtechweek",
+  "data_as_of": "2026-09-04",
+  "generated_at": "2026-09-05T15:35:02.568271+00:00",
+  "dataset_digest": "8a2ed13b6847a8338346a1ff574e3b1f60129a695ecb8dbc9cebbd71662d8a8a",
+  "config": {
+    "project": "gtmtechweek",
+    "source_mode": "repository",
+    "github_repository": "az2kxx/gtmtechweek",
+    "github_branch": "main",
+    "scheduled_weekday": "Monday",
+    "schedule_timezone": "America/Los_Angeles",
+    "clay_data_credit_ceiling": 299,
+    "marketing_mode": "DRAFT_ONLY",
+    "attio_mode": "OPTIONAL_MIRROR_INTEGRATION_PRESERVED",
+    "heyreach": "TRIAL_EXPIRED",
+    "publication": "Professional profiles only; business email addresses and private CRM/Clay identifiers withheld.",
+    "public_dashboard": "https://gtmtechweek-tender-observatory.adrian-k-zebrowski.chatgpt.site"
+  },
+  "tenders": [
+    {
+      "id": "UT-001",
+      "title": "IT/OT managed detection and response",
+      "buyer": "Southern Water",
+      "region": "Europe",
+      "country": "United Kingdom",
+      "official_reference": "Prj_8501 / ocds-h6vhtk-0606ff",
+      "source_url": "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID=",
+      "deadline": "2026-09-21",
+      "deadline_caveat": "16:00 UK; verify timezone",
+      "status": "Tender — conflict review",
+      "evidence_grade": "Official mirror; full pack pending",
+      "evidence_date": "2026-09-04",
+      "next_action": "Confirm deadline and value discrepancies",
+      "technology": {
+        "Utility sector": "Water / wastewater",
+        "Technology / function": "24/7 IT and OT MDR",
+        "Software evidence": "Nozomi; Cisco Cyber Vision; CrowdStrike (existing estate)",
+        "Hardware evidence": "No new hardware specified",
+        "Suggested delivery bundle": "Prime SOC + OT specialist + telemetry integration",
+        "Smaller-party role": "OT incident response; assurance; integration",
+        "Participation caveat": "Proposed decomposition; subcontract rights unverified",
+        "Evidence / source": "Scope; existing tooling; one supplier. https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID="
+      },
+      "pair_ids": [
+        "PAIR-01"
+      ],
+      "actor_ids": [
+        "CONTACT-01",
+        "CONTACT-02",
+        "CONTACT-13"
+      ],
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    },
+    {
+      "id": "UT-002",
+      "title": "Water metering upgrades",
+      "buyer": "Town of Amherst",
+      "region": "North America",
+      "country": "Canada",
+      "official_reference": "RFP-26-09",
+      "source_url": "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html",
+      "deadline": "2026-09-22",
+      "deadline_caveat": "14:00 local; America/Halifax",
+      "status": "Tender — eligibility review",
+      "evidence_grade": "Buyer RFP reviewed",
+      "evidence_date": "2026-09-04",
+      "next_action": "Assess lead experience and obtain addenda",
+      "technology": {
+        "Utility sector": "Water",
+        "Technology / function": "AMI/AMR; ultrasonic meters",
+        "Software evidence": "Meter-data software; analytics",
+        "Hardware evidence": "Meters; endpoints; communications",
+        "Suggested delivery bundle": "Experienced metering prime + software/network specialists",
+        "Smaller-party role": "Integration; training; support. Town installs most meters.",
+        "Participation caveat": "Named subcontractors allowed",
+        "Evidence / source": "RFP §§1,13,18. https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+      },
+      "pair_ids": [
+        "PAIR-02"
+      ],
+      "actor_ids": [
+        "CONTACT-03",
+        "CONTACT-04"
+      ],
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    },
+    {
+      "id": "UT-003",
+      "title": "Five-year NRW contractor panel",
+      "buyer": "DBSA / Water Partnerships Office",
+      "region": "Africa",
+      "country": "South Africa",
+      "official_reference": "RFR001.2026",
+      "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf",
+      "deadline": "2026-09-18",
+      "deadline_caveat": "23:55 Johannesburg",
+      "status": "Tender — earlier gate passed",
+      "evidence_grade": "Addendum 1 reviewed",
+      "evidence_date": "2026-09-04",
+      "next_action": "Check briefing attendance; consider eligible partner",
+      "technology": {
+        "Utility sector": "Water",
+        "Technology / function": "Performance-based NRW reduction",
+        "Software evidence": "Not extracted",
+        "Hardware evidence": "Not extracted",
+        "Suggested delivery bundle": "Eligible NRW lead + specialist partners",
+        "Smaller-party role": "Proposed: leakage analysis; field diagnostics; measurement",
+        "Participation caveat": "JV/consortium contemplated; verify eligibility",
+        "Evidence / source": "Addendum 1 pp.2,5,23. https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf"
+      },
+      "pair_ids": [
+        "PAIR-03"
+      ],
+      "actor_ids": [
+        "CONTACT-05",
+        "CONTACT-06"
+      ],
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    },
+    {
+      "id": "UT-004",
+      "title": "Citect to AVEVA Plant SCADA upgrade",
+      "buyer": "Cairns Regional Council",
+      "region": "Australia / Oceania",
+      "country": "Australia",
+      "official_reference": "Contract 3047 / 600033",
+      "source_url": "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+      "deadline": null,
+      "deadline_caveat": "14 vs 28 Sep reported by aggregators",
+      "status": "Tender — deadline unverified",
+      "evidence_grade": "Buyer title verified; details incomplete",
+      "evidence_date": "2026-09-04",
+      "next_action": "Obtain current council tender pack",
+      "technology": {
+        "Utility sector": "Water scope to confirm",
+        "Technology / function": "SCADA migration",
+        "Software evidence": "Citect → AVEVA Plant SCADA (title)",
+        "Hardware evidence": "Unknown; do not assume server replacement",
+        "Suggested delivery bundle": "Control-system integrator + migration specialists",
+        "Smaller-party role": "Proposed: migration; testing; operator training",
+        "Participation caveat": "Subcontract rules unknown",
+        "Evidence / source": "Council title. https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047"
+      },
+      "pair_ids": [
+        "PAIR-04"
+      ],
+      "actor_ids": [
+        "CONTACT-07",
+        "CONTACT-08"
+      ],
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    },
+    {
+      "id": "UT-005",
+      "title": "23,000 smart water meters",
+      "buyer": "MWRS / Guma Valley Water Company",
+      "region": "Africa",
+      "country": "Sierra Leone",
+      "official_reference": "SL-MWRS-539466-GO-RFB",
+      "source_url": "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+      "deadline": "2026-10-13",
+      "deadline_caveat": "Unverified aggregator deadline",
+      "status": "Lead — official notice needed",
+      "evidence_grade": "Secondary lead; not bid-ready",
+      "evidence_date": "2026-09-04",
+      "next_action": "Retrieve OP00465988 and complete specifications",
+      "technology": {
+        "Utility sector": "Water",
+        "Technology / function": "Ultrasonic smart metering (secondary source)",
+        "Software evidence": "Unverified",
+        "Hardware evidence": "23,000 ultrasonic meters (secondary source)",
+        "Suggested delivery bundle": "Meter OEM + local delivery/installation partner",
+        "Smaller-party role": "Proposed: supply; logistics; partial installation",
+        "Participation caveat": "Formal lot/JV rules unverified",
+        "Evidence / source": "Official notice retrieval required. https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988"
+      },
+      "pair_ids": [],
+      "actor_ids": [],
+      "delivery_route": "UNRESOLVED",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md",
+      "reserve_company_ids": [
+        "kamstrup"
+      ]
+    },
+    {
+      "id": "UT-006",
+      "title": "Zarqa SCADA design and tender assistance",
+      "buyer": "Buyer to verify in notice",
+      "region": "Asia",
+      "country": "Jordan",
+      "official_reference": "Project P176619; notice ID unknown",
+      "source_url": "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+      "deadline": null,
+      "deadline_caveat": "23 Sep reported; not verified",
+      "status": "Lead — official notice needed",
+      "evidence_grade": "Secondary lead; not bid-ready",
+      "evidence_date": "2026-09-04",
+      "next_action": "Resolve official EOI and selection conditions",
+      "technology": {
+        "Utility sector": "Water",
+        "Technology / function": "SCADA design advisory (secondary source)",
+        "Software evidence": "Platform unspecified",
+        "Hardware evidence": "No equipment supply established",
+        "Suggested delivery bundle": "Design consultant + local engineering partner",
+        "Smaller-party role": "Proposed: controls design; surveys; tender specifications",
+        "Participation caveat": "Do not treat consultancy as equipment procurement",
+        "Evidence / source": "Official EOI required. https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of"
+      },
+      "pair_ids": [
+        "PAIR-05"
+      ],
+      "actor_ids": [
+        "CONTACT-09",
+        "CONTACT-10"
+      ],
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    },
+    {
+      "id": "UT-007",
+      "title": "Nueva Chuquicamata 220 kV expansion",
+      "buyer": "Edelnor / ENGIE",
+      "region": "South America",
+      "country": "Chile",
+      "official_reference": "25_276_OA_01",
+      "source_url": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
+      "deadline": "2026-12-16",
+      "deadline_caveat": "16:00; Santiago local calendar",
+      "status": "Tender — earlier gate passed",
+      "evidence_grade": "Rev.0 reviewed; amendments pending",
+      "evidence_date": "2026-09-04",
+      "next_action": "Check registered participant route",
+      "technology": {
+        "Utility sector": "Electricity",
+        "Technology / function": "220 kV substation",
+        "Software evidence": "Unspecified",
+        "Hardware evidence": "220 kV expansion",
+        "Suggested delivery bundle": "Proposed: EPC + equipment + controls + civil partners",
+        "Smaller-party role": "Protection; controls; commissioning (inferred)",
+        "Participation caveat": "Package breakdown and rights need technical annexes",
+        "Evidence / source": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf pp.14,16"
+      },
+      "pair_ids": [
+        "PAIR-06"
+      ],
+      "actor_ids": [
+        "CONTACT-11",
+        "CONTACT-12"
+      ],
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    },
+    {
+      "id": "UT-008",
+      "title": "Liqcau 220 kV expansion",
+      "buyer": "Edelnor / ENGIE",
+      "region": "South America",
+      "country": "Chile",
+      "official_reference": "24_266_OAC_16",
+      "source_url": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
+      "deadline": "2026-12-16",
+      "deadline_caveat": "Same procedure as UT-007",
+      "status": "Tender — earlier gate passed",
+      "evidence_grade": "Rev.0 reviewed; amendments pending",
+      "evidence_date": "2026-09-04",
+      "next_action": "Check registered participant route",
+      "technology": {
+        "Utility sector": "Electricity",
+        "Technology / function": "220 kV substation",
+        "Software evidence": "Unspecified",
+        "Hardware evidence": "220 kV expansion",
+        "Suggested delivery bundle": "Proposed: EPC + specialist partners",
+        "Smaller-party role": "Inferred: equipment; testing",
+        "Participation caveat": "See UT-007",
+        "Evidence / source": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+      },
+      "pair_ids": [
+        "PAIR-06"
+      ],
+      "actor_ids": [
+        "CONTACT-11",
+        "CONTACT-12"
+      ],
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    },
+    {
+      "id": "UT-009",
+      "title": "Roncacho 220 kV line reactor",
+      "buyer": "Edelnor / ENGIE",
+      "region": "South America",
+      "country": "Chile",
+      "official_reference": "24_266_OA_01",
+      "source_url": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
+      "deadline": "2026-12-16",
+      "deadline_caveat": "Same procedure as UT-007",
+      "status": "Tender — earlier gate passed",
+      "evidence_grade": "Rev.0 reviewed; amendments pending",
+      "evidence_date": "2026-09-04",
+      "next_action": "Check registered participant route",
+      "technology": {
+        "Utility sector": "Electricity",
+        "Technology / function": "220 kV reactor",
+        "Software evidence": "Unspecified",
+        "Hardware evidence": "Line reactor",
+        "Suggested delivery bundle": "Proposed: EPC + reactor OEM",
+        "Smaller-party role": "Inferred: reactor supply; commissioning",
+        "Participation caveat": "See UT-007",
+        "Evidence / source": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+      },
+      "pair_ids": [
+        "PAIR-06"
+      ],
+      "actor_ids": [
+        "CONTACT-11",
+        "CONTACT-12"
+      ],
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    },
+    {
+      "id": "UT-010",
+      "title": "Sewer flooding mitigation framework",
+      "buyer": "United Utilities Water",
+      "region": "Europe",
+      "country": "United Kingdom",
+      "official_reference": "PRO005115",
+      "source_url": "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK",
+      "deadline": "2026-09-28",
+      "deadline_caveat": "16:00 UK time",
+      "status": "Tender — full pack needed",
+      "evidence_grade": "Buyer-hosted listing only",
+      "evidence_date": "2026-09-04",
+      "next_action": "Retrieve scope, lots and eligibility",
+      "technology": {
+        "Utility sector": "Wastewater",
+        "Technology / function": "Flood mitigation; methods unspecified",
+        "Software evidence": "Unknown",
+        "Hardware evidence": "Unknown",
+        "Suggested delivery bundle": "Proposed: civil lead + survey/design specialists",
+        "Smaller-party role": "Potential: surveys; design; civil works",
+        "Participation caveat": "Verify actual work packages in tender pack",
+        "Evidence / source": "Listing confirms title only. https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
+      },
+      "pair_ids": [],
+      "actor_ids": [],
+      "delivery_route": "UNRESOLVED",
+      "outreach_state": "DRAFT_ONLY",
+      "blog_path": "content/blog/utility-integration-before-the-bid.md"
+    }
+  ],
+  "partners": [
+    {
+      "id": "aqualine-water-technology",
+      "name": "AQUALINE WATER TECHNOLOGY",
+      "domain": "aqualine-me.com",
+      "country": "United Arab Emirates",
+      "profile_url": "https://www.linkedin.com/company/aqauline-water-technology",
+      "capability_summary": "Key Results\nLarge-scale RO/desalination systems, Brackish & seawater RO, Ultrafiltration (UF), Membrane Bioreactor (MBR), Conventional wastewater (CAS, SBR, MBBR), Electrodeionization (EDI), Filtration systems (multimedia, activated carbon), Containerized/mobile systems, Degasifiers, Industrial wastewater equipment (DAF, filter press, screens), Engineering & design, Turnkey supply/installation/commissioning, Operation & maintenance, Manufacturing in Turkey & UAE, Regional delivery across MENA (offices in Dubai & Amman), Project references: Morocco 30,000 CMD seawater plant, Qatar 1,950 CMD project, Africa 18,750 CMD MBR, Part of Pollet Water Group (corporate/partner network)",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-05",
+      "actor_ids": [
+        "CONTACT-10"
+      ]
+    },
+    {
+      "id": "aquatec",
+      "name": "AQUATEC",
+      "domain": "aquatecenviro.com",
+      "country": "Australia",
+      "profile_url": "https://www.linkedin.com/company/aquatec",
+      "capability_summary": "Key Results\nPump Stations (Fibreglass & Concrete), Pressure Sewer Systems, Fibreglass (FRP) Maintenance Holes, Fibreglass Storage Vessels, Odour Control Systems, Water Supply Systems, Water & Wastewater Reuse, Solids Handling Products, End-to-end service model (design, delivery, technical support, accredited training, auditing, product warranties)",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-04",
+      "actor_ids": [
+        "CONTACT-08"
+      ]
+    },
+    {
+      "id": "badger-meter",
+      "name": "Badger Meter",
+      "domain": "badgermeter.com",
+      "country": "United States",
+      "profile_url": "https://www.linkedin.com/company/badger-meter",
+      "capability_summary": "Badger Meter Ultrasonic Water Meter Hardware\nVerified specifications from official Badger Meter product pages and documentation: E-Series Residential Ultrasonic flow meter size, temperature, flow and pressure ranges listed on product page; E-Series G2 and Ultrasonic Plus product pages describe measurement technology, display, accuracy and features. ",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-02",
+      "actor_ids": [
+        "CONTACT-04"
+      ]
+    },
+    {
+      "id": "bridewell",
+      "name": "Bridewell",
+      "domain": "bridewell.com",
+      "country": "United Kingdom",
+      "profile_url": "https://www.linkedin.com/company/bridewellsec",
+      "capability_summary": "Key Results\nManaged security services (MDR, SOC), OT/ICS cybersecurity consulting for critical infrastructure, Microsoft security solutions integration (Microsoft Defender services), Cybersecurity in utilities report and sector-focused resources, UK and US delivery footprint, Partnerships: Microsoft and likely security tech ecosystem partners (unspecified).",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-01",
+      "actor_ids": [
+        "CONTACT-01"
+      ]
+    },
+    {
+      "id": "ingesat-simm",
+      "name": "Ingesat SIMM",
+      "domain": "ingesat.cl",
+      "country": "Chile",
+      "profile_url": "https://www.linkedin.com/company/ingesat-ingeniería-y-servicios-en-alta-tensión-spa",
+      "capability_summary": "Key Results\nConstruction and maintenance of high-voltage substations (up to 525 kV), Substation engineering and detailed design, Transformer testing and maintenance, Protection and control systems engineering and commissioning, Field installation, testing and maintenance services across Chile (Calama to Chiloé), Project delivery for mining, industrial and energy sectors, No publicly listed water/wastewater, SCADA, OT cybersecurity, ultrasonic AMI, or non-revenue-water products found, Partnerships/vendors not explicitly named on public pages",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-06",
+      "actor_ids": [
+        "CONTACT-11"
+      ]
+    },
+    {
+      "id": "kamstrup",
+      "name": "Kamstrup",
+      "domain": "kamstrup.com",
+      "country": "Denmark",
+      "profile_url": "https://www.linkedin.com/company/kamstrup",
+      "capability_summary": "Key Results\nUltrasonic smart water meters (FlowIQ series), Advanced Metering Infrastructure (AMI) and reading systems, Metering-as-a-Service (MaaS), Non‑Revenue‑Water (NRW) leak detection and analytics, Heat/energy meters (MULTICAL series), North American delivery including production in Georgia, USA, Global sales footprint (90+ countries), Channel/reseller relationships (e.g., Ferguson Waterworks), Utility case studies (Madison County AL NRW, Beaverton OR AMI), Membership/partnerships in water innovation networks",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "Reserve OEM for UT-005; local installer missing",
+      "actor_ids": []
+    },
+    {
+      "id": "mena-water",
+      "name": "MENA-Water",
+      "domain": "mena-water.com",
+      "country": "United Arab Emirates",
+      "profile_url": "https://www.linkedin.com/company/hubermenawater",
+      "capability_summary": "Key Results\nMBR & SBR Package Plants, Pretreatment (screens, grit, grease removal), Secondary Treatment (diffusers, mixers, scrapers, scum removal, sludge thickeners), Advanced Treatment (DAF, cloth screw filter, UF/NF/RO), Sludge Treatment (thickening, dewatering, drying), Odor Control (activated carbon, biofilters, chemical scrubbers), Renewable Energy for water (biogas/digesters, solar/wind pumps), Instrumentation & Control including online water quality, flow meters, gas detection, dosing systems and SCADA, Wide geographic delivery footprint (UAE, Germany, MENA region and claims of worldwide service), Limited publicly‑documented named software/hardware or detailed SCADA/OT cybersecurity products, No publicly listed formal partner/vendor agreements or detailed utility case studies found on primary corporate pages",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-05",
+      "actor_ids": [
+        "CONTACT-09"
+      ]
+    },
+    {
+      "id": "metercor-inc",
+      "name": "Metercor Inc.",
+      "domain": "metercor.com",
+      "country": "Canada",
+      "profile_url": "https://www.linkedin.com/company/metercor-inc",
+      "capability_summary": "Key Results\nWater metering products and distribution (Badger Meter, ABB Mueller), Itron AMR/AMI systems distribution and AMI project services, Meter reading solutions and commercial/industrial water meters, Project management and consultation services for utilities, Geographic delivery: Canada (Calgary base and Canada-focused distribution), Partner/vendor relationships: Itron, Badger Meter, ABB (Aquamaster), Mueller.",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-02",
+      "actor_ids": [
+        "CONTACT-03"
+      ]
+    },
+    {
+      "id": "ovarro",
+      "name": "Ovarro",
+      "domain": "ovarro.com",
+      "country": "United Kingdom",
+      "profile_url": "https://www.linkedin.com/company/ovarro",
+      "capability_summary": "Key Results\nSCOPE SCADA telemetry software, Enigma leak-detection toolkit (noise loggers, correlators, EnigmaREACH), data loggers and RTUs, flow metering and network analytics, global delivery with projects in Ireland, UK, Middle East and other regions, case studies with Uisce Éireann and others, partner/vendor relationships partially listed (systems integrators and resellers), notable gaps in publicly listed AMI/ultrasonic metering and substantiation of specific HV substation product sales",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-01; PAIR-03",
+      "actor_ids": [
+        "CONTACT-02",
+        "CONTACT-06",
+        "CONTACT-13"
+      ]
+    },
+    {
+      "id": "proingesa-cl",
+      "name": "Proingesa.cl",
+      "domain": "proingesa.cl",
+      "country": "Chile",
+      "profile_url": "https://www.linkedin.com/company/proingesachile",
+      "capability_summary": "Key Results\nMultidisciplinary industrial and electrical engineering services, Electrical design and instrumentation & control/automation, Project lifecycle delivery (concept-to-commissioning), Sector focus: energy, mining, oil & gas, industrial, Chilean (Valparaíso/Concón) delivery footprint, Public marketing and social media presence, No publicly cited evidence found for SCADA/OT‑cybersecurity product listings, ultrasonic AMI metering, non‑revenue‑water (NRW) specific products, or named high‑voltage substation hardware vendors.",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-06",
+      "actor_ids": [
+        "CONTACT-12"
+      ]
+    },
+    {
+      "id": "sage-automation",
+      "name": "SAGE Automation",
+      "domain": "sageautomation.com",
+      "country": "Australia",
+      "profile_url": "https://www.linkedin.com/company/sage-automation",
+      "capability_summary": "Key Results\nPLC and SCADA upgrades for water/wastewater, Inductive Automation Ignition-based SCADA deployments, Schneider Electric Master Alliance partner and system integrator for water, IoT/ML collaborations for utility networks (SpiralData), National Australian delivery footprint (offices in all states), Custom control and power switchboard manufacture, 24/7 service and support",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-04",
+      "actor_ids": [
+        "CONTACT-07"
+      ]
+    },
+    {
+      "id": "wrp-consulting-engineers",
+      "name": "WRP Consulting Engineers",
+      "domain": "wrp.co.za",
+      "country": "South Africa",
+      "profile_url": "https://www.linkedin.com/company/wrp-consulting-engineers",
+      "capability_summary": "Key Results\nZednet (remote monitoring platform), Aqualite, PresMac, SanFlow, Municipal Scorecard, Water conservation & demand management consulting, Non‑Revenue Water (NRW) management, Real‑time monitoring of pressures/flows/water quality, International delivery with focus on Southern Africa",
+      "evidence_date": "2026-09-04",
+      "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+      "role_status": "PAIR-03",
+      "actor_ids": [
+        "CONTACT-05"
+      ]
+    }
+  ],
+  "contacts": [
+    {
+      "id": "CONTACT-10",
+      "name": "Osaid Hardan",
+      "company_id": "aqualine-water-technology",
+      "title": "Senior Sales Engineer",
+      "profile_url": "https://www.linkedin.com/in/osaid-hardan-163b79231",
+      "role_assessment": "Senior Sales Engineer in Jordan; technical entry point. Tender ownership/independent consultant credentials unconfirmed.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-05"
+      ]
+    },
+    {
+      "id": "CONTACT-08",
+      "name": "Jayden Seeley",
+      "company_id": "aquatec",
+      "title": "Business Development Manager",
+      "profile_url": "https://www.linkedin.com/in/jayden-seeley",
+      "role_assessment": "BD Manager with South Australia pump/sewer remit. Referral-only for Cairns/Queensland project owner.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-04"
+      ]
+    },
+    {
+      "id": "CONTACT-04",
+      "name": "Timothy Wissing",
+      "company_id": "badger-meter",
+      "title": "National Sales Manager",
+      "profile_url": "https://www.linkedin.com/in/timothy-wissing-b0bb8545",
+      "role_assessment": "National Sales Manager confirmed by profile; Canadian municipal-metering remit unknown. Referral-first contact.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-02"
+      ]
+    },
+    {
+      "id": "CONTACT-01",
+      "name": "Peter Whyte",
+      "company_id": "bridewell",
+      "title": "Head of Business Development",
+      "profile_url": "https://www.linkedin.com/in/peter-whyte-a650b24",
+      "role_assessment": "Commercial decision-maker candidate; cyber/CNI services remit supported by professional profile. Start-date discrepancy; current title needs final check.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-01"
+      ]
+    },
+    {
+      "id": "CONTACT-11",
+      "name": "Enzo Gaete",
+      "company_id": "ingesat-simm",
+      "title": "Jefe de Desarrollo",
+      "profile_url": "https://www.linkedin.com/in/enzogaete",
+      "role_assessment": "Jefe de Desarrollo, infrastructure/energy/BIM profile. Tender authority unconfirmed; ask for bid-owner referral.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-06"
+      ]
+    },
+    {
+      "id": "CONTACT-09",
+      "name": "Khalaf Dannoon",
+      "company_id": "mena-water",
+      "title": "Regional Sales and Business Development Manager",
+      "profile_url": "https://www.linkedin.com/in/khalaf-danoun-3ba80661",
+      "role_assessment": "Clay profile says regional sales/BD; custom enrichment could not corroborate current employment. Reconfirm before use.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-05"
+      ]
+    },
+    {
+      "id": "CONTACT-03",
+      "name": "Scott McIntyre",
+      "company_id": "metercor-inc",
+      "title": "Director of Business Development",
+      "profile_url": "https://www.linkedin.com/in/smcintyre2",
+      "role_assessment": "Director of Business Development; reasonable commercial entry point. Authority and installed-base qualifications not independently confirmed.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-02"
+      ]
+    },
+    {
+      "id": "CONTACT-02",
+      "name": "Roland Leslie",
+      "company_id": "ovarro",
+      "title": "UK Sales Director",
+      "profile_url": "https://www.linkedin.com/in/roland-leslie-9b556224",
+      "role_assessment": "UK sales/utility telemetry lead supported by Ovarro news; relevant first contact, OT specialist commitment not established.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-01"
+      ]
+    },
+    {
+      "id": "CONTACT-06",
+      "name": "Tony Gwynne",
+      "company_id": "ovarro",
+      "title": "Leakage Solutions Sales Director Global",
+      "profile_url": "https://www.linkedin.com/in/tony-gwynne-96548720",
+      "role_assessment": "Global leakage leadership supported by company case study and professional sources; strong technical-commercial candidate.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-03"
+      ]
+    },
+    {
+      "id": "CONTACT-13",
+      "name": "Lewis Phelan",
+      "company_id": "ovarro",
+      "title": "Regional Sales Manager UK South and Ireland",
+      "profile_url": "https://www.linkedin.com/in/lewis-phelan-a8383023",
+      "role_assessment": "Candidate UK telemetry contact. Tender authority and counterpart unqualified.",
+      "evidence_date": "2026-09-04",
+      "email_status": "NOT_AVAILABLE",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [],
+      "match_status": "NO_PAIR_FOUND",
+      "next_review": "2026-09-07"
+    },
+    {
+      "id": "CONTACT-12",
+      "name": "Roberto Niño",
+      "company_id": "proingesa-cl",
+      "title": "Gerente General",
+      "profile_url": "https://www.linkedin.com/in/roberto-niño-8556a944",
+      "role_assessment": "Gerente General, current professional profile plus historical corporate mentions. Appropriate executive candidate; recheck incumbency.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-06"
+      ]
+    },
+    {
+      "id": "CONTACT-07",
+      "name": "Paul Johnson",
+      "company_id": "sage-automation",
+      "title": "Business Development Manager",
+      "profile_url": "https://www.linkedin.com/in/paul-johnson-8a8b2764",
+      "role_assessment": "Current BD remit concerns special-purpose machinery/OEM. Referral-only for water/Queensland bid owner.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-04"
+      ]
+    },
+    {
+      "id": "CONTACT-05",
+      "name": "Willem Wegelin",
+      "company_id": "wrp-consulting-engineers",
+      "title": "Technical Director",
+      "profile_url": "https://www.linkedin.com/in/willem-wegelin-14859550",
+      "role_assessment": "Technical Director; strong NRW technical dialogue candidate. Authority to bind a consortium not established.",
+      "evidence_date": "2026-09-04",
+      "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+      "dialogue_state": "NOT_CONTACTED",
+      "willingness": "UNKNOWN",
+      "pair_ids": [
+        "PAIR-03"
+      ]
+    }
+  ],
+  "pairs": [
+    {
+      "id": "PAIR-01",
+      "tender_ids": [
+        "UT-001"
+      ],
+      "company_ids": [
+        "bridewell",
+        "ovarro"
+      ],
+      "actor_ids": [
+        "CONTACT-01",
+        "CONTACT-02"
+      ],
+      "roles": [
+        "MDR prime candidate: SOC operations, incident triage and response governance",
+        "Potential telemetry/process-context specialist; scope must be demonstrated"
+      ],
+      "assessment": "CONDITIONAL — complementary monitoring disciplines; exact integration and specialist scope unverified",
+      "pitch": "Assess a single accountable MDR offer combining SOC response with water-process context, with explicit authority boundaries for any OT action.",
+      "agenda": "existing-tool ingestion; asset/process context; incident escalation; safe containment approvals; evidence ownership",
+      "software": "Existing Nozomi, Cisco Cyber Vision and CrowdStrike must be supported. Bridewell Microsoft capability is not proof of compatibility.",
+      "hardware": "Existing OT estate; no replacement hardware assumed",
+      "gates": "Neither company is confirmed bidder. Resolve one-supplier subcontract rights, full pack, conflicting deadline/value, and prove support for all three existing tools. Ovarro is not asserted to supply OT cyber incident response.",
+      "delivery_route": "CONSORTIUM",
+      "commitment": "UNCONFIRMED"
+    },
+    {
+      "id": "PAIR-02",
+      "tender_ids": [
+        "UT-002"
+      ],
+      "company_ids": [
+        "metercor-inc",
+        "badger-meter"
+      ],
+      "actor_ids": [
+        "CONTACT-03",
+        "CONTACT-04"
+      ],
+      "roles": [
+        "Canadian metering delivery/integration lead candidate; training and support",
+        "Ultrasonic meter OEM and approved communications/software configuration"
+      ],
+      "assessment": "STRONG COMPANY FIT — product and channel alignment; individual OEM territory remit unconfirmed",
+      "pitch": "Assess an ultrasonic metering bundle with one named responsibility owner for meter accuracy, communications, data handover and Town staff training.",
+      "agenda": "meter size/approval matrix; endpoint compatibility; network coverage; billing export; warranty; phased acceptance",
+      "software": "AMI/AMR configuration and meter-data integration; select supported communications and analytics stack before pricing",
+      "hardware": "Badger E-Series ultrasonic meters as candidate; exact sizes, approvals, reading interface and coverage to prove",
+      "gates": "Metercor states Badger distribution; no OEM-side listing found. Confirm territory/product authorization, >=5 years and >=20,000 active-meter experience, three references and latest addenda. Town installs most meters. Timothy territory/product remit requires referral.",
+      "delivery_route": "CONSORTIUM",
+      "commitment": "UNCONFIRMED"
+    },
+    {
+      "id": "PAIR-03",
+      "tender_ids": [
+        "UT-003"
+      ],
+      "company_ids": [
+        "wrp-consulting-engineers",
+        "ovarro"
+      ],
+      "actor_ids": [
+        "CONTACT-05",
+        "CONTACT-06"
+      ],
+      "roles": [
+        "NRW engineering, baseline design and performance measurement; not confirmed CIDB lead",
+        "Leak detection hardware, telemetry and leakage analytics work package"
+      ],
+      "assessment": "STRONG TECHNICAL FIT — viable only behind an eligible contractor",
+      "pitch": "Combine field leakage diagnosis with defensible NRW baseline and savings measurement under an eligible civil contractor, separating diagnosis from repair and acceptance.",
+      "agenda": "DMA baseline; logger coverage; leak validation; repair handoff; savings attribution; payment evidence",
+      "software": "WRP Zednet and Ovarro leakage analytics; data exchange is a design question, not a verified integration",
+      "hardware": "Leakage loggers/telemetry and flow-pressure instrumentation, selected after field design",
+      "gates": "Compulsory briefing and access-request dates passed. Must identify eligible attending CIDB7CE contractor/JV and permissible subcontract route. WRP and Ovarro alone are not demonstrated eligible prime. No call-off guarantee.",
+      "delivery_route": "CONSORTIUM",
+      "commitment": "UNCONFIRMED"
+    },
+    {
+      "id": "PAIR-04",
+      "tender_ids": [
+        "UT-004"
+      ],
+      "company_ids": [
+        "sage-automation",
+        "aquatec"
+      ],
+      "actor_ids": [
+        "CONTACT-07",
+        "CONTACT-08"
+      ],
+      "roles": [
+        "SCADA migration/integration lead candidate; obtain water/Queensland bid owner referral",
+        "Conditional pump/pressure-sewer asset SME for interface testing, only if in scope"
+      ],
+      "assessment": "LOW / SCOPE-DEPENDENT — do not present as a qualified consortium",
+      "pitch": "If pump or sewer interfaces are in scope, assess migration engineering plus asset-specific acceptance tests to preserve alarms, control behavior and operator handover.",
+      "agenda": "asset list; tag/alarm mapping; operating sequences; FAT/SAT; rollback; operator training",
+      "software": "Tender title specifies Citect to AVEVA Plant SCADA. SAGE generic SCADA experience is not current AVEVA certification.",
+      "hardware": "No new pumps, servers or panels established; asset support only if the pack requires it",
+      "gates": "Full scope and deadline unresolved (14 vs 28 Sep reported). Aquatec work package may be unnecessary. Paul remit is special-purpose machinery/OEM, Jayden mainly South Australia: request Queensland/water owner referrals.",
+      "delivery_route": "CONSORTIUM",
+      "commitment": "UNCONFIRMED"
+    },
+    {
+      "id": "PAIR-05",
+      "tender_ids": [
+        "UT-006"
+      ],
+      "company_ids": [
+        "mena-water",
+        "aqualine-water-technology"
+      ],
+      "actor_ids": [
+        "CONTACT-09",
+        "CONTACT-10"
+      ],
+      "roles": [
+        "Candidate instrumentation/control design support",
+        "Candidate Jordan site/process engineering and local coordination"
+      ],
+      "assessment": "LOW / DISCOVERY ONLY — two equipment-oriented firms; independent design eligibility unproven",
+      "pitch": "Explore whether a qualified independent controls consultant can combine regional process knowledge and instrumentation design into vendor-neutral specifications and a survey plan.",
+      "agenda": "official EOI; consultant independence; comparable SCADA design references; site surveys; interface specification; local permissions",
+      "software": "SCADA architecture and tender specifications; platform unspecified",
+      "hardware": "Design input only; this lead is consultancy, not a hardware supply tender",
+      "gates": "Official EOI and buyer not yet confirmed. No verified independent SCADA consultancy references. Check conflicts from equipment supply interests and find a qualified lead if required. Khalaf current-role corroboration unavailable.",
+      "delivery_route": "CONSORTIUM",
+      "commitment": "UNCONFIRMED"
+    },
+    {
+      "id": "PAIR-06",
+      "tender_ids": [
+        "UT-007",
+        "UT-008",
+        "UT-009"
+      ],
+      "company_ids": [
+        "ingesat-simm",
+        "proingesa-cl"
+      ],
+      "actor_ids": [
+        "CONTACT-11",
+        "CONTACT-12"
+      ],
+      "roles": [
+        "HV equipment erection, protection/control testing and commissioning candidate",
+        "Multidisciplinary engineering and civil/electrical interface design candidate"
+      ],
+      "assessment": "CONDITIONAL — Chile delivery fit; role overlap and design qualifications need proof",
+      "pitch": "Test a division between multidisciplinary design and high-voltage field execution, with one interface owner for civil dimensions, protection settings, outages and commissioning.",
+      "agenda": "participant access; lot selection; design boundary; OEM long-lead items; protection responsibility; outage plan; guarantees",
+      "software": "Relay/SCADA engineering tools and standards require technical annexes; no brands assumed",
+      "hardware": "220 kV expansion and line reactor; OEM, civil contractor and equipment guarantees remain open",
+      "gates": "Bases purchase cutoff 24 August passed. Confirm lawful route through registered participant and consortium/subcontract rights. Ingesat also designs: avoid duplicate scope. Proingesa HV references and Enzo bid authority unconfirmed.",
+      "delivery_route": "CONSORTIUM",
+      "commitment": "UNCONFIRMED"
+    }
+  ],
+  "outreach": [
+    {
+      "actor_id": "CONTACT-01",
+      "tender_id": "UT-001",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "MDR prime candidate: SOC operations, incident triage and response governance",
+      "counterparty": "Ovarro",
+      "email": {
+        "subject": "Southern Water MDR: a technical partnership check",
+        "initial": "Hi Peter,\n\nSouthern Water's IT/OT MDR notice names Nozomi, Cisco Cyber Vision and CrowdStrike. I’m assessing whether Bridewell and Ovarro could define a useful service split: SOC response ownership alongside water-process and telemetry context.\n\nThis is an exploratory pairing. Existing-tool support, subcontract rights and the notice’s conflicting deadline/value still need confirmation.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Roland Leslie. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Peter,\n\nFollowing up on Southern Water IT/OT MDR. The first question is whether Ovarro would add a distinct, necessary work package. For your side, I had in mind: mDR prime candidate: SOC operations, incident triage and response governance.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Peter,\n\nA practical agenda for the proposed Ovarro discussion would be: existing-tool ingestion; asset/process context; incident escalation; safe containment approvals; evidence ownership. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Peter,\n\nFor Southern Water IT/OT MDR, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Roland Leslie at Ovarro, once the access and scope questions are resolved?",
+          "Hi Peter,\n\nI’ll close this proposed Ovarro introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Peter, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing IT/OT managed detection and response. The possible role for your team is: MDR prime candidate: SOC operations, incident triage and response governance. A potential counterpart is Ovarro, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for IT/OT managed detection and response with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is MDR prime candidate: SOC operations, incident triage and response governance. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-02",
+      "tender_id": "UT-001",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Potential telemetry/process-context specialist; scope must be demonstrated",
+      "counterparty": "Bridewell",
+      "email": {
+        "subject": "Southern Water MDR: a technical partnership check",
+        "initial": "Hi Roland,\n\nSouthern Water's IT/OT MDR notice names Nozomi, Cisco Cyber Vision and CrowdStrike. I’m assessing whether Bridewell and Ovarro could define a useful service split: SOC response ownership alongside water-process and telemetry context.\n\nThis is an exploratory pairing. Existing-tool support, subcontract rights and the notice’s conflicting deadline/value still need confirmation.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Peter Whyte. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Roland,\n\nFollowing up on Southern Water IT/OT MDR. The first question is whether Bridewell would add a distinct, necessary work package. For your side, I had in mind: potential telemetry/process-context specialist; scope must be demonstrated.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Roland,\n\nA practical agenda for the proposed Bridewell discussion would be: existing-tool ingestion; asset/process context; incident escalation; safe containment approvals; evidence ownership. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Roland,\n\nFor Southern Water IT/OT MDR, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Peter Whyte at Bridewell, once the access and scope questions are resolved?",
+          "Hi Roland,\n\nI’ll close this proposed Bridewell introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Roland, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing IT/OT managed detection and response. The possible role for your team is: Potential telemetry/process-context specialist; scope must be demonstrated. A potential counterpart is Bridewell, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for IT/OT managed detection and response with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Potential telemetry/process-context specialist; scope must be demonstrated. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-13",
+      "tender_id": "UT-001",
+      "state": "HOLD",
+      "technical_offer": "Qualify utility telemetry remit and identify an appropriate scope owner",
+      "counterparty": null,
+      "email": {
+        "subject": "Utility telemetry: a scope-owner check",
+        "initial": "Hi Lewis,\n\nI coordinate potential supplier collaborations for utility tenders. I am reviewing a requirement where telemetry context may be relevant, but the role and delivery boundary still need qualification. Do you own this discussion, or could you point me to the relevant technical colleague?\n\nNo partnership or bid commitment is assumed. If you prefer no further contact, please let me know.",
+        "followups": [
+          "Would a short requirement summary help you assess whether this falls within your remit?",
+          "The first discussion would clarify interfaces, responsibilities and tender access before proposing any partnership. Is there a technical owner you would suggest?",
+          "I would only coordinate an introduction after the parties agree. Is the underlying scope worth reviewing?",
+          "I will close this enquiry for now. If a relevant utility telemetry discussion comes up, I am happy to revisit it. Please let me know if you prefer no further contact."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Lewis, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing IT/OT managed detection and response. The possible role for your team is: Qualify utility telemetry remit and identify an appropriate scope owner. The first step is to establish the correct scope owner; no counterpart is confirmed. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for IT/OT managed detection and response with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Qualify utility telemetry remit and identify an appropriate scope owner. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-03",
+      "tender_id": "UT-002",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Canadian metering delivery/integration lead candidate; training and support",
+      "counterparty": "Badger Meter",
+      "email": {
+        "subject": "Amherst metering: delivery + ultrasonic OEM scope",
+        "initial": "Hi Scott,\n\nAmherst’s RFP-26-09 calls for ultrasonic water metering and a phased rollout. Metercor’s Canadian metering work and its stated Badger distribution relationship suggest a practical conversation with Badger Meter about a compliant meter, communications and support bundle.\n\nThe Town expects to install most meters. The useful joint scope may be supply, data integration, training and support; lead qualifications and product/territory authorization need checking.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Timothy Wissing. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Scott,\n\nFollowing up on Amherst RFP-26-09 water metering. The first question is whether Badger Meter would add a distinct, necessary work package. For your side, I had in mind: canadian metering delivery/integration lead candidate; training and support.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Scott,\n\nA practical agenda for the proposed Badger Meter discussion would be: meter size/approval matrix; endpoint compatibility; network coverage; billing export; warranty; phased acceptance. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Scott,\n\nFor Amherst RFP-26-09 water metering, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Timothy Wissing at Badger Meter, once the access and scope questions are resolved?",
+          "Hi Scott,\n\nI’ll close this proposed Badger Meter introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Scott, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Water metering upgrades. The possible role for your team is: Canadian metering delivery/integration lead candidate; training and support. A potential counterpart is Badger Meter, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Water metering upgrades with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Canadian metering delivery/integration lead candidate; training and support. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-04",
+      "tender_id": "UT-002",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Ultrasonic meter OEM and approved communications/software configuration",
+      "counterparty": "Metercor Inc.",
+      "email": {
+        "subject": "Amherst metering: delivery + ultrasonic OEM scope",
+        "initial": "Hi Timothy,\n\nI’m assessing a potential Metercor–Badger Meter bundle for Amherst’s RFP-26-09. Badger’s ultrasonic E-Series range and Metercor’s Canadian metering services look complementary, subject to the exact approved configuration.\n\nThe Town expects to install most meters. The useful joint scope may be supply, data integration, training and support; lead qualifications and product/territory authorization need checking.\n\nDo you cover Canadian municipal metering, or could you point me to the right channel or bid owner? If there is a fit, I’d ask both sides before arranging an introduction with Scott McIntyre. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Timothy,\n\nFollowing up on Amherst RFP-26-09 water metering. The first question is whether Metercor would add a distinct, necessary work package. For your side, I had in mind: ultrasonic meter OEM and approved communications/software configuration.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Timothy,\n\nA practical agenda for the proposed Metercor discussion would be: meter size/approval matrix; endpoint compatibility; network coverage; billing export; warranty; phased acceptance. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Timothy,\n\nFor Amherst RFP-26-09 water metering, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Scott McIntyre at Metercor, once the access and scope questions are resolved?",
+          "Hi Timothy,\n\nI’ll close this proposed Metercor introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Timothy, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Water metering upgrades. The possible role for your team is: Ultrasonic meter OEM and approved communications/software configuration. A potential counterpart is Metercor Inc., subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Water metering upgrades with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Ultrasonic meter OEM and approved communications/software configuration. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-05",
+      "tender_id": "UT-003",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "NRW engineering, baseline design and performance measurement; not confirmed CIDB lead",
+      "counterparty": "Ovarro",
+      "email": {
+        "subject": "DBSA NRW panel: a specialist teaming question",
+        "initial": "Hi Willem,\n\nThe DBSA/WPO NRW contractor panel suggests a potential specialist pairing: WRP’s baseline and performance-measurement expertise with Ovarro’s leakage diagnostics. Your technical leadership looks relevant to testing that idea.\n\nThe compulsory briefing has passed. Any participation would first need an eligible contractor and a permitted subcontract route; neither firm is assumed to qualify as prime.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Tony Gwynne. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Willem,\n\nFollowing up on DBSA/WPO NRW panel RFR001.2026. The first question is whether Ovarro would add a distinct, necessary work package. For your side, I had in mind: nRW engineering, baseline design and performance measurement; not confirmed CIDB lead.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Willem,\n\nA practical agenda for the proposed Ovarro discussion would be: DMA baseline; logger coverage; leak validation; repair handoff; savings attribution; payment evidence. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Willem,\n\nFor DBSA/WPO NRW panel RFR001.2026, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Tony Gwynne at Ovarro, once the access and scope questions are resolved?",
+          "Hi Willem,\n\nI’ll close this proposed Ovarro introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Willem, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Five-year NRW contractor panel. The possible role for your team is: NRW engineering, baseline design and performance measurement; not confirmed CIDB lead. A potential counterpart is Ovarro, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Five-year NRW contractor panel with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is NRW engineering, baseline design and performance measurement; not confirmed CIDB lead. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-06",
+      "tender_id": "UT-003",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Leak detection hardware, telemetry and leakage analytics work package",
+      "counterparty": "WRP Consulting Engineers",
+      "email": {
+        "subject": "DBSA NRW panel: a specialist teaming question",
+        "initial": "Hi Tony,\n\nThe DBSA/WPO NRW contractor panel suggests a potential specialist pairing: WRP’s baseline and performance-measurement expertise with Ovarro’s leakage diagnostics. Your global leakage role looks relevant to testing that idea.\n\nThe compulsory briefing has passed. Any participation would first need an eligible contractor and a permitted subcontract route; neither firm is assumed to qualify as prime.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Willem Wegelin. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Tony,\n\nFollowing up on DBSA/WPO NRW panel RFR001.2026. The first question is whether WRP Consulting Engineers would add a distinct, necessary work package. For your side, I had in mind: leak detection hardware, telemetry and leakage analytics work package.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Tony,\n\nA practical agenda for the proposed WRP Consulting Engineers discussion would be: DMA baseline; logger coverage; leak validation; repair handoff; savings attribution; payment evidence. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Tony,\n\nFor DBSA/WPO NRW panel RFR001.2026, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Willem Wegelin at WRP Consulting Engineers, once the access and scope questions are resolved?",
+          "Hi Tony,\n\nI’ll close this proposed WRP Consulting Engineers introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Tony, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Five-year NRW contractor panel. The possible role for your team is: Leak detection hardware, telemetry and leakage analytics work package. A potential counterpart is WRP Consulting Engineers, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Five-year NRW contractor panel with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Leak detection hardware, telemetry and leakage analytics work package. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-07",
+      "tender_id": "UT-004",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "SCADA migration/integration lead candidate; obtain water/Queensland bid owner referral",
+      "counterparty": "AQUATEC",
+      "email": {
+        "subject": "Cairns SCADA: who owns the water bid?",
+        "initial": "Hi Paul,\n\nI’m reviewing Cairns Contract 3047, titled Citect to AVEVA Plant SCADA migration. If pump or sewer interfaces are included, there may be a useful split between SAGE’s migration engineering and Aquatec’s asset-specific acceptance tests.\n\nThe full scope and deadline are still unresolved, so this is only a scope check. No new pump supply or Aquatec work package is assumed.\n\nCould you point me to your Queensland water or SCADA bid owner to assess whether this deserves a technical discussion? If there is a fit, I’d ask both sides before arranging an introduction with Jayden Seeley. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Paul,\n\nFollowing up on Cairns Contract 3047 SCADA migration. The first question is whether Aquatec would add a distinct, necessary work package. For your side, I had in mind: sCADA migration/integration lead candidate; obtain water/Queensland bid owner referral.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Paul,\n\nA practical agenda for the proposed Aquatec discussion would be: asset list; tag/alarm mapping; operating sequences; FAT/SAT; rollback; operator training. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Paul,\n\nFor Cairns Contract 3047 SCADA migration, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Jayden Seeley at Aquatec, once the access and scope questions are resolved?",
+          "Hi Paul,\n\nI’ll close this proposed Aquatec introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Paul, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Citect to AVEVA Plant SCADA upgrade. The possible role for your team is: SCADA migration/integration lead candidate; obtain water/Queensland bid owner referral. A potential counterpart is AQUATEC, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Citect to AVEVA Plant SCADA upgrade with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is SCADA migration/integration lead candidate; obtain water/Queensland bid owner referral. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-08",
+      "tender_id": "UT-004",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Conditional pump/pressure-sewer asset SME for interface testing, only if in scope",
+      "counterparty": "SAGE Automation",
+      "email": {
+        "subject": "Cairns SCADA: who owns the water bid?",
+        "initial": "Hi Jayden,\n\nI’m reviewing Cairns Contract 3047, titled Citect to AVEVA Plant SCADA migration. If pump or sewer interfaces are included, there may be a useful split between SAGE’s migration engineering and Aquatec’s asset-specific acceptance tests.\n\nThe full scope and deadline are still unresolved, so this is only a scope check. No new pump supply or Aquatec work package is assumed.\n\nCould you point me to your Queensland water or SCADA bid owner to assess whether this deserves a technical discussion? If there is a fit, I’d ask both sides before arranging an introduction with Paul Johnson. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Jayden,\n\nFollowing up on Cairns Contract 3047 SCADA migration. The first question is whether SAGE Automation would add a distinct, necessary work package. For your side, I had in mind: conditional pump/pressure-sewer asset SME for interface testing, only if in scope.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Jayden,\n\nA practical agenda for the proposed SAGE Automation discussion would be: asset list; tag/alarm mapping; operating sequences; FAT/SAT; rollback; operator training. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Jayden,\n\nFor Cairns Contract 3047 SCADA migration, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Paul Johnson at SAGE Automation, once the access and scope questions are resolved?",
+          "Hi Jayden,\n\nI’ll close this proposed SAGE Automation introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Jayden, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Citect to AVEVA Plant SCADA upgrade. The possible role for your team is: Conditional pump/pressure-sewer asset SME for interface testing, only if in scope. A potential counterpart is SAGE Automation, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Citect to AVEVA Plant SCADA upgrade with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Conditional pump/pressure-sewer asset SME for interface testing, only if in scope. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-09",
+      "tender_id": "UT-006",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Candidate instrumentation/control design support",
+      "counterparty": "AQUALINE WATER TECHNOLOGY",
+      "email": {
+        "subject": "Zarqa SCADA: independent design team check",
+        "initial": "Hi Khalaf,\n\nA reported Zarqa SCADA design-and-tender-assistance opportunity may merit a dialogue between MENA-Water’s instrumentation team and Aqualine’s Jordan engineering team. The idea would be local process knowledge plus vendor-neutral controls design.\n\nThe official EOI has not yet been verified. This appears to be a consultancy lead, and independent design qualifications and supplier conflicts must be checked before proposing a team.\n\nWho would be best placed to assess the consultancy scope and independent-design credentials? If there is a fit, I’d ask both sides before arranging an introduction with Osaid Hardan. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Khalaf,\n\nFollowing up on Zarqa SCADA design advisory lead. The first question is whether Aqualine Water Technology would add a distinct, necessary work package. For your side, I had in mind: candidate instrumentation/control design support.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Khalaf,\n\nA practical agenda for the proposed Aqualine Water Technology discussion would be: official EOI; consultant independence; comparable SCADA design references; site surveys; interface specification; local permissions. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Khalaf,\n\nFor Zarqa SCADA design advisory lead, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Osaid Hardan at Aqualine Water Technology, once the access and scope questions are resolved?",
+          "Hi Khalaf,\n\nI’ll close this proposed Aqualine Water Technology introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Khalaf, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Zarqa SCADA design and tender assistance. The possible role for your team is: Candidate instrumentation/control design support. A potential counterpart is AQUALINE WATER TECHNOLOGY, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Zarqa SCADA design and tender assistance with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Candidate instrumentation/control design support. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-10",
+      "tender_id": "UT-006",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Candidate Jordan site/process engineering and local coordination",
+      "counterparty": "MENA-Water",
+      "email": {
+        "subject": "Zarqa SCADA: independent design team check",
+        "initial": "Hi Osaid,\n\nA reported Zarqa SCADA design-and-tender-assistance opportunity may merit a dialogue between MENA-Water’s instrumentation team and Aqualine’s Jordan engineering team. The idea would be local process knowledge plus vendor-neutral controls design.\n\nThe official EOI has not yet been verified. This appears to be a consultancy lead, and independent design qualifications and supplier conflicts must be checked before proposing a team.\n\nWho would be best placed to assess the consultancy scope and independent-design credentials? If there is a fit, I’d ask both sides before arranging an introduction with Khalaf Dannoon. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+        "followups": [
+          "Hi Osaid,\n\nFollowing up on Zarqa SCADA design advisory lead. The first question is whether MENA-Water would add a distinct, necessary work package. For your side, I had in mind: candidate Jordan site/process engineering and local coordination.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+          "Hi Osaid,\n\nA practical agenda for the proposed MENA-Water discussion would be: official EOI; consultant independence; comparable SCADA design references; site surveys; interface specification; local permissions. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+          "Hi Osaid,\n\nFor Zarqa SCADA design advisory lead, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Khalaf Dannoon at MENA-Water, once the access and scope questions are resolved?",
+          "Hi Osaid,\n\nI’ll close this proposed MENA-Water introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Osaid, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Zarqa SCADA design and tender assistance. The possible role for your team is: Candidate Jordan site/process engineering and local coordination. A potential counterpart is MENA-Water, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Zarqa SCADA design and tender assistance with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Candidate Jordan site/process engineering and local coordination. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-11",
+      "tender_id": "UT-007",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "HV equipment erection, protection/control testing and commissioning candidate",
+      "counterparty": "Proingesa.cl",
+      "email": {
+        "subject": "Posible cooperación técnica: lotes ENGIE 220 kV",
+        "initial": "Hola Enzo,\n\nEstoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.\n\nLa hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas de alta tensión. Primero habría que confirmar el acceso mediante un participante inscrito, ya que el plazo de compra de bases pasó.\n\n¿Te interesaría una conversación técnica de 20 minutos para delimitar el alcance y evaluar una posible presentación con Roberto Niño? Si otra persona lleva las licitaciones, agradecería la referencia.\n\nSi prefieres no recibir más mensajes, dímelo.",
+        "followups": [
+          "Hola Enzo,\n\nRetomo la posible cooperación con Proingesa. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.\n\n¿Eres la persona adecuada para revisar ese punto?",
+          "Hola Enzo,\n\nUna agenda concreta para evaluar el encaje con Proingesa: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.\n\nTambién conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?",
+          "Hola Enzo,\n\nAntes de plantear una presentación con Roberto Niño, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.\n\n¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?",
+          "Hola Enzo,\n\nCierro por ahora esta propuesta de diálogo con Proingesa. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.\n\nGracias por tu tiempo."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Enzo, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Nueva Chuquicamata 220 kV expansion. The possible role for your team is: HV equipment erection, protection/control testing and commissioning candidate. A potential counterpart is Proingesa.cl, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Nueva Chuquicamata 220 kV expansion with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is HV equipment erection, protection/control testing and commissioning candidate. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-12",
+      "tender_id": "UT-007",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Multidisciplinary engineering and civil/electrical interface design candidate",
+      "counterparty": "Ingesat SIMM",
+      "email": {
+        "subject": "Posible cooperación técnica: lotes ENGIE 220 kV",
+        "initial": "Hola Roberto,\n\nEstoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.\n\nLa hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas de alta tensión. Primero habría que confirmar el acceso mediante un participante inscrito, ya que el plazo de compra de bases pasó.\n\n¿Te interesaría una conversación técnica de 20 minutos para delimitar el alcance y evaluar una posible presentación con Enzo Gaete? Si otra persona lleva las licitaciones, agradecería la referencia.\n\nSi prefieres no recibir más mensajes, dímelo.",
+        "followups": [
+          "Hola Roberto,\n\nRetomo la posible cooperación con Ingesat SIMM. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.\n\n¿Eres la persona adecuada para revisar ese punto?",
+          "Hola Roberto,\n\nUna agenda concreta para evaluar el encaje con Ingesat SIMM: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.\n\nTambién conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?",
+          "Hola Roberto,\n\nAntes de plantear una presentación con Enzo Gaete, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.\n\n¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?",
+          "Hola Roberto,\n\nCierro por ahora esta propuesta de diálogo con Ingesat SIMM. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.\n\nGracias por tu tiempo."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Roberto, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Nueva Chuquicamata 220 kV expansion. The possible role for your team is: Multidisciplinary engineering and civil/electrical interface design candidate. A potential counterpart is Ingesat SIMM, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Nueva Chuquicamata 220 kV expansion with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Multidisciplinary engineering and civil/electrical interface design candidate. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-11",
+      "tender_id": "UT-008",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "HV equipment erection, protection/control testing and commissioning candidate",
+      "counterparty": "Proingesa.cl",
+      "email": {
+        "subject": "Posible cooperación técnica: lotes ENGIE 220 kV",
+        "initial": "Hola Enzo,\n\nEstoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.\n\nLa hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas de alta tensión. Primero habría que confirmar el acceso mediante un participante inscrito, ya que el plazo de compra de bases pasó.\n\n¿Te interesaría una conversación técnica de 20 minutos para delimitar el alcance y evaluar una posible presentación con Roberto Niño? Si otra persona lleva las licitaciones, agradecería la referencia.\n\nSi prefieres no recibir más mensajes, dímelo.",
+        "followups": [
+          "Hola Enzo,\n\nRetomo la posible cooperación con Proingesa. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.\n\n¿Eres la persona adecuada para revisar ese punto?",
+          "Hola Enzo,\n\nUna agenda concreta para evaluar el encaje con Proingesa: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.\n\nTambién conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?",
+          "Hola Enzo,\n\nAntes de plantear una presentación con Roberto Niño, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.\n\n¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?",
+          "Hola Enzo,\n\nCierro por ahora esta propuesta de diálogo con Proingesa. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.\n\nGracias por tu tiempo."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Enzo, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Liqcau 220 kV expansion. The possible role for your team is: HV equipment erection, protection/control testing and commissioning candidate. A potential counterpart is Proingesa.cl, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Liqcau 220 kV expansion with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is HV equipment erection, protection/control testing and commissioning candidate. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-12",
+      "tender_id": "UT-008",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Multidisciplinary engineering and civil/electrical interface design candidate",
+      "counterparty": "Ingesat SIMM",
+      "email": {
+        "subject": "Posible cooperación técnica: lotes ENGIE 220 kV",
+        "initial": "Hola Roberto,\n\nEstoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.\n\nLa hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas de alta tensión. Primero habría que confirmar el acceso mediante un participante inscrito, ya que el plazo de compra de bases pasó.\n\n¿Te interesaría una conversación técnica de 20 minutos para delimitar el alcance y evaluar una posible presentación con Enzo Gaete? Si otra persona lleva las licitaciones, agradecería la referencia.\n\nSi prefieres no recibir más mensajes, dímelo.",
+        "followups": [
+          "Hola Roberto,\n\nRetomo la posible cooperación con Ingesat SIMM. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.\n\n¿Eres la persona adecuada para revisar ese punto?",
+          "Hola Roberto,\n\nUna agenda concreta para evaluar el encaje con Ingesat SIMM: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.\n\nTambién conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?",
+          "Hola Roberto,\n\nAntes de plantear una presentación con Enzo Gaete, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.\n\n¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?",
+          "Hola Roberto,\n\nCierro por ahora esta propuesta de diálogo con Ingesat SIMM. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.\n\nGracias por tu tiempo."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Roberto, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Liqcau 220 kV expansion. The possible role for your team is: Multidisciplinary engineering and civil/electrical interface design candidate. A potential counterpart is Ingesat SIMM, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Liqcau 220 kV expansion with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Multidisciplinary engineering and civil/electrical interface design candidate. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-11",
+      "tender_id": "UT-009",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "HV equipment erection, protection/control testing and commissioning candidate",
+      "counterparty": "Proingesa.cl",
+      "email": {
+        "subject": "Posible cooperación técnica: lotes ENGIE 220 kV",
+        "initial": "Hola Enzo,\n\nEstoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.\n\nLa hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas de alta tensión. Primero habría que confirmar el acceso mediante un participante inscrito, ya que el plazo de compra de bases pasó.\n\n¿Te interesaría una conversación técnica de 20 minutos para delimitar el alcance y evaluar una posible presentación con Roberto Niño? Si otra persona lleva las licitaciones, agradecería la referencia.\n\nSi prefieres no recibir más mensajes, dímelo.",
+        "followups": [
+          "Hola Enzo,\n\nRetomo la posible cooperación con Proingesa. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.\n\n¿Eres la persona adecuada para revisar ese punto?",
+          "Hola Enzo,\n\nUna agenda concreta para evaluar el encaje con Proingesa: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.\n\nTambién conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?",
+          "Hola Enzo,\n\nAntes de plantear una presentación con Roberto Niño, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.\n\n¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?",
+          "Hola Enzo,\n\nCierro por ahora esta propuesta de diálogo con Proingesa. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.\n\nGracias por tu tiempo."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Enzo, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Roncacho 220 kV line reactor. The possible role for your team is: HV equipment erection, protection/control testing and commissioning candidate. A potential counterpart is Proingesa.cl, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Roncacho 220 kV line reactor with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is HV equipment erection, protection/control testing and commissioning candidate. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    },
+    {
+      "actor_id": "CONTACT-12",
+      "tender_id": "UT-009",
+      "state": "DRAFT_ONLY",
+      "technical_offer": "Multidisciplinary engineering and civil/electrical interface design candidate",
+      "counterparty": "Ingesat SIMM",
+      "email": {
+        "subject": "Posible cooperación técnica: lotes ENGIE 220 kV",
+        "initial": "Hola Roberto,\n\nEstoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.\n\nLa hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas de alta tensión. Primero habría que confirmar el acceso mediante un participante inscrito, ya que el plazo de compra de bases pasó.\n\n¿Te interesaría una conversación técnica de 20 minutos para delimitar el alcance y evaluar una posible presentación con Enzo Gaete? Si otra persona lleva las licitaciones, agradecería la referencia.\n\nSi prefieres no recibir más mensajes, dímelo.",
+        "followups": [
+          "Hola Roberto,\n\nRetomo la posible cooperación con Ingesat SIMM. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.\n\n¿Eres la persona adecuada para revisar ese punto?",
+          "Hola Roberto,\n\nUna agenda concreta para evaluar el encaje con Ingesat SIMM: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.\n\nTambién conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?",
+          "Hola Roberto,\n\nAntes de plantear una presentación con Enzo Gaete, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.\n\n¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?",
+          "Hola Roberto,\n\nCierro por ahora esta propuesta de diálogo con Ingesat SIMM. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.\n\nGracias por tu tiempo."
+        ]
+      },
+      "linkedin": {
+        "connection": "Hi Roberto, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+        "initial": "Thanks for connecting. I’m reviewing Roncacho 220 kV line reactor. The possible role for your team is: Multidisciplinary engineering and civil/electrical interface design candidate. A potential counterpart is Ingesat SIMM, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+        "followups": [
+          "Would it help if I shared a brief for Roncacho 220 kV line reactor with the technical interfaces and open qualification questions?",
+          "For your team, the working scope is Multidisciplinary engineering and civil/electrical interface design candidate. Which boundary would you want clarified before a scoping call?",
+          "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+          "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+        ]
+      },
+      "send_authorized": false,
+      "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+      "snapshot_date": "2026-09-04"
+    }
+  ],
+  "runs": [
+    {
+      "id": "local-20260905T090809212816Z",
+      "week": "2026-W36",
+      "started_at": "2026-09-05T09:08:09.212816+00:00",
+      "kind": "REPOSITORY_POC_REPLAY",
+      "trigger": "local",
+      "status": "COMPLETED",
+      "dataset_as_of": "2026-09-04",
+      "clay_data_credits": 0,
+      "clay_basis": "No Clay calls in this local replay",
+      "distribution_calls": 0,
+      "stages": [
+        {
+          "name": "Tender inputs",
+          "state": "CACHED",
+          "detail": "10 research snapshots; no new scraping in this run"
+        },
+        {
+          "name": "Partner mapping",
+          "state": "VALIDATED",
+          "detail": "12 companies / 13 actors; existing hypotheses"
+        },
+        {
+          "name": "Enrichment",
+          "state": "SKIPPED",
+          "detail": "Cached professional profiles; no billable requests"
+        },
+        {
+          "name": "Outreach drafts",
+          "state": "VALIDATED",
+          "detail": "17 actor/tender packets; email and LinkedIn plus four followups"
+        },
+        {
+          "name": "Blog content",
+          "state": "DRAFT_ONLY",
+          "detail": "Technology/use-case editorial draft, not published"
+        },
+        {
+          "name": "Attio mirror",
+          "state": "PRESERVED",
+          "detail": "Integration retained; no CRM write in replay"
+        },
+        {
+          "name": "Distribution",
+          "state": "DISABLED",
+          "detail": "PoC only; HeyReach trial expired"
+        },
+        {
+          "name": "Repository projection",
+          "state": "COMPLETED",
+          "detail": "Generated dashboard data from canonical dossiers"
+        }
+      ],
+      "counts": {
+        "tenders": 10,
+        "partners": 12,
+        "actors": 13,
+        "actor_tender_packets": 17,
+        "email_drafts": 85,
+        "linkedin_sequences": 17
+      },
+      "completed_at": "2026-09-05T09:08:09.230170+00:00"
+    },
+    {
+      "id": "local-20260905T152533206158Z",
+      "week": "2026-W36",
+      "started_at": "2026-09-05T15:25:33.206158+00:00",
+      "kind": "REPOSITORY_POC_REPLAY",
+      "trigger": "local",
+      "status": "COMPLETED",
+      "dataset_as_of": "2026-09-04",
+      "clay_data_credits": 0,
+      "clay_basis": "No Clay calls in this local replay",
+      "distribution_calls": 0,
+      "stages": [
+        {
+          "name": "Tender inputs",
+          "state": "CACHED",
+          "detail": "10 research snapshots; no new scraping in this run"
+        },
+        {
+          "name": "Partner mapping",
+          "state": "VALIDATED",
+          "detail": "12 companies / 13 actors; existing hypotheses"
+        },
+        {
+          "name": "Enrichment",
+          "state": "SKIPPED",
+          "detail": "Cached professional profiles; no billable requests"
+        },
+        {
+          "name": "Outreach drafts",
+          "state": "VALIDATED",
+          "detail": "17 actor/tender packets; email and LinkedIn plus four followups"
+        },
+        {
+          "name": "Blog content",
+          "state": "DRAFT_ONLY",
+          "detail": "Technology/use-case editorial draft, not published"
+        },
+        {
+          "name": "Attio mirror",
+          "state": "PRESERVED",
+          "detail": "Integration retained; no CRM write in replay"
+        },
+        {
+          "name": "Distribution",
+          "state": "DISABLED",
+          "detail": "PoC only; HeyReach trial expired"
+        },
+        {
+          "name": "Repository projection",
+          "state": "COMPLETED",
+          "detail": "Generated dashboard data from canonical dossiers"
+        }
+      ],
+      "source_revision": null,
+      "actions_url": null,
+      "attempt": "1",
+      "counts": {
+        "tenders": 10,
+        "partners": 12,
+        "actors": 13,
+        "actor_tender_packets": 17,
+        "email_drafts": 85,
+        "linkedin_sequences": 17
+      },
+      "completed_at": "2026-09-05T15:25:33.331656+00:00"
+    },
+    {
+      "id": "local-20260905T152548256671Z",
+      "week": "2026-W36",
+      "started_at": "2026-09-05T15:25:48.256671+00:00",
+      "kind": "REPOSITORY_POC_REPLAY",
+      "trigger": "local",
+      "status": "COMPLETED",
+      "dataset_as_of": "2026-09-04",
+      "clay_data_credits": 0,
+      "clay_basis": "No Clay calls in this local replay",
+      "distribution_calls": 0,
+      "stages": [
+        {
+          "name": "Tender inputs",
+          "state": "CACHED",
+          "detail": "10 research snapshots; no new scraping in this run"
+        },
+        {
+          "name": "Partner mapping",
+          "state": "VALIDATED",
+          "detail": "12 companies / 13 actors; existing hypotheses"
+        },
+        {
+          "name": "Enrichment",
+          "state": "SKIPPED",
+          "detail": "Cached professional profiles; no billable requests"
+        },
+        {
+          "name": "Outreach drafts",
+          "state": "VALIDATED",
+          "detail": "17 actor/tender packets; email and LinkedIn plus four followups"
+        },
+        {
+          "name": "Blog content",
+          "state": "DRAFT_ONLY",
+          "detail": "Technology/use-case editorial draft, not published"
+        },
+        {
+          "name": "Attio mirror",
+          "state": "PRESERVED",
+          "detail": "Integration retained; no CRM write in replay"
+        },
+        {
+          "name": "Distribution",
+          "state": "DISABLED",
+          "detail": "PoC only; HeyReach trial expired"
+        },
+        {
+          "name": "Repository projection",
+          "state": "COMPLETED",
+          "detail": "Generated dashboard data from canonical dossiers"
+        }
+      ],
+      "source_revision": null,
+      "actions_url": null,
+      "attempt": "1",
+      "counts": {
+        "tenders": 10,
+        "partners": 12,
+        "actors": 13,
+        "actor_tender_packets": 17,
+        "email_drafts": 85,
+        "linkedin_sequences": 17
+      },
+      "completed_at": "2026-09-05T15:25:48.335647+00:00"
+    },
+    {
+      "id": "local-20260905T153502492805Z",
+      "week": "2026-W36",
+      "started_at": "2026-09-05T15:35:02.492805+00:00",
+      "kind": "REPOSITORY_POC_REPLAY",
+      "trigger": "local",
+      "status": "COMPLETED",
+      "dataset_as_of": "2026-09-04",
+      "clay_data_credits": 0,
+      "clay_basis": "No Clay calls in this local replay",
+      "distribution_calls": 0,
+      "stages": [
+        {
+          "name": "Tender inputs",
+          "state": "CACHED",
+          "detail": "10 research snapshots; no new scraping in this run"
+        },
+        {
+          "name": "Partner mapping",
+          "state": "VALIDATED",
+          "detail": "12 companies / 13 actors; existing hypotheses"
+        },
+        {
+          "name": "Enrichment",
+          "state": "SKIPPED",
+          "detail": "Cached professional profiles; no billable requests"
+        },
+        {
+          "name": "Outreach drafts",
+          "state": "VALIDATED",
+          "detail": "17 actor/tender packets; email and LinkedIn plus four followups"
+        },
+        {
+          "name": "Blog content",
+          "state": "DRAFT_ONLY",
+          "detail": "Technology/use-case editorial draft, not published"
+        },
+        {
+          "name": "Attio mirror",
+          "state": "PRESERVED",
+          "detail": "Integration retained; no CRM write in replay"
+        },
+        {
+          "name": "Distribution",
+          "state": "DISABLED",
+          "detail": "PoC only; HeyReach trial expired"
+        },
+        {
+          "name": "Repository projection",
+          "state": "COMPLETED",
+          "detail": "Generated dashboard data from canonical dossiers"
+        }
+      ],
+      "source_revision": null,
+      "actions_url": null,
+      "attempt": "1",
+      "counts": {
+        "tenders": 10,
+        "partners": 12,
+        "actors": 13,
+        "actor_tender_packets": 17,
+        "email_drafts": 85,
+        "linkedin_sequences": 17
+      },
+      "completed_at": "2026-09-05T15:35:02.562378+00:00"
+    }
+  ],
+  "content": [
+    {
+      "id": "utility-integration-before-the-bid",
+      "title": "Connected utility projects succeed at the interfaces",
+      "state": "DRAFT_ONLY",
+      "body": "# Connected utility projects succeed at the interfaces\n\nA connected utility project can look like a shopping list: field devices, communications, a supervisory platform and a service contract. The harder question is how those pieces will become a dependable operating system for the people who use it.\n\nFor a smaller technology supplier, this creates an opportunity. A company does not always need to deliver an entire infrastructure programme to make a valuable contribution. It needs to define a work package that fits the wider system, demonstrate that it can deliver it, and understand where its responsibility ends.\n\n## Start with an operational outcome\n\nConsider a water-network project that combines measurement, remote monitoring and operational decision-making. A device can produce an accurate reading, yet that reading may still be difficult to use if its identity, time, units or quality are unclear downstream.\n\nAn early technical discussion should therefore start with the operational outcome. Who needs the information? What decision will it support? What happens when the connection is interrupted? What evidence will demonstrate that the complete chain works?\n\nThese questions turn a list of products into a delivery discussion. They also help distinguish a requirement that can be met by one supplier from a requirement that calls for complementary expertise.\n\n## Define the interfaces before dividing the work\n\nA useful responsibility matrix follows the path of information and control. It identifies who supplies and installs the field equipment, who commissions communications, who maps data into the receiving application, and who accepts the integrated result.\n\nThe matrix should cover exceptions as well as normal operation. Missing readings, duplicate identifiers, interrupted communications and failed updates need an owner. A promise that two products can exchange data is a starting point; it does not establish responsibility for installation, testing or ongoing support.\n\nFor monitoring and control projects, teams should also distinguish observing a condition from authorizing an operational change. Commercial responsibility, technical access and operational authority should be discussed explicitly rather than assumed to travel together.\n\n## A complementary team is a hypothesis to test\n\nAn equipment manufacturer, a local delivery specialist and a software integrator can appear complementary on paper. A credible proposal still needs evidence of geography, capacity, references and procurement eligibility. The team must establish whether the required contractual structure is available and who could take responsibility for the complete deliverable.\n\nThe first conversation does not need a finished joint bid. It needs a focused agenda: confirm the requirement, identify the uncertain boundaries, and decide whether a second technical session is worth the effort. Where a single supplier already covers the full scope, adding another firm should serve a clear purpose.\n\n## Make acceptance visible\n\nBefore discussing a final package split, ask what successful delivery will look like. The answer may include documented mappings, commissioning records, recovery procedures, operator handover and agreed support responsibilities. The exact evidence depends on the procurement documents and the operating environment.\n\nA short shared acceptance plan can expose a gap that separate product presentations miss. It can also prevent a small supplier from accepting an undefined obligation that extends well beyond its actual contribution.\n\n## The integrator's contribution\n\nAn intermediary can add value by doing the preparation that makes this dialogue productive: translating a public opportunity into a requirement map, identifying suitable technical owners, and proposing a delivery boundary that the participants can challenge.\n\nThat role becomes useful when it saves the participants time and produces a decision. The outcome may be a viable team, a single-supplier route, a request for more evidence or an early no-go. All four are better than treating a plausible match as an agreed partnership.\n\nFor companies exploring utility projects, a practical starting point is a concise capability profile: delivery regions, technology interfaces, reference work, capacity and the work packages the team is prepared to own. That information creates a foundation for relevant conversations when a suitable opportunity appears.\n\n*Editorial PoC draft. This article discusses general integration practice; it does not announce a tender, identify a proposed consortium or imply an award. Procurement-specific decisions require the current official documents. No publishing or distribution has occurred.*\n"
+    }
+  ],
+  "readiness": [
+    {
+      "id": "repo",
+      "component": "GitHub SSOT",
+      "state": "WRITE_BLOCKED",
+      "priority": "P0",
+      "evidence": "Repository exists and user permits writes. GitHub integration create-tree failed HTTP 403: Resource not accessible by integration on 2026-09-05.",
+      "next_action": "Restore GitHub integration Contents and Workflows write access for az2kxx/gtmtechweek, or use the source package from an authenticated checkout.",
+      "owner": "agent",
+      "blocking_live_execution": true
+    },
+    {
+      "id": "research",
+      "component": "Fresh tender collection",
+      "state": "PARTIAL",
+      "priority": "P0",
+      "evidence": "10 sourced records from 2026-09-04. Repository replay does not scrape. Weekly ChatGPT research automation retained.",
+      "next_action": "Complete a new research run; recheck official notices and write new/changed/closed evidence to dossiers.",
+      "owner": "research agent",
+      "blocking_live_execution": true
+    },
+    {
+      "id": "scheduler",
+      "component": "Weekly GitHub execution",
+      "state": "NOT_DEPLOYED",
+      "priority": "P0",
+      "evidence": "Monday cron and manual workflow exist in prepared source. GitHub upload is blocked; no remote execution claimed.",
+      "next_action": "Push the source after integration access is fixed, then inspect Actions and the committed execution log.",
+      "owner": "agent",
+      "blocking_live_execution": true
+    },
+    {
+      "id": "clay",
+      "component": "Clay enrichment",
+      "state": "CONNECTED_IN_CHAT",
+      "priority": "P0",
+      "evidence": "Clay plugin was used for original enrichment; cache reused. GitHub Actions has no inherited MCP credentials.",
+      "next_action": "Use existing task contexts; bind a real dispatcher and durable 299 DATA-credit guard before new paid requests.",
+      "owner": "agent",
+      "blocking_live_execution": true
+    },
+    {
+      "id": "attio",
+      "component": "Attio mirror",
+      "state": "CONNECTED_IN_CHAT",
+      "priority": "P1",
+      "evidence": "12 companies / 13 people were backfilled and read back. Existing integration retained; public replay does not write CRM.",
+      "next_action": "Keep private record mapping outside Git. Test research-only upserts from the intended live runtime.",
+      "owner": "agent",
+      "blocking_live_execution": false
+    },
+    {
+      "id": "gaps",
+      "component": "Tender and partner qualification",
+      "state": "OPEN_GAPS",
+      "priority": "P0",
+      "evidence": "UT-005 and UT-010 lack qualified actor pairs; several existing matches have unresolved eligibility/interfaces.",
+      "next_action": "Review each dossier's next action. Do not upgrade a candidate based on email verification alone.",
+      "owner": "integrator",
+      "blocking_live_execution": true
+    },
+    {
+      "id": "woodpecker",
+      "component": "Woodpecker",
+      "state": "NOT_CONNECTED",
+      "priority": "P1",
+      "evidence": "Email sequences exist; no campaign import, verification or sender test performed.",
+      "next_action": "Connect MCP in the execution host; verify sender, actual paused campaign and feedback before delivery.",
+      "owner": "user / agent",
+      "blocking_live_execution": true
+    },
+    {
+      "id": "heyreach",
+      "component": "HeyReach",
+      "state": "TRIAL_EXPIRED",
+      "priority": "P2",
+      "evidence": "User confirmed trial expired. LinkedIn drafts exist without provider calls.",
+      "next_action": "Only restore entitlement if live LinkedIn distribution is later required.",
+      "owner": "user",
+      "blocking_live_execution": false
+    },
+    {
+      "id": "mentic",
+      "component": "Mentic",
+      "state": "NOT_CONNECTED",
+      "priority": "P2",
+      "evidence": "User reports MCP-compatible account. Local contract exists; account tools were not callable here.",
+      "next_action": "Discover actual MCP tools after connection. Media cap remains zero; no ads authorized by the PoC.",
+      "owner": "user / agent",
+      "blocking_live_execution": false
+    },
+    {
+      "id": "surfer",
+      "component": "SurferSEO",
+      "state": "NOT_CONNECTED",
+      "priority": "P2",
+      "evidence": "Official MCP documented; user reports compatible account. Blog draft exists without paid generation.",
+      "next_action": "Verify workspace and usage allocation if Surfer optimization is required; CMS publishing is separate.",
+      "owner": "user / agent",
+      "blocking_live_execution": false
+    },
+    {
+      "id": "feedback",
+      "component": "Cross-channel feedback",
+      "state": "NOT_DEPLOYED",
+      "priority": "P1",
+      "evidence": "Local hold logic and contracts are prepared; no remote pause/reply worker exists.",
+      "next_action": "Connect dispatcher/outbox on durable host, verify event identities, ordering and confirmed pause delivery.",
+      "owner": "deployment agent",
+      "blocking_live_execution": true
+    },
+    {
+      "id": "commercial",
+      "component": "Integrator commercial mandate",
+      "state": "NOT_AGREED",
+      "priority": "P1",
+      "evidence": "No supplier commitment, fee agreement or buyer representation is claimed.",
+      "next_action": "Agree service scope, payer, fee/currency and payment trigger before representing a commercial mandate.",
+      "owner": "user",
+      "blocking_live_execution": false
+    }
+  ]
+}

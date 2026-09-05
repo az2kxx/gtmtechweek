@@ -1,0 +1,15 @@
+{
+  "id": "CONTACT-02",
+  "name": "Roland Leslie",
+  "company_id": "ovarro",
+  "title": "UK Sales Director",
+  "profile_url": "https://www.linkedin.com/in/roland-leslie-9b556224",
+  "role_assessment": "UK sales/utility telemetry lead supported by Ovarro news; relevant first contact, OT specialist commitment not established.",
+  "evidence_date": "2026-09-04",
+  "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+  "dialogue_state": "NOT_CONTACTED",
+  "willingness": "UNKNOWN",
+  "pair_ids": [
+    "PAIR-01"
+  ]
+}

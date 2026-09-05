@@ -1,0 +1,30 @@
+{
+  "actor_id": "CONTACT-12",
+  "tender_id": "UT-007",
+  "state": "DRAFT_ONLY",
+  "technical_offer": "Multidisciplinary engineering and civil/electrical interface design candidate",
+  "counterparty": "Ingesat SIMM",
+  "email": {
+    "subject": "Posible cooperación técnica: lotes ENGIE 220 kV",
+    "initial": "Hola Roberto,\n\nEstoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.\n\nLa hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas de alta tensión. Primero habría que confirmar el acceso mediante un participante inscrito, ya que el plazo de compra de bases pasó.\n\n¿Te interesaría una conversación técnica de 20 minutos para delimitar el alcance y evaluar una posible presentación con Enzo Gaete? Si otra persona lleva las licitaciones, agradecería la referencia.\n\nSi prefieres no recibir más mensajes, dímelo.",
+    "followups": [
+      "Hola Roberto,\n\nRetomo la posible cooperación con Ingesat SIMM. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.\n\n¿Eres la persona adecuada para revisar ese punto?",
+      "Hola Roberto,\n\nUna agenda concreta para evaluar el encaje con Ingesat SIMM: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.\n\nTambién conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?",
+      "Hola Roberto,\n\nAntes de plantear una presentación con Enzo Gaete, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.\n\n¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?",
+      "Hola Roberto,\n\nCierro por ahora esta propuesta de diálogo con Ingesat SIMM. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.\n\nGracias por tu tiempo."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Roberto, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+    "initial": "Thanks for connecting. I’m reviewing Nueva Chuquicamata 220 kV expansion. The possible role for your team is: Multidisciplinary engineering and civil/electrical interface design candidate. A potential counterpart is Ingesat SIMM, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+    "followups": [
+      "Would it help if I shared a brief for Nueva Chuquicamata 220 kV expansion with the technical interfaces and open qualification questions?",
+      "For your team, the working scope is Multidisciplinary engineering and civil/electrical interface design candidate. Which boundary would you want clarified before a scoping call?",
+      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+    ]
+  },
+  "send_authorized": false,
+  "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+  "snapshot_date": "2026-09-04"
+}

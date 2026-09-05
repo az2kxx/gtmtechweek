@@ -1,0 +1,63 @@
+name: Weekly tender demo
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '57 22 * * 1'
+  push:
+    branches: [main]
+    paths-ignore: ['executions/**', 'dist/data.json']
+permissions:
+  contents: write
+concurrency:
+  group: tender-demo-main
+  cancel-in-progress: false
+jobs:
+  replay:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate public data and record actual demo execution
+        run: python scripts/record_execution.py
+      - name: Check dashboard JavaScript
+        run: node --check dist/app.js
+      - name: Persist execution and projection
+        if: always()
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add executions dist/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Record weekly PoC execution'
+            git push
+          fi
+      - name: Preserve execution diagnostics even if branch persistence fails
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: execution-diagnostics-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            executions/
+            dist/data.json
+          if-no-files-found: warn
+      - name: Upload dashboard artifact
+        if: success()
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+  deploy:
+    if: vars.ENABLE_GITHUB_PAGES == 'true'
+    needs: replay
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy public demo dashboard
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,30 @@
+{
+  "actor_id": "CONTACT-13",
+  "tender_id": "UT-001",
+  "state": "HOLD",
+  "technical_offer": "Qualify utility telemetry remit and identify an appropriate scope owner",
+  "counterparty": null,
+  "email": {
+    "subject": "Utility telemetry: a scope-owner check",
+    "initial": "Hi Lewis,\n\nI coordinate potential supplier collaborations for utility tenders. I am reviewing a requirement where telemetry context may be relevant, but the role and delivery boundary still need qualification. Do you own this discussion, or could you point me to the relevant technical colleague?\n\nNo partnership or bid commitment is assumed. If you prefer no further contact, please let me know.",
+    "followups": [
+      "Would a short requirement summary help you assess whether this falls within your remit?",
+      "The first discussion would clarify interfaces, responsibilities and tender access before proposing any partnership. Is there a technical owner you would suggest?",
+      "I would only coordinate an introduction after the parties agree. Is the underlying scope worth reviewing?",
+      "I will close this enquiry for now. If a relevant utility telemetry discussion comes up, I am happy to revisit it. Please let me know if you prefer no further contact."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Lewis, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+    "initial": "Thanks for connecting. I’m reviewing IT/OT managed detection and response. The possible role for your team is: Qualify utility telemetry remit and identify an appropriate scope owner. The first step is to establish the correct scope owner; no counterpart is confirmed. Would a short technical outline be useful?",
+    "followups": [
+      "Would it help if I shared a brief for IT/OT managed detection and response with the technical interfaces and open qualification questions?",
+      "For your team, the working scope is Qualify utility telemetry remit and identify an appropriate scope owner. Which boundary would you want clarified before a scoping call?",
+      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+    ]
+  },
+  "send_authorized": false,
+  "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+  "snapshot_date": "2026-09-04"
+}

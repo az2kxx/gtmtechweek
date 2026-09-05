@@ -1,0 +1,26 @@
+{
+  "id": "PAIR-05",
+  "tender_ids": [
+    "UT-006"
+  ],
+  "company_ids": [
+    "mena-water",
+    "aqualine-water-technology"
+  ],
+  "actor_ids": [
+    "CONTACT-09",
+    "CONTACT-10"
+  ],
+  "roles": [
+    "Candidate instrumentation/control design support",
+    "Candidate Jordan site/process engineering and local coordination"
+  ],
+  "assessment": "LOW / DISCOVERY ONLY — two equipment-oriented firms; independent design eligibility unproven",
+  "pitch": "Explore whether a qualified independent controls consultant can combine regional process knowledge and instrumentation design into vendor-neutral specifications and a survey plan.",
+  "agenda": "official EOI; consultant independence; comparable SCADA design references; site surveys; interface specification; local permissions",
+  "software": "SCADA architecture and tender specifications; platform unspecified",
+  "hardware": "Design input only; this lead is consultancy, not a hardware supply tender",
+  "gates": "Official EOI and buyer not yet confirmed. No verified independent SCADA consultancy references. Check conflicts from equipment supply interests and find a qualified lead if required. Khalaf current-role corroboration unavailable.",
+  "delivery_route": "CONSORTIUM",
+  "commitment": "UNCONFIRMED"
+}

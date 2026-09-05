@@ -1,0 +1,35 @@
+{
+  "id": "UT-002",
+  "title": "Water metering upgrades",
+  "buyer": "Town of Amherst",
+  "region": "North America",
+  "country": "Canada",
+  "official_reference": "RFP-26-09",
+  "source_url": "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html",
+  "deadline": "2026-09-22",
+  "deadline_caveat": "14:00 local; America/Halifax",
+  "status": "Tender — eligibility review",
+  "evidence_grade": "Buyer RFP reviewed",
+  "evidence_date": "2026-09-04",
+  "next_action": "Assess lead experience and obtain addenda",
+  "technology": {
+    "Utility sector": "Water",
+    "Technology / function": "AMI/AMR; ultrasonic meters",
+    "Software evidence": "Meter-data software; analytics",
+    "Hardware evidence": "Meters; endpoints; communications",
+    "Suggested delivery bundle": "Experienced metering prime + software/network specialists",
+    "Smaller-party role": "Integration; training; support. Town installs most meters.",
+    "Participation caveat": "Named subcontractors allowed",
+    "Evidence / source": "RFP §§1,13,18. https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+  },
+  "pair_ids": [
+    "PAIR-02"
+  ],
+  "actor_ids": [
+    "CONTACT-03",
+    "CONTACT-04"
+  ],
+  "delivery_route": "CONSORTIUM",
+  "outreach_state": "DRAFT_ONLY",
+  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+}

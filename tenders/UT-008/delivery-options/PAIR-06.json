@@ -1,0 +1,28 @@
+{
+  "id": "PAIR-06",
+  "tender_ids": [
+    "UT-007",
+    "UT-008",
+    "UT-009"
+  ],
+  "company_ids": [
+    "ingesat-simm",
+    "proingesa-cl"
+  ],
+  "actor_ids": [
+    "CONTACT-11",
+    "CONTACT-12"
+  ],
+  "roles": [
+    "HV equipment erection, protection/control testing and commissioning candidate",
+    "Multidisciplinary engineering and civil/electrical interface design candidate"
+  ],
+  "assessment": "CONDITIONAL — Chile delivery fit; role overlap and design qualifications need proof",
+  "pitch": "Test a division between multidisciplinary design and high-voltage field execution, with one interface owner for civil dimensions, protection settings, outages and commissioning.",
+  "agenda": "participant access; lot selection; design boundary; OEM long-lead items; protection responsibility; outage plan; guarantees",
+  "software": "Relay/SCADA engineering tools and standards require technical annexes; no brands assumed",
+  "hardware": "220 kV expansion and line reactor; OEM, civil contractor and equipment guarantees remain open",
+  "gates": "Bases purchase cutoff 24 August passed. Confirm lawful route through registered participant and consortium/subcontract rights. Ingesat also designs: avoid duplicate scope. Proingesa HV references and Enzo bid authority unconfirmed.",
+  "delivery_route": "CONSORTIUM",
+  "commitment": "UNCONFIRMED"
+}

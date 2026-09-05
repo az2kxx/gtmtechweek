@@ -1,0 +1,30 @@
+{
+  "actor_id": "CONTACT-07",
+  "tender_id": "UT-004",
+  "state": "DRAFT_ONLY",
+  "technical_offer": "SCADA migration/integration lead candidate; obtain water/Queensland bid owner referral",
+  "counterparty": "AQUATEC",
+  "email": {
+    "subject": "Cairns SCADA: who owns the water bid?",
+    "initial": "Hi Paul,\n\nI’m reviewing Cairns Contract 3047, titled Citect to AVEVA Plant SCADA migration. If pump or sewer interfaces are included, there may be a useful split between SAGE’s migration engineering and Aquatec’s asset-specific acceptance tests.\n\nThe full scope and deadline are still unresolved, so this is only a scope check. No new pump supply or Aquatec work package is assumed.\n\nCould you point me to your Queensland water or SCADA bid owner to assess whether this deserves a technical discussion? If there is a fit, I’d ask both sides before arranging an introduction with Jayden Seeley. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+    "followups": [
+      "Hi Paul,\n\nFollowing up on Cairns Contract 3047 SCADA migration. The first question is whether Aquatec would add a distinct, necessary work package. For your side, I had in mind: sCADA migration/integration lead candidate; obtain water/Queensland bid owner referral.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+      "Hi Paul,\n\nA practical agenda for the proposed Aquatec discussion would be: asset list; tag/alarm mapping; operating sequences; FAT/SAT; rollback; operator training. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+      "Hi Paul,\n\nFor Cairns Contract 3047 SCADA migration, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Jayden Seeley at Aquatec, once the access and scope questions are resolved?",
+      "Hi Paul,\n\nI’ll close this proposed Aquatec introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Paul, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+    "initial": "Thanks for connecting. I’m reviewing Citect to AVEVA Plant SCADA upgrade. The possible role for your team is: SCADA migration/integration lead candidate; obtain water/Queensland bid owner referral. A potential counterpart is AQUATEC, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+    "followups": [
+      "Would it help if I shared a brief for Citect to AVEVA Plant SCADA upgrade with the technical interfaces and open qualification questions?",
+      "For your team, the working scope is SCADA migration/integration lead candidate; obtain water/Queensland bid owner referral. Which boundary would you want clarified before a scoping call?",
+      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+    ]
+  },
+  "send_authorized": false,
+  "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+  "snapshot_date": "2026-09-04"
+}

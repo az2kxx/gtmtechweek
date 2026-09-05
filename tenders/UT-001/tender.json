@@ -1,0 +1,36 @@
+{
+  "id": "UT-001",
+  "title": "IT/OT managed detection and response",
+  "buyer": "Southern Water",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "official_reference": "Prj_8501 / ocds-h6vhtk-0606ff",
+  "source_url": "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID=",
+  "deadline": "2026-09-21",
+  "deadline_caveat": "16:00 UK; verify timezone",
+  "status": "Tender — conflict review",
+  "evidence_grade": "Official mirror; full pack pending",
+  "evidence_date": "2026-09-04",
+  "next_action": "Confirm deadline and value discrepancies",
+  "technology": {
+    "Utility sector": "Water / wastewater",
+    "Technology / function": "24/7 IT and OT MDR",
+    "Software evidence": "Nozomi; Cisco Cyber Vision; CrowdStrike (existing estate)",
+    "Hardware evidence": "No new hardware specified",
+    "Suggested delivery bundle": "Prime SOC + OT specialist + telemetry integration",
+    "Smaller-party role": "OT incident response; assurance; integration",
+    "Participation caveat": "Proposed decomposition; subcontract rights unverified",
+    "Evidence / source": "Scope; existing tooling; one supplier. https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID="
+  },
+  "pair_ids": [
+    "PAIR-01"
+  ],
+  "actor_ids": [
+    "CONTACT-01",
+    "CONTACT-02",
+    "CONTACT-13"
+  ],
+  "delivery_route": "CONSORTIUM",
+  "outreach_state": "DRAFT_ONLY",
+  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+}

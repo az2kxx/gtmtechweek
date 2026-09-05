@@ -1,0 +1,30 @@
+{
+  "id": "UT-010",
+  "title": "Sewer flooding mitigation framework",
+  "buyer": "United Utilities Water",
+  "region": "Europe",
+  "country": "United Kingdom",
+  "official_reference": "PRO005115",
+  "source_url": "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK",
+  "deadline": "2026-09-28",
+  "deadline_caveat": "16:00 UK time",
+  "status": "Tender — full pack needed",
+  "evidence_grade": "Buyer-hosted listing only",
+  "evidence_date": "2026-09-04",
+  "next_action": "Retrieve scope, lots and eligibility",
+  "technology": {
+    "Utility sector": "Wastewater",
+    "Technology / function": "Flood mitigation; methods unspecified",
+    "Software evidence": "Unknown",
+    "Hardware evidence": "Unknown",
+    "Suggested delivery bundle": "Proposed: civil lead + survey/design specialists",
+    "Smaller-party role": "Potential: surveys; design; civil works",
+    "Participation caveat": "Verify actual work packages in tender pack",
+    "Evidence / source": "Listing confirms title only. https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
+  },
+  "pair_ids": [],
+  "actor_ids": [],
+  "delivery_route": "UNRESOLVED",
+  "outreach_state": "DRAFT_ONLY",
+  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+}

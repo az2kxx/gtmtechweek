@@ -1,0 +1,35 @@
+{
+  "id": "UT-008",
+  "title": "Liqcau 220 kV expansion",
+  "buyer": "Edelnor / ENGIE",
+  "region": "South America",
+  "country": "Chile",
+  "official_reference": "24_266_OAC_16",
+  "source_url": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
+  "deadline": "2026-12-16",
+  "deadline_caveat": "Same procedure as UT-007",
+  "status": "Tender — earlier gate passed",
+  "evidence_grade": "Rev.0 reviewed; amendments pending",
+  "evidence_date": "2026-09-04",
+  "next_action": "Check registered participant route",
+  "technology": {
+    "Utility sector": "Electricity",
+    "Technology / function": "220 kV substation",
+    "Software evidence": "Unspecified",
+    "Hardware evidence": "220 kV expansion",
+    "Suggested delivery bundle": "Proposed: EPC + specialist partners",
+    "Smaller-party role": "Inferred: equipment; testing",
+    "Participation caveat": "See UT-007",
+    "Evidence / source": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+  },
+  "pair_ids": [
+    "PAIR-06"
+  ],
+  "actor_ids": [
+    "CONTACT-11",
+    "CONTACT-12"
+  ],
+  "delivery_route": "CONSORTIUM",
+  "outreach_state": "DRAFT_ONLY",
+  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+}

@@ -1,0 +1,264 @@
+{
+  "version": 1,
+  "mode": "SCAFFOLD_ONLY",
+  "shared": {
+    "system_of_record": "Repository for public PoC; Attio remains optional private mirror",
+    "project": "gtmtechweek",
+    "weekly_schedule": "existing Monday automation",
+    "clay": {
+      "unit": "DATA_CREDITS",
+      "max_per_logical_execution": 299,
+      "monthly_cap": null,
+      "cost_unknown": "BLOCK_BILLABLE",
+      "run_id_rule": "All branches/retries/resumes share original run_id"
+    },
+    "identity_keys": [
+      "run_id",
+      "tender_id",
+      "official_reference",
+      "lot_id",
+      "company_id",
+      "attio_person_id",
+      "clay_person_id",
+      "delivery_option_id",
+      "pair_id",
+      "campaign_id",
+      "content_id"
+    ],
+    "event": {
+      "required": [
+        "provider",
+        "workspace_id",
+        "event_id",
+        "occurred_at",
+        "received_at",
+        "type",
+        "external_object_id"
+      ],
+      "optional": [
+        "attio_person_id",
+        "company_domain",
+        "normalized_linkedin",
+        "tender_id",
+        "payload",
+        "utm_source",
+        "utm_medium",
+        "utm_campaign",
+        "utm_content"
+      ],
+      "deduplication": "provider + workspace_id + event_id",
+      "ordering": "Keep source and receipt timestamps; append history, reject stale state transitions; suppression is sticky until explicit consent review"
+    }
+  },
+  "connectors": {
+    "mentic": {
+      "state": "CONNECTION_REQUIRED",
+      "endpoint": null,
+      "auth": "Use account-provided MCP setup; no secrets in deliverables",
+      "account_verified": false,
+      "logical_operations": [
+        "inspect_account",
+        "create_draft_brief",
+        "read_draft",
+        "read_campaign_results",
+        "read_qualified_leads",
+        "pause_campaign"
+      ],
+      "tool_bindings": {},
+      "activation_requirements": [
+        "Actual MCP schemas",
+        "ad account and currency",
+        "landing page and capability intake",
+        "approved media cap",
+        "draft-only creation capability",
+        "verified lead feedback/export",
+        "approved claims and campaign launch"
+      ],
+      "input_fields": [
+        "brief_id",
+        "sector",
+        "target_regions",
+        "missing_roles",
+        "supplier_profile",
+        "public_evidence_urls",
+        "offer",
+        "cta",
+        "landing_page_url",
+        "currency",
+        "daily_media_cap",
+        "total_media_cap",
+        "utm_campaign"
+      ],
+      "output_fields": [
+        "campaign_id",
+        "draft_id",
+        "status",
+        "spend",
+        "currency",
+        "qualified_leads",
+        "source_event_id"
+      ],
+      "media_budget": {
+        "daily": 0,
+        "total": 0,
+        "currency": null
+      },
+      "native_attio_support": "UNVERIFIED; map qualified lead output through Attio plugin",
+      "purpose": "Recruit E2E vendors and complementary suppliers"
+    },
+    "surferseo": {
+      "state": "CONNECTION_REQUIRED",
+      "endpoint": null,
+      "auth": "Use existing account MCP configuration",
+      "logical_operations": [
+        "inspect_workspace",
+        "create_content_editor_draft",
+        "read_edit_draft",
+        "read_guidelines",
+        "rescore_content"
+      ],
+      "tool_bindings": {},
+      "input_fields": [
+        "content_id",
+        "topic",
+        "primary_keyword",
+        "language",
+        "target_country",
+        "search_intent",
+        "outline",
+        "public_evidence_urls",
+        "cta",
+        "review_date"
+      ],
+      "output_fields": [
+        "editor_id",
+        "editor_url",
+        "draft_body",
+        "content_score",
+        "usage_report"
+      ],
+      "activation_requirements": [
+        "workspace/plan read",
+        "MCP tool schemas",
+        "editor allocation and AI generation costs",
+        "target site/language/country",
+        "draft roundtrip"
+      ],
+      "publishing": {
+        "enabled": false,
+        "cms": null
+      },
+      "purpose": "Evergreen education and inbound supplier capability intake; re-use topics rather than one article per tender"
+    },
+    "heyreach": {
+      "state": "TRIAL_EXPIRED",
+      "endpoint": null,
+      "auth": "Workspace Integrations > HeyReach MCP Server; use workspace-issued URL/key",
+      "logical_operations": [
+        "inspect_workspace",
+        "inspect_senders",
+        "list_campaigns",
+        "create_paused_draft",
+        "read_inbox",
+        "read_analytics",
+        "pause_contact"
+      ],
+      "tool_bindings": {},
+      "input_fields": [
+        "attio_person_id",
+        "normalized_linkedin",
+        "sender_id",
+        "tender_id",
+        "delivery_route",
+        "role",
+        "copy",
+        "sequence_version"
+      ],
+      "output_fields": [
+        "campaign_id",
+        "lead_id",
+        "sender_id",
+        "status",
+        "reply",
+        "event_id",
+        "occurred_at"
+      ],
+      "activation_requirements": [
+        "Current trial/subscription entitlement",
+        "MCP key issuance and harmless read",
+        "connected sender",
+        "paused campaign support",
+        "reply/opt-out feedback",
+        "cross-channel pause confirmation"
+      ],
+      "enrichment_enabled": false,
+      "purpose": "Alternative LinkedIn route coordinated with Woodpecker; never simultaneous sequences"
+    }
+  },
+  "crm_mapping": {
+    "company": [
+      "domain",
+      "name",
+      "capabilities",
+      "sectors",
+      "regions",
+      "certifications",
+      "capacity",
+      "supplier_roles",
+      "evidence_urls",
+      "last_verified_at"
+    ],
+    "person": [
+      "name",
+      "company",
+      "job_title",
+      "linkedin",
+      "email_addresses",
+      "clay_person_id",
+      "role_confidence",
+      "email_verification_state"
+    ],
+    "delivery_option": [
+      "delivery_route",
+      "requirement_coverage",
+      "uncovered_requirements",
+      "lead_contractor_candidate",
+      "participants",
+      "interfaces",
+      "eligibility",
+      "risk",
+      "pitch"
+    ],
+    "participation": [
+      "tender_id",
+      "company_id",
+      "person_id",
+      "technical_role",
+      "pair_status",
+      "next_review",
+      "willingness",
+      "introduction_consent"
+    ],
+    "interaction": [
+      "active_channel",
+      "last_touch",
+      "reply_pending",
+      "suppressed",
+      "pause_sync_pending",
+      "provider_ids",
+      "source_events"
+    ],
+    "commercial": [
+      "integrator_service_scope",
+      "mandate_status",
+      "fee_model",
+      "payer",
+      "agreed_fee",
+      "currency",
+      "payment_trigger",
+      "invoice_state",
+      "collected_revenue"
+    ],
+    "storage_now": "Native people/company attributes plus structured project notes. Custom objects/fields and transactional event worker are deployment tasks, not provisioned here."
+  }
+}

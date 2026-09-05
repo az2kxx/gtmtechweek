@@ -1,0 +1,15 @@
+{
+  "id": "CONTACT-08",
+  "name": "Jayden Seeley",
+  "company_id": "aquatec",
+  "title": "Business Development Manager",
+  "profile_url": "https://www.linkedin.com/in/jayden-seeley",
+  "role_assessment": "BD Manager with South Australia pump/sewer remit. Referral-only for Cairns/Queensland project owner.",
+  "evidence_date": "2026-09-04",
+  "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+  "dialogue_state": "NOT_CONTACTED",
+  "willingness": "UNKNOWN",
+  "pair_ids": [
+    "PAIR-04"
+  ]
+}

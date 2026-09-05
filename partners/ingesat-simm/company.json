@@ -1,0 +1,14 @@
+{
+  "id": "ingesat-simm",
+  "name": "Ingesat SIMM",
+  "domain": "ingesat.cl",
+  "country": "Chile",
+  "profile_url": "https://www.linkedin.com/company/ingesat-ingeniería-y-servicios-en-alta-tensión-spa",
+  "capability_summary": "Key Results\nConstruction and maintenance of high-voltage substations (up to 525 kV), Substation engineering and detailed design, Transformer testing and maintenance, Protection and control systems engineering and commissioning, Field installation, testing and maintenance services across Chile (Calama to Chiloé), Project delivery for mining, industrial and energy sectors, No publicly listed water/wastewater, SCADA, OT cybersecurity, ultrasonic AMI, or non-revenue-water products found, Partnerships/vendors not explicitly named on public pages",
+  "evidence_date": "2026-09-04",
+  "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+  "role_status": "PAIR-06",
+  "actor_ids": [
+    "CONTACT-11"
+  ]
+}

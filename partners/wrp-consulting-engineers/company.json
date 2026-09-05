@@ -1,0 +1,14 @@
+{
+  "id": "wrp-consulting-engineers",
+  "name": "WRP Consulting Engineers",
+  "domain": "wrp.co.za",
+  "country": "South Africa",
+  "profile_url": "https://www.linkedin.com/company/wrp-consulting-engineers",
+  "capability_summary": "Key Results\nZednet (remote monitoring platform), Aqualite, PresMac, SanFlow, Municipal Scorecard, Water conservation & demand management consulting, Non‑Revenue Water (NRW) management, Real‑time monitoring of pressures/flows/water quality, International delivery with focus on Southern Africa",
+  "evidence_date": "2026-09-04",
+  "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+  "role_status": "PAIR-03",
+  "actor_ids": [
+    "CONTACT-05"
+  ]
+}

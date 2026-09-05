@@ -1,0 +1,35 @@
+{
+  "id": "UT-004",
+  "title": "Citect to AVEVA Plant SCADA upgrade",
+  "buyer": "Cairns Regional Council",
+  "region": "Australia / Oceania",
+  "country": "Australia",
+  "official_reference": "Contract 3047 / 600033",
+  "source_url": "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+  "deadline": null,
+  "deadline_caveat": "14 vs 28 Sep reported by aggregators",
+  "status": "Tender — deadline unverified",
+  "evidence_grade": "Buyer title verified; details incomplete",
+  "evidence_date": "2026-09-04",
+  "next_action": "Obtain current council tender pack",
+  "technology": {
+    "Utility sector": "Water scope to confirm",
+    "Technology / function": "SCADA migration",
+    "Software evidence": "Citect → AVEVA Plant SCADA (title)",
+    "Hardware evidence": "Unknown; do not assume server replacement",
+    "Suggested delivery bundle": "Control-system integrator + migration specialists",
+    "Smaller-party role": "Proposed: migration; testing; operator training",
+    "Participation caveat": "Subcontract rules unknown",
+    "Evidence / source": "Council title. https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047"
+  },
+  "pair_ids": [
+    "PAIR-04"
+  ],
+  "actor_ids": [
+    "CONTACT-07",
+    "CONTACT-08"
+  ],
+  "delivery_route": "CONSORTIUM",
+  "outreach_state": "DRAFT_ONLY",
+  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+}

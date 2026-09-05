@@ -1,0 +1,14 @@
+{
+  "id": "bridewell",
+  "name": "Bridewell",
+  "domain": "bridewell.com",
+  "country": "United Kingdom",
+  "profile_url": "https://www.linkedin.com/company/bridewellsec",
+  "capability_summary": "Key Results\nManaged security services (MDR, SOC), OT/ICS cybersecurity consulting for critical infrastructure, Microsoft security solutions integration (Microsoft Defender services), Cybersecurity in utilities report and sector-focused resources, UK and US delivery footprint, Partnerships: Microsoft and likely security tech ecosystem partners (unspecified).",
+  "evidence_date": "2026-09-04",
+  "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+  "role_status": "PAIR-01",
+  "actor_ids": [
+    "CONTACT-01"
+  ]
+}

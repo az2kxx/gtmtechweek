@@ -1,0 +1,30 @@
+{
+  "actor_id": "CONTACT-04",
+  "tender_id": "UT-002",
+  "state": "DRAFT_ONLY",
+  "technical_offer": "Ultrasonic meter OEM and approved communications/software configuration",
+  "counterparty": "Metercor Inc.",
+  "email": {
+    "subject": "Amherst metering: delivery + ultrasonic OEM scope",
+    "initial": "Hi Timothy,\n\nI’m assessing a potential Metercor–Badger Meter bundle for Amherst’s RFP-26-09. Badger’s ultrasonic E-Series range and Metercor’s Canadian metering services look complementary, subject to the exact approved configuration.\n\nThe Town expects to install most meters. The useful joint scope may be supply, data integration, training and support; lead qualifications and product/territory authorization need checking.\n\nDo you cover Canadian municipal metering, or could you point me to the right channel or bid owner? If there is a fit, I’d ask both sides before arranging an introduction with Scott McIntyre. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+    "followups": [
+      "Hi Timothy,\n\nFollowing up on Amherst RFP-26-09 water metering. The first question is whether Metercor would add a distinct, necessary work package. For your side, I had in mind: ultrasonic meter OEM and approved communications/software configuration.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+      "Hi Timothy,\n\nA practical agenda for the proposed Metercor discussion would be: meter size/approval matrix; endpoint compatibility; network coverage; billing export; warranty; phased acceptance. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+      "Hi Timothy,\n\nFor Amherst RFP-26-09 water metering, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Scott McIntyre at Metercor, once the access and scope questions are resolved?",
+      "Hi Timothy,\n\nI’ll close this proposed Metercor introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Timothy, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+    "initial": "Thanks for connecting. I’m reviewing Water metering upgrades. The possible role for your team is: Ultrasonic meter OEM and approved communications/software configuration. A potential counterpart is Metercor Inc., subject to fit and both parties agreeing. Would a short technical outline be useful?",
+    "followups": [
+      "Would it help if I shared a brief for Water metering upgrades with the technical interfaces and open qualification questions?",
+      "For your team, the working scope is Ultrasonic meter OEM and approved communications/software configuration. Which boundary would you want clarified before a scoping call?",
+      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+    ]
+  },
+  "send_authorized": false,
+  "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+  "snapshot_date": "2026-09-04"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "badger-meter",
+  "name": "Badger Meter",
+  "domain": "badgermeter.com",
+  "country": "United States",
+  "profile_url": "https://www.linkedin.com/company/badger-meter",
+  "capability_summary": "Badger Meter Ultrasonic Water Meter Hardware\nVerified specifications from official Badger Meter product pages and documentation: E-Series Residential Ultrasonic flow meter size, temperature, flow and pressure ranges listed on product page; E-Series G2 and Ultrasonic Plus product pages describe measurement technology, display, accuracy and features. ",
+  "evidence_date": "2026-09-04",
+  "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+  "role_status": "PAIR-02",
+  "actor_ids": [
+    "CONTACT-04"
+  ]
+}

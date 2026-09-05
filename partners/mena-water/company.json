@@ -1,0 +1,14 @@
+{
+  "id": "mena-water",
+  "name": "MENA-Water",
+  "domain": "mena-water.com",
+  "country": "United Arab Emirates",
+  "profile_url": "https://www.linkedin.com/company/hubermenawater",
+  "capability_summary": "Key Results\nMBR & SBR Package Plants, Pretreatment (screens, grit, grease removal), Secondary Treatment (diffusers, mixers, scrapers, scum removal, sludge thickeners), Advanced Treatment (DAF, cloth screw filter, UF/NF/RO), Sludge Treatment (thickening, dewatering, drying), Odor Control (activated carbon, biofilters, chemical scrubbers), Renewable Energy for water (biogas/digesters, solar/wind pumps), Instrumentation & Control including online water quality, flow meters, gas detection, dosing systems and SCADA, Wide geographic delivery footprint (UAE, Germany, MENA region and claims of worldwide service), Limited publicly‑documented named software/hardware or detailed SCADA/OT cybersecurity products, No publicly listed formal partner/vendor agreements or detailed utility case studies found on primary corporate pages",
+  "evidence_date": "2026-09-04",
+  "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+  "role_status": "PAIR-05",
+  "actor_ids": [
+    "CONTACT-09"
+  ]
+}

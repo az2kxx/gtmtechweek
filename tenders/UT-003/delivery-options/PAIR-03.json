@@ -1,0 +1,26 @@
+{
+  "id": "PAIR-03",
+  "tender_ids": [
+    "UT-003"
+  ],
+  "company_ids": [
+    "wrp-consulting-engineers",
+    "ovarro"
+  ],
+  "actor_ids": [
+    "CONTACT-05",
+    "CONTACT-06"
+  ],
+  "roles": [
+    "NRW engineering, baseline design and performance measurement; not confirmed CIDB lead",
+    "Leak detection hardware, telemetry and leakage analytics work package"
+  ],
+  "assessment": "STRONG TECHNICAL FIT — viable only behind an eligible contractor",
+  "pitch": "Combine field leakage diagnosis with defensible NRW baseline and savings measurement under an eligible civil contractor, separating diagnosis from repair and acceptance.",
+  "agenda": "DMA baseline; logger coverage; leak validation; repair handoff; savings attribution; payment evidence",
+  "software": "WRP Zednet and Ovarro leakage analytics; data exchange is a design question, not a verified integration",
+  "hardware": "Leakage loggers/telemetry and flow-pressure instrumentation, selected after field design",
+  "gates": "Compulsory briefing and access-request dates passed. Must identify eligible attending CIDB7CE contractor/JV and permissible subcontract route. WRP and Ovarro alone are not demonstrated eligible prime. No call-off guarantee.",
+  "delivery_route": "CONSORTIUM",
+  "commitment": "UNCONFIRMED"
+}

@@ -1,0 +1,58 @@
+{
+  "checked_at": "2026-09-05T15:35:02.813312+00:00",
+  "scope": "OFFLINE_POC_ACCEPTANCE",
+  "passed": true,
+  "provider_calls": 0,
+  "clay_data_credits": 0,
+  "checks": [
+    {
+      "name": "Public data and four-followup validation",
+      "passed": true,
+      "exit_code": 0,
+      "output": "{\"tenders\": 10, \"partners\": 12, \"actors\": 13, \"actor_tender_packets\": 17, \"email_drafts\": 85, \"linkedin_sequences\": 17}"
+    },
+    {
+      "name": "Six budget, concurrency, resume and channel guard tests",
+      "passed": true,
+      "exit_code": 0,
+      "output": "......\n----------------------------------------------------------------------\nRan 6 tests in 0.012s\n\nOK"
+    },
+    {
+      "name": "Dashboard JavaScript syntax",
+      "passed": true,
+      "exit_code": 0,
+      "output": ""
+    },
+    {
+      "name": "Actual local replay and projection",
+      "passed": true,
+      "exit_code": 0,
+      "output": "{\"run_id\": \"local-20260905T153502492805Z\", \"week\": \"2026-W36\", \"status\": \"COMPLETED\"}"
+    },
+    {
+      "name": "All seven views and empty-week diagnostics",
+      "passed": true,
+      "exit_code": 0,
+      "output": "overview: rendered\ntenderView: rendered\npartnerView: rendered\noutreachView: rendered\ncontentView: rendered\nintegrationsView: rendered\ndiagnosticsView: rendered\nEmpty week: no fabricated run"
+    },
+    {
+      "name": "Injected projection failure retains FAILED run and nonzero exit",
+      "passed": true,
+      "exit_code": 1,
+      "output": "Isolated test; not inserted into business run history."
+    },
+    {
+      "name": "Handover, judge guide and workflow files present",
+      "passed": true
+    }
+  ],
+  "error": null,
+  "not_verified": [
+    "GitHub publication / remote Actions",
+    "Scheduled fresh research completion",
+    "Live MCP adapter round trips",
+    "Deliverability or distribution",
+    "Browser interactions / mobile layout",
+    "Tender eligibility and partner willingness"
+  ]
+}

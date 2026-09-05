@@ -1,0 +1,15 @@
+{
+  "id": "CONTACT-04",
+  "name": "Timothy Wissing",
+  "company_id": "badger-meter",
+  "title": "National Sales Manager",
+  "profile_url": "https://www.linkedin.com/in/timothy-wissing-b0bb8545",
+  "role_assessment": "National Sales Manager confirmed by profile; Canadian municipal-metering remit unknown. Referral-first contact.",
+  "evidence_date": "2026-09-04",
+  "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+  "dialogue_state": "NOT_CONTACTED",
+  "willingness": "UNKNOWN",
+  "pair_ids": [
+    "PAIR-02"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "PAIR-02",
+  "tender_ids": [
+    "UT-002"
+  ],
+  "company_ids": [
+    "metercor-inc",
+    "badger-meter"
+  ],
+  "actor_ids": [
+    "CONTACT-03",
+    "CONTACT-04"
+  ],
+  "roles": [
+    "Canadian metering delivery/integration lead candidate; training and support",
+    "Ultrasonic meter OEM and approved communications/software configuration"
+  ],
+  "assessment": "STRONG COMPANY FIT — product and channel alignment; individual OEM territory remit unconfirmed",
+  "pitch": "Assess an ultrasonic metering bundle with one named responsibility owner for meter accuracy, communications, data handover and Town staff training.",
+  "agenda": "meter size/approval matrix; endpoint compatibility; network coverage; billing export; warranty; phased acceptance",
+  "software": "AMI/AMR configuration and meter-data integration; select supported communications and analytics stack before pricing",
+  "hardware": "Badger E-Series ultrasonic meters as candidate; exact sizes, approvals, reading interface and coverage to prove",
+  "gates": "Metercor states Badger distribution; no OEM-side listing found. Confirm territory/product authorization, >=5 years and >=20,000 active-meter experience, three references and latest addenda. Town installs most meters. Timothy territory/product remit requires referral.",
+  "delivery_route": "CONSORTIUM",
+  "commitment": "UNCONFIRMED"
+}

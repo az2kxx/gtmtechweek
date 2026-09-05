@@ -1,0 +1,26 @@
+{
+  "id": "PAIR-04",
+  "tender_ids": [
+    "UT-004"
+  ],
+  "company_ids": [
+    "sage-automation",
+    "aquatec"
+  ],
+  "actor_ids": [
+    "CONTACT-07",
+    "CONTACT-08"
+  ],
+  "roles": [
+    "SCADA migration/integration lead candidate; obtain water/Queensland bid owner referral",
+    "Conditional pump/pressure-sewer asset SME for interface testing, only if in scope"
+  ],
+  "assessment": "LOW / SCOPE-DEPENDENT — do not present as a qualified consortium",
+  "pitch": "If pump or sewer interfaces are in scope, assess migration engineering plus asset-specific acceptance tests to preserve alarms, control behavior and operator handover.",
+  "agenda": "asset list; tag/alarm mapping; operating sequences; FAT/SAT; rollback; operator training",
+  "software": "Tender title specifies Citect to AVEVA Plant SCADA. SAGE generic SCADA experience is not current AVEVA certification.",
+  "hardware": "No new pumps, servers or panels established; asset support only if the pack requires it",
+  "gates": "Full scope and deadline unresolved (14 vs 28 Sep reported). Aquatec work package may be unnecessary. Paul remit is special-purpose machinery/OEM, Jayden mainly South Australia: request Queensland/water owner referrals.",
+  "delivery_route": "CONSORTIUM",
+  "commitment": "UNCONFIRMED"
+}

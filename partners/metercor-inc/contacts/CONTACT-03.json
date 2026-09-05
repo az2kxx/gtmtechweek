@@ -1,0 +1,15 @@
+{
+  "id": "CONTACT-03",
+  "name": "Scott McIntyre",
+  "company_id": "metercor-inc",
+  "title": "Director of Business Development",
+  "profile_url": "https://www.linkedin.com/in/smcintyre2",
+  "role_assessment": "Director of Business Development; reasonable commercial entry point. Authority and installed-base qualifications not independently confirmed.",
+  "evidence_date": "2026-09-04",
+  "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+  "dialogue_state": "NOT_CONTACTED",
+  "willingness": "UNKNOWN",
+  "pair_ids": [
+    "PAIR-02"
+  ]
+}

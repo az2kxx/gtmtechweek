@@ -1,0 +1,30 @@
+{
+  "actor_id": "CONTACT-10",
+  "tender_id": "UT-006",
+  "state": "DRAFT_ONLY",
+  "technical_offer": "Candidate Jordan site/process engineering and local coordination",
+  "counterparty": "MENA-Water",
+  "email": {
+    "subject": "Zarqa SCADA: independent design team check",
+    "initial": "Hi Osaid,\n\nA reported Zarqa SCADA design-and-tender-assistance opportunity may merit a dialogue between MENA-Water’s instrumentation team and Aqualine’s Jordan engineering team. The idea would be local process knowledge plus vendor-neutral controls design.\n\nThe official EOI has not yet been verified. This appears to be a consultancy lead, and independent design qualifications and supplier conflicts must be checked before proposing a team.\n\nWho would be best placed to assess the consultancy scope and independent-design credentials? If there is a fit, I’d ask both sides before arranging an introduction with Khalaf Dannoon. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+    "followups": [
+      "Hi Osaid,\n\nFollowing up on Zarqa SCADA design advisory lead. The first question is whether MENA-Water would add a distinct, necessary work package. For your side, I had in mind: candidate Jordan site/process engineering and local coordination.\n\nIs that a useful scope to explore, or should I speak with another owner?",
+      "Hi Osaid,\n\nA practical agenda for the proposed MENA-Water discussion would be: official EOI; consultant independence; comparable SCADA design references; site surveys; interface specification; local permissions. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
+      "Hi Osaid,\n\nFor Zarqa SCADA design advisory lead, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Khalaf Dannoon at MENA-Water, once the access and scope questions are resolved?",
+      "Hi Osaid,\n\nI’ll close this proposed MENA-Water introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Osaid, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
+    "initial": "Thanks for connecting. I’m reviewing Zarqa SCADA design and tender assistance. The possible role for your team is: Candidate Jordan site/process engineering and local coordination. A potential counterpart is MENA-Water, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+    "followups": [
+      "Would it help if I shared a brief for Zarqa SCADA design and tender assistance with the technical interfaces and open qualification questions?",
+      "For your team, the working scope is Candidate Jordan site/process engineering and local coordination. Which boundary would you want clarified before a scoping call?",
+      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
+      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+    ]
+  },
+  "send_authorized": false,
+  "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
+  "snapshot_date": "2026-09-04"
+}

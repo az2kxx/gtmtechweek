@@ -1,0 +1,26 @@
+{
+  "id": "PAIR-01",
+  "tender_ids": [
+    "UT-001"
+  ],
+  "company_ids": [
+    "bridewell",
+    "ovarro"
+  ],
+  "actor_ids": [
+    "CONTACT-01",
+    "CONTACT-02"
+  ],
+  "roles": [
+    "MDR prime candidate: SOC operations, incident triage and response governance",
+    "Potential telemetry/process-context specialist; scope must be demonstrated"
+  ],
+  "assessment": "CONDITIONAL — complementary monitoring disciplines; exact integration and specialist scope unverified",
+  "pitch": "Assess a single accountable MDR offer combining SOC response with water-process context, with explicit authority boundaries for any OT action.",
+  "agenda": "existing-tool ingestion; asset/process context; incident escalation; safe containment approvals; evidence ownership",
+  "software": "Existing Nozomi, Cisco Cyber Vision and CrowdStrike must be supported. Bridewell Microsoft capability is not proof of compatibility.",
+  "hardware": "Existing OT estate; no replacement hardware assumed",
+  "gates": "Neither company is confirmed bidder. Resolve one-supplier subcontract rights, full pack, conflicting deadline/value, and prove support for all three existing tools. Ovarro is not asserted to supply OT cyber incident response.",
+  "delivery_route": "CONSORTIUM",
+  "commitment": "UNCONFIRMED"
+}

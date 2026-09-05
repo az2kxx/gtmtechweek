@@ -1,0 +1,33 @@
+{
+  "id": "UT-005",
+  "title": "23,000 smart water meters",
+  "buyer": "MWRS / Guma Valley Water Company",
+  "region": "Africa",
+  "country": "Sierra Leone",
+  "official_reference": "SL-MWRS-539466-GO-RFB",
+  "source_url": "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+  "deadline": "2026-10-13",
+  "deadline_caveat": "Unverified aggregator deadline",
+  "status": "Lead — official notice needed",
+  "evidence_grade": "Secondary lead; not bid-ready",
+  "evidence_date": "2026-09-04",
+  "next_action": "Retrieve OP00465988 and complete specifications",
+  "technology": {
+    "Utility sector": "Water",
+    "Technology / function": "Ultrasonic smart metering (secondary source)",
+    "Software evidence": "Unverified",
+    "Hardware evidence": "23,000 ultrasonic meters (secondary source)",
+    "Suggested delivery bundle": "Meter OEM + local delivery/installation partner",
+    "Smaller-party role": "Proposed: supply; logistics; partial installation",
+    "Participation caveat": "Formal lot/JV rules unverified",
+    "Evidence / source": "Official notice retrieval required. https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988"
+  },
+  "pair_ids": [],
+  "actor_ids": [],
+  "delivery_route": "UNRESOLVED",
+  "outreach_state": "DRAFT_ONLY",
+  "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "reserve_company_ids": [
+    "kamstrup"
+  ]
+}

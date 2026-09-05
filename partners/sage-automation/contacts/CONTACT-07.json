@@ -1,0 +1,15 @@
+{
+  "id": "CONTACT-07",
+  "name": "Paul Johnson",
+  "company_id": "sage-automation",
+  "title": "Business Development Manager",
+  "profile_url": "https://www.linkedin.com/in/paul-johnson-8a8b2764",
+  "role_assessment": "Current BD remit concerns special-purpose machinery/OEM. Referral-only for water/Queensland bid owner.",
+  "evidence_date": "2026-09-04",
+  "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
+  "dialogue_state": "NOT_CONTACTED",
+  "willingness": "UNKNOWN",
+  "pair_ids": [
+    "PAIR-04"
+  ]
+}

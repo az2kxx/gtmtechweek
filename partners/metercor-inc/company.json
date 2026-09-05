@@ -1,0 +1,14 @@
+{
+  "id": "metercor-inc",
+  "name": "Metercor Inc.",
+  "domain": "metercor.com",
+  "country": "Canada",
+  "profile_url": "https://www.linkedin.com/company/metercor-inc",
+  "capability_summary": "Key Results\nWater metering products and distribution (Badger Meter, ABB Mueller), Itron AMR/AMI systems distribution and AMI project services, Meter reading solutions and commercial/industrial water meters, Project management and consultation services for utilities, Geographic delivery: Canada (Calgary base and Canada-focused distribution), Partner/vendor relationships: Itron, Badger Meter, ABB (Aquamaster), Mueller.",
+  "evidence_date": "2026-09-04",
+  "data_caveat": "Clay-reported size bands; some employee counts conflict. No willingness/eligibility inferred.",
+  "role_status": "PAIR-02",
+  "actor_ids": [
+    "CONTACT-03"
+  ]
+}
