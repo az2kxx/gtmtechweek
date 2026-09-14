@@ -4,7 +4,7 @@ The current research register has 23 tender dossiers, 12 companies, 13 cached na
 
 The unfinished 7 September flow was resumed on 14 September under the same logical key gtmtechweek-2026-W37 and the same 299 DATA-credit ledger: 0 spent, 0 reserved. The W38 file is a continuation checkpoint, not a second paid allowance. Keep both actual timestamps and evidence dates. Do not relabel cached September 4 contact enrichment as fresh.
 
-Actual scheduled GitHub replay succeeded on 8 September: https://github.com/az2kxx/gtmtechweek/actions/runs/34174340903 . That was cached validation, not fresh research. Repository reads and connector tree creation now work; final branch publication and Site status are recorded in the current run, not inferred from permission flags.
+Actual scheduled GitHub replay succeeded on 8 September: https://github.com/az2kxx/gtmtechweek/actions/runs/34174340903 . That was cached validation, not fresh research. On 14 September, connector tree, commit and fast-forward main publication succeeded; tender and run files were read back. The earlier 403 blocker is resolved. Exact commit and Site deployment evidence are recorded in the current run, not inferred from permission flags.
 
 Material changes: RFR001 Addendum2 extends closing to 30 September while retaining other gates; REB G-24/G-27 references change to PBSF/25-26; Ashghal lists 29 September. New RFP166 TSO advice, IPP legal panel and RFP134 dam works require urgent early-gate review. Full live World Bank notices remain inaccessible. Several compulsory briefings/site visits have passed.
 

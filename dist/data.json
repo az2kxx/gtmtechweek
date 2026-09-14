@@ -2,8 +2,8 @@
   "project": "gtmtechweek",
   "data_as_of": "2026-09-14",
   "evidence_dates_mixed": true,
-  "generated_at": "2026-09-14T23:31:37.366053+00:00",
-  "dataset_digest": "e4659c135fc5921f4cb6365f32535d2c18f91ca164010f4365db538a5feb44f3",
+  "generated_at": "2026-09-14T23:37:56.660501+00:00",
+  "dataset_digest": "5824bf860e45853461b91c15a66989939e3d924e7353ac80547ce9602592cb26",
   "config": {
     "project": "gtmtechweek",
     "source_mode": "repository",
@@ -3898,7 +3898,7 @@
       "pair_ids": [
         "PAIR-05"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -3931,7 +3931,7 @@
       "pair_ids": [
         "PAIR-04"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -3964,7 +3964,7 @@
       "pair_ids": [
         "PAIR-02"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -3997,7 +3997,7 @@
       "pair_ids": [
         "PAIR-01"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4030,7 +4030,7 @@
       "pair_ids": [
         "PAIR-06"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4077,7 +4077,7 @@
       "pair_ids": [
         "PAIR-05"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4110,7 +4110,7 @@
       "pair_ids": [
         "PAIR-02"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4143,7 +4143,7 @@
       "pair_ids": [
         "PAIR-01"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4176,7 +4176,7 @@
       "pair_ids": [
         "PAIR-03"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4208,7 +4208,7 @@
       "willingness": "UNKNOWN",
       "pair_ids": [],
       "match_status": "ROLE_NOT_REQUIRED_FOR_PROPOSED_E2E",
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4242,7 +4242,7 @@
       "pair_ids": [
         "PAIR-06"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4289,7 +4289,7 @@
       "pair_ids": [
         "PAIR-04"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4322,7 +4322,7 @@
       "pair_ids": [
         "PAIR-03"
       ],
-      "next_review": "2026-09-14",
+      "next_review": "2026-09-21",
       "cache_review": {
         "identity_role_email_evidence_date": "2026-09-04",
         "read_from_existing_CRM": "2026-09-07",
@@ -4347,7 +4347,7 @@
           "willingness": "UNKNOWN",
           "match_status": "NO_PAIR_FOUND",
           "reason": "MISSING_COMPLEMENTARY_COMPANY",
-          "next_review": "2026-09-14"
+          "next_review": "2026-09-21"
         }
       ]
     }
@@ -6983,11 +6983,12 @@
         "content/"
       ],
       "attio_writeback": {
-        "continuation_verified_notes": 5,
+        "continuation_verified_notes": 6,
         "failed_writes": 0,
         "original_checkpoint_verified_notes": 18,
         "private_ids_in_public": false,
-        "readback_required": true
+        "readback_required": true,
+        "total_verified_notes_in_logical_flow": 24
       },
       "canonical_path": "executions/2026-W38/run.json",
       "changes": [
@@ -7049,7 +7050,8 @@
         "submissions": 0,
         "successful_notice_rechecks": 14,
         "tenders": 23,
-        "verified_collected_fees": null
+        "verified_collected_fees": null,
+        "observed_execution_records": 9
       },
       "credit_ledger": {
         "account_level_guarantee": false,
@@ -7103,9 +7105,9 @@
       "last_successful_completion": {
         "fully_completed_fresh_research": "NOT_ESTABLISHED; current run PARTIAL",
         "repository_replay": {
-          "completed_at": "2026-09-08T00:45:20Z",
-          "kind": "SCHEDULED_CACHED_REPLAY",
-          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/34174340903"
+          "completed_at": "2026-09-14T23:31:37.346630+00:00",
+          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/34909252523",
+          "kind": "PUSH_TRIGGERED_CACHED_REPLAY"
         }
       },
       "logical_run_key": "gtmtechweek-2026-W37",
@@ -7488,8 +7490,8 @@
           "state": "COMPLETED_WITH_GAPS"
         },
         {
-          "completed_at": "2026-09-14T23:30:04Z",
-          "detail": "18 append-only notes verified at original checkpoint; 5 continuation notes verified (resume, new tenders, amendments, two contact gate reviews). All writes read back. Final handoff summary pending.",
+          "completed_at": "2026-09-14T23:37:53Z",
+          "detail": "24 notes in shared logical flow appended and read back:18 original,6 continuation including final summary. Private history preserved.",
           "name": "Attio mirror",
           "state": "COMPLETED"
         },
@@ -7505,14 +7507,16 @@
           "state": "COMPLETED"
         },
         {
-          "detail": "Earlier connector tree creation succeeded; latest main preserved, branch update pending.",
+          "detail": "210 sanitized text files committed and main updated fast-forward; UT-021 and W38 run read back byte-for-byte.",
           "name": "GitHub publication",
-          "state": "IN_PROGRESS"
+          "state": "COMPLETED",
+          "completed_at": "2026-09-14T23:32:08Z"
         },
         {
-          "detail": "Existing public audience verified; refreshed UI deployment pending.",
+          "detail": "Public version4 deployed successfully; native status verified. Seven-view UI and both blog drafts included. Hosted fallback is packaging-time snapshot; current repo data loads separately.",
           "name": "Dashboard publication",
-          "state": "IN_PROGRESS"
+          "state": "COMPLETED",
+          "completed_at": "2026-09-14T23:34:27.985506+00:00"
         },
         {
           "detail": "No sending, account registration, document purchases or ads. Optional connections do not block research.",
@@ -7535,7 +7539,40 @@
       ],
       "week": "2026-W38",
       "weekly_register_key": "gtmtechweek-2026-W38",
-      "workbook_writeback": "NOT_ATTEMPTED; initial workbook unchanged"
+      "workbook_writeback": "NOT_ATTEMPTED; initial workbook unchanged",
+      "publication": {
+        "github": {
+          "status": "READBACK_VERIFIED",
+          "commit_sha": "dec0f078e6d6d3be427979ffe022e838cbcb3835",
+          "url": "https://github.com/az2kxx/gtmtechweek/commit/dec0f078e6d6d3be427979ffe022e838cbcb3835",
+          "verified_at": "2026-09-14T23:32:08Z",
+          "fast_forward": true,
+          "latest_verified_replay": {
+            "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/34909252523",
+            "status": "SUCCESS",
+            "kind": "PUSH_TRIGGERED_CACHED_REPLAY",
+            "legacy_date_metadata_caveat": "Recorded dataset_as_of hardcoded to September4; historical record preserved. Subsequent code now derives max evidence_date and flags mixed dates."
+          }
+        },
+        "dashboard": {
+          "status": "SUCCEEDED",
+          "version_number": 4,
+          "url": "https://gtmtechweek-tender-observatory.adrian-k-zebrowski.chatgpt.site",
+          "completed_at": "2026-09-14T23:34:27.985506+00:00",
+          "source_commit": "6fa34ca8d6bf647d4aea5c710ac91306a0c307c3",
+          "audience": "public",
+          "verification": "Native deployment status succeeded; no anonymous-browser test claimed.",
+          "hosted_fallback_note": "Packaged snapshot predates terminal publication checkpoint; GitHub main data is refreshed and labelled separately."
+        }
+      },
+      "completed_at": "2026-09-14T23:37:53Z",
+      "recovered_errors": [
+        {
+          "stage": "Dashboard packaging",
+          "error": "Default /tmp directory absent",
+          "resolution": "Retried once with writable workspace TMPDIR; package/save/deploy succeeded."
+        }
+      ]
     }
   ],
   "content": [
@@ -7556,12 +7593,12 @@
     {
       "blocking_live_execution": false,
       "component": "GitHub SSOT",
-      "evidence": "Public main and 5 September Actions replay verified; connector tree write succeeded in this run. Branch update not yet claimed.",
+      "evidence": "14 September connector tree, commit and fast-forward main update succeeded; tender and run files read back.",
       "id": "repo",
-      "next_action": "Finish validation, publish fast-forward and read back.",
+      "next_action": "Preserve concurrent Actions records; continue fast-forward updates.",
       "owner": "agent",
       "priority": "P0",
-      "state": "WRITE_TEST_PASSED_PUBLICATION_PENDING"
+      "state": "PUBLISHED_READBACK_VERIFIED"
     },
     {
       "blocking_live_execution": true,
@@ -7576,7 +7613,7 @@
     {
       "blocking_live_execution": false,
       "component": "Weekly GitHub execution",
-      "evidence": "Successful actual scheduled cached replay 34174340903 on 8 September verified. This workflow does not run fresh research.",
+      "evidence": "Actual 8 September scheduled cached replay and14September push-triggered replay succeeded. No fresh research performed by that GitHub workflow.",
       "id": "scheduler",
       "next_action": "Monitor actual Monday executions; keep replay distinct from fresh research.",
       "owner": "agent",
@@ -7596,9 +7633,9 @@
     {
       "blocking_live_execution": false,
       "component": "Attio mirror",
-      "evidence": "18 original and 5 continuation append-only notes read back, covering 13 cached contacts, 23 dossiers and changed gates. Private identity/email/history retained.",
+      "evidence": "24 append-only project/contact notes across original and continuation checkpoints read back;13 contacts reused,23 dossiers, private history preserved.",
       "id": "attio",
-      "next_action": "Append final execution outcome; retain private IDs outside Git.",
+      "next_action": "Resume unresolved role and eligibility queue; next project review21September.",
       "owner": "agent",
       "priority": "P1",
       "state": "READBACK_VERIFIED"

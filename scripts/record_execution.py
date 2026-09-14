@@ -8,7 +8,9 @@ now=datetime.datetime.now(datetime.timezone.utc)
 iso=now.isocalendar();week=f'{iso.year}-W{iso.week:02d}'
 attempt=os.environ.get('GITHUB_RUN_ATTEMPT','1')
 run_id=(os.environ['GITHUB_RUN_ID']+'-attempt-'+attempt) if os.environ.get('GITHUB_RUN_ID') else now.strftime('local-%Y%m%dT%H%M%S%fZ')
-run={'id':run_id,'week':week,'started_at':now.isoformat(),'kind':'REPOSITORY_POC_REPLAY','trigger':'github_actions' if os.environ.get('GITHUB_ACTIONS') else 'local','status':'RUNNING','dataset_as_of':'2026-09-04','clay_data_credits':0,'clay_basis':'No Clay calls in this local replay','distribution_calls':0,'stages':[]}
+evidence_dates=[json.loads(p.read_text()).get('evidence_date') for p in (ROOT/'tenders').glob('*/tender.json')]
+dataset_as_of=max((d for d in evidence_dates if d),default=None)
+run={'id':run_id,'week':week,'started_at':now.isoformat(),'kind':'REPOSITORY_POC_REPLAY','trigger':'github_actions' if os.environ.get('GITHUB_ACTIONS') else 'local','status':'RUNNING','dataset_as_of':dataset_as_of,'evidence_dates_mixed':True,'clay_data_credits':0,'clay_basis':'No Clay calls in this local replay','distribution_calls':0,'stages':[]}
 run['source_revision']=os.environ.get('GITHUB_SHA')
 run['actions_url']=('https://github.com/'+os.environ['GITHUB_REPOSITORY']+'/actions/runs/'+os.environ['GITHUB_RUN_ID']) if os.environ.get('GITHUB_RUN_ID') else None
 run['attempt']=attempt

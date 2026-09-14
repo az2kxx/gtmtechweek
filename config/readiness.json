@@ -2,12 +2,12 @@
   {
     "blocking_live_execution": false,
     "component": "GitHub SSOT",
-    "evidence": "Public main and 5 September Actions replay verified; connector tree write succeeded in this run. Branch update not yet claimed.",
+    "evidence": "14 September connector tree, commit and fast-forward main update succeeded; tender and run files read back.",
     "id": "repo",
-    "next_action": "Finish validation, publish fast-forward and read back.",
+    "next_action": "Preserve concurrent Actions records; continue fast-forward updates.",
     "owner": "agent",
     "priority": "P0",
-    "state": "WRITE_TEST_PASSED_PUBLICATION_PENDING"
+    "state": "PUBLISHED_READBACK_VERIFIED"
   },
   {
     "blocking_live_execution": true,
@@ -22,7 +22,7 @@
   {
     "blocking_live_execution": false,
     "component": "Weekly GitHub execution",
-    "evidence": "Successful actual scheduled cached replay 34174340903 on 8 September verified. This workflow does not run fresh research.",
+    "evidence": "Actual 8 September scheduled cached replay and14September push-triggered replay succeeded. No fresh research performed by that GitHub workflow.",
     "id": "scheduler",
     "next_action": "Monitor actual Monday executions; keep replay distinct from fresh research.",
     "owner": "agent",
@@ -42,9 +42,9 @@
   {
     "blocking_live_execution": false,
     "component": "Attio mirror",
-    "evidence": "18 original and 5 continuation append-only notes read back, covering 13 cached contacts, 23 dossiers and changed gates. Private identity/email/history retained.",
+    "evidence": "24 append-only project/contact notes across original and continuation checkpoints read back;13 contacts reused,23 dossiers, private history preserved.",
     "id": "attio",
-    "next_action": "Append final execution outcome; retain private IDs outside Git.",
+    "next_action": "Resume unresolved role and eligibility queue; next project review21September.",
     "owner": "agent",
     "priority": "P1",
     "state": "READBACK_VERIFIED"
