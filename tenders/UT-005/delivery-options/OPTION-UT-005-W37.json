@@ -1,0 +1,35 @@
+{
+  "id": "OPTION-UT-005-W37",
+  "tender_id": "UT-005",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Potential prime: AMI supply and deployment; Integrator: interoperability/rollout; SME: installation/support",
+  "interfaces": [
+    "Potential prime: AMI supply and deployment",
+    "Integrator: interoperability/rollout",
+    "SME: installation/support"
+  ],
+  "requirements_evidence": [
+    "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+    "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465988",
+    "https://documents1.worldbank.org/curated/en/099040326140012452/pdf/P507588-21c78e5f-5d48-4415-8b5e-25f4b381414c.pdf"
+  ],
+  "eligibility_gaps": [
+    "Official IFB",
+    "Local installation lead",
+    "System specifications"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Retrieve borrower IFB before using deadline, budget or drafting named-actor outreach.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Potential prime: AMI supply and deployment; Integrator: interoperability/rollout; SME: installation/support",
+  "gates": "Official IFB; Local installation lead; System specifications"
+}

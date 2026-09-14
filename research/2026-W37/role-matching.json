@@ -1,0 +1,717 @@
+{
+  "run_key": "gtmtechweek-2026-W37",
+  "member_profiles_supplied": 0,
+  "personalized_member_matching": "AWAITING_PROFILES",
+  "tenders_to_roles": [
+    {
+      "tender_id": "UT-001",
+      "route": "SINGLE_E2E",
+      "packages": [
+        {
+          "description": "Prime: IT/OT SOC, MDR and incident response",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: estate onboarding, interface and evidence coordination",
+          "inferred": true
+        },
+        {
+          "description": "SME: specialist assurance only if needed",
+          "inferred": true
+        }
+      ],
+      "candidate": "Bridewell — proposed, not qualified",
+      "gaps": [
+        "Cisco/CrowdStrike scope coverage and contractual eligibility",
+        "Exact deadline and value"
+      ]
+    },
+    {
+      "tender_id": "UT-002",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: compliant AMI offer and references",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: architecture, MDM onboarding and acceptance",
+          "inferred": true
+        },
+        {
+          "description": "SME: communications survey, training/support",
+          "inferred": true
+        }
+      ],
+      "candidate": "Metercor / Badger Meter candidate route; Canadian remit and thresholds need evidence",
+      "gaps": [
+        "20,000-meter evidence",
+        "Canada commercial owner",
+        "Firm package pricing"
+      ]
+    },
+    {
+      "tender_id": "UT-003",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Eligible lead: civil works, financing and PBC accountability",
+          "inferred": true
+        },
+        {
+          "description": "WRP candidate: NRW baseline/M&V",
+          "inferred": true
+        },
+        {
+          "description": "Ovarro candidate: leakage diagnostics",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Eligible attended lead contractor",
+        "Financing and CIDB evidence"
+      ]
+    },
+    {
+      "tender_id": "UT-004",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: Plant SCADA migration and acceptance",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: inventory, interfaces, cutover and rollback",
+          "inferred": true
+        },
+        {
+          "description": "SME: testing/commissioning if required",
+          "inferred": true
+        }
+      ],
+      "candidate": "SAGE Automation candidate; Plant SCADA credentials and water remit not verified",
+      "gaps": [
+        "Pack and site scope",
+        "Correct Queensland decision-maker"
+      ]
+    },
+    {
+      "tender_id": "UT-005",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Potential prime: AMI supply and deployment",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: interoperability/rollout",
+          "inferred": true
+        },
+        {
+          "description": "SME: installation/support",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Official IFB",
+        "Local installation lead",
+        "System specifications"
+      ]
+    },
+    {
+      "tender_id": "UT-006",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: independent SCADA design consultant",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: scope/interface qualification only",
+          "inferred": true
+        },
+        {
+          "description": "SME: survey/design discipline if permitted",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Official -2 EOI",
+        "Qualified independent consultant",
+        "Remit corroboration"
+      ]
+    },
+    {
+      "tender_id": "UT-007",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: eligible transmission EPC",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: civil/electrical/protection interfaces",
+          "inferred": true
+        },
+        {
+          "description": "SME: controls/testing or defined construction package",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Eligible bases-holder",
+        "HV EPC lead",
+        "Amendments"
+      ]
+    },
+    {
+      "tender_id": "UT-008",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Eligible HV EPC lead",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: design/construction interfaces",
+          "inferred": true
+        },
+        {
+          "description": "SME: civil or controls package",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Bases-holder",
+        "Qualified EPC lead"
+      ]
+    },
+    {
+      "tender_id": "UT-009",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: eligible transmission EPC",
+          "inferred": true
+        },
+        {
+          "description": "SME: reactor OEM / protection and commissioning",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: OEM-civil-control interface coordination",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Bases-holder",
+        "Reactor OEM",
+        "EPC lead"
+      ]
+    },
+    {
+      "tender_id": "UT-010",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: full flood-prevention responsibility",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: supplier/works interface qualification",
+          "inferred": true
+        },
+        {
+          "description": "SME: valve/gate supply or installation if permitted",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Full pack",
+        "E2E lead",
+        "Quantity and legal gates"
+      ]
+    },
+    {
+      "tender_id": "UT-011",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: gas EPC/design",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: skid-civil-metering acceptance interfaces",
+          "inferred": true
+        },
+        {
+          "description": "SME: regulators, meters/EVC, valves, fabrication",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Gas EPC references",
+        "Local Category1.4 installer",
+        "OEM authorizations"
+      ]
+    },
+    {
+      "tender_id": "UT-012",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Eligible local prime: supply and warranties",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: OEM compliance/logistics matrix",
+          "inferred": true
+        },
+        {
+          "description": "SME/OEM: specified transformer packages",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Bangladeshi bidder",
+        "Quantities",
+        "Manufacturer qualifications"
+      ]
+    },
+    {
+      "tender_id": "UT-013",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: multidisciplinary municipal advisory",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: workstream and evidence coordination",
+          "inferred": true
+        },
+        {
+          "description": "SME: electrical-loss/GIS/civil/environmental specialist",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Eligible municipal planning lead",
+        "Prior-award exclusion screen"
+      ]
+    },
+    {
+      "tender_id": "UT-014",
+      "route": "CONSORTIUM",
+      "packages": [
+        {
+          "description": "Lead: transaction advisory and finance/legal",
+          "inferred": true
+        },
+        {
+          "description": "WRP candidate: NRW baseline and technical feasibility",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: responsibility matrix and qualification coordination",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Financial/legal transaction-advisory lead",
+        "Institutional/environmental experts",
+        "Cutoff conflict"
+      ]
+    },
+    {
+      "tender_id": "UT-015",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: qualified local water works delivery",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: survey, procurement and acceptance coordination",
+          "inferred": true
+        },
+        {
+          "description": "SME: pumps/pipes/installation only if specifications establish",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Site access and logistics",
+        "Eligible local lead",
+        "ITB specifications"
+      ]
+    },
+    {
+      "tender_id": "UT-016",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: water rehabilitation contractor",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: design-supply-site interfaces",
+          "inferred": true
+        },
+        {
+          "description": "SME: specified equipment/installation",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Deadline conflict",
+        "Site access",
+        "Qualified lead and pack"
+      ]
+    },
+    {
+      "tender_id": "UT-017",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Eligible Japanese prime: mechanical renewal",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: outage/acceptance and OEM interfaces",
+          "inferred": true
+        },
+        {
+          "description": "SME: pumps, valves or crane if subcontracting allowed",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Pre-registered Japanese prime",
+        "Pump reference",
+        "Subcontract permissions"
+      ]
+    },
+    {
+      "tender_id": "UT-018",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: compliant router supply",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: compatibility/acceptance review if required",
+          "inferred": true
+        },
+        {
+          "description": "SME: certified accessories/support",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Specifications and gate dates",
+        "Hardware OEM/distributor"
+      ]
+    },
+    {
+      "tender_id": "UT-019",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: eligible DRS supplier",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: technical compliance and OEM coordination",
+          "inferred": true
+        },
+        {
+          "description": "SME: station components if permitted",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Authorized bidder",
+        "Scope/ratings",
+        "Local gates"
+      ]
+    },
+    {
+      "tender_id": "UT-020",
+      "route": "UNRESOLVED",
+      "packages": [
+        {
+          "description": "Prime: qualified SCADA support",
+          "inferred": true
+        },
+        {
+          "description": "Integrator: scope and OEM-interface assessment",
+          "inferred": true
+        },
+        {
+          "description": "SME: specialist maintenance if allowed",
+          "inferred": true
+        }
+      ],
+      "candidate": "UNKNOWN",
+      "gaps": [
+        "Full pack",
+        "Qualified Qatar lead",
+        "Gate times"
+      ]
+    }
+  ],
+  "cached_candidates_to_tenders": [
+    {
+      "contact_id": "CONTACT-10",
+      "company_id": "aqualine-water-technology",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-006",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Senior Sales Engineer in Jordan; technical entry point. Tender ownership/independent consultant credentials unconfirmed.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-08",
+      "company_id": "aquatec",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-004",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "BD Manager with South Australia pump/sewer remit. Referral-only for Cairns/Queensland project owner.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-04",
+      "company_id": "badger-meter",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-002",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "National Sales Manager confirmed by profile; Canadian municipal-metering remit unknown. Referral-first contact.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-01",
+      "company_id": "bridewell",
+      "associations": [
+        {
+          "delivery_route": "SINGLE_E2E",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-001",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Commercial decision-maker candidate; cyber/CNI services remit supported by professional profile. Start-date discrepancy; current title needs final check.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-11",
+      "company_id": "ingesat-simm",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-007",
+          "willingness": "UNKNOWN"
+        },
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-008",
+          "willingness": "UNKNOWN"
+        },
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-009",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Jefe de Desarrollo, infrastructure/energy/BIM profile. Tender authority unconfirmed; ask for bid-owner referral.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-09",
+      "company_id": "mena-water",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-006",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Clay profile says regional sales/BD; custom enrichment could not corroborate current employment. Reconfirm before use.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-03",
+      "company_id": "metercor-inc",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-002",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Director of Business Development; reasonable commercial entry point. Authority and installed-base qualifications not independently confirmed.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-02",
+      "company_id": "ovarro",
+      "associations": [
+        {
+          "delivery_route": "SINGLE_E2E",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-001",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "UK sales/utility telemetry lead supported by Ovarro news; relevant first contact, OT specialist commitment not established.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-06",
+      "company_id": "ovarro",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-003",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Global leakage leadership supported by company case study and professional sources; strong technical-commercial candidate.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-13",
+      "company_id": "ovarro",
+      "associations": [
+        {
+          "delivery_route": "SINGLE_E2E",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-001",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Cached UK telemetry contact retained independently. SINGLE_E2E MDR is the first option; do not seek a counterpart unless a residual telemetry scope is established. HOLD.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-12",
+      "company_id": "proingesa-cl",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-007",
+          "willingness": "UNKNOWN"
+        },
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-008",
+          "willingness": "UNKNOWN"
+        },
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-009",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Gerente General, current professional profile plus historical corporate mentions. Appropriate executive candidate; recheck incumbency.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-07",
+      "company_id": "sage-automation",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-004",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Current BD remit concerns special-purpose machinery/OEM. Referral-only for water/Queensland bid owner.",
+      "qualification": "NOT_ESTABLISHED"
+    },
+    {
+      "contact_id": "CONTACT-05",
+      "company_id": "wrp-consulting-engineers",
+      "associations": [
+        {
+          "delivery_route": "UNRESOLVED",
+          "eligibility": "REVIEW_REQUIRED",
+          "outreach_state": "HOLD",
+          "tender_id": "UT-003",
+          "willingness": "UNKNOWN"
+        },
+        {
+          "delivery_route": "CONSORTIUM",
+          "eligibility": "REVIEW_REQUIRED",
+          "match_status": "NO_PAIR_FOUND",
+          "next_review": "2026-09-14",
+          "outreach_state": "HOLD",
+          "reason": "MISSING_COMPLEMENTARY_COMPANY",
+          "tender_id": "UT-014",
+          "willingness": "UNKNOWN"
+        }
+      ],
+      "remit_confidence": "Technical Director; strong NRW technical dialogue candidate. Authority to bind a consortium not established.",
+      "qualification": "NOT_ESTABLISHED"
+    }
+  ],
+  "commercial_terms": "UNKNOWN; no revenue forecast calculated"
+}

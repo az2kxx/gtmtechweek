@@ -1,14 +1,13 @@
-# Email draft — Enzo Gaete
+# UT-008 / CONTACT-11: email draft
 
-Unsent; qualification and current tender checks required.
-
-## Offer
-HV equipment erection, protection/control testing and commissioning candidate
+HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
 
 ## Subject
+
 Posible cooperación técnica: lotes ENGIE 220 kV
 
-## Initial email
+## Initial
+
 Hola Enzo,
 
 Estoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.
@@ -20,6 +19,7 @@ La hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas d
 Si prefieres no recibir más mensajes, dímelo.
 
 ## Follow-up 1
+
 Hola Enzo,
 
 Retomo la posible cooperación con Proingesa. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.
@@ -27,6 +27,7 @@ Retomo la posible cooperación con Proingesa. ¿Podéis confirmar si existe una 
 ¿Eres la persona adecuada para revisar ese punto?
 
 ## Follow-up 2
+
 Hola Enzo,
 
 Una agenda concreta para evaluar el encaje con Proingesa: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.
@@ -34,6 +35,7 @@ Una agenda concreta para evaluar el encaje con Proingesa: elegir el lote, separa
 También conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?
 
 ## Follow-up 3
+
 Hola Enzo,
 
 Antes de plantear una presentación con Roberto Niño, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.
@@ -41,6 +43,7 @@ Antes de plantear una presentación con Roberto Niño, faltaría revisar referen
 ¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?
 
 ## Follow-up 4
+
 Hola Enzo,
 
 Cierro por ahora esta propuesta de diálogo con Proingesa. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.

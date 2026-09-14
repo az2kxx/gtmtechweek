@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-009-W37",
+  "tender_id": "UT-009",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: eligible transmission EPC; SME: reactor OEM / protection and commissioning; Integrator: OEM-civil-control interface coordination",
+  "interfaces": [
+    "Prime: eligible transmission EPC",
+    "SME: reactor OEM / protection and commissioning",
+    "Integrator: OEM-civil-control interface coordination"
+  ],
+  "requirements_evidence": [
+    "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+  ],
+  "eligibility_gaps": [
+    "Bases-holder",
+    "Reactor OEM",
+    "EPC lead"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Check participant status and reactor package before any technical introduction.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: eligible transmission EPC; SME: reactor OEM / protection and commissioning; Integrator: OEM-civil-control interface coordination",
+  "gates": "Bases-holder; Reactor OEM; EPC lead"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-016-W37",
+  "tender_id": "UT-016",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: water rehabilitation contractor; Integrator: design-supply-site interfaces; SME: specified equipment/installation",
+  "interfaces": [
+    "Prime: water rehabilitation contractor",
+    "Integrator: design-supply-site interfaces",
+    "SME: specified equipment/installation"
+  ],
+  "requirements_evidence": [
+    "https://www.ungm.org/Public/Notice/312888"
+  ],
+  "eligibility_gaps": [
+    "Deadline conflict",
+    "Site access",
+    "Qualified lead and pack"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Resolve header/body close and obtain specifications before classifying bid eligibility.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: water rehabilitation contractor; Integrator: design-supply-site interfaces; SME: specified equipment/installation",
+  "gates": "Deadline conflict; Site access; Qualified lead and pack"
+}

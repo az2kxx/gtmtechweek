@@ -1,35 +1,164 @@
 {
-  "id": "UT-002",
-  "title": "Water metering upgrades",
-  "buyer": "Town of Amherst",
-  "region": "North America",
-  "country": "Canada",
-  "official_reference": "RFP-26-09",
-  "source_url": "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html",
-  "deadline": "2026-09-22",
-  "deadline_caveat": "14:00 local; America/Halifax",
-  "status": "Tender — eligibility review",
-  "evidence_grade": "Buyer RFP reviewed",
-  "evidence_date": "2026-09-04",
-  "next_action": "Assess lead experience and obtain addenda",
-  "technology": {
-    "Utility sector": "Water",
-    "Technology / function": "AMI/AMR; ultrasonic meters",
-    "Software evidence": "Meter-data software; analytics",
-    "Hardware evidence": "Meters; endpoints; communications",
-    "Suggested delivery bundle": "Experienced metering prime + software/network specialists",
-    "Smaller-party role": "Integration; training; support. Town installs most meters.",
-    "Participation caveat": "Named subcontractors allowed",
-    "Evidence / source": "RFP §§1,13,18. https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
-  },
-  "pair_ids": [
-    "PAIR-02"
-  ],
   "actor_ids": [
     "CONTACT-03",
     "CONTACT-04"
   ],
-  "delivery_route": "CONSORTIUM",
-  "outreach_state": "DRAFT_ONLY",
-  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "America/Halifax; local Atlantic time, offset inferred",
+    "value": "2026-09-22T14:00:00-03:00"
+  },
+  "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "buyer": "Town of Amherst",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Canada",
+  "deadline": "2026-09-22",
+  "deadline_caveat": "2026-09-22T14:00:00-03:00; America/Halifax; local Atlantic time, offset inferred",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "20,000-meter evidence",
+    "Canada commercial owner",
+    "Firm package pricing"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "ENQUIRIES",
+      "value": "2026-09-10"
+    }
+  ],
+  "eligibility": "Five years' industry experience; at least 20,000 active-service meters; comparable municipal references. Named subcontractors permitted; candidate proof missing.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-002",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "Metercor / Badger Meter candidate route; Canadian remit and thresholds need evidence",
+  "missing_partner_roles": [
+    "20,000-meter evidence",
+    "Canada commercial owner",
+    "Firm package pricing"
+  ],
+  "next_action": "Assess eligible existing proposal route; enquiry window has ended.",
+  "official_reference": "RFP-26-09",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "PAIR-02",
+    "OPTION-UT-002-W37"
+  ],
+  "payment_security": "Net 30 after approved work; no prepayment unless approved. No proposal, bid, performance or labour/material security required.",
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "procurement_transaction_type": "Municipal RFP: supply, software and integration",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: compliant AMI offer and references",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: architecture, MDM onboarding and acceptance",
+      "inferred": true
+    },
+    {
+      "description": "SME: communications survey, training/support",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-08-20"
+  },
+  "region": "North America",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: compliant AMI offer and references",
+      "Integrator: architecture, MDM onboarding and acceptance",
+      "SME: communications survey, training/support"
+    ],
+    "software_hardware": "Required: meter data management, configuration, integration, licensing; portal/cloud if applicable. Existing software not established. Required: ultrasonic meters, endpoints and communications infrastructure; initial schedule 330 meters. Existing 3,669 mixed-brand accounts, including 330 MXUs.",
+    "unverified_gaps": [
+      "20,000-meter evidence",
+      "Canada commercial owner",
+      "Firm package pricing"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Enquiry cutoff 10 September now passed; closing remains 22 September in retained official pack.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Phased five-year program subject to approvals. Initial meters: 239×5/8in, 13×3/4in, 25×1in, 16×1.5in, 24×2in, 9×3in, 4×4in.",
+  "source_url": "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html",
+  "source_urls": [
+    "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Evidence / source": "RFP §§1,13,18. https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html",
+    "Hardware evidence": "Required: ultrasonic meters, endpoints and communications infrastructure; initial schedule 330 meters. Existing 3,669 mixed-brand accounts, including 330 MXUs.",
+    "Participation caveat": "Five years' industry experience; at least 20,000 active-service meters; comparable municipal references. Named subcontractors permitted; candidate proof missing.",
+    "Smaller-party role": "Integration; training; support. Town installs most meters.",
+    "Software evidence": "Required: meter data management, configuration, integration, licensing; portal/cloud if applicable. Existing software not established.",
+    "Suggested delivery bundle": "Prime: compliant AMI offer and references; Integrator: architecture, MDM onboarding and acceptance; SME: communications survey, training/support",
+    "Technology / function": "AMI/AMR; ultrasonic meters",
+    "Utility sector": "Water"
+  },
+  "title": "Water metering upgrades",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "Fixed budget not disclosed; quotations EXCLUDING_HST",
+    "currency": "CAD"
+  },
+  "version_history": [
+    {
+      "change": "Recheck expanded: 330 initial units, 3,669-account estate, enquiry date and payment/security terms separated.",
+      "deadline": "2026-09-22T14:00:00-03:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Enquiry cutoff 10 September now passed; closing remains 22 September in retained official pack.",
+      "source_urls": [
+        "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
 }

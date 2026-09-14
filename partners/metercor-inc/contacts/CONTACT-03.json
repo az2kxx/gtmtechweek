@@ -11,5 +11,23 @@
   "willingness": "UNKNOWN",
   "pair_ids": [
     "PAIR-02"
+  ],
+  "next_review": "2026-09-14",
+  "cache_review": {
+    "identity_role_email_evidence_date": "2026-09-04",
+    "read_from_existing_CRM": "2026-09-07",
+    "new_enrichment": false,
+    "role_email_review_days": 30,
+    "capability_review_days": 90,
+    "negative_search_review_days": 30
+  },
+  "tender_associations": [
+    {
+      "tender_id": "UT-002",
+      "delivery_route": "UNRESOLVED",
+      "outreach_state": "HOLD",
+      "eligibility": "REVIEW_REQUIRED",
+      "willingness": "UNKNOWN"
+    }
   ]
 }

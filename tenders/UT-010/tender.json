@@ -1,30 +1,168 @@
 {
-  "id": "UT-010",
-  "title": "Sewer flooding mitigation framework",
-  "buyer": "United Utilities Water",
-  "region": "Europe",
-  "country": "United Kingdom",
-  "official_reference": "PRO005115",
-  "source_url": "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK",
-  "deadline": "2026-09-28",
-  "deadline_caveat": "16:00 UK time",
-  "status": "Tender — full pack needed",
-  "evidence_grade": "Buyer-hosted listing only",
-  "evidence_date": "2026-09-04",
-  "next_action": "Retrieve scope, lots and eligibility",
-  "technology": {
-    "Utility sector": "Wastewater",
-    "Technology / function": "Flood mitigation; methods unspecified",
-    "Software evidence": "Unknown",
-    "Hardware evidence": "Unknown",
-    "Suggested delivery bundle": "Proposed: civil lead + survey/design specialists",
-    "Smaller-party role": "Potential: surveys; design; civil works",
-    "Participation caveat": "Verify actual work packages in tender pack",
-    "Evidence / source": "Listing confirms title only. https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
-  },
-  "pair_ids": [],
   "actor_ids": [],
+  "bid_deadline": {
+    "conflict": "Full-text 28 September; summary 29 September. Use earlier full-text date provisionally.",
+    "precision": "MINUTE",
+    "timezone": "Europe/London; BST inferred",
+    "value": "2026-09-28T16:00:00+01:00"
+  },
+  "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "buyer": "United Utilities Water",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "MEDIUM_OR_LOW"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "United Kingdom",
+  "deadline": "2026-09-28",
+  "deadline_caveat": "2026-09-28T16:00:00+01:00; Europe/London; BST inferred; Full-text 28 September; summary 29 September. Use earlier full-text date provisionally.",
   "delivery_route": "UNRESOLVED",
-  "outreach_state": "DRAFT_ONLY",
-  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+  "dependencies": [
+    "Full pack",
+    "E2E lead",
+    "Quantity and legal gates"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "UPCOMING",
+      "type": "ENQUIRIES",
+      "value": "2026-09-21T16:00:00+01:00"
+    },
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "EU_SUPPLY_PACK_AND_REGISTRATION",
+      "value": "UNKNOWN"
+    }
+  ],
+  "eligibility": "Legal/financial/technical selection requirements in unavailable EU-supply pack.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-010",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Full pack",
+    "E2E lead",
+    "Quantity and legal gates"
+  ],
+  "next_action": "Recover EU-supply pack and resolve summary deadline; no invented actors.",
+  "official_reference": "PRO005115",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-010-W37"
+  ],
+  "payment_security": "Payment/security UNKNOWN. Published 0% framework supplier fee is not the integrator's fee.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "Utilities framework tender, single supplier",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: full flood-prevention responsibility",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: supplier/works interface qualification",
+      "inferred": true
+    },
+    {
+      "description": "SME: valve/gate supply or installation if permitted",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-08-28; EU-supply listing 27 August"
+  },
+  "region": "Europe",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: full flood-prevention responsibility",
+      "Integrator: supplier/works interface qualification",
+      "SME: valve/gate supply or installation if permitted"
+    ],
+    "software_hardware": "Requirements UNKNOWN; do not assume a software package from CPV scope. Flood control valves/gates and sewer-related flood prevention; quantities UNKNOWN.",
+    "unverified_gaps": [
+      "Full pack",
+      "E2E lead",
+      "Quantity and legal gates"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Single supplier, one lot; 10 November 2026–31 March 2030, options to 2040.",
+  "source_url": "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK",
+  "source_urls": [
+    "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
+  ],
+  "stage": "FRAMEWORK_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "FRAMEWORK TENDER",
+  "technology": {
+    "Evidence / source": "Listing confirms title only. https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK",
+    "Hardware evidence": "Flood control valves/gates and sewer-related flood prevention; quantities UNKNOWN.",
+    "Participation caveat": "Legal/financial/technical selection requirements in unavailable EU-supply pack.",
+    "Smaller-party role": "Potential: surveys; design; civil works",
+    "Software evidence": "Requirements UNKNOWN; do not assume a software package from CPV scope.",
+    "Suggested delivery bundle": "Prime: full flood-prevention responsibility; Integrator: supplier/works interface qualification; SME: valve/gate supply or installation if permitted",
+    "Technology / function": "Flood mitigation; methods unspecified",
+    "Utility sector": "Wastewater"
+  },
+  "title": "Sewer flooding mitigation framework",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": 20780000,
+    "basis": "ESTIMATED_FRAMEWORK_CEILING; no guaranteed call-off",
+    "currency": "GBP",
+    "including_vat": 24936000,
+    "tax": "EXCLUDING_VAT"
+  },
+  "version_history": [
+    {
+      "change": "Official mirror recovered, framework ceiling and date conflict documented.",
+      "deadline": "2026-09-28T16:00:00+01:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
+      ],
+      "stage": "FRAMEWORK_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
 }

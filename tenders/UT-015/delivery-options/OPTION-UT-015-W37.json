@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-015-W37",
+  "tender_id": "UT-015",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: qualified local water works delivery; Integrator: survey, procurement and acceptance coordination; SME: pumps/pipes/installation only if specifications establish",
+  "interfaces": [
+    "Prime: qualified local water works delivery",
+    "Integrator: survey, procurement and acceptance coordination",
+    "SME: pumps/pipes/installation only if specifications establish"
+  ],
+  "requirements_evidence": [
+    "https://www.ungm.org/Public/Notice/312894"
+  ],
+  "eligibility_gaps": [
+    "Site access and logistics",
+    "Eligible local lead",
+    "ITB specifications"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Review 9–10 September site access first; retain risk/eligibility HOLD.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: qualified local water works delivery; Integrator: survey, procurement and acceptance coordination; SME: pumps/pipes/installation only if specifications establish",
+  "gates": "Site access and logistics; Eligible local lead; ITB specifications"
+}

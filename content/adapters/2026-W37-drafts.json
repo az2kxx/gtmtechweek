@@ -1,0 +1,72 @@
+{
+  "id": "CONTENT-W37-ADAPTERS",
+  "run_key": "gtmtechweek-2026-W37",
+  "state": "HOLD",
+  "mentic": {
+    "state": "DRAFT_ONLY_NOT_CONNECTED",
+    "media_budget": 0,
+    "currency": null,
+    "approved_budget": false,
+    "cohorts": [
+      "Bangladesh gas EPC and Category1.4 installation",
+      "Bangladeshi transformer bidders/OEMs",
+      "Southern Africa municipal/NRW transaction advisors",
+      "Australia utility SCADA and communications specialists"
+    ],
+    "evidence": [
+      "https://www.bppa.gov.bd/advertisement-goods/details-98305.html",
+      "https://www.bppa.gov.bd/advertisement-goods/details-98319.html",
+      "https://www.dbsa.org/procurement",
+      "https://portal.tenderlink.com/cairns/alltenders/"
+    ],
+    "landing_page": "https://gtmtechweek-tender-observatory.adrian-k-zebrowski.chatgpt.site",
+    "cta": "Proposed capability intake; form and approval not implemented",
+    "utm_source": "mentic",
+    "utm_medium": "paid",
+    "utm_campaign": "gtmtechweek-capability-intake-w37",
+    "campaign_id": null,
+    "activation_blockers": [
+      "Account/workspace entitlement and spend controls untested",
+      "Approved currency/budget missing",
+      "CTA intake and feedback round-trip untested"
+    ]
+  },
+  "surfer": {
+    "state": "DRAFT_ONLY_NOT_CONNECTED",
+    "content_id": "utility-system-interfaces-and-acceptance",
+    "path": "content/blog/utility-system-interfaces-and-acceptance.md",
+    "language": "en",
+    "region": "Global",
+    "intent": "Utility supplier participation and integration guidance",
+    "outline": [
+      "Installed estate versus new purchase",
+      "Interface acceptance responsibilities",
+      "Single-provider versus complementary route",
+      "Earlier gates",
+      "Agreed commercial service"
+    ],
+    "review_date": "2026-10-07",
+    "optimization_task_id": null,
+    "published": false
+  },
+  "heyreach": {
+    "state": "TRIAL_EXPIRED",
+    "new_enrichment": false,
+    "packets_path": "tenders/UT-xxx/actors/CONTACT-xx",
+    "campaign_id": null,
+    "activation": "NOT_REQUESTED",
+    "send_authorized": false
+  },
+  "shared_feedback": {
+    "one_active_channel_per_contact": true,
+    "reply": "Halt until classified",
+    "opt_out": "Suppress all outbound",
+    "cross_channel_pause_confirmed": false,
+    "enrollment_allowed": false,
+    "event_id": null,
+    "event_timestamp": null,
+    "source_event_id": null,
+    "old_events_may_not_overwrite_newer": true,
+    "inbound": "Persist capability intake even without match; do not infer introduction consent"
+  }
+}

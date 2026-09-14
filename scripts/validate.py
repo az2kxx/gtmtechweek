@@ -24,6 +24,6 @@ def validate():
             if p.is_file() and p.suffix in ['.json','.md','.html']:
                 text=p.read_text()
                 assert not re.search(r'[\w.+-]+@[\w.-]+\.[A-Za-z]{2,}',text),f'Direct email in public data: {p}'
-                assert not re.search(r'\b[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}\b',text),f'Private UUID in {p}'
+                assert not re.search(r'\b[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}\b',re.sub(r'https://documents1\.worldbank\.org/[^\s\"<>]+','PUBLIC_OFFICIAL_SOURCE_URL',text)),f'Private UUID in {p}'
     return {'tenders':len(tenders),'partners':len(companies),'actors':len(contacts),'actor_tender_packets':n,'email_drafts':n*5,'linkedin_sequences':n}
 if __name__=='__main__':print(json.dumps(validate()))

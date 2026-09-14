@@ -1,14 +1,13 @@
-# Email draft — Khalaf Dannoon
+# UT-006 / CONTACT-09: email draft
 
-Unsent; qualification and current tender checks required.
-
-## Offer
-Candidate instrumentation/control design support
+HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
 
 ## Subject
+
 Zarqa SCADA: independent design team check
 
-## Initial email
+## Initial
+
 Hi Khalaf,
 
 A reported Zarqa SCADA design-and-tender-assistance opportunity may merit a dialogue between MENA-Water’s instrumentation team and Aqualine’s Jordan engineering team. The idea would be local process knowledge plus vendor-neutral controls design.
@@ -20,6 +19,7 @@ Who would be best placed to assess the consultancy scope and independent-design 
 If this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.
 
 ## Follow-up 1
+
 Hi Khalaf,
 
 Following up on Zarqa SCADA design advisory lead. The first question is whether Aqualine Water Technology would add a distinct, necessary work package. For your side, I had in mind: candidate instrumentation/control design support.
@@ -27,6 +27,7 @@ Following up on Zarqa SCADA design advisory lead. The first question is whether 
 Is that a useful scope to explore, or should I speak with another owner?
 
 ## Follow-up 2
+
 Hi Khalaf,
 
 A practical agenda for the proposed Aqualine Water Technology discussion would be: official EOI; consultant independence; comparable SCADA design references; site surveys; interface specification; local permissions. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.
@@ -34,6 +35,7 @@ A practical agenda for the proposed Aqualine Water Technology discussion would b
 Which interface or qualification would you want to resolve first?
 
 ## Follow-up 3
+
 Hi Khalaf,
 
 For Zarqa SCADA design advisory lead, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.
@@ -41,6 +43,7 @@ For Zarqa SCADA design advisory lead, I would keep the commercial discussion tie
 Would you be comfortable assessing a possible introduction with Osaid Hardan at Aqualine Water Technology, once the access and scope questions are resolved?
 
 ## Follow-up 4
+
 Hi Khalaf,
 
 I’ll close this proposed Aqualine Water Technology introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.

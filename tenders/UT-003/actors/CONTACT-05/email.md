@@ -1,14 +1,13 @@
-# Email draft — Willem Wegelin
+# UT-003 / CONTACT-05: email draft
 
-Unsent; qualification and current tender checks required.
-
-## Offer
-NRW engineering, baseline design and performance measurement; not confirmed CIDB lead
+HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
 
 ## Subject
+
 DBSA NRW panel: a specialist teaming question
 
-## Initial email
+## Initial
+
 Hi Willem,
 
 The DBSA/WPO NRW contractor panel suggests a potential specialist pairing: WRP’s baseline and performance-measurement expertise with Ovarro’s leakage diagnostics. Your technical leadership looks relevant to testing that idea.
@@ -20,6 +19,7 @@ Would you be open to a 20-minute technical scoping discussion? If there is a fit
 If this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.
 
 ## Follow-up 1
+
 Hi Willem,
 
 Following up on DBSA/WPO NRW panel RFR001.2026. The first question is whether Ovarro would add a distinct, necessary work package. For your side, I had in mind: nRW engineering, baseline design and performance measurement; not confirmed CIDB lead.
@@ -27,6 +27,7 @@ Following up on DBSA/WPO NRW panel RFR001.2026. The first question is whether Ov
 Is that a useful scope to explore, or should I speak with another owner?
 
 ## Follow-up 2
+
 Hi Willem,
 
 A practical agenda for the proposed Ovarro discussion would be: DMA baseline; logger coverage; leak validation; repair handoff; savings attribution; payment evidence. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.
@@ -34,6 +35,7 @@ A practical agenda for the proposed Ovarro discussion would be: DMA baseline; lo
 Which interface or qualification would you want to resolve first?
 
 ## Follow-up 3
+
 Hi Willem,
 
 For DBSA/WPO NRW panel RFR001.2026, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.
@@ -41,6 +43,7 @@ For DBSA/WPO NRW panel RFR001.2026, I would keep the commercial discussion tied 
 Would you be comfortable assessing a possible introduction with Tony Gwynne at Ovarro, once the access and scope questions are resolved?
 
 ## Follow-up 4
+
 Hi Willem,
 
 I’ll close this proposed Ovarro introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.

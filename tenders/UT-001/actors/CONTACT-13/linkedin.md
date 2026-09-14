@@ -1,21 +1,27 @@
-# LinkedIn draft — Lewis Phelan
+# UT-001 / CONTACT-13: LinkedIn draft
 
-HeyReach trial expired. Draft only.
+HOLD — HeyReach trial expired; no delivery. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
 
-## Connection request
-Hi Lewis, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?
+## Invitation
 
-## After connection
-Thanks for connecting. I’m reviewing IT/OT managed detection and response. The possible role for your team is: Qualify utility telemetry remit and identify an appropriate scope owner. The first step is to establish the correct scope owner; no counterpart is confirmed. Would a short technical outline be useful?
+Hi Lewis, I qualify utility opportunities and coordinate technical scope discussions. Would you be open to connecting about IT/OT service interfaces?
+
+## Initial
+
+I am reviewing Southern Water Prj_8501. The first option is a single E2E MDR provider; a partner is only useful for a proven gap. I can prepare a scope/evidence matrix. Full-pack and deadline conflicts remain open. Is a brief technical review relevant to your remit?
 
 ## Follow-up 1
-Would it help if I shared a brief for IT/OT managed detection and response with the technical interfaces and open qualification questions?
+
+Would the existing-tooling and response-responsibility checklist be useful?
 
 ## Follow-up 2
-For your team, the working scope is Qualify utility telemetry remit and identify an appropriate scope owner. Which boundary would you want clarified before a scoping call?
+
+Which technical interface would decide whether your team has a role? No partner is assumed.
 
 ## Follow-up 3
-No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?
+
+Any introduction would require both parties’ consent. No bid, mandate or fee is agreed.
 
 ## Follow-up 4
-I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know.
+
+I’ll leave this on hold. A referral is welcome if relevant; an opt-out ends further contact.

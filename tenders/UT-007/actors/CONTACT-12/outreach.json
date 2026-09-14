@@ -1,7 +1,7 @@
 {
   "actor_id": "CONTACT-12",
   "tender_id": "UT-007",
-  "state": "DRAFT_ONLY",
+  "state": "HOLD",
   "technical_offer": "Multidisciplinary engineering and civil/electrical interface design candidate",
   "counterparty": "Ingesat SIMM",
   "email": {
@@ -26,5 +26,22 @@
   },
   "send_authorized": false,
   "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
-  "snapshot_date": "2026-09-04"
+  "snapshot_date": "2026-09-04",
+  "gate_review_date": "2026-09-07",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED",
+      "type": "BASES_PURCHASE",
+      "value": "2026-08-24"
+    },
+    {
+      "mandatory": true,
+      "state": "DATE_ONLY; default 23:59 local in bases",
+      "type": "ENQUIRIES",
+      "value": "2026-09-07"
+    }
+  ],
+  "delivery_route": "UNRESOLVED",
+  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender"
 }

@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "country": "South Africa",
+  "region": "Africa",
+  "delivery_route": "UNRESOLVED",
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-023-W38"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "lead_contractor_candidate": "UNKNOWN",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "evidence_date": "2026-09-14",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "id": "UT-023",
+  "title": "Tzaneen Dam drilling and grouting works",
+  "buyer": "Development Bank of Southern Africa",
+  "official_reference": "RFP134/2026",
+  "stage": "OPEN_TENDER",
+  "published": "2026-09-07",
+  "deadline": "2026-09-30",
+  "eligibility": "Compulsory on-site/online briefings listed; CIDB class/grade, references and financial gates UNKNOWN.",
+  "source_url": "https://www.dbsa.org/procurement",
+  "source_urls": [
+    "https://www.dbsa.org/procurement",
+    "https://www.dbsa.org/procurement"
+  ],
+  "status": "OPEN TENDER",
+  "published_amended": {
+    "published": "2026-09-07",
+    "amended": "UNKNOWN"
+  },
+  "bid_deadline": {
+    "value": "2026-09-30T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "Africa/Johannesburg, UTC+2; buyer time",
+    "conflict": null
+  },
+  "deadline_caveat": "2026-09-30T23:55:00+02:00 Johannesburg",
+  "earlier_gates": [
+    {
+      "type": "COMPULSORY_ONSITE_BRIEFING",
+      "value": "2026-09-16T11:00:00+02:00",
+      "state": "UPCOMING",
+      "mandatory": true
+    },
+    {
+      "type": "COMPULSORY_ONLINE_BRIEFING",
+      "value": "2026-09-18T11:00:00+02:00",
+      "state": "UPCOMING; confirm attendance requirements for both",
+      "mandatory": true
+    }
+  ],
+  "scope_quantities_delivery": "Drilling and grouting for Tzaneen Dam; quantities and delivery duration UNKNOWN because tender-volume retrieval failed.",
+  "technology": {
+    "Software evidence": "UNKNOWN; no software inferred.",
+    "Hardware evidence": "Specialist drilling/grouting works; plant, materials and quantities require technical pack."
+  },
+  "value": {
+    "currency": "ZAR",
+    "amount": null,
+    "basis": "UNKNOWN; no contract earnings inferred"
+  },
+  "procurement_transaction_type": "Works RFP",
+  "payment_security": "Budget, payment and security UNKNOWN.",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: eligible specialist dam contractor",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: plant/material/site interface qualification",
+      "inferred": true
+    },
+    {
+      "description": "SME: drilling, grouting or testing package if allowed",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Official technical pack",
+    "Eligible dam-works lead",
+    "Site access"
+  ],
+  "missing_partner_roles": [
+    "Official technical pack",
+    "Eligible dam-works lead",
+    "Site access"
+  ],
+  "next_action": "Check onsite 16 September and online 18 September briefings; do not assume one substitutes for the other.",
+  "evidence_grade": "Official buyer listing; technical pack unavailable",
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "finding": "NEW_TO_REGISTER on 14 September",
+    "notice_amendment_claimed": false
+  }
+}

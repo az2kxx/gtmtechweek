@@ -1,7 +1,7 @@
 {
   "actor_id": "CONTACT-03",
   "tender_id": "UT-002",
-  "state": "DRAFT_ONLY",
+  "state": "HOLD",
   "technical_offer": "Canadian metering delivery/integration lead candidate; training and support",
   "counterparty": "Badger Meter",
   "email": {
@@ -26,5 +26,16 @@
   },
   "send_authorized": false,
   "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
-  "snapshot_date": "2026-09-04"
+  "snapshot_date": "2026-09-04",
+  "gate_review_date": "2026-09-07",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "DATE_ONLY",
+      "type": "ENQUIRIES",
+      "value": "2026-09-10"
+    }
+  ],
+  "delivery_route": "UNRESOLVED",
+  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender"
 }

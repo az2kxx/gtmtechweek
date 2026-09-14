@@ -1,0 +1,161 @@
+{
+  "actor_ids": [],
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "Asia/Dhaka inferred from procuring entity; time published without zone",
+    "value": "2026-10-19T11:00:00+06:00"
+  },
+  "buyer": "Pashchimanchal Gas Company Limited (PGCL)",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Bangladesh",
+  "deadline": "2026-10-19",
+  "deadline_caveat": "2026-10-19T11:00:00+06:00; Asia/Dhaka inferred from procuring entity; time published without zone",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Gas EPC references",
+    "Local Category1.4 installer",
+    "OEM authorizations"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": false,
+      "state": "OPTIONAL",
+      "type": "OPTIONAL_BRIEFING",
+      "value": "2026-09-17T10:30:00+06:00"
+    },
+    {
+      "mandatory": true,
+      "state": "DATE_ONLY",
+      "type": "DOCUMENT_SALES",
+      "value": "2026-10-18"
+    }
+  ],
+  "eligibility": "Gas EPC in last 10 years ≥BDT100m and comparable station ≥20 MMSCFD; Petrobangla Category1.4 contractor or certified appointed subcontractor.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-011",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Gas EPC references",
+    "Local Category1.4 installer",
+    "OEM authorizations"
+  ],
+  "next_action": "Find eligible EPC/local installation capability; verify pack before document purchase.",
+  "official_reference": "28.18.0000.048.14.003.21/55MMSCFDDRS-R",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-011-W37"
+  ],
+  "payment_security": "Tender security BDT4,000,000 OR USD32,521. Document price 12,000; currency not explicit. Payment UNKNOWN.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "International competitive tender; single-stage two-envelope EPC",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: gas EPC/design",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: skid-civil-metering acceptance interfaces",
+      "inferred": true
+    },
+    {
+      "description": "SME: regulators, meters/EVC, valves, fabrication",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-09-03"
+  },
+  "region": "Asia / Middle East",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: gas EPC/design",
+      "Integrator: skid-civil-metering acceptance interfaces",
+      "SME: regulators, meters/EVC, valves, fabrication"
+    ],
+    "software_hardware": "Electronic volume corrector required; standalone SCADA/software not stated. 55 MMSCFD DRS: regulators, turbine meter/EVC, filter separator, valves, piping and fittings.",
+    "unverified_gaps": [
+      "Gas EPC references",
+      "Local Category1.4 installer",
+      "OEM authorizations"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Design, supply, civil/electromechanical installation and commissioning; Sirajganj industrial park; 14 months.",
+  "source_url": "https://www.bppa.gov.bd/advertisement-goods/details-98305.html",
+  "source_urls": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98305.html"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Hardware evidence": "55 MMSCFD DRS: regulators, turbine meter/EVC, filter separator, valves, piping and fittings.",
+    "Participation caveat": "Gas EPC in last 10 years ≥BDT100m and comparable station ≥20 MMSCFD; Petrobangla Category1.4 contractor or certified appointed subcontractor.",
+    "Software evidence": "Electronic volume corrector required; standalone SCADA/software not stated.",
+    "Suggested delivery bundle": "Prime: gas EPC/design; Integrator: skid-civil-metering acceptance interfaces; SME: regulators, meters/EVC, valves, fabrication"
+  },
+  "title": "55 MMSCFD gas district regulating station — EPC",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "Budget not disclosed",
+    "currency": "BDT"
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER; fresh notice within overlap.",
+      "deadline": "2026-10-19T11:00:00+06:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.bppa.gov.bd/advertisement-goods/details-98305.html"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://www.bppa.gov.bd/advertisement-goods/details-98305.html"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+}

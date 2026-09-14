@@ -4,12 +4,30 @@
   "company_id": "ovarro",
   "title": "Regional Sales Manager UK South and Ireland",
   "profile_url": "https://www.linkedin.com/in/lewis-phelan-a8383023",
-  "role_assessment": "Candidate UK telemetry contact. Tender authority and counterpart unqualified.",
+  "role_assessment": "Cached UK telemetry contact retained independently. SINGLE_E2E MDR is the first option; do not seek a counterpart unless a residual telemetry scope is established. HOLD.",
   "evidence_date": "2026-09-04",
   "email_status": "NOT_AVAILABLE",
   "dialogue_state": "NOT_CONTACTED",
   "willingness": "UNKNOWN",
   "pair_ids": [],
-  "match_status": "NO_PAIR_FOUND",
-  "next_review": "2026-09-07"
+  "match_status": "ROLE_NOT_REQUIRED_FOR_PROPOSED_E2E",
+  "next_review": "2026-09-14",
+  "cache_review": {
+    "identity_role_email_evidence_date": "2026-09-04",
+    "read_from_existing_CRM": "2026-09-07",
+    "new_enrichment": false,
+    "role_email_review_days": 30,
+    "capability_review_days": 90,
+    "negative_search_review_days": 30
+  },
+  "tender_associations": [
+    {
+      "tender_id": "UT-001",
+      "delivery_route": "SINGLE_E2E",
+      "outreach_state": "HOLD",
+      "eligibility": "REVIEW_REQUIRED",
+      "willingness": "UNKNOWN"
+    }
+  ],
+  "previous_match_status": "NO_PAIR_FOUND"
 }

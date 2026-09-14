@@ -1,0 +1,161 @@
+{
+  "actor_ids": [],
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "GMT+2 explicit",
+    "value": "2026-09-22T17:30:00+02:00"
+  },
+  "buyer": "International Organization for Migration (IOM)",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "MEDIUM_OR_LOW"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Sudan",
+  "deadline": "2026-09-22",
+  "deadline_caveat": "2026-09-22T17:30:00+02:00; GMT+2 explicit",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Site access and logistics",
+    "Eligible local lead",
+    "ITB specifications"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": "UNKNOWN",
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "SITE_VISIT",
+      "value": "2026-09-09/2026-09-10 10:00–15:00 GMT+2"
+    },
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "ENQUIRIES",
+      "value": "2026-09-14T17:30:00+02:00"
+    }
+  ],
+  "eligibility": "Basic UNGM registration; site-visit mandatory status and other gates require ITB attachments.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-015",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Site access and logistics",
+    "Eligible local lead",
+    "ITB specifications"
+  ],
+  "next_action": "Establish site-visit requirement and bidder compliance before preparing a bid; Jebal Moya questions close 15 September 17:30 GMT+2.",
+  "official_reference": "ITB-SCU-AFDB-2026-034",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-015-W37"
+  ],
+  "payment_security": "Payment, bid/performance security UNKNOWN.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "UN agency ITB / works",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: qualified local water works delivery",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: survey, procurement and acceptance coordination",
+      "inferred": true
+    },
+    {
+      "description": "SME: pumps/pipes/installation only if specifications establish",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-08-31"
+  },
+  "region": "Africa",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: qualified local water works delivery",
+      "Integrator: survey, procurement and acceptance coordination",
+      "SME: pumps/pipes/installation only if specifications establish"
+    ],
+    "software_hardware": "UNKNOWN; no software inferred. Water-system rehabilitation; detailed equipment and quantities in unavailable attachments.",
+    "unverified_gaps": [
+      "Site access and logistics",
+      "Eligible local lead",
+      "ITB specifications"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Site-visit dates have ended; mandatory status remains unverified. Al-Rawat enquiry cutoff also passed.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Al-Rawat, White Nile; AfDB-labelled WASH works. Duration UNKNOWN.",
+  "source_url": "https://www.ungm.org/Public/Notice/312894",
+  "source_urls": [
+    "https://www.ungm.org/Public/Notice/312894"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Hardware evidence": "Water-system rehabilitation; detailed equipment and quantities in unavailable attachments.",
+    "Participation caveat": "Basic UNGM registration; site-visit mandatory status and other gates require ITB attachments.",
+    "Software evidence": "UNKNOWN; no software inferred.",
+    "Suggested delivery bundle": "Prime: qualified local water works delivery; Integrator: survey, procurement and acceptance coordination; SME: pumps/pipes/installation only if specifications establish"
+  },
+  "title": "Al-Rawat water-supply rehabilitation",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "UNKNOWN",
+    "currency": null
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER; fresh official notice.",
+      "deadline": "2026-09-22T17:30:00+02:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.ungm.org/Public/Notice/312894"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Site-visit dates have ended; mandatory status remains unverified. Al-Rawat enquiry cutoff also passed.",
+      "source_urls": [
+        "https://www.ungm.org/Public/Notice/312894"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+}

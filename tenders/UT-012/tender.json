@@ -1,0 +1,199 @@
+{
+  "actor_ids": [],
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "Asia/Dhaka inferred",
+    "value": "2026-09-28T12:00:00+06:00"
+  },
+  "buyer": "Bangladesh Rural Electrification Board",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Bangladesh",
+  "deadline": "2026-09-28",
+  "deadline_caveat": "2026-09-28T12:00:00+06:00; Asia/Dhaka inferred",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Bangladeshi bidder",
+    "Quantities",
+    "Manufacturer qualifications"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "DATE_ONLY",
+      "type": "DOCUMENT_SALES",
+      "value": "2026-09-27"
+    }
+  ],
+  "eligibility": "Only Bangladeshi tenderers. Non-Bangladeshi direct prime EXCLUDED; indirect OEM role subject to pack.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-012",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "lots": [
+    {
+      "quantity": "UNKNOWN",
+      "reference": "PBSF/26-27/G-5",
+      "security_bdt": 6000000
+    },
+    {
+      "quantity": "UNKNOWN",
+      "reference": "PBSF/26-27/G-7",
+      "security_bdt": 6000000
+    },
+    {
+      "quantity": "UNKNOWN",
+      "reference": "PBSF/26-27/G-15",
+      "security_bdt": 6000000
+    },
+    {
+      "quantity": "UNKNOWN",
+      "reference": "PBSF/26-27/G-20",
+      "security_bdt": 6000000
+    },
+    {
+      "quantity": "UNKNOWN",
+      "reference": "PBSF/26-27/G-21",
+      "security_bdt": 6000000
+    },
+    {
+      "quantity": "UNKNOWN",
+      "reference": "PBSF/25-26/G-24",
+      "security_bdt": 6000000,
+      "previous_reference": "PBSF/26-27/G-24"
+    },
+    {
+      "quantity": "UNKNOWN",
+      "reference": "PBSF/26-27/G-25",
+      "security_bdt": 3500000
+    },
+    {
+      "quantity": "UNKNOWN",
+      "reference": "PBSF/25-26/G-27",
+      "security_bdt": 6000000,
+      "previous_reference": "PBSF/26-27/G-27"
+    }
+  ],
+  "missing_partner_roles": [
+    "Bangladeshi bidder",
+    "Quantities",
+    "Manufacturer qualifications"
+  ],
+  "next_action": "Use corrected G-24/G-27 package-year references; Bangladeshi-prime restriction still applies.",
+  "official_reference": "27.12.0000.019.07.233.26.296",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-012-W37"
+  ],
+  "payment_security": "Documents BDT5,000 each. Security BDT6,000,000 each except G-25 BDT3,500,000. Payment UNKNOWN.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "National competitive goods tender",
+  "proposed_work_packages": [
+    {
+      "description": "Eligible local prime: supply and warranties",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: OEM compliance/logistics matrix",
+      "inferred": true
+    },
+    {
+      "description": "SME/OEM: specified transformer packages",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "2026-09-10, corrigendum",
+    "published": "2026-09-06; invitation dated 1 September"
+  },
+  "region": "Asia / Middle East",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Eligible local prime: supply and warranties",
+      "Integrator: OEM compliance/logistics matrix",
+      "SME/OEM: specified transformer packages"
+    ],
+    "software_hardware": "None specified. Distribution transformers 5–50kVA; 10/14MVA three-phase power transformers with vacuum OLTC. Quantities UNKNOWN.",
+    "unverified_gaps": [
+      "Bangladeshi bidder",
+      "Quantities",
+      "Manufacturer qualifications"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "AMENDMENT: G-24/G-27 corrected from PBSF/26-27 to PBSF/25-26; 28 September close unchanged.",
+    "notice_amendment_claimed": true
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Eight separate packages; delivery per pack.",
+  "source_url": "https://www.bppa.gov.bd/advertisement-goods/details-98319.html",
+  "source_urls": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98319.html"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Hardware evidence": "Distribution transformers 5–50kVA; 10/14MVA three-phase power transformers with vacuum OLTC. Quantities UNKNOWN.",
+    "Participation caveat": "Only Bangladeshi tenderers. Non-Bangladeshi direct prime EXCLUDED; indirect OEM role subject to pack.",
+    "Software evidence": "None specified.",
+    "Suggested delivery bundle": "Eligible local prime: supply and warranties; Integrator: OEM compliance/logistics matrix; SME/OEM: specified transformer packages"
+  },
+  "title": "Distribution and power transformers — eight packages",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "Budget not disclosed",
+    "currency": "BDT"
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER; national-prime restriction evidenced.",
+      "deadline": "2026-09-28T12:00:00+06:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.bppa.gov.bd/advertisement-goods/details-98319.html"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "AMENDMENT: G-24/G-27 corrected from PBSF/26-27 to PBSF/25-26; 28 September close unchanged.",
+      "source_urls": [
+        "https://www.bppa.gov.bd/advertisement-goods/details-98319.html"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+}

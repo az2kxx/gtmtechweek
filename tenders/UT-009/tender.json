@@ -1,35 +1,171 @@
 {
-  "id": "UT-009",
-  "title": "Roncacho 220 kV line reactor",
-  "buyer": "Edelnor / ENGIE",
-  "region": "South America",
-  "country": "Chile",
-  "official_reference": "24_266_OA_01",
-  "source_url": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
-  "deadline": "2026-12-16",
-  "deadline_caveat": "Same procedure as UT-007",
-  "status": "Tender — earlier gate passed",
-  "evidence_grade": "Rev.0 reviewed; amendments pending",
-  "evidence_date": "2026-09-04",
-  "next_action": "Check registered participant route",
-  "technology": {
-    "Utility sector": "Electricity",
-    "Technology / function": "220 kV reactor",
-    "Software evidence": "Unspecified",
-    "Hardware evidence": "Line reactor",
-    "Suggested delivery bundle": "Proposed: EPC + reactor OEM",
-    "Smaller-party role": "Inferred: reactor supply; commissioning",
-    "Participation caveat": "See UT-007",
-    "Evidence / source": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
-  },
-  "pair_ids": [
-    "PAIR-06"
-  ],
   "actor_ids": [
     "CONTACT-11",
     "CONTACT-12"
   ],
-  "delivery_route": "CONSORTIUM",
-  "outreach_state": "DRAFT_ONLY",
-  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "America/Santiago; offset inferred for December",
+    "value": "2026-12-16T16:00:00-03:00"
+  },
+  "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "buyer": "Edelnor Transmisión S.A. / ENGIE procurement",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Chile",
+  "deadline": "2026-12-16",
+  "deadline_caveat": "2026-12-16T16:00:00-03:00; America/Santiago; offset inferred for December",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Bases-holder",
+    "Reactor OEM",
+    "EPC lead"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "BASES_PURCHASE",
+      "value": "2026-08-24"
+    },
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "ENQUIRIES",
+      "value": "2026-09-07"
+    }
+  ],
+  "eligibility": "Timely bases purchase not evidenced for candidates. Future closing date is insufficient.",
+  "evidence_date": "2026-09-07",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-009",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-07",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Bases-holder",
+    "Reactor OEM",
+    "EPC lead"
+  ],
+  "next_action": "Check participant status and reactor package before any technical introduction.",
+  "official_reference": "24_266_OA_01",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "PAIR-06",
+    "OPTION-UT-009-W37"
+  ],
+  "payment_security": "Progress/milestone payments; securities UNKNOWN.",
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "procurement_transaction_type": "Transmission-owner works tender",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: eligible transmission EPC",
+      "inferred": true
+    },
+    {
+      "description": "SME: reactor OEM / protection and commissioning",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: OEM-civil-control interface coordination",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-07-07"
+  },
+  "region": "South America",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: eligible transmission EPC",
+      "SME: reactor OEM / protection and commissioning",
+      "Integrator: OEM-civil-control interface coordination"
+    ],
+    "software_hardware": "Protection/control design inferred; specifications UNKNOWN. Roncacho 1×220kV reactor position; detailed ratings require technical bases.",
+    "unverified_gaps": [
+      "Bases-holder",
+      "Reactor OEM",
+      "EPC lead"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "24_266_OA_01; 42 months; separate lot under common July Rev.0 procedure.",
+  "source_url": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
+  "source_urls": [
+    "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+  ],
+  "stage": "OPEN_TENDER_GATED",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER GATED",
+  "technology": {
+    "Evidence / source": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
+    "Hardware evidence": "Roncacho 1×220kV reactor position; detailed ratings require technical bases.",
+    "Participation caveat": "Timely bases purchase not evidenced for candidates. Future closing date is insufficient.",
+    "Smaller-party role": "Inferred: reactor supply; commissioning",
+    "Software evidence": "Protection/control design inferred; specifications UNKNOWN.",
+    "Suggested delivery bundle": "Prime: eligible transmission EPC; SME: reactor OEM / protection and commissioning; Integrator: OEM-civil-control interface coordination",
+    "Technology / function": "220 kV reactor",
+    "Utility sector": "Electricity"
+  },
+  "title": "Roncacho 220 kV line reactor",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": 4838285,
+    "basis": "REFERENCE_INVESTMENT_VI; not bidder revenue",
+    "currency": "USD",
+    "tax": "UNKNOWN"
+  },
+  "version_history": [
+    {
+      "change": "Reference investment and delivery period verified; no amount treated as expected income.",
+      "deadline": "2026-12-16T16:00:00-03:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+      ],
+      "stage": "OPEN_TENDER_GATED",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": null,
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "recheck_failure": "14 September retrieval did not refresh full official notice. Prior evidence retained, not relabelled fresh."
 }

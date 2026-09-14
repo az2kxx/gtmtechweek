@@ -1,3 +1,23 @@
+# Current handover — 14 September 2026
+
+The current research register has 23 tender dossiers, 12 companies, 13 cached named contacts and 18 HOLD outreach packets. Read research/2026-W38/digest.md, source-coverage.md and executions/2026-W38/run.json for evidence and unresolved gates.
+
+The unfinished 7 September flow was resumed on 14 September under the same logical key gtmtechweek-2026-W37 and the same 299 DATA-credit ledger: 0 spent, 0 reserved. The W38 file is a continuation checkpoint, not a second paid allowance. Keep both actual timestamps and evidence dates. Do not relabel cached September 4 contact enrichment as fresh.
+
+Actual scheduled GitHub replay succeeded on 8 September: https://github.com/az2kxx/gtmtechweek/actions/runs/34174340903 . That was cached validation, not fresh research. Repository reads and connector tree creation now work; final branch publication and Site status are recorded in the current run, not inferred from permission flags.
+
+Material changes: RFR001 Addendum2 extends closing to 30 September while retaining other gates; REB G-24/G-27 references change to PBSF/25-26; Ashghal lists 29 September. New RFP166 TSO advice, IPP legal panel and RFP134 dam works require urgent early-gate review. Full live World Bank notices remain inaccessible. Several compulsory briefings/site visits have passed.
+
+Attio: private contact/history mirror retained. Eighteen notes were verified in the 7 September checkpoint; subsequent continuation outcomes are appended, never destructive. No consent, suppression, reply or campaign state reset. No new contacts invented. New unidentified suppliers have research-needed files. WRP remains without a confirmed transaction-advisory counterpart; Southern Water is E2E-first.
+
+Commercial terms, payer, mandate and actual collected revenue remain unknown. No personalized member matching until profiles are supplied. No contacts/bids/registrations/document purchases/ads/posts authorized. Distribution is optional; HeyReach expired.
+
+The dashboard UI supports fresh versus replay labels, complete early-gate display, 23 tender dialogs and source-coverage diagnostics. Run data always identifies publication outcomes. Preserve remote Actions commits and use fast-forward-only updates. Local checks do not prove live enrichment/distribution or eligibility.
+
+The sections below are historical handover context from 5 September. Any publication blockers/counts there are superseded by the dated evidence above and current run JSON.
+
+---
+
 # Start here: gtmtechweek continuation
 
 ## Objective and ownership

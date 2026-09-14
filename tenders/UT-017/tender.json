@@ -1,0 +1,170 @@
+{
+  "actor_ids": [],
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "Asia/Tokyo; JST inferred",
+    "value": "2026-10-02T16:00:00+09:00"
+  },
+  "buyer": "Kazusa Regional Waterworks Authority",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Japan",
+  "deadline": "2026-10-02",
+  "deadline_caveat": "2026-10-02T16:00:00+09:00; Asia/Tokyo; JST inferred",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Pre-registered Japanese prime",
+    "Pump reference",
+    "Subcontract permissions"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "BUYER_LIST_REGISTRATION",
+      "value": "2026-09-04"
+    },
+    {
+      "mandatory": true,
+      "state": "UPCOMING",
+      "type": "PARTICIPATION_APPLICATION",
+      "value": "2026-09-25T16:00:00+09:00"
+    },
+    {
+      "mandatory": true,
+      "state": "UPCOMING",
+      "type": "ENQUIRIES",
+      "value": "2026-09-25T17:00:00+09:00"
+    }
+  ],
+  "eligibility": "Buyer-listed at notice date, mechanical-installation A grade; qualifying pump ≥12.6m³/min delivered as single prime within 15 years. Designer/related firms excluded.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-017",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Pre-registered Japanese prime",
+    "Pump reference",
+    "Subcontract permissions"
+  ],
+  "next_action": "Exclude unregistered new primes; investigate only permitted eligible-lead/OEM route.",
+  "official_reference": "大寺浄水場取水ポンプ棟機械設備更新工事 — notice 2026-09-04",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-017-W37"
+  ],
+  "payment_security": "Payment/security UNKNOWN.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "Conditional general competitive works tender",
+  "proposed_work_packages": [
+    {
+      "description": "Eligible Japanese prime: mechanical renewal",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: outage/acceptance and OEM interfaces",
+      "inferred": true
+    },
+    {
+      "description": "SME: pumps, valves or crane if subcontracting allowed",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-09-04"
+  },
+  "region": "Asia / Middle East",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Eligible Japanese prime: mechanical renewal",
+      "Integrator: outage/acceptance and OEM interfaces",
+      "SME: pumps, valves or crane if subcontracting allowed"
+    ],
+    "software_hardware": "Control wiring/commissioning; new SCADA software not specified. Five pumps, motors, DN500 check valves and motorized gate valves each; one crane; associated piping/ventilation.",
+    "unverified_gaps": [
+      "Pre-registered Japanese prime",
+      "Pump reference",
+      "Subcontract permissions"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Bid window 1 October 09:00–2 October 16:00; completion 15 March 2030.",
+  "source_url": "https://www.kazusa-kouiki.jp/2026/09/kokoku-0904/",
+  "source_urls": [
+    "https://www.kazusa-kouiki.jp/2026/09/kokoku-0904/",
+    "https://www.kazusa-kouiki.jp/wp-content/uploads/2026/09/kokoku-shusuikikai2.pdf"
+  ],
+  "stage": "OPEN_TENDER_RESTRICTED_ELIGIBILITY",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER RESTRICTED ELIGIBILITY",
+  "technology": {
+    "Hardware evidence": "Five pumps, motors, DN500 check valves and motorized gate valves each; one crane; associated piping/ventilation.",
+    "Participation caveat": "Buyer-listed at notice date, mechanical-installation A grade; qualifying pump ≥12.6m³/min delivered as single prime within 15 years. Designer/related firms excluded.",
+    "Software evidence": "Control wiring/commissioning; new SCADA software not specified.",
+    "Suggested delivery bundle": "Eligible Japanese prime: mechanical renewal; Integrator: outage/acceptance and OEM interfaces; SME: pumps, valves or crane if subcontracting allowed"
+  },
+  "title": "Otera water-treatment intake pump-room mechanical renewal",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "Estimate disclosed after award; bid prices exclude 10% tax",
+    "currency": "JPY"
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER; local-language official notice.",
+      "deadline": "2026-10-02T16:00:00+09:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.kazusa-kouiki.jp/2026/09/kokoku-0904/",
+        "https://www.kazusa-kouiki.jp/wp-content/uploads/2026/09/kokoku-shusuikikai2.pdf"
+      ],
+      "stage": "OPEN_TENDER_RESTRICTED_ELIGIBILITY",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://www.kazusa-kouiki.jp/2026/09/kokoku-0904/",
+        "https://www.kazusa-kouiki.jp/wp-content/uploads/2026/09/kokoku-shusuikikai2.pdf"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+}

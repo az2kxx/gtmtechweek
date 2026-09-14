@@ -1,0 +1,36 @@
+{
+  "id": "OPTION-UT-001-W37",
+  "tender_id": "UT-001",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "SINGLE_E2E",
+  "lead_contractor_candidate": "Bridewell — proposed, not qualified",
+  "company_a": "Bridewell — proposed, not qualified",
+  "company_b": "Not required",
+  "rationale": "Prime: IT/OT SOC, MDR and incident response; Integrator: estate onboarding, interface and evidence coordination; SME: specialist assurance only if needed",
+  "interfaces": [
+    "Prime: IT/OT SOC, MDR and incident response",
+    "Integrator: estate onboarding, interface and evidence coordination",
+    "SME: specialist assurance only if needed"
+  ],
+  "requirements_evidence": [
+    "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID="
+  ],
+  "eligibility_gaps": [
+    "Cisco/CrowdStrike scope coverage and contractual eligibility",
+    "Exact deadline and value"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Review full pack and conflicting dates; test Bridewell full-scope route before seeking partners.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [
+    "bridewell"
+  ],
+  "roles": [
+    "Proposed single E2E MDR"
+  ],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: IT/OT SOC, MDR and incident response; Integrator: estate onboarding, interface and evidence coordination; SME: specialist assurance only if needed",
+  "gates": "Cisco/CrowdStrike scope coverage and contractual eligibility; Exact deadline and value"
+}

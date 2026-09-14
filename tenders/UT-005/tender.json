@@ -1,33 +1,170 @@
 {
-  "id": "UT-005",
-  "title": "23,000 smart water meters",
-  "buyer": "MWRS / Guma Valley Water Company",
-  "region": "Africa",
-  "country": "Sierra Leone",
-  "official_reference": "SL-MWRS-539466-GO-RFB",
-  "source_url": "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
-  "deadline": "2026-10-13",
-  "deadline_caveat": "Unverified aggregator deadline",
-  "status": "Lead — official notice needed",
-  "evidence_grade": "Secondary lead; not bid-ready",
-  "evidence_date": "2026-09-04",
-  "next_action": "Retrieve OP00465988 and complete specifications",
-  "technology": {
-    "Utility sector": "Water",
-    "Technology / function": "Ultrasonic smart metering (secondary source)",
-    "Software evidence": "Unverified",
-    "Hardware evidence": "23,000 ultrasonic meters (secondary source)",
-    "Suggested delivery bundle": "Meter OEM + local delivery/installation partner",
-    "Smaller-party role": "Proposed: supply; logistics; partial installation",
-    "Participation caveat": "Formal lot/JV rules unverified",
-    "Evidence / source": "Official notice retrieval required. https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988"
-  },
-  "pair_ids": [],
   "actor_ids": [],
-  "delivery_route": "UNRESOLVED",
-  "outreach_state": "DRAFT_ONLY",
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "UNKNOWN",
+    "timezone": "UNKNOWN",
+    "value": null
+  },
   "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "buyer": "MWRS / Guma Valley Water Company",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "LOW",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "MEDIUM_OR_LOW"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Sierra Leone",
+  "deadline": null,
+  "deadline_caveat": "Official closing date unverified; UNKNOWN",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Official IFB",
+    "Local installation lead",
+    "System specifications"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "OFFICIAL_IFB_AND_GATES",
+      "value": "UNKNOWN"
+    }
+  ],
+  "eligibility": "Official live notice inaccessible. Plan indicates international RFB, single-stage two-envelope; no bidder eligibility determined.",
+  "evidence_date": "2026-09-07",
+  "evidence_grade": "Live official notice unavailable; lead NOT qualified",
+  "id": "UT-005",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-07",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Official IFB",
+    "Local installation lead",
+    "System specifications"
+  ],
+  "next_action": "Retrieve borrower IFB before using deadline, budget or drafting named-actor outreach.",
+  "official_reference": "SL-MWRS-539466-GO-RFB",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-005-W37"
+  ],
+  "payment_security": "UNKNOWN",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "Borrower procurement-plan item plus unverified tender lead",
+  "proposed_work_packages": [
+    {
+      "description": "Potential prime: AMI supply and deployment",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: interoperability/rollout",
+      "inferred": true
+    },
+    {
+      "description": "SME: installation/support",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "UNKNOWN"
+  },
+  "region": "Africa",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Potential prime: AMI supply and deployment",
+      "Integrator: interoperability/rollout",
+      "SME: installation/support"
+    ],
+    "software_hardware": "Smart-meter/head-end/MDM requirements UNKNOWN. 23,000 smart meters and installation appear in official procurement plan; live IFB not retrieved.",
+    "unverified_gaps": [
+      "Official IFB",
+      "Local installation lead",
+      "System specifications"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
   "reserve_company_ids": [
     "kamstrup"
-  ]
+  ],
+  "schema_version": 2,
+  "scope_quantities_delivery": "SL-MWRS-539466-GO-RFB / OP00465988. Secondary October 13 close remains unverified.",
+  "source_url": "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+  "source_urls": [
+    "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+    "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465988",
+    "https://documents1.worldbank.org/curated/en/099040326140012452/pdf/P507588-21c78e5f-5d48-4415-8b5e-25f4b381414c.pdf"
+  ],
+  "stage": "UNVERIFIED_TENDER_LEAD",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "UNVERIFIED TENDER LEAD",
+  "technology": {
+    "Evidence / source": "Official notice retrieval required. https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+    "Hardware evidence": "23,000 smart meters and installation appear in official procurement plan; live IFB not retrieved.",
+    "Participation caveat": "Official live notice inaccessible. Plan indicates international RFB, single-stage two-envelope; no bidder eligibility determined.",
+    "Smaller-party role": "Proposed: supply; logistics; partial installation",
+    "Software evidence": "Smart-meter/head-end/MDM requirements UNKNOWN.",
+    "Suggested delivery bundle": "Potential prime: AMI supply and deployment; Integrator: interoperability/rollout; SME: installation/support",
+    "Technology / function": "Ultrasonic smart metering (secondary source)",
+    "Utility sector": "Water"
+  },
+  "title": "23,000 smart water meters",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": 4600000,
+    "basis": "PROCUREMENT_PLAN_ESTIMATE_ONLY; not verified live tender value",
+    "currency": "USD",
+    "tax": "UNKNOWN"
+  },
+  "version_history": [
+    {
+      "change": "Official plan evidence separated from inaccessible live notice; no live eligibility claim.",
+      "deadline": null,
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+        "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465988",
+        "https://documents1.worldbank.org/curated/en/099040326140012452/pdf/P507588-21c78e5f-5d48-4415-8b5e-25f4b381414c.pdf"
+      ],
+      "stage": "UNVERIFIED_TENDER_LEAD",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": null,
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+        "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465988",
+        "https://documents1.worldbank.org/curated/en/099040326140012452/pdf/P507588-21c78e5f-5d48-4415-8b5e-25f4b381414c.pdf"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "recheck_failure": "14 September retrieval did not refresh full official notice. Prior evidence retained, not relabelled fresh."
 }

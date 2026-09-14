@@ -1,0 +1,566 @@
+{
+  "actions_url": null,
+  "artifact_paths": [
+    "research/2026-W38/digest.md",
+    "research/2026-W38/source-coverage.md",
+    "executions/2026-W37/run.json",
+    "executions/2026-W38/run.json",
+    "tenders/",
+    "partners/",
+    "content/"
+  ],
+  "attio_writeback": {
+    "continuation_verified_notes": 5,
+    "failed_writes": 0,
+    "original_checkpoint_verified_notes": 18,
+    "private_ids_in_public": false,
+    "readback_required": true
+  },
+  "canonical_path": "executions/2026-W38/run.json",
+  "changes": [
+    {
+      "detail": "Close extended to 30 September 23:55 SAST; other gates unchanged.",
+      "published": "2026-09-09",
+      "tender_id": "UT-003",
+      "type": "AMENDMENT"
+    },
+    {
+      "detail": "G-24/G-27 package years corrected to PBSF/25-26; deadline unchanged.",
+      "published": "2026-09-10",
+      "tender_id": "UT-012",
+      "type": "CORRIGENDUM"
+    },
+    {
+      "detail": "Close now 29 September date-only; details unavailable.",
+      "tender_id": "UT-020",
+      "type": "BUYER_LISTING_CHANGE"
+    },
+    {
+      "tender_id": "UT-021",
+      "type": "NEW_TO_REGISTER",
+      "verified_date": "2026-09-14"
+    },
+    {
+      "tender_id": "UT-022",
+      "type": "NEW_TO_REGISTER",
+      "verified_date": "2026-09-14"
+    },
+    {
+      "tender_id": "UT-023",
+      "type": "NEW_TO_REGISTER",
+      "verified_date": "2026-09-14"
+    }
+  ],
+  "clay_basis": "Same logical-flow ledger as 7 September: zero paid submissions across both checkpoints; two original saved-task cache reads. Unknown live cost bounds/enforcement => cache-only. No allowance reset.",
+  "clay_data_credits": 0,
+  "closed_items": [],
+  "closure_caveat": "No formal closure/award/cancellation verified for registered tenders. Compulsory briefings/site visits/enquiry dates have passed on several; these are participation gates, not formal closure.",
+  "counts": {
+    "actor_tender_packets": 18,
+    "actors": 13,
+    "agreed_mandates": 0,
+    "awards": 0,
+    "cached_contacts": 13,
+    "confirmed_viable_teams": 0,
+    "deferred_optional_contact": 1,
+    "email_drafts": 90,
+    "linkedin_sequences": 18,
+    "new_actor_tender_associations": 1,
+    "new_contacts": 0,
+    "new_to_register": 3,
+    "no_pair_associations": 1,
+    "partners": 12,
+    "prior_tenders_rechecked": 20,
+    "qualified_dialogues": 0,
+    "qualified_matches": 0,
+    "submissions": 0,
+    "successful_notice_rechecks": 14,
+    "tenders": 23,
+    "verified_collected_fees": null
+  },
+  "credit_ledger": {
+    "account_level_guarantee": false,
+    "allowance_reset": false,
+    "billable_execution_allowed": false,
+    "ceiling": 299,
+    "logical_run_key": "gtmtechweek-2026-W37",
+    "month": "2026-09",
+    "monthly_observed_across_logical_flow": 0,
+    "monthly_observed_this_run": 0,
+    "nominal_remaining": 299,
+    "reserved": 0,
+    "shared_across_resumes": true,
+    "spent": 0,
+    "status": "COST_REVIEW_REQUIRED_CACHE_ONLY",
+    "unit": "DATA_CREDITS",
+    "unknown_charged_operations": 0,
+    "unknown_historical_monthly_total": true
+  },
+  "dataset_as_of": "2026-09-14",
+  "distribution_calls": 0,
+  "excluded_watch": [
+    {
+      "reason": "Completed FPO updated 1 July; not an open RFP or new closure.",
+      "reference": "GETS 33941726",
+      "source": "https://www.gets.govt.nz/GRDC/ExternalTenderDetails.htm?id=33941726",
+      "stage": "CLOSED_PROCUREMENT_PLAN"
+    },
+    {
+      "reason": "Electrical contractor prequalification listed to 31 December 2026 date-only; no specific works award/budget.",
+      "reference": "EBMUD 0B",
+      "source": "https://construction-bids.ebmud.com/CurrentorFutureBid.aspx?BidMode=Current",
+      "stage": "PREQUALIFICATION"
+    },
+    {
+      "reason": "Anticipated advertisements 18/25 September; not bid deadlines.",
+      "reference": "EBMUD SD462 / SD456",
+      "source": "https://construction-bids.ebmud.com/CurrentorFutureBid.aspx?BidMode=Future",
+      "stage": "PROCUREMENT_PLAN"
+    },
+    {
+      "reason": "Gas IPPP BW2 legal advisory; compulsory 1 September briefing passed. Not a gas-network hardware tender.",
+      "reference": "DBSA RFP146/2026",
+      "source": "https://www.dbsa.org/procurement",
+      "stage": "OPEN_TENDER_GATED"
+    }
+  ],
+  "id": "gtmtechweek-2026-W37-continuation-2026-W38",
+  "interrupted_before_publication": true,
+  "kind": "FRESH_SEARCH_BASED_RESEARCH",
+  "last_successful_completion": {
+    "fully_completed_fresh_research": "NOT_ESTABLISHED; current run PARTIAL",
+    "repository_replay": {
+      "completed_at": "2026-09-08T00:45:20Z",
+      "kind": "SCHEDULED_CACHED_REPLAY",
+      "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/34174340903"
+    }
+  },
+  "logical_run_key": "gtmtechweek-2026-W37",
+  "research_window": {
+    "from": "2026-08-31",
+    "known_open_rechecks": true,
+    "to": "2026-09-14"
+  },
+  "resumed_at": "2026-09-14T23:12:14Z",
+  "source_coverage": [
+    {
+      "attempt_result": "English/German district-energy searches; official results retrieved, but results sampled were older awards, not qualified fresh open tenders.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "Continental Europe and district-energy open notices remain a gap.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "TED",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Find a Tender searches and OCDS API attempted; API unavailable. Sell2Wales official full-text notices retrieved for UT-001/010.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Known notice/official listing retrieved; full-pack limitations remain.",
+        "result": "NOTICE_OR_LISTING_RECHECK"
+      },
+      "gap": "Summary/full-text date conflicts; full buyer selection packs missing.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "UK Find a Tender / official mirrors",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Cairns TenderLink, ENGIE/Edelnor and DBSA accessed; EU-supply redirected repeatedly.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Known notice/official listing retrieved; full-pack limitations remain.",
+        "result": "NOTICE_OR_LISTING_RECHECK"
+      },
+      "gap": "Registered/paid packs and participant-only amendments not accessed.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Utility sourcing portals",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Search found utility-related notice; direct opportunity page returned no substantive content.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No freshly qualified federal solicitation.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "US SAM.gov",
+      "status": "BLOCKED",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "EBMUD official construction portal read: electrical-contractor prequalification listed to 31 Dec 2026; future wastewater works listed.",
+      "continuation_2026_09_14": {
+        "attempted": false,
+        "detail": "Prior evidence remains dated 7 September; no fresh claim.",
+        "result": "NOT_RECHECKED"
+      },
+      "gap": "Prequalification/plans are not open works awards. Other state buyers not sufficiently covered.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "US state / municipal buyers",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official-domain searches attempted; no qualifying fresh notice recovered.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "Provincial detail portals not directly reviewed.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "CanadaBuys / provincial buyers",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Amherst RFP-26-09 full official PDF reviewed.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Known notice/official listing retrieved; full-pack limitations remain.",
+        "result": "NOTICE_OR_LISTING_RECHECK"
+      },
+      "gap": "Other Canadian utilities not covered.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Canadian municipal utilities",
+      "status": "SUCCESS",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official searches attempted; project-tender listing retrieval failed.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No verified ADB borrower opportunity; headquarters procurements/loan approvals excluded.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "ADB project tenders",
+      "status": "BLOCKED",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "CPPP pages and utility/SCADA search attempted; no detailed qualifying notice recovered.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "State-utility tender portals not attempted individually.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "India CPPP / state utilities",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official listing accessible; searches/list review did not establish a qualifying utility notice.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No verified shortlisted PUB/energy procurement.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Singapore GeBIZ",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official gas and transformer notices published 3–7 September reviewed.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Known notice/official listing retrieved; full-pack limitations remain.",
+        "result": "NOTICE_OR_LISTING_RECHECK"
+      },
+      "gap": "Full e-GP packs and other sectors remain unreviewed.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Bangladesh BPPA",
+      "status": "SUCCESS",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official portal identified and attempted; substantive notice retrieval failed.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "Provincial grid/water and other Chinese buyers not covered.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "China State Grid ECP",
+      "status": "BLOCKED",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Japanese-language Kazusa official notice/pack retrieved; local eligibility screened.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Known notice/official listing retrieved; full-pack limitations remain.",
+        "result": "NOTICE_OR_LISTING_RECHECK"
+      },
+      "gap": "Only limited utility/country sample.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Japan utility buyers",
+      "status": "SUCCESS",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official page rendered browser-compatibility barrier; no control bypass.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "KEPCO SRM and K-water tender details not attempted.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Korea G2B",
+      "status": "BLOCKED",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Ashghal official SCADA maintenance detail retrieved; other official-domain searches attempted.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Ashghal list changed close to 29 September; detail page failed.",
+        "result": "NOTICE_OR_LISTING_RECHECK"
+      },
+      "gap": "Qatar full pack gated; Saudi/Oman and wider Gulf details not attempted.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Gulf official buyers",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official-domain searches returned public attachments; DBSA utility-related packs reviewed separately.",
+      "continuation_2026_09_14": {
+        "attempted": false,
+        "detail": "Prior evidence remains dated 7 September; no fresh claim.",
+        "result": "NOT_RECHECKED"
+      },
+      "gap": "Eskom and other national utilities lack fresh qualified notice coverage.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "South Africa eTenders / utilities",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "RFR001 and RFP145/149 official packs retrieved; RFP146 legal gas-program advisory identified but passed briefing.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Addendum 2 to RFR001 and three new utility-related notices retrieved.",
+        "result": "NOTICE_OR_LISTING_RECHECK"
+      },
+      "gap": "RFP149 contradictory early cutoff unresolved.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "DBSA",
+      "status": "SUCCESS",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official SPN search results retrieved; direct listing failed. UNGM IOM notices separately cover AfDB-labelled WASH.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No claim that all AfDB borrower notices were reviewed.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "AfDB direct procurement",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Portuguese official searches, API query and item retrieval attempted; SPA/unsupported attachment and API failures.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No verified current utility tender; failed retrieval is not zero opportunities.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Brazil PNCP",
+      "status": "BLOCKED",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Mercado Público searches did not yield qualifying fresh detail; ENGIE common bases reviewed for three separate lots.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "Participant amendments and other Chilean buyers remain gaps.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Chile Mercado Público / transmission owners",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Spanish official-domain searches attempted; no qualifying detail established.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No direct SECOP II notice verified.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Colombia SECOP",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "No detailed official retrieval in Argentina, Peru, Ecuador, Uruguay or other countries this run.",
+      "continuation_2026_09_14": {
+        "attempted": false,
+        "detail": "Prior evidence remains dated 7 September; no fresh claim.",
+        "result": "NOT_RECHECKED"
+      },
+      "gap": "Country coverage gap.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "Other South America",
+      "status": "NOT_ATTEMPTED",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "AusTender searches attempted; Cairns council/TenderLink notices retrieved.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No qualified federal notice; other state/council portals not individually covered.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "AusTender / state / council utilities",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Official Gore SCADA record reviewed: closed future-procurement opportunity, not a live RFP.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No verified new open NZ shortlist; other Oceania not attempted.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "New Zealand GETS",
+      "status": "PARTIAL",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Sierra Leone/Jordan official live pages retried within limits and remained unavailable; official procurement-plan search evidence found.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Both live notice pages remained unavailable; no deadline validation.",
+        "result": "BLOCKED"
+      },
+      "gap": "Plans and secondary dates do not qualify the live tenders.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "World Bank borrower procurement",
+      "status": "BLOCKED_LIVE_NOTICE",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Two IOM Sudan ITBs retrieved with site/enquiry dates; DOCX attachments not renderable.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Known notice/official listing retrieved; full-pack limitations remain.",
+        "result": "NOTICE_OR_LISTING_RECHECK"
+      },
+      "gap": "Equipment, terms and site-visit mandatory status still unknown.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "UNGM",
+      "status": "SUCCESS",
+      "verification_date": "2026-09-07"
+    },
+    {
+      "attempt_result": "Search and direct notice-list retrieval attempted without usable result.",
+      "continuation_2026_09_14": {
+        "attempted": true,
+        "detail": "Official-domain/local-language search attempted; no new fully qualified notice established. Do not treat as zero opportunities.",
+        "result": "SEARCH_ONLY_PARTIAL"
+      },
+      "gap": "No qualified EBRD opportunity; do not report zero.",
+      "prior_check_date": "2026-09-07",
+      "source_group": "EBRD ECEPP",
+      "status": "BLOCKED",
+      "verification_date": "2026-09-07"
+    }
+  ],
+  "source_revision": "7fd8dc8b56a8af65f5dd21c485f1ed563ae1e5f0",
+  "stages": [
+    {
+      "completed_at": "2026-09-14T23:21:25Z",
+      "detail": "Resumed unfinished W37 flow without resetting shared credit ledger; paginated Attio index. Current GitHub main and actual scheduled replay verified.",
+      "name": "Continuity",
+      "state": "COMPLETED"
+    },
+    {
+      "completed_at": "2026-09-14T23:21:25Z",
+      "detail": "20 dossiers attempted; 14 notice/listing rechecks, 3 newly registered DBSA opportunities. Some full official notices and country/sector coverage remain unavailable.",
+      "name": "Official-source research",
+      "state": "PARTIAL"
+    },
+    {
+      "detail": "13 cached contacts, 18 HOLD packets. No new invented actor, qualified willing team or agreed commercial mandate.",
+      "name": "Role matching / drafts",
+      "state": "COMPLETED_WITH_GAPS"
+    },
+    {
+      "completed_at": "2026-09-14T23:30:04Z",
+      "detail": "18 append-only notes verified at original checkpoint; 5 continuation notes verified (resume, new tenders, amendments, two contact gate reviews). All writes read back. Final handoff summary pending.",
+      "name": "Attio mirror",
+      "state": "COMPLETED"
+    },
+    {
+      "detail": "0 spent / 0 reserved / 299 nominal remaining DATA_CREDITS; account-level enforcement unknown.",
+      "name": "Clay",
+      "state": "CACHE_ONLY"
+    },
+    {
+      "completed_at": "2026-09-14T23:30:04Z",
+      "detail": "23-dossier data validation, JavaScript syntax, six guard tests, all seven views, all tender/partner dialogs and empty future-week checks passed locally. Not a live provider/distribution test.",
+      "name": "Validation / projection",
+      "state": "COMPLETED"
+    },
+    {
+      "detail": "Earlier connector tree creation succeeded; latest main preserved, branch update pending.",
+      "name": "GitHub publication",
+      "state": "IN_PROGRESS"
+    },
+    {
+      "detail": "Existing public audience verified; refreshed UI deployment pending.",
+      "name": "Dashboard publication",
+      "state": "IN_PROGRESS"
+    },
+    {
+      "detail": "No sending, account registration, document purchases or ads. Optional connections do not block research.",
+      "name": "Distribution",
+      "state": "HOLD"
+    }
+  ],
+  "started_at": "2026-09-14T23:12:14Z",
+  "status": "PARTIAL",
+  "trigger": "weekly research",
+  "unresolved_queue": [
+    "Missing official live Sierra Leone and Jordan notices",
+    "Full tender packs and early eligibility gates",
+    "Continental Europe/district energy, generation and multiple country gaps",
+    "Correct technical/commercial remit for cached referrals",
+    "Missing WRP transaction-advisory counterpart",
+    "GitHub connector actual-write check",
+    "Account-level Clay reservation enforcement",
+    "Optional distribution connections remain untested; not required"
+  ],
+  "week": "2026-W38",
+  "weekly_register_key": "gtmtechweek-2026-W38",
+  "workbook_writeback": "NOT_ATTEMPTED; initial workbook unchanged"
+}

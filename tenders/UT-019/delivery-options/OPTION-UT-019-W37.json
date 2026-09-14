@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-019-W37",
+  "tender_id": "UT-019",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: eligible DRS supplier; Integrator: technical compliance and OEM coordination; SME: station components if permitted",
+  "interfaces": [
+    "Prime: eligible DRS supplier",
+    "Integrator: technical compliance and OEM coordination",
+    "SME: station components if permitted"
+  ],
+  "requirements_evidence": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98328.html"
+  ],
+  "eligibility_gaps": [
+    "Authorized bidder",
+    "Scope/ratings",
+    "Local gates"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Review tender pack and OEM authority; passed optional meeting alone is not a hard failure.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: eligible DRS supplier; Integrator: technical compliance and OEM coordination; SME: station components if permitted",
+  "gates": "Authorized bidder; Scope/ratings; Local gates"
+}

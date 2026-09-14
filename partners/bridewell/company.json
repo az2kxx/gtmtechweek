@@ -10,5 +10,11 @@
   "role_status": "PAIR-01",
   "actor_ids": [
     "CONTACT-01"
-  ]
+  ],
+  "capability_sources": [
+    "https://www.bridewell.com/us/managed-detection-and-response",
+    "https://www.bridewell.com/us/managed-security/managed-security-services/operational-technology-soc"
+  ],
+  "capability_rechecked_at": "2026-09-07",
+  "capability_caveat": "Official MDR/OT SOC and Nozomi partnership support a SINGLE_E2E hypothesis. Full Southern Water compliance, Cisco/CrowdStrike interfaces and willingness remain unverified."
 }

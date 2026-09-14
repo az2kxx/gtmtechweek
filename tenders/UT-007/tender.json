@@ -1,35 +1,171 @@
 {
-  "id": "UT-007",
-  "title": "Nueva Chuquicamata 220 kV expansion",
-  "buyer": "Edelnor / ENGIE",
-  "region": "South America",
-  "country": "Chile",
-  "official_reference": "25_276_OA_01",
-  "source_url": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
-  "deadline": "2026-12-16",
-  "deadline_caveat": "16:00; Santiago local calendar",
-  "status": "Tender — earlier gate passed",
-  "evidence_grade": "Rev.0 reviewed; amendments pending",
-  "evidence_date": "2026-09-04",
-  "next_action": "Check registered participant route",
-  "technology": {
-    "Utility sector": "Electricity",
-    "Technology / function": "220 kV substation",
-    "Software evidence": "Unspecified",
-    "Hardware evidence": "220 kV expansion",
-    "Suggested delivery bundle": "Proposed: EPC + equipment + controls + civil partners",
-    "Smaller-party role": "Protection; controls; commissioning (inferred)",
-    "Participation caveat": "Package breakdown and rights need technical annexes",
-    "Evidence / source": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf pp.14,16"
-  },
-  "pair_ids": [
-    "PAIR-06"
-  ],
   "actor_ids": [
     "CONTACT-11",
     "CONTACT-12"
   ],
-  "delivery_route": "CONSORTIUM",
-  "outreach_state": "DRAFT_ONLY",
-  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "America/Santiago; offset inferred for December",
+    "value": "2026-12-16T16:00:00-03:00"
+  },
+  "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "buyer": "Edelnor Transmisión S.A. / ENGIE procurement",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Chile",
+  "deadline": "2026-12-16",
+  "deadline_caveat": "2026-12-16T16:00:00-03:00; America/Santiago; offset inferred for December",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Eligible bases-holder",
+    "HV EPC lead",
+    "Amendments"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "BASES_PURCHASE",
+      "value": "2026-08-24"
+    },
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "ENQUIRIES",
+      "value": "2026-09-07"
+    }
+  ],
+  "eligibility": "Proof of timely bases purchase required; fresh prime access not established. Participant amendments not read.",
+  "evidence_date": "2026-09-07",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-007",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-07",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Eligible bases-holder",
+    "HV EPC lead",
+    "Amendments"
+  ],
+  "next_action": "Restrict to eligible participants or permitted subcontract routes; verify latest bases.",
+  "official_reference": "25_276_OA_01",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "PAIR-06",
+    "OPTION-UT-007-W37"
+  ],
+  "payment_security": "Progress/milestone payments; detailed securities UNKNOWN.",
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "procurement_transaction_type": "Transmission-owner works tender",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: eligible transmission EPC",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: civil/electrical/protection interfaces",
+      "inferred": true
+    },
+    {
+      "description": "SME: controls/testing or defined construction package",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-07-07"
+  },
+  "region": "South America",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: eligible transmission EPC",
+      "Integrator: civil/electrical/protection interfaces",
+      "SME: controls/testing or defined construction package"
+    ],
+    "software_hardware": "Protection/control interfaces inferred; detailed design pack not reviewed. Nueva Chuquicamata 220kV substation expansion; quantities require technical bases.",
+    "unverified_gaps": [
+      "Eligible bases-holder",
+      "HV EPC lead",
+      "Amendments"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "25_276_OA_01; 30 months; common July Rev.0 bases. Receipts 14–16 December.",
+  "source_url": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf",
+  "source_urls": [
+    "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+  ],
+  "stage": "OPEN_TENDER_GATED",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER GATED",
+  "technology": {
+    "Evidence / source": "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf pp.14,16",
+    "Hardware evidence": "Nueva Chuquicamata 220kV substation expansion; quantities require technical bases.",
+    "Participation caveat": "Proof of timely bases purchase required; fresh prime access not established. Participant amendments not read.",
+    "Smaller-party role": "Protection; controls; commissioning (inferred)",
+    "Software evidence": "Protection/control interfaces inferred; detailed design pack not reviewed.",
+    "Suggested delivery bundle": "Prime: eligible transmission EPC; Integrator: civil/electrical/protection interfaces; SME: controls/testing or defined construction package",
+    "Technology / function": "220 kV substation",
+    "Utility sector": "Electricity"
+  },
+  "title": "Nueva Chuquicamata 220 kV expansion",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": 4909922,
+    "basis": "REFERENCE_INVESTMENT_VI; not bidder revenue",
+    "currency": "USD",
+    "tax": "UNKNOWN"
+  },
+  "version_history": [
+    {
+      "change": "Rechecked common bases: purchase gate remains passed; no award/cancellation established.",
+      "deadline": "2026-12-16T16:00:00-03:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+      ],
+      "stage": "OPEN_TENDER_GATED",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": null,
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "recheck_failure": "14 September retrieval did not refresh full official notice. Prior evidence retained, not relabelled fresh."
 }

@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-020-W37",
+  "tender_id": "UT-020",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: qualified SCADA support; Integrator: scope and OEM-interface assessment; SME: specialist maintenance if allowed",
+  "interfaces": [
+    "Prime: qualified SCADA support",
+    "Integrator: scope and OEM-interface assessment",
+    "SME: specialist maintenance if allowed"
+  ],
+  "requirements_evidence": [
+    "https://www.ashghal.gov.qa/en/Tenders/Pages/ERPTenderDetailes.aspx?Status=Open&TenderID=691707"
+  ],
+  "eligibility_gaps": [
+    "Full pack",
+    "Qualified Qatar lead",
+    "Gate times"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Screen costly entry and earlier gates before considering any purchase; no spending authorized.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: qualified SCADA support; Integrator: scope and OEM-interface assessment; SME: specialist maintenance if allowed",
+  "gates": "Full pack; Qualified Qatar lead; Gate times"
+}

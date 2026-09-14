@@ -1,35 +1,167 @@
 {
-  "id": "UT-006",
-  "title": "Zarqa SCADA design and tender assistance",
-  "buyer": "Buyer to verify in notice",
-  "region": "Asia",
-  "country": "Jordan",
-  "official_reference": "Project P176619; notice ID unknown",
-  "source_url": "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
-  "deadline": null,
-  "deadline_caveat": "23 Sep reported; not verified",
-  "status": "Lead — official notice needed",
-  "evidence_grade": "Secondary lead; not bid-ready",
-  "evidence_date": "2026-09-04",
-  "next_action": "Resolve official EOI and selection conditions",
-  "technology": {
-    "Utility sector": "Water",
-    "Technology / function": "SCADA design advisory (secondary source)",
-    "Software evidence": "Platform unspecified",
-    "Hardware evidence": "No equipment supply established",
-    "Suggested delivery bundle": "Design consultant + local engineering partner",
-    "Smaller-party role": "Proposed: controls design; surveys; tender specifications",
-    "Participation caveat": "Do not treat consultancy as equipment procurement",
-    "Evidence / source": "Official EOI required. https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of"
-  },
-  "pair_ids": [
-    "PAIR-05"
-  ],
   "actor_ids": [
     "CONTACT-09",
     "CONTACT-10"
   ],
-  "delivery_route": "CONSORTIUM",
-  "outreach_state": "DRAFT_ONLY",
-  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "UNKNOWN",
+    "timezone": "UNKNOWN",
+    "value": null
+  },
+  "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "buyer": "Buyer to verify in notice",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "LOW",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "MEDIUM_OR_LOW"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Jordan",
+  "deadline": null,
+  "deadline_caveat": "Official closing date unverified; UNKNOWN",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Official -2 EOI",
+    "Qualified independent consultant",
+    "Remit corroboration"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "OFFICIAL_EOI_AND_SHORTLIST_GATES",
+      "value": "UNKNOWN"
+    }
+  ],
+  "eligibility": "Consultant qualifications and conflict-of-interest gates require official notice. Equipment suppliers do not automatically qualify.",
+  "evidence_date": "2026-09-07",
+  "evidence_grade": "Live official notice unavailable; lead NOT qualified",
+  "id": "UT-006",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-07",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Official -2 EOI",
+    "Qualified independent consultant",
+    "Remit corroboration"
+  ],
+  "next_action": "Resolve the -2 borrower notice; keep MENA-Water/Aqualine proposals HOLD and do not confuse older awards.",
+  "official_reference": "JO-MWC-034-2-CS-QCBS / OP00466105 / P176619",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "PAIR-05",
+    "OPTION-UT-006-W37"
+  ],
+  "payment_security": "UNKNOWN",
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "procurement_transaction_type": "Consultancy EOI / QCBS lead",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: independent SCADA design consultant",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: scope/interface qualification only",
+      "inferred": true
+    },
+    {
+      "description": "SME: survey/design discipline if permitted",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-08-31 / 2026-09-01 secondary-source conflict"
+  },
+  "region": "Asia",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: independent SCADA design consultant",
+      "Integrator: scope/interface qualification only",
+      "SME: survey/design discipline if permitted"
+    ],
+    "software_hardware": "SCADA design and tender assistance consultancy; no software supply established. No equipment supply established; existing estate UNKNOWN.",
+    "unverified_gaps": [
+      "Official -2 EOI",
+      "Qualified independent consultant",
+      "Remit corroboration"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Repeat selection JO-MWC-034-2-CS-QCBS / OP00466105 under P176619; secondary close 23 September unverified.",
+  "source_url": "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+  "source_urls": [
+    "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+    "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466105"
+  ],
+  "stage": "EOI_UNVERIFIED_LIVE_NOTICE",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "EOI UNVERIFIED LIVE NOTICE",
+  "technology": {
+    "Evidence / source": "Official EOI required. https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+    "Hardware evidence": "No equipment supply established; existing estate UNKNOWN.",
+    "Participation caveat": "Consultant qualifications and conflict-of-interest gates require official notice. Equipment suppliers do not automatically qualify.",
+    "Smaller-party role": "Proposed: controls design; surveys; tender specifications",
+    "Software evidence": "SCADA design and tender assistance consultancy; no software supply established.",
+    "Suggested delivery bundle": "Prime: independent SCADA design consultant; Integrator: scope/interface qualification only; SME: survey/design discipline if permitted",
+    "Technology / function": "SCADA design advisory (secondary source)",
+    "Utility sector": "Water"
+  },
+  "title": "Zarqa SCADA design and tender assistance",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "UNKNOWN; old JO-MWC-034/-1 value must not transfer to -2",
+    "currency": null
+  },
+  "version_history": [
+    {
+      "change": "Correct repeat-selection reference found; official notice still blocked.",
+      "deadline": null,
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+        "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466105"
+      ],
+      "stage": "EOI_UNVERIFIED_LIVE_NOTICE",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": null,
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+        "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466105"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "recheck_failure": "14 September retrieval did not refresh full official notice. Prior evidence retained, not relabelled fresh."
 }

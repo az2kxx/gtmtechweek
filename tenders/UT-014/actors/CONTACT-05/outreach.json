@@ -1,0 +1,34 @@
+{
+  "actor_id": "CONTACT-05",
+  "tender_id": "UT-014",
+  "state": "HOLD",
+  "delivery_route": "CONSORTIUM",
+  "technical_offer": "Qualify WRP’s NRW baseline, technical feasibility and PBC measurement workstream; coordinate a responsibility/evidence matrix with a qualified transaction-advisory lead.",
+  "counterparty": "NO_PAIR_FOUND — MISSING_COMPLEMENTARY_COMPANY",
+  "send_authorized": false,
+  "snapshot_date": "2026-09-07",
+  "followup_timing": "Not scheduled. Recheck gate conflict and actual response window; stop all sequences on reply/opt-out.",
+  "email": {
+    "subject": "DBSA NRW feasibility: a defined technical workstream for WRP",
+    "initial": "Hi Willem,\n\nDBSA’s RFP149/2026 covers NRW feasibility and performance-based procurement preparation for Thembelihle and Kai Garib. WRP’s published/cached NRW consulting capability suggests a potential baseline and technical-feasibility workstream.\n\nI can help qualify the requirements and coordinate an evidence/responsibility matrix with a suitable financial/legal transaction-advisory lead. No such counterpart is confirmed yet, and your consortium authority is not assumed.\n\nThe compulsory briefing is 11 September, but the pack contains a conflicting, already-passed link/enquiry cutoff. Participation needs clarification before any bid effort. Would you be open to reviewing the technical boundary and required qualifications?\n\nThis is an exploratory service proposal, not a buyer mandate or agreed fee. Introductions require both sides’ consent. If you prefer no further contact, please let me know.",
+    "followups": [
+      "Hi Willem,\n\nWould a concise checklist of the NRW baseline, intervention model and PBC measurement deliverables help determine WRP’s role? The first decision is scope and eligibility, not a partnership commitment.",
+      "Hi Willem,\n\nThe missing workstreams are transaction finance, legal/procurement, institutional and environmental expertise. Which can WRP demonstrably cover, and which require a complementary lead? No counterpart has been selected.",
+      "Hi Willem,\n\nI would keep any coordination mandate tied to agreed deliverables, payer and fee terms. None is agreed now. If the tender gates can be satisfied, would a technical scoping call be useful?",
+      "Hi Willem,\n\nI will keep this on hold unless you see a relevant role. Any later introduction needs both parties’ consent. A referral is welcome; if you prefer no further contact, please let me know."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Willem, I qualify utility opportunities and coordinate technical workstreams. Your NRW background looks relevant to a feasibility scope under review. Open to connecting?",
+    "initial": "DBSA RFP149/2026 may suit a defined NRW baseline/feasibility workstream for WRP, alongside qualified finance/legal expertise. I can prepare the scope and evidence matrix. A gate conflict remains unresolved and no partner is confirmed. Would an outline help?",
+    "followups": [
+      "Would the technical deliverable checklist help assess fit?",
+      "Which NRW/PBC workstreams could WRP evidence, and which need a complementary lead?",
+      "No fee or consortium commitment is assumed; introductions need both sides’ consent. Is a scoping discussion relevant?",
+      "I’ll leave this on hold. Please say if it is outside your remit or you prefer no further messages."
+    ]
+  },
+  "match_status": "NO_PAIR_FOUND",
+  "no_pair_reason": "MISSING_COMPLEMENTARY_COMPANY",
+  "next_review": "2026-09-14"
+}

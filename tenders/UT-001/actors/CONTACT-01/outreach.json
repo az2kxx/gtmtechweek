@@ -1,30 +1,48 @@
 {
   "actor_id": "CONTACT-01",
   "tender_id": "UT-001",
-  "state": "DRAFT_ONLY",
+  "state": "HOLD",
   "technical_offer": "MDR prime candidate: SOC operations, incident triage and response governance",
-  "counterparty": "Ovarro",
+  "counterparty": "No counterpart required for proposed E2E route",
   "email": {
-    "subject": "Southern Water MDR: a technical partnership check",
-    "initial": "Hi Peter,\n\nSouthern Water's IT/OT MDR notice names Nozomi, Cisco Cyber Vision and CrowdStrike. I’m assessing whether Bridewell and Ovarro could define a useful service split: SOC response ownership alongside water-process and telemetry context.\n\nThis is an exploratory pairing. Existing-tool support, subcontract rights and the notice’s conflicting deadline/value still need confirmation.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Roland Leslie. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+    "subject": "Southern Water IT/OT MDR: full-scope fit and qualification review",
+    "initial": "Hi Peter,\n\nI originate and qualify utility opportunities and coordinate technical scoping. Southern Water’s Prj_8501 seeks one supplier for 24/7 IT/OT MDR around its existing Nozomi, Cisco Cyber Vision and CrowdStrike estate.\n\nBridewell’s published MDR and OT SOC capabilities make a single-provider route worth assessing. My proposed contribution is an evidence and interface matrix so your team can make a focused bid/no-bid decision; I am not proposing an unnecessary partner.\n\nThe notice still conflicts on deadline and value, and the enquiry cutoff has passed. Full-pack eligibility needs review before proceeding. Would a short scope discussion with the appropriate technical/commercial owner be useful?\n\nNo mandate, buyer representation or fee is agreed. If this is outside your remit, a referral would help; let me know if you prefer no further contact.",
     "followups": [
-      "Hi Peter,\n\nFollowing up on Southern Water IT/OT MDR. The first question is whether Ovarro would add a distinct, necessary work package. For your side, I had in mind: mDR prime candidate: SOC operations, incident triage and response governance.\n\nIs that a useful scope to explore, or should I speak with another owner?",
-      "Hi Peter,\n\nA practical agenda for the proposed Ovarro discussion would be: existing-tool ingestion; asset/process context; incident escalation; safe containment approvals; evidence ownership. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
-      "Hi Peter,\n\nFor Southern Water IT/OT MDR, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.\n\nWould you be comfortable assessing a possible introduction with Roland Leslie at Ovarro, once the access and scope questions are resolved?",
-      "Hi Peter,\n\nI’ll close this proposed Ovarro introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.\n\nIf you prefer no further emails, please let me know."
+      "Hi Peter,\n\nWould an evidence checklist for the existing estate and MDR onboarding responsibilities help assess fit? No additional company is required if one provider covers the scope.",
+      "Hi Peter,\\nThe proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?",
+      "Hi Peter,\n\nBefore any tender dialogue, the full pack and earlier gates must be checked. There is no assumed fee, bid or partner commitment. Is this worth a technical review with the correct owner?",
+      "Hi Peter,\n\nI will leave this proposal on hold. If there is a relevant scope, I can coordinate a discussion after eligibility review and any required introduction consent. If you prefer no further contact, please let me know."
     ]
   },
   "linkedin": {
-    "connection": "Hi Peter, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
-    "initial": "Thanks for connecting. I’m reviewing IT/OT managed detection and response. The possible role for your team is: MDR prime candidate: SOC operations, incident triage and response governance. A potential counterpart is Ovarro, subject to fit and both parties agreeing. Would a short technical outline be useful?",
+    "connection": "Hi Peter, I qualify utility opportunities and coordinate technical scope discussions. Would you be open to connecting about IT/OT service interfaces?",
+    "initial": "I am reviewing Southern Water Prj_8501. The first option is a single E2E MDR provider; a partner is only useful for a proven gap. I can prepare a scope/evidence matrix. Full-pack and deadline conflicts remain open. Is a brief technical review relevant to your remit?",
     "followups": [
-      "Would it help if I shared a brief for IT/OT managed detection and response with the technical interfaces and open qualification questions?",
-      "For your team, the working scope is MDR prime candidate: SOC operations, incident triage and response governance. Which boundary would you want clarified before a scoping call?",
-      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
-      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+      "Would the existing-tooling and response-responsibility checklist be useful?",
+      "Which technical interface would decide whether your team has a role? No partner is assumed.",
+      "Any introduction would require both parties’ consent. No bid, mandate or fee is agreed.",
+      "I’ll leave this on hold. A referral is welcome if relevant; an opt-out ends further contact."
     ]
   },
   "send_authorized": false,
   "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
-  "snapshot_date": "2026-09-04"
+  "snapshot_date": "2026-09-04",
+  "gate_review_date": "2026-09-07",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED",
+      "type": "ENQUIRIES",
+      "value": "2026-08-21T16:00:00+01:00"
+    },
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "PLATFORM_REGISTRATION",
+      "value": "UNKNOWN"
+    }
+  ],
+  "delivery_route": "SINGLE_E2E",
+  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender",
+  "sequence_review": "Existing proposal superseded by SINGLE_E2E-first review. Optional specialists remain HOLD."
 }

@@ -1,0 +1,161 @@
+{
+  "actor_ids": [],
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "Asia/Dhaka inferred",
+    "value": "2026-09-29T12:00:00+06:00"
+  },
+  "buyer": "Pashchimanchal Gas Company Limited (PGCL)",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "MEDIUM_OR_LOW"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Bangladesh",
+  "deadline": "2026-09-29",
+  "deadline_caveat": "2026-09-29T12:00:00+06:00; Asia/Dhaka inferred",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Authorized bidder",
+    "Scope/ratings",
+    "Local gates"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": false,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "OPTIONAL_BRIEFING",
+      "value": "2026-09-07T16:00:00+06:00"
+    },
+    {
+      "mandatory": true,
+      "state": "DATE_ONLY",
+      "type": "DOCUMENT_SALES",
+      "value": "2026-09-28"
+    }
+  ],
+  "eligibility": "Manufacturer or authorized distributor/seller/agent; national-tender full criteria require review.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-019",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Authorized bidder",
+    "Scope/ratings",
+    "Local gates"
+  ],
+  "next_action": "Review tender pack and OEM authority; passed optional meeting alone is not a hard failure.",
+  "official_reference": "28.18.0000.000.047.35.001.26-Rajshahi BSCIC DRS",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-019-W37"
+  ],
+  "payment_security": "Payment/security UNKNOWN.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "National competitive goods tender",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: eligible DRS supplier",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: technical compliance and OEM coordination",
+      "inferred": true
+    },
+    {
+      "description": "SME: station components if permitted",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-09-07"
+  },
+  "region": "Asia / Middle East",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: eligible DRS supplier",
+      "Integrator: technical compliance and OEM coordination",
+      "SME: station components if permitted"
+    ],
+    "software_hardware": "UNKNOWN; do not infer SCADA. 10 MMSCFD DRS; specifications and counts require pack.",
+    "unverified_gaps": [
+      "Authorized bidder",
+      "Scope/ratings",
+      "Local gates"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Rajshahi BSCIC Industrial Area2; duration UNKNOWN.",
+  "source_url": "https://www.bppa.gov.bd/advertisement-goods/details-98328.html",
+  "source_urls": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98328.html"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Hardware evidence": "10 MMSCFD DRS; specifications and counts require pack.",
+    "Participation caveat": "Manufacturer or authorized distributor/seller/agent; national-tender full criteria require review.",
+    "Software evidence": "UNKNOWN; do not infer SCADA.",
+    "Suggested delivery bundle": "Prime: eligible DRS supplier; Integrator: technical compliance and OEM coordination; SME: station components if permitted"
+  },
+  "title": "10 MMSCFD district regulating station supply",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "Budget not disclosed",
+    "currency": "BDT"
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER; issued on verification date.",
+      "deadline": "2026-09-29T12:00:00+06:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.bppa.gov.bd/advertisement-goods/details-98328.html"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://www.bppa.gov.bd/advertisement-goods/details-98328.html"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+}

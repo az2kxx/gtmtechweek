@@ -1,0 +1,152 @@
+{
+  "actor_ids": [],
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "AEST explicit",
+    "value": "2026-09-22T16:30:00+10:00"
+  },
+  "buyer": "Cairns Regional Council",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "MEDIUM_OR_LOW"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Australia",
+  "deadline": "2026-09-22",
+  "deadline_caveat": "2026-09-22T16:30:00+10:00; AEST explicit",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Specifications and gate dates",
+    "Hardware OEM/distributor"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "REGISTERED_TENDER_PACK",
+      "value": "UNKNOWN"
+    }
+  ],
+  "eligibility": "Full pack gated by supplier registration; no bid eligibility established.",
+  "evidence_date": "2026-09-07",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-018",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-07",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Specifications and gate dates",
+    "Hardware OEM/distributor"
+  ],
+  "next_action": "Read pack before matching; do not merge into Contract3047.",
+  "official_reference": "Contract 3087 / CAIRN-1171744 / 600033",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-018-W37"
+  ],
+  "payment_security": "Payment/security UNKNOWN.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "Council goods tender",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: compliant router supply",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: compatibility/acceptance review if required",
+      "inferred": true
+    },
+    {
+      "description": "SME: certified accessories/support",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-09-01; council listing update, original publication UNKNOWN"
+  },
+  "region": "Australia / Oceania",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: compliant router supply",
+      "Integrator: compatibility/acceptance review if required",
+      "SME: certified accessories/support"
+    ],
+    "software_hardware": "Configuration/licensing requirements UNKNOWN. 4G router upgrade materials; quantity, models and existing estate UNKNOWN.",
+    "unverified_gaps": [
+      "Specifications and gate dates",
+      "Hardware OEM/distributor"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Materials procurement distinct from SCADA migration Contract3047 despite shared program code600033. Duration UNKNOWN.",
+  "source_url": "https://portal.tenderlink.com/cairns/alltenders/",
+  "source_urls": [
+    "https://portal.tenderlink.com/cairns/alltenders/"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Hardware evidence": "4G router upgrade materials; quantity, models and existing estate UNKNOWN.",
+    "Participation caveat": "Full pack gated by supplier registration; no bid eligibility established.",
+    "Software evidence": "Configuration/licensing requirements UNKNOWN.",
+    "Suggested delivery bundle": "Prime: compliant router supply; Integrator: compatibility/acceptance review if required; SME: certified accessories/support"
+  },
+  "title": "4G router upgrade materials",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "UNKNOWN",
+    "currency": "AUD"
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER; program-level deduplication avoided.",
+      "deadline": "2026-09-22T16:30:00+10:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": null,
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "recheck_failure": "14 September retrieval did not refresh full official notice. Prior evidence retained, not relabelled fresh."
+}

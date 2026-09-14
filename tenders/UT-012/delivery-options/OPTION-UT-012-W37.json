@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-012-W37",
+  "tender_id": "UT-012",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Eligible local prime: supply and warranties; Integrator: OEM compliance/logistics matrix; SME/OEM: specified transformer packages",
+  "interfaces": [
+    "Eligible local prime: supply and warranties",
+    "Integrator: OEM compliance/logistics matrix",
+    "SME/OEM: specified transformer packages"
+  ],
+  "requirements_evidence": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98319.html"
+  ],
+  "eligibility_gaps": [
+    "Bangladeshi bidder",
+    "Quantities",
+    "Manufacturer qualifications"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Check nationality gate before OEM matching; preserve eight package identities.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Eligible local prime: supply and warranties; Integrator: OEM compliance/logistics matrix; SME/OEM: specified transformer packages",
+  "gates": "Bangladeshi bidder; Quantities; Manufacturer qualifications"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-002-W37",
+  "tender_id": "UT-002",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "Metercor / Badger Meter candidate route; Canadian remit and thresholds need evidence",
+  "company_a": "Metercor / Badger Meter candidate route; Canadian remit and thresholds need evidence",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: compliant AMI offer and references; Integrator: architecture, MDM onboarding and acceptance; SME: communications survey, training/support",
+  "interfaces": [
+    "Prime: compliant AMI offer and references",
+    "Integrator: architecture, MDM onboarding and acceptance",
+    "SME: communications survey, training/support"
+  ],
+  "requirements_evidence": [
+    "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+  ],
+  "eligibility_gaps": [
+    "20,000-meter evidence",
+    "Canada commercial owner",
+    "Firm package pricing"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Resolve questions by 10 September; verify experience thresholds and initial versus five-year quantities.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: compliant AMI offer and references; Integrator: architecture, MDM onboarding and acceptance; SME: communications survey, training/support",
+  "gates": "20,000-meter evidence; Canada commercial owner; Firm package pricing"
+}

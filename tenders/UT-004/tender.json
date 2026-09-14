@@ -1,35 +1,164 @@
 {
-  "id": "UT-004",
-  "title": "Citect to AVEVA Plant SCADA upgrade",
-  "buyer": "Cairns Regional Council",
-  "region": "Australia / Oceania",
-  "country": "Australia",
-  "official_reference": "Contract 3047 / 600033",
-  "source_url": "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
-  "deadline": null,
-  "deadline_caveat": "14 vs 28 Sep reported by aggregators",
-  "status": "Tender — deadline unverified",
-  "evidence_grade": "Buyer title verified; details incomplete",
-  "evidence_date": "2026-09-04",
-  "next_action": "Obtain current council tender pack",
-  "technology": {
-    "Utility sector": "Water scope to confirm",
-    "Technology / function": "SCADA migration",
-    "Software evidence": "Citect → AVEVA Plant SCADA (title)",
-    "Hardware evidence": "Unknown; do not assume server replacement",
-    "Suggested delivery bundle": "Control-system integrator + migration specialists",
-    "Smaller-party role": "Proposed: migration; testing; operator training",
-    "Participation caveat": "Subcontract rules unknown",
-    "Evidence / source": "Council title. https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047"
-  },
-  "pair_ids": [
-    "PAIR-04"
-  ],
   "actor_ids": [
     "CONTACT-07",
     "CONTACT-08"
   ],
-  "delivery_route": "CONSORTIUM",
-  "outreach_state": "DRAFT_ONLY",
-  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "Australia/Brisbane; AEST explicit on buyer TenderLink",
+    "value": "2026-09-28T16:30:00+10:00"
+  },
+  "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "buyer": "Cairns Regional Council",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "MEDIUM_OR_LOW"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Australia",
+  "deadline": "2026-09-28",
+  "deadline_caveat": "2026-09-28T16:30:00+10:00; Australia/Brisbane; AEST explicit on buyer TenderLink",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Pack and site scope",
+    "Correct Queensland decision-maker"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "SUPPLIER_REGISTRATION_AND_PACK",
+      "value": "UNKNOWN"
+    }
+  ],
+  "eligibility": "TenderLink pack access requires registration; qualifications, briefing and enquiry gates not verified.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-004",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "SAGE Automation candidate; Plant SCADA credentials and water remit not verified",
+  "missing_partner_roles": [
+    "Pack and site scope",
+    "Correct Queensland decision-maker"
+  ],
+  "next_action": "Use 28 September 16:30 AEST buyer-listed close; check pack for earlier gates and single-E2E suitability.",
+  "official_reference": "Contract 3047 / 600033",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "PAIR-04",
+    "OPTION-UT-004-W37"
+  ],
+  "payment_security": "UNKNOWN",
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "procurement_transaction_type": "Council software migration/integration tender",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: Plant SCADA migration and acceptance",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: inventory, interfaces, cutover and rollback",
+      "inferred": true
+    },
+    {
+      "description": "SME: testing/commissioning if required",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-08-12; council page update, original publication UNKNOWN"
+  },
+  "region": "Australia / Oceania",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: Plant SCADA migration and acceptance",
+      "Integrator: inventory, interfaces, cutover and rollback",
+      "SME: testing/commissioning if required"
+    ],
+    "software_hardware": "Required: Citect SCADA migration to AVEVA Plant SCADA. Versions, licence quantities and interfaces UNKNOWN. New server/network hardware UNKNOWN; do not assume replacement.",
+    "unverified_gaps": [
+      "Pack and site scope",
+      "Correct Queensland decision-maker"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Contract 3047 / program 600033 / buyer portal CAIRN-1170235. Quantity and delivery term require registered pack.",
+  "source_url": "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+  "source_urls": [
+    "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+    "https://portal.tenderlink.com/cairns/alltenders/"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Evidence / source": "Council title. https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+    "Hardware evidence": "New server/network hardware UNKNOWN; do not assume replacement.",
+    "Participation caveat": "TenderLink pack access requires registration; qualifications, briefing and enquiry gates not verified.",
+    "Smaller-party role": "Proposed: migration; testing; operator training",
+    "Software evidence": "Required: Citect SCADA migration to AVEVA Plant SCADA. Versions, licence quantities and interfaces UNKNOWN.",
+    "Suggested delivery bundle": "Prime: Plant SCADA migration and acceptance; Integrator: inventory, interfaces, cutover and rollback; SME: testing/commissioning if required",
+    "Technology / function": "SCADA migration",
+    "Utility sector": "Water scope to confirm"
+  },
+  "title": "Citect to AVEVA Plant SCADA upgrade",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "UNKNOWN",
+    "currency": "AUD"
+  },
+  "version_history": [
+    {
+      "change": "Deadline conflict RESOLVED at buyer TenderLink: 28 September, not 14 September.",
+      "deadline": "2026-09-28T16:30:00+10:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
 }

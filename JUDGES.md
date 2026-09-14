@@ -1,3 +1,13 @@
+# Judge-facing status — 14 September 2026
+
+Implemented evidence: 23 sourced tender dossiers; 12 researched companies; 13 cached professional contacts; 18 HOLD email/LinkedIn sequences with four followups; two editorial drafts; public-source coverage and real weekly diagnostic records. An actual scheduled GitHub cached replay succeeded on 8 September. The fresh research flow is PARTIAL because source access, eligibility and delivery qualification remain incomplete. It is not an exhaustive scraper or a revenue-producing pipeline.
+
+No new paid Clay calls, outreach delivery, ads, bids, partner commitments or collected fees are claimed. The local reservation guard passes tests but account-level spending enforcement remains unverified; live paid work stays blocked. Distribution adapters are optional and untested; HeyReach expired. Existing Attio relationships and private identifiers remain outside public exports. See current execution JSON for the independently verified publication state; do not infer it from this document's presence in an archive.
+
+Current reference: research/2026-W38/digest.md and executions/2026-W38/run.json. Earlier judging statements follow as dated historical context.
+
+---
+
 # What this PoC proves — and what it does not
 
 Review date: 2026-09-05. Research snapshot: 2026-09-04.

@@ -1,0 +1,114 @@
+{
+  "schema_version": 2,
+  "country": "South Africa",
+  "region": "Africa",
+  "delivery_route": "UNRESOLVED",
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-022-W38"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "lead_contractor_candidate": "UNKNOWN",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "evidence_date": "2026-09-14",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "id": "UT-022",
+  "title": "Five-year IPP Office legal-adviser panel",
+  "buyer": "DBSA / Independent Power Producers Office",
+  "official_reference": "RFR/LA/IPPO-002/2026",
+  "stage": "PREQUALIFICATION_PANEL",
+  "published": "2026-09-03",
+  "deadline": "2026-09-29",
+  "eligibility": "Compulsory briefing, CSD/tax and returnable documents; minimum 70% functional score. Professional legal eligibility and conflicts need full review.",
+  "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR%20LA%20IPPO-002%202026%20-%20Panel%20of%20Legal%20Advisors%20for%20the%20IPP%20Office.pdf",
+  "source_urls": [
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR%20LA%20IPPO-002%202026%20-%20Panel%20of%20Legal%20Advisors%20for%20the%20IPP%20Office.pdf",
+    "https://www.dbsa.org/procurement"
+  ],
+  "status": "PREQUALIFICATION PANEL",
+  "published_amended": {
+    "published": "2026-09-03",
+    "amended": "UNKNOWN"
+  },
+  "bid_deadline": {
+    "value": "2026-09-29T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "Africa/Johannesburg, UTC+2; buyer time",
+    "conflict": null
+  },
+  "deadline_caveat": "2026-09-29T23:55:00+02:00 Johannesburg",
+  "earlier_gates": [
+    {
+      "type": "COMPULSORY_BRIEFING",
+      "value": "2026-09-15T09:00:00+02:00",
+      "state": "UPCOMING",
+      "mandatory": true
+    },
+    {
+      "type": "SUBMISSION_LINK_REQUEST",
+      "value": "2026-09-23T16:30:00+02:00",
+      "state": "UPCOMING",
+      "mandatory": true
+    }
+  ],
+  "scope_quantities_delivery": "Five-year panel for legal transaction and specialist services supporting IPP procurement. Admission is not a guaranteed commission.",
+  "technology": {
+    "Software evidence": "None established; existing estate UNKNOWN.",
+    "Hardware evidence": "None established."
+  },
+  "value": {
+    "currency": "ZAR",
+    "amount": null,
+    "basis": "UNKNOWN; no contract earnings inferred"
+  },
+  "procurement_transaction_type": "Panel registration / legal advisory",
+  "payment_security": "Call-off values, payment and security UNKNOWN.",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: qualified IPP legal advisory firm",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: opportunity qualification and specialist coordination",
+      "inferred": true
+    },
+    {
+      "description": "SME: specialist legal work only where professionally eligible",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Qualified law-firm lead",
+    "IPP experience and conflict screen"
+  ],
+  "missing_partner_roles": [
+    "Qualified law-firm lead",
+    "IPP experience and conflict screen"
+  ],
+  "next_action": "Immediate eligibility review before 15 September 09:00 SAST briefing; no automatic registration or contact.",
+  "evidence_grade": "Official buyer notice and PDF; full qualification pending",
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "finding": "NEW_TO_REGISTER on 14 September",
+    "notice_amendment_claimed": false
+  }
+}

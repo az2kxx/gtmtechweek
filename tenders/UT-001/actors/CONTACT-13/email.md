@@ -1,28 +1,39 @@
-# Email draft — Lewis Phelan
+# UT-001 / CONTACT-13: email draft
 
-Unsent; qualification and current tender checks required.
-
-## Offer
-Qualify utility telemetry remit and identify an appropriate scope owner
+HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
 
 ## Subject
-Utility telemetry: a scope-owner check
 
-## Initial email
+Southern Water MDR: is there a genuine telemetry interface gap?
+
+## Initial
+
 Hi Lewis,
 
-I coordinate potential supplier collaborations for utility tenders. I am reviewing a requirement where telemetry context may be relevant, but the role and delivery boundary still need qualification. Do you own this discussion, or could you point me to the relevant technical colleague?
+I am reviewing Southern Water’s Prj_8501 as a possible single-provider IT/OT MDR opportunity. Ovarro is not assumed to be needed: a telemetry specialist only makes sense if the full pack reveals an interface that the MDR provider cannot cover.
 
-No partnership or bid commitment is assumed. If you prefer no further contact, please let me know.
+My proposed role is to qualify that boundary before anyone invests in a teaming discussion. Are you the right person to assess such a residual telemetry scope, if one is established?
+
+Deadline/value conflicts and passed enquiry gates remain unresolved. This is exploratory, not a consortium offer or buyer mandate. No introduction would happen without consent from both sides. Please let me know if you prefer no further contact.
 
 ## Follow-up 1
-Would a short requirement summary help you assess whether this falls within your remit?
+
+Hi Lewis,
+
+Would an evidence checklist for the existing estate and MDR onboarding responsibilities help assess fit? No additional company is required if one provider covers the scope.
 
 ## Follow-up 2
-The first discussion would clarify interfaces, responsibilities and tender access before proposing any partnership. Is there a technical owner you would suggest?
+
+Hi Lewis,\nThe proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?
 
 ## Follow-up 3
-I would only coordinate an introduction after the parties agree. Is the underlying scope worth reviewing?
+
+Hi Lewis,
+
+Before any tender dialogue, the full pack and earlier gates must be checked. There is no assumed fee, bid or partner commitment. Is this worth a technical review with the correct owner?
 
 ## Follow-up 4
-I will close this enquiry for now. If a relevant utility telemetry discussion comes up, I am happy to revisit it. Please let me know if you prefer no further contact.
+
+Hi Lewis,
+
+I will leave this proposal on hold. If there is a relevant scope, I can coordinate a discussion after eligibility review and any required introduction consent. If you prefer no further contact, please let me know.

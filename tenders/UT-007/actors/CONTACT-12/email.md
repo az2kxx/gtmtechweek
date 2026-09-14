@@ -1,14 +1,13 @@
-# Email draft — Roberto Niño
+# UT-007 / CONTACT-12: email draft
 
-Unsent; qualification and current tender checks required.
-
-## Offer
-Multidisciplinary engineering and civil/electrical interface design candidate
+HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
 
 ## Subject
+
 Posible cooperación técnica: lotes ENGIE 220 kV
 
-## Initial email
+## Initial
+
 Hola Roberto,
 
 Estoy evaluando una posible cooperación entre Ingesat SIMM y Proingesa para los lotes de Nueva Chuquicamata, Liqcau y Roncacho de ENGIE/Edelnor. No hay una alianza ni participación confirmada.
@@ -20,6 +19,7 @@ La hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas d
 Si prefieres no recibir más mensajes, dímelo.
 
 ## Follow-up 1
+
 Hola Roberto,
 
 Retomo la posible cooperación con Ingesat SIMM. ¿Podéis confirmar si existe una vía de participación válida en este proceso? Sin acceso y derechos de subcontratación o consorcio confirmados, no tendría sentido preparar una oferta conjunta.
@@ -27,6 +27,7 @@ Retomo la posible cooperación con Ingesat SIMM. ¿Podéis confirmar si existe u
 ¿Eres la persona adecuada para revisar ese punto?
 
 ## Follow-up 2
+
 Hola Roberto,
 
 Una agenda concreta para evaluar el encaje con Ingesat SIMM: elegir el lote, separar diseño de ejecución, identificar al proveedor de equipos y asignar responsabilidad sobre protecciones y puesta en servicio.
@@ -34,6 +35,7 @@ Una agenda concreta para evaluar el encaje con Ingesat SIMM: elegir el lote, sep
 También conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?
 
 ## Follow-up 3
+
 Hola Roberto,
 
 Antes de plantear una presentación con Enzo Gaete, faltaría revisar referencias a 220 kV, disponibilidad, garantías y planificación de cortes. Los valores publicados son inversiones de referencia, no ingresos garantizados para cada socio.
@@ -41,6 +43,7 @@ Antes de plantear una presentación con Enzo Gaete, faltaría revisar referencia
 ¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?
 
 ## Follow-up 4
+
 Hola Roberto,
 
 Cierro por ahora esta propuesta de diálogo con Ingesat SIMM. Si hay interés, puedo coordinar una presentación cuando ambas partes lo confirmen. Si este proceso no encaja, basta con indicarlo y no seguiré insistiendo.

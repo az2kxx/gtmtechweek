@@ -3,28 +3,46 @@
   "tender_id": "UT-001",
   "state": "HOLD",
   "technical_offer": "Qualify utility telemetry remit and identify an appropriate scope owner",
-  "counterparty": null,
+  "counterparty": "Not required unless a genuine residual specialist gap is established",
   "email": {
-    "subject": "Utility telemetry: a scope-owner check",
-    "initial": "Hi Lewis,\n\nI coordinate potential supplier collaborations for utility tenders. I am reviewing a requirement where telemetry context may be relevant, but the role and delivery boundary still need qualification. Do you own this discussion, or could you point me to the relevant technical colleague?\n\nNo partnership or bid commitment is assumed. If you prefer no further contact, please let me know.",
+    "subject": "Southern Water MDR: is there a genuine telemetry interface gap?",
+    "initial": "Hi Lewis,\n\nI am reviewing Southern Water’s Prj_8501 as a possible single-provider IT/OT MDR opportunity. Ovarro is not assumed to be needed: a telemetry specialist only makes sense if the full pack reveals an interface that the MDR provider cannot cover.\n\nMy proposed role is to qualify that boundary before anyone invests in a teaming discussion. Are you the right person to assess such a residual telemetry scope, if one is established?\n\nDeadline/value conflicts and passed enquiry gates remain unresolved. This is exploratory, not a consortium offer or buyer mandate. No introduction would happen without consent from both sides. Please let me know if you prefer no further contact.",
     "followups": [
-      "Would a short requirement summary help you assess whether this falls within your remit?",
-      "The first discussion would clarify interfaces, responsibilities and tender access before proposing any partnership. Is there a technical owner you would suggest?",
-      "I would only coordinate an introduction after the parties agree. Is the underlying scope worth reviewing?",
-      "I will close this enquiry for now. If a relevant utility telemetry discussion comes up, I am happy to revisit it. Please let me know if you prefer no further contact."
+      "Hi Lewis,\n\nWould an evidence checklist for the existing estate and MDR onboarding responsibilities help assess fit? No additional company is required if one provider covers the scope.",
+      "Hi Lewis,\\nThe proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?",
+      "Hi Lewis,\n\nBefore any tender dialogue, the full pack and earlier gates must be checked. There is no assumed fee, bid or partner commitment. Is this worth a technical review with the correct owner?",
+      "Hi Lewis,\n\nI will leave this proposal on hold. If there is a relevant scope, I can coordinate a discussion after eligibility review and any required introduction consent. If you prefer no further contact, please let me know."
     ]
   },
   "linkedin": {
-    "connection": "Hi Lewis, I coordinate supplier collaborations for utility projects. Your role looks relevant to a technical scope I’m reviewing. Open to connecting?",
-    "initial": "Thanks for connecting. I’m reviewing IT/OT managed detection and response. The possible role for your team is: Qualify utility telemetry remit and identify an appropriate scope owner. The first step is to establish the correct scope owner; no counterpart is confirmed. Would a short technical outline be useful?",
+    "connection": "Hi Lewis, I qualify utility opportunities and coordinate technical scope discussions. Would you be open to connecting about IT/OT service interfaces?",
+    "initial": "I am reviewing Southern Water Prj_8501. The first option is a single E2E MDR provider; a partner is only useful for a proven gap. I can prepare a scope/evidence matrix. Full-pack and deadline conflicts remain open. Is a brief technical review relevant to your remit?",
     "followups": [
-      "Would it help if I shared a brief for IT/OT managed detection and response with the technical interfaces and open qualification questions?",
-      "For your team, the working scope is Qualify utility telemetry remit and identify an appropriate scope owner. Which boundary would you want clarified before a scoping call?",
-      "No bid, fee split or partnership is assumed. I can coordinate a technical introduction once the scope makes sense and the participants agree. Would you like to explore that?",
-      "I’ll leave this here for now. If this is outside your remit, a referral would help. If you prefer no further messages, please let me know."
+      "Would the existing-tooling and response-responsibility checklist be useful?",
+      "Which technical interface would decide whether your team has a role? No partner is assumed.",
+      "Any introduction would require both parties’ consent. No bid, mandate or fee is agreed.",
+      "I’ll leave this on hold. A referral is welcome if relevant; an opt-out ends further contact."
     ]
   },
   "send_authorized": false,
   "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
-  "snapshot_date": "2026-09-04"
+  "snapshot_date": "2026-09-04",
+  "gate_review_date": "2026-09-07",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED",
+      "type": "ENQUIRIES",
+      "value": "2026-08-21T16:00:00+01:00"
+    },
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "PLATFORM_REGISTRATION",
+      "value": "UNKNOWN"
+    }
+  ],
+  "delivery_route": "SINGLE_E2E",
+  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender",
+  "sequence_review": "Existing proposal superseded by SINGLE_E2E-first review. Optional specialists remain HOLD."
 }

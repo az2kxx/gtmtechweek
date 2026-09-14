@@ -1,48 +1,41 @@
-# Email draft — Peter Whyte
+# UT-001 / CONTACT-01: email draft
 
-Unsent; qualification and current tender checks required.
-
-## Offer
-MDR prime candidate: SOC operations, incident triage and response governance
+HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
 
 ## Subject
-Southern Water MDR: a technical partnership check
 
-## Initial email
+Southern Water IT/OT MDR: full-scope fit and qualification review
+
+## Initial
+
 Hi Peter,
 
-Southern Water's IT/OT MDR notice names Nozomi, Cisco Cyber Vision and CrowdStrike. I’m assessing whether Bridewell and Ovarro could define a useful service split: SOC response ownership alongside water-process and telemetry context.
+I originate and qualify utility opportunities and coordinate technical scoping. Southern Water’s Prj_8501 seeks one supplier for 24/7 IT/OT MDR around its existing Nozomi, Cisco Cyber Vision and CrowdStrike estate.
 
-This is an exploratory pairing. Existing-tool support, subcontract rights and the notice’s conflicting deadline/value still need confirmation.
+Bridewell’s published MDR and OT SOC capabilities make a single-provider route worth assessing. My proposed contribution is an evidence and interface matrix so your team can make a focused bid/no-bid decision; I am not proposing an unnecessary partner.
 
-Would you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Roland Leslie. Neither side has committed.
+The notice still conflicts on deadline and value, and the enquiry cutoff has passed. Full-pack eligibility needs review before proceeding. Would a short scope discussion with the appropriate technical/commercial owner be useful?
 
-If this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.
+No mandate, buyer representation or fee is agreed. If this is outside your remit, a referral would help; let me know if you prefer no further contact.
 
 ## Follow-up 1
+
 Hi Peter,
 
-Following up on Southern Water IT/OT MDR. The first question is whether Ovarro would add a distinct, necessary work package. For your side, I had in mind: mDR prime candidate: SOC operations, incident triage and response governance.
-
-Is that a useful scope to explore, or should I speak with another owner?
+Would an evidence checklist for the existing estate and MDR onboarding responsibilities help assess fit? No additional company is required if one provider covers the scope.
 
 ## Follow-up 2
-Hi Peter,
 
-A practical agenda for the proposed Ovarro discussion would be: existing-tool ingestion; asset/process context; incident escalation; safe containment approvals; evidence ownership. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.
-
-Which interface or qualification would you want to resolve first?
+Hi Peter,\nThe proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?
 
 ## Follow-up 3
+
 Hi Peter,
 
-For Southern Water IT/OT MDR, I would keep the commercial discussion tied to an agreed work package, acceptance criteria and delivery capacity. There is no assumed award, fee split or partner commitment.
-
-Would you be comfortable assessing a possible introduction with Roland Leslie at Ovarro, once the access and scope questions are resolved?
+Before any tender dialogue, the full pack and earlier gates must be checked. There is no assumed fee, bid or partner commitment. Is this worth a technical review with the correct owner?
 
 ## Follow-up 4
+
 Hi Peter,
 
-I’ll close this proposed Ovarro introduction for now. If a technical discussion would be useful, let me know the right owner and I can coordinate once both sides agree. If this tender is not a fit, a brief “not this one” is enough.
-
-If you prefer no further emails, please let me know.
+I will leave this proposal on hold. If there is a relevant scope, I can coordinate a discussion after eligibility review and any required introduction consent. If you prefer no further contact, please let me know.

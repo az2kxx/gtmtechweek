@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-013-W37",
+  "tender_id": "UT-013",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: multidisciplinary municipal advisory; Integrator: workstream and evidence coordination; SME: electrical-loss/GIS/civil/environmental specialist",
+  "interfaces": [
+    "Prime: multidisciplinary municipal advisory",
+    "Integrator: workstream and evidence coordination",
+    "SME: electrical-loss/GIS/civil/environmental specialist"
+  ],
+  "requirements_evidence": [
+    "https://www.dbsa.org/procurement",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP145.2026%20Document%20Enoch%20Mgijima%20and%20Blue%20Crane%20Route%20LMs%20IWMP%20RSWMP%20EMP%20and%20MPNRE.pdf"
+  ],
+  "eligibility_gaps": [
+    "Eligible municipal planning lead",
+    "Prior-award exclusion screen"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Immediate gate review before 8 September 10:00 SAST; no buyer contact or registration performed.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: multidisciplinary municipal advisory; Integrator: workstream and evidence coordination; SME: electrical-loss/GIS/civil/environmental specialist",
+  "gates": "Eligible municipal planning lead; Prior-award exclusion screen"
+}

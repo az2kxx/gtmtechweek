@@ -1,0 +1,32 @@
+{
+  "id": "OPTION-UT-008-W37",
+  "tender_id": "UT-008",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Eligible HV EPC lead; Integrator: design/construction interfaces; SME: civil or controls package",
+  "interfaces": [
+    "Eligible HV EPC lead",
+    "Integrator: design/construction interfaces",
+    "SME: civil or controls package"
+  ],
+  "requirements_evidence": [
+    "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+  ],
+  "eligibility_gaps": [
+    "Bases-holder",
+    "Qualified EPC lead"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "HOLD new-prime outreach; verify eligible lead and permitted package route.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Eligible HV EPC lead; Integrator: design/construction interfaces; SME: civil or controls package",
+  "gates": "Bases-holder; Qualified EPC lead"
+}

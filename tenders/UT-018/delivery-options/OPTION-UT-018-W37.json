@@ -1,0 +1,32 @@
+{
+  "id": "OPTION-UT-018-W37",
+  "tender_id": "UT-018",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: compliant router supply; Integrator: compatibility/acceptance review if required; SME: certified accessories/support",
+  "interfaces": [
+    "Prime: compliant router supply",
+    "Integrator: compatibility/acceptance review if required",
+    "SME: certified accessories/support"
+  ],
+  "requirements_evidence": [
+    "https://portal.tenderlink.com/cairns/alltenders/"
+  ],
+  "eligibility_gaps": [
+    "Specifications and gate dates",
+    "Hardware OEM/distributor"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Read pack before matching; do not merge into Contract3047.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: compliant router supply; Integrator: compatibility/acceptance review if required; SME: certified accessories/support",
+  "gates": "Specifications and gate dates; Hardware OEM/distributor"
+}

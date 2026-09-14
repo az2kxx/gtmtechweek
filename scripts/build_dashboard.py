@@ -17,7 +17,7 @@ def build(run_override=None):
         runs=[run_override if r['id']==run_override['id'] else r for r in runs]
     files=sorted([*(ROOT/'tenders').rglob('*.json'),*(ROOT/'partners').rglob('*.json')])
     digest=hashlib.sha256(b''.join(p.read_bytes() for p in files)).hexdigest()
-    obj={'project':'gtmtechweek','data_as_of':'2026-09-04','generated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'dataset_digest':digest,'config':read(ROOT/'config/demo.json'),'tenders':tenders,'partners':companies,'contacts':contacts,'pairs':list(pairs.values()),'outreach':packets,'runs':runs,'content':[{'id':'utility-integration-before-the-bid','title':'Connected utility projects succeed at the interfaces','state':'DRAFT_ONLY','body':(ROOT/'content/blog/utility-integration-before-the-bid.md').read_text()}]}
+    obj={'project':'gtmtechweek','data_as_of':max((t.get('evidence_date','') for t in tenders), default='UNKNOWN'),'evidence_dates_mixed':True,'generated_at':datetime.datetime.now(datetime.timezone.utc).isoformat(),'dataset_digest':digest,'config':read(ROOT/'config/demo.json'),'tenders':tenders,'partners':companies,'contacts':contacts,'pairs':list(pairs.values()),'outreach':packets,'runs':runs,'content':[{'id':p.stem,'title':p.read_text().splitlines()[0].lstrip('# '),'state':'DRAFT_ONLY','body':p.read_text()} for p in sorted((ROOT/'content/blog').glob('*.md'))]}
     obj['readiness']=read(ROOT/'config/readiness.json')
     (ROOT/'dist').mkdir(exist_ok=True)
     temporary=ROOT/'dist/data.json.tmp'

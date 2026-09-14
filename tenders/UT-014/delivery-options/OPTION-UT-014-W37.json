@@ -1,0 +1,38 @@
+{
+  "id": "OPTION-UT-014-W37",
+  "tender_id": "UT-014",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "CONSORTIUM",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Lead: transaction advisory and finance/legal; WRP candidate: NRW baseline and technical feasibility; Integrator: responsibility matrix and qualification coordination",
+  "interfaces": [
+    "Lead: transaction advisory and finance/legal",
+    "WRP candidate: NRW baseline and technical feasibility",
+    "Integrator: responsibility matrix and qualification coordination"
+  ],
+  "requirements_evidence": [
+    "https://www.dbsa.org/procurement",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20v1.3.pdf"
+  ],
+  "eligibility_gaps": [
+    "Financial/legal transaction-advisory lead",
+    "Institutional/environmental experts",
+    "Cutoff conflict"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Review contradiction and WRP technical fit; no counterpart identified, so contact remains HOLD.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [
+    "wrp-consulting-engineers"
+  ],
+  "roles": [
+    "Candidate NRW technical advisory only"
+  ],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Lead: transaction advisory and finance/legal; WRP candidate: NRW baseline and technical feasibility; Integrator: responsibility matrix and qualification coordination",
+  "gates": "Financial/legal transaction-advisory lead; Institutional/environmental experts; Cutoff conflict"
+}

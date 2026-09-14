@@ -1,0 +1,157 @@
+{
+  "actor_ids": [],
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "DATE_ONLY",
+    "timezone": "Asia/Qatar inferred; closing time UNKNOWN",
+    "value": "2026-09-29"
+  },
+  "buyer": "Ashghal / Public Works Authority",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "MEDIUM_OR_LOW"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "Qatar",
+  "deadline": "2026-09-29",
+  "deadline_caveat": "Official Ashghal list now 29 September, date-only; detailed page unavailable, time/gates not verified.",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Full pack",
+    "Qualified Qatar lead",
+    "Gate times"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "DOCUMENT_PURCHASE_AND_REGISTRATION",
+      "value": "UNKNOWN"
+    }
+  ],
+  "eligibility": "Open buyer listing; commercial/classification and earlier gates not verified.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-020",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Full pack",
+    "Qualified Qatar lead",
+    "Gate times"
+  ],
+  "next_action": "Recover detailed pack and earlier gates; do not confuse QAR7.1m bond with budget.",
+  "official_reference": "PWA/GTC/24/2025/R",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-020-W37"
+  ],
+  "payment_security": "Tender bond QAR7,100,000; document fee QAR45,000; payment terms UNKNOWN.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "GTC re-tender / maintenance services",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: qualified SCADA support",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: scope and OEM-interface assessment",
+      "inferred": true
+    },
+    {
+      "description": "SME: specialist maintenance if allowed",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-06-15"
+  },
+  "region": "Asia / Middle East",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: qualified SCADA support",
+      "Integrator: scope and OEM-interface assessment",
+      "SME: specialist maintenance if allowed"
+    ],
+    "software_hardware": "DNMC SCADA maintenance/support; vendor, versions and licences UNKNOWN. Required replacement hardware UNKNOWN.",
+    "unverified_gaps": [
+      "Full pack",
+      "Qualified Qatar lead",
+      "Gate times"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "BUYER_LISTING_CHANGE: 15 to 29 September close; formal amendment date and detailed gates unavailable.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Maintenance/support; duration and estate size require paid tender pack.",
+  "source_url": "https://www.ashghal.gov.qa/en/Tenders/Pages/ERPTenderDetailes.aspx?Status=Open&TenderID=691707",
+  "source_urls": [
+    "https://www.ashghal.gov.qa/en/Tenders/Pages/ERPTenderDetailes.aspx?Status=Open&TenderID=691707",
+    "https://www.ashghal.gov.qa/en/Tenders/pages/erptenders.aspx"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Hardware evidence": "Required replacement hardware UNKNOWN.",
+    "Participation caveat": "Open buyer listing; commercial/classification and earlier gates not verified.",
+    "Software evidence": "DNMC SCADA maintenance/support; vendor, versions and licences UNKNOWN.",
+    "Suggested delivery bundle": "Prime: qualified SCADA support; Integrator: scope and OEM-interface assessment; SME: specialist maintenance if allowed"
+  },
+  "title": "Drainage network management centre SCADA maintenance and support",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "Budget UNKNOWN; bond and document fee are not contract value",
+    "currency": "QAR"
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER, but older notice outside 14-day publication window.",
+      "deadline": "2026-09-15",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.ashghal.gov.qa/en/Tenders/Pages/ERPTenderDetailes.aspx?Status=Open&TenderID=691707"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "BUYER_LISTING_CHANGE: 15 to 29 September close; formal amendment date and detailed gates unavailable.",
+      "source_urls": [
+        "https://www.ashghal.gov.qa/en/Tenders/Pages/ERPTenderDetailes.aspx?Status=Open&TenderID=691707",
+        "https://www.ashghal.gov.qa/en/Tenders/pages/erptenders.aspx"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+}

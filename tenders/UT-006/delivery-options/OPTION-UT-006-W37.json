@@ -1,0 +1,34 @@
+{
+  "id": "OPTION-UT-006-W37",
+  "tender_id": "UT-006",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: independent SCADA design consultant; Integrator: scope/interface qualification only; SME: survey/design discipline if permitted",
+  "interfaces": [
+    "Prime: independent SCADA design consultant",
+    "Integrator: scope/interface qualification only",
+    "SME: survey/design discipline if permitted"
+  ],
+  "requirements_evidence": [
+    "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+    "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466105"
+  ],
+  "eligibility_gaps": [
+    "Official -2 EOI",
+    "Qualified independent consultant",
+    "Remit corroboration"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Resolve the -2 borrower notice; keep MENA-Water/Aqualine proposals HOLD and do not confuse older awards.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: independent SCADA design consultant; Integrator: scope/interface qualification only; SME: survey/design discipline if permitted",
+  "gates": "Official -2 EOI; Qualified independent consultant; Remit corroboration"
+}

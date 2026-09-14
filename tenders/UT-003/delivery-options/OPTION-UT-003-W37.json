@@ -1,0 +1,32 @@
+{
+  "id": "OPTION-UT-003-W37",
+  "tender_id": "UT-003",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Eligible lead: civil works, financing and PBC accountability; WRP candidate: NRW baseline/M&V; Ovarro candidate: leakage diagnostics",
+  "interfaces": [
+    "Eligible lead: civil works, financing and PBC accountability",
+    "WRP candidate: NRW baseline/M&V",
+    "Ovarro candidate: leakage diagnostics"
+  ],
+  "requirements_evidence": [
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf"
+  ],
+  "eligibility_gaps": [
+    "Eligible attended lead contractor",
+    "Financing and CIDB evidence"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "HOLD direct pursuit. Only assess a permitted specialist route through a documented eligible lead.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Eligible lead: civil works, financing and PBC accountability; WRP candidate: NRW baseline/M&V; Ovarro candidate: leakage diagnostics",
+  "gates": "Eligible attended lead contractor; Financing and CIDB evidence"
+}

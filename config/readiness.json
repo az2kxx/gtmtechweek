@@ -1,122 +1,122 @@
 [
   {
-    "id": "repo",
+    "blocking_live_execution": false,
     "component": "GitHub SSOT",
-    "state": "WRITE_BLOCKED",
-    "priority": "P0",
-    "evidence": "Repository exists and user permits writes. GitHub integration create-tree failed HTTP 403: Resource not accessible by integration on 2026-09-05.",
-    "next_action": "Restore GitHub integration Contents and Workflows write access for az2kxx/gtmtechweek, or use the source package from an authenticated checkout.",
+    "evidence": "Public main and 5 September Actions replay verified; connector tree write succeeded in this run. Branch update not yet claimed.",
+    "id": "repo",
+    "next_action": "Finish validation, publish fast-forward and read back.",
     "owner": "agent",
-    "blocking_live_execution": true
+    "priority": "P0",
+    "state": "WRITE_TEST_PASSED_PUBLICATION_PENDING"
   },
   {
-    "id": "research",
+    "blocking_live_execution": true,
     "component": "Fresh tender collection",
-    "state": "PARTIAL",
-    "priority": "P0",
-    "evidence": "10 sourced records from 2026-09-04. Repository replay does not scrape. Weekly ChatGPT research automation retained.",
-    "next_action": "Complete a new research run; recheck official notices and write new/changed/closed evidence to dossiers.",
+    "evidence": "Fresh 7 and 14 September search-based research; 23 dossiers, 27 source groups with explicit attempt outcomes. Official live notices and country/sector gaps remain.",
+    "id": "research",
+    "next_action": "Resume explicit source and eligibility queue; never treat failed retrieval as zero.",
     "owner": "research agent",
-    "blocking_live_execution": true
+    "priority": "P0",
+    "state": "PARTIAL"
   },
   {
-    "id": "scheduler",
+    "blocking_live_execution": false,
     "component": "Weekly GitHub execution",
-    "state": "NOT_DEPLOYED",
-    "priority": "P0",
-    "evidence": "Monday cron and manual workflow exist in prepared source. GitHub upload is blocked; no remote execution claimed.",
-    "next_action": "Push the source after integration access is fixed, then inspect Actions and the committed execution log.",
+    "evidence": "Successful actual scheduled cached replay 34174340903 on 8 September verified. This workflow does not run fresh research.",
+    "id": "scheduler",
+    "next_action": "Monitor actual Monday executions; keep replay distinct from fresh research.",
     "owner": "agent",
-    "blocking_live_execution": true
+    "priority": "P0",
+    "state": "DEPLOYED_REPLAY_VERIFIED"
   },
   {
-    "id": "clay",
+    "blocking_live_execution": true,
     "component": "Clay enrichment",
-    "state": "CONNECTED_IN_CHAT",
-    "priority": "P0",
-    "evidence": "Clay plugin was used for original enrichment; cache reused. GitHub Actions has no inherited MCP credentials.",
-    "next_action": "Use existing task contexts; bind a real dispatcher and durable 299 DATA-credit guard before new paid requests.",
+    "evidence": "Two saved task-context reads; zero paid submissions. Account-level cost/reservation enforcement unverified.",
+    "id": "clay",
+    "next_action": "Keep COST_REVIEW_REQUIRED until live upper bounds and durable enforcement are verified.",
     "owner": "agent",
-    "blocking_live_execution": true
+    "priority": "P0",
+    "state": "CACHE_ONLY"
   },
   {
-    "id": "attio",
+    "blocking_live_execution": false,
     "component": "Attio mirror",
-    "state": "CONNECTED_IN_CHAT",
-    "priority": "P1",
-    "evidence": "12 companies / 13 people were backfilled and read back. Existing integration retained; public replay does not write CRM.",
-    "next_action": "Keep private record mapping outside Git. Test research-only upserts from the intended live runtime.",
+    "evidence": "18 original and 5 continuation append-only notes read back, covering 13 cached contacts, 23 dossiers and changed gates. Private identity/email/history retained.",
+    "id": "attio",
+    "next_action": "Append final execution outcome; retain private IDs outside Git.",
     "owner": "agent",
-    "blocking_live_execution": false
-  },
-  {
-    "id": "gaps",
-    "component": "Tender and partner qualification",
-    "state": "OPEN_GAPS",
-    "priority": "P0",
-    "evidence": "UT-005 and UT-010 lack qualified actor pairs; several existing matches have unresolved eligibility/interfaces.",
-    "next_action": "Review each dossier's next action. Do not upgrade a candidate based on email verification alone.",
-    "owner": "integrator",
-    "blocking_live_execution": true
-  },
-  {
-    "id": "woodpecker",
-    "component": "Woodpecker",
-    "state": "NOT_CONNECTED",
     "priority": "P1",
-    "evidence": "Email sequences exist; no campaign import, verification or sender test performed.",
+    "state": "READBACK_VERIFIED"
+  },
+  {
+    "blocking_live_execution": true,
+    "component": "Tender and partner qualification",
+    "evidence": "No fully qualified/willing team established. UT-001 single-E2E hypothesis; UT-014 missing transaction-advisory counterpart; multiple gate conflicts.",
+    "id": "gaps",
+    "next_action": "Resolve earliest gates and capability evidence; personalized matching awaits member profiles.",
+    "owner": "integrator",
+    "priority": "P0",
+    "state": "OPEN_GAPS"
+  },
+  {
+    "blocking_live_execution": false,
+    "component": "Woodpecker",
+    "evidence": "Email sequences exist; no campaign import, verification or sender test performed. Optional distribution, not a research/PoC completion dependency.",
+    "id": "woodpecker",
     "next_action": "Connect MCP in the execution host; verify sender, actual paused campaign and feedback before delivery.",
     "owner": "user / agent",
-    "blocking_live_execution": true
+    "priority": "P1",
+    "state": "NOT_CONNECTED"
   },
   {
-    "id": "heyreach",
+    "blocking_live_execution": false,
     "component": "HeyReach",
-    "state": "TRIAL_EXPIRED",
-    "priority": "P2",
     "evidence": "User confirmed trial expired. LinkedIn drafts exist without provider calls.",
+    "id": "heyreach",
     "next_action": "Only restore entitlement if live LinkedIn distribution is later required.",
     "owner": "user",
-    "blocking_live_execution": false
+    "priority": "P2",
+    "state": "TRIAL_EXPIRED"
   },
   {
-    "id": "mentic",
+    "blocking_live_execution": false,
     "component": "Mentic",
-    "state": "NOT_CONNECTED",
-    "priority": "P2",
     "evidence": "User reports MCP-compatible account. Local contract exists; account tools were not callable here.",
+    "id": "mentic",
     "next_action": "Discover actual MCP tools after connection. Media cap remains zero; no ads authorized by the PoC.",
     "owner": "user / agent",
-    "blocking_live_execution": false
+    "priority": "P2",
+    "state": "NOT_CONNECTED"
   },
   {
-    "id": "surfer",
+    "blocking_live_execution": false,
     "component": "SurferSEO",
-    "state": "NOT_CONNECTED",
-    "priority": "P2",
     "evidence": "Official MCP documented; user reports compatible account. Blog draft exists without paid generation.",
+    "id": "surfer",
     "next_action": "Verify workspace and usage allocation if Surfer optimization is required; CMS publishing is separate.",
     "owner": "user / agent",
-    "blocking_live_execution": false
+    "priority": "P2",
+    "state": "NOT_CONNECTED"
   },
   {
-    "id": "feedback",
+    "blocking_live_execution": false,
     "component": "Cross-channel feedback",
-    "state": "NOT_DEPLOYED",
-    "priority": "P1",
-    "evidence": "Local hold logic and contracts are prepared; no remote pause/reply worker exists.",
+    "evidence": "Local hold logic and contracts are prepared; no remote pause/reply worker exists. Optional distribution, not a research/PoC completion dependency.",
+    "id": "feedback",
     "next_action": "Connect dispatcher/outbox on durable host, verify event identities, ordering and confirmed pause delivery.",
     "owner": "deployment agent",
-    "blocking_live_execution": true
+    "priority": "P1",
+    "state": "NOT_DEPLOYED"
   },
   {
-    "id": "commercial",
+    "blocking_live_execution": false,
     "component": "Integrator commercial mandate",
-    "state": "NOT_AGREED",
-    "priority": "P1",
     "evidence": "No supplier commitment, fee agreement or buyer representation is claimed.",
+    "id": "commercial",
     "next_action": "Agree service scope, payer, fee/currency and payment trigger before representing a commercial mandate.",
     "owner": "user",
-    "blocking_live_execution": false
+    "priority": "P1",
+    "state": "NOT_AGREED"
   }
 ]

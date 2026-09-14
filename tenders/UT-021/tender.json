@@ -1,0 +1,116 @@
+{
+  "schema_version": 2,
+  "country": "South Africa",
+  "region": "Africa",
+  "delivery_route": "UNRESOLVED",
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-021-W38"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "lead_contractor_candidate": "UNKNOWN",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "evidence_date": "2026-09-14",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "id": "UT-021",
+  "title": "Independent Transmission System Operator transaction advisory",
+  "buyer": "IFISA / DBSA procurement",
+  "official_reference": "RFP166/2026",
+  "stage": "OPEN_TENDER",
+  "published": "2026-09-08",
+  "deadline": "2026-09-30",
+  "eligibility": "Compulsory briefing; tax/CSD and prescribed returnables; applicable foreign-supplier provisions. Functional qualifications require full professional-team review; no candidate qualified.",
+  "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP166.2026.pdf",
+  "source_urls": [
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP166.2026.pdf",
+    "https://www.dbsa.org/procurement"
+  ],
+  "status": "OPEN TENDER",
+  "published_amended": {
+    "published": "2026-09-08",
+    "amended": "UNKNOWN"
+  },
+  "bid_deadline": {
+    "value": "2026-09-30T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "Africa/Johannesburg, UTC+2; buyer time",
+    "conflict": null
+  },
+  "deadline_caveat": "2026-09-30T23:55:00+02:00 Johannesburg",
+  "earlier_gates": [
+    {
+      "type": "COMPULSORY_BRIEFING",
+      "value": "2026-09-18T11:00:00+02:00",
+      "state": "UPCOMING",
+      "mandatory": true
+    },
+    {
+      "type": "LINK_REQUEST_AND_ENQUIRIES",
+      "value": "2026-09-22T16:30:00+02:00",
+      "state": "UPCOMING",
+      "mandatory": true
+    }
+  ],
+  "scope_quantities_delivery": "Transaction advice for independent TSO establishment; financial model, legal separation and execution support. Final transaction report target one year from appointment; post-transaction support up to four months.",
+  "technology": {
+    "Software evidence": "Financial-model deliverables; no software procurement established. Existing estate UNKNOWN.",
+    "Hardware evidence": "No hardware procurement established."
+  },
+  "value": {
+    "currency": "ZAR",
+    "amount": null,
+    "basis": "UNKNOWN; no contract earnings inferred"
+  },
+  "procurement_transaction_type": "Professional-services RFP; consortium allowed subject to lead designation",
+  "payment_security": "120-day bid validity. Fee proposal/budget, payment milestones and securities not fully extracted.",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: utility/structural transaction-advisory lead",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: evidence and interface coordination",
+      "inferred": true
+    },
+    {
+      "description": "SME: specialist legal, financial or technical advisory if permitted",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Transmission transaction expertise",
+    "Legal/financial lead",
+    "Full evaluation evidence"
+  ],
+  "missing_partner_roles": [
+    "Transmission transaction expertise",
+    "Legal/financial lead",
+    "Full evaluation evidence"
+  ],
+  "next_action": "Review capability/eligibility and compulsory 18 September briefing before committing bid effort.",
+  "evidence_grade": "Official buyer notice and PDF; full qualification pending",
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "finding": "NEW_TO_REGISTER on 14 September",
+    "notice_amendment_claimed": false
+  }
+}

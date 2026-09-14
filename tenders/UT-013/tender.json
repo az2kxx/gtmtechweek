@@ -1,0 +1,161 @@
+{
+  "actor_ids": [],
+  "bid_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "Africa/Johannesburg; Telkom time in pack",
+    "value": "2026-09-18T23:55:00+02:00"
+  },
+  "buyer": "Development Bank of Southern Africa",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "South Africa",
+  "deadline": "2026-09-18",
+  "deadline_caveat": "2026-09-18T23:55:00+02:00; Africa/Johannesburg; Telkom time in pack",
+  "delivery_route": "UNRESOLVED",
+  "dependencies": [
+    "Eligible municipal planning lead",
+    "Prior-award exclusion screen"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "COMPULSORY_BRIEFING",
+      "value": "2026-09-08T10:00:00+02:00"
+    },
+    {
+      "mandatory": true,
+      "state": "UPCOMING",
+      "type": "SUBMISSION_LINK_REQUEST",
+      "value": "2026-09-15T16:00:00+02:00"
+    }
+  ],
+  "eligibility": "Compulsory attendance; registered multidisciplinary professionals; CSD/tax. Prior winners RFP011/012/013/014/015/017 of 2026 excluded, including JV/subcontract arrangements.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-013",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Eligible municipal planning lead",
+    "Prior-award exclusion screen"
+  ],
+  "next_action": "HOLD new-prime participation unless recorded attendance is established; retain other gate conflicts.",
+  "official_reference": "RFP145/2026",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-013-W37"
+  ],
+  "payment_security": "Milestone fees; professional indemnity ≥offer price. Detailed payment timing UNKNOWN.",
+  "pipeline_stage": "DISCOVERED",
+  "procurement_transaction_type": "Professional services RFP; intended single PSP, partial award reserved",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: multidisciplinary municipal advisory",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: workstream and evidence coordination",
+      "inferred": true
+    },
+    {
+      "description": "SME: electrical-loss/GIS/civil/environmental specialist",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-08-28"
+  },
+  "region": "Africa",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: multidisciplinary municipal advisory",
+      "Integrator: workstream and evidence coordination",
+      "SME: electrical-loss/GIS/civil/environmental specialist"
+    ],
+    "software_hardware": "GIS/model input-output deliverables; no purchased platform specified. Advisory assignment; no equipment procurement established.",
+    "unverified_gaps": [
+      "Eligible municipal planning lead",
+      "Prior-award exclusion screen"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Previously upcoming compulsory briefing has passed; participation requires evidence of attendance.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Enoch Mgijima/Blue Crane Route: electricity/loss-reduction, roads/stormwater and waste planning. 12 months plus 3 for council adoption.",
+  "source_url": "https://www.dbsa.org/procurement",
+  "source_urls": [
+    "https://www.dbsa.org/procurement",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP145.2026%20Document%20Enoch%20Mgijima%20and%20Blue%20Crane%20Route%20LMs%20IWMP%20RSWMP%20EMP%20and%20MPNRE.pdf"
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Hardware evidence": "Advisory assignment; no equipment procurement established.",
+    "Participation caveat": "Compulsory attendance; registered multidisciplinary professionals; CSD/tax. Prior winners RFP011/012/013/014/015/017 of 2026 excluded, including JV/subcontract arrangements.",
+    "Software evidence": "GIS/model input-output deliverables; no purchased platform specified.",
+    "Suggested delivery bundle": "Prime: multidisciplinary municipal advisory; Integrator: workstream and evidence coordination; SME: electrical-loss/GIS/civil/environmental specialist"
+  },
+  "title": "Municipal electricity, non-revenue electricity and infrastructure master plans",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "Fee proposals EXCLUDING_VAT; budget not disclosed",
+    "currency": "ZAR"
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER; earliest mandatory gate.",
+      "deadline": "2026-09-18T23:55:00+02:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.dbsa.org/procurement",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP145.2026%20Document%20Enoch%20Mgijima%20and%20Blue%20Crane%20Route%20LMs%20IWMP%20RSWMP%20EMP%20and%20MPNRE.pdf"
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Previously upcoming compulsory briefing has passed; participation requires evidence of attendance.",
+      "source_urls": [
+        "https://www.dbsa.org/procurement",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP145.2026%20Document%20Enoch%20Mgijima%20and%20Blue%20Crane%20Route%20LMs%20IWMP%20RSWMP%20EMP%20and%20MPNRE.pdf"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+}

@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-011-W37",
+  "tender_id": "UT-011",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: gas EPC/design; Integrator: skid-civil-metering acceptance interfaces; SME: regulators, meters/EVC, valves, fabrication",
+  "interfaces": [
+    "Prime: gas EPC/design",
+    "Integrator: skid-civil-metering acceptance interfaces",
+    "SME: regulators, meters/EVC, valves, fabrication"
+  ],
+  "requirements_evidence": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98305.html"
+  ],
+  "eligibility_gaps": [
+    "Gas EPC references",
+    "Local Category1.4 installer",
+    "OEM authorizations"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Find eligible EPC/local installation capability; verify pack before document purchase.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: gas EPC/design; Integrator: skid-civil-metering acceptance interfaces; SME: regulators, meters/EVC, valves, fabrication",
+  "gates": "Gas EPC references; Local Category1.4 installer; OEM authorizations"
+}

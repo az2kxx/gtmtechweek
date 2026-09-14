@@ -1,36 +1,180 @@
 {
-  "id": "UT-001",
-  "title": "IT/OT managed detection and response",
-  "buyer": "Southern Water",
-  "region": "Europe",
-  "country": "United Kingdom",
-  "official_reference": "Prj_8501 / ocds-h6vhtk-0606ff",
-  "source_url": "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID=",
-  "deadline": "2026-09-21",
-  "deadline_caveat": "16:00 UK; verify timezone",
-  "status": "Tender — conflict review",
-  "evidence_grade": "Official mirror; full pack pending",
-  "evidence_date": "2026-09-04",
-  "next_action": "Confirm deadline and value discrepancies",
-  "technology": {
-    "Utility sector": "Water / wastewater",
-    "Technology / function": "24/7 IT and OT MDR",
-    "Software evidence": "Nozomi; Cisco Cyber Vision; CrowdStrike (existing estate)",
-    "Hardware evidence": "No new hardware specified",
-    "Suggested delivery bundle": "Prime SOC + OT specialist + telemetry integration",
-    "Smaller-party role": "OT incident response; assurance; integration",
-    "Participation caveat": "Proposed decomposition; subcontract rights unverified",
-    "Evidence / source": "Scope; existing tooling; one supplier. https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID="
-  },
-  "pair_ids": [
-    "PAIR-01"
-  ],
   "actor_ids": [
     "CONTACT-01",
     "CONTACT-02",
     "CONTACT-13"
   ],
-  "delivery_route": "CONSORTIUM",
-  "outreach_state": "DRAFT_ONLY",
-  "blog_path": "content/blog/utility-integration-before-the-bid.md"
+  "bid_deadline": {
+    "conflict": "Full text 21 September; summary 22 September. £8.5m narrative versus £10m including VAT structured value.",
+    "precision": "MINUTE",
+    "timezone": "Europe/London; BST inferred from UK local time",
+    "value": "2026-09-21T16:00:00+01:00"
+  },
+  "blog_path": "content/blog/utility-integration-before-the-bid.md",
+  "buyer": "Southern Water",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "United Kingdom",
+  "deadline": "2026-09-21",
+  "deadline_caveat": "2026-09-21T16:00:00+01:00; Europe/London; BST inferred from UK local time; Full text 21 September; summary 22 September. £8.5m narrative versus £10m including VAT structured value.",
+  "delivery_route": "SINGLE_E2E",
+  "dependencies": [
+    "Cisco/CrowdStrike scope coverage and contractual eligibility",
+    "Exact deadline and value"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "ENQUIRIES",
+      "value": "2026-08-21T16:00:00+01:00"
+    },
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "PLATFORM_REGISTRATION",
+      "value": "UNKNOWN"
+    }
+  ],
+  "eligibility": "Full selection/financial/technical pack not read; platform registration required. No bidder qualified by this review.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-001",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "Bridewell — proposed, not qualified",
+  "missing_partner_roles": [
+    "Cisco/CrowdStrike scope coverage and contractual eligibility",
+    "Exact deadline and value"
+  ],
+  "next_action": "Review full pack and conflicting dates; test Bridewell full-scope route before seeking partners.",
+  "official_reference": "Prj_8501 / ocds-h6vhtk-0606ff",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "PAIR-01",
+    "OPTION-UT-001-W37"
+  ],
+  "payment_security": "UNKNOWN",
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "procurement_transaction_type": "Utilities competitive flexible procedure; single supplier",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: IT/OT SOC, MDR and incident response",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: estate onboarding, interface and evidence coordination",
+      "inferred": true
+    },
+    {
+      "description": "SME: specialist assurance only if needed",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-08-12"
+  },
+  "region": "Europe",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: IT/OT SOC, MDR and incident response",
+      "Integrator: estate onboarding, interface and evidence coordination",
+      "SME: specialist assurance only if needed"
+    ],
+    "software_hardware": "Required: 24/7 IT/OT MDR integration. Existing: Nozomi, Cisco Cyber Vision, CrowdStrike. No new hardware mandated in notice; additional tooling conditional.",
+    "unverified_gaps": [
+      "Cisco/CrowdStrike scope coverage and contractual eligibility",
+      "Exact deadline and value"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Source recheck only; no amendment established.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "One supplier; three years from 1 July 2027, plus two one-year options.",
+  "source_url": "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID=",
+  "source_urls": [
+    "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID="
+  ],
+  "stage": "OPEN_TENDER",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER",
+  "technology": {
+    "Evidence / source": "Scope; existing tooling; one supplier. https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID=",
+    "Hardware evidence": "No new hardware mandated in notice; additional tooling conditional.",
+    "Participation caveat": "Full selection/financial/technical pack not read; platform registration required. No bidder qualified by this review.",
+    "Smaller-party role": "OT incident response; assurance; integration",
+    "Software evidence": "Required: 24/7 IT/OT MDR integration. Existing: Nozomi, Cisco Cyber Vision, CrowdStrike.",
+    "Suggested delivery bundle": "Prime: IT/OT SOC, MDR and incident response; Integrator: estate onboarding, interface and evidence coordination; SME: specialist assurance only if needed",
+    "Technology / function": "24/7 IT and OT MDR",
+    "Utility sector": "Water / wastewater"
+  },
+  "title": "IT/OT managed detection and response",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "alternatives": [
+      {
+        "amount": 8500000,
+        "source_part": "narrative",
+        "tax": "UNKNOWN"
+      },
+      {
+        "amount": 10000000,
+        "source_part": "structured",
+        "tax": "INCLUDING_VAT"
+      }
+    ],
+    "amount": null,
+    "basis": "CONFLICT",
+    "currency": "GBP"
+  },
+  "version_history": [
+    {
+      "change": "Research qualification changed: evidence-backed single-E2E candidate replaces assumed mandatory consortium.",
+      "deadline": "2026-09-21T16:00:00+01:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID="
+      ],
+      "stage": "OPEN_TENDER",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Source recheck only; no amendment established.",
+      "source_urls": [
+        "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID="
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
 }

@@ -1,0 +1,166 @@
+{
+  "actor_ids": [
+    "CONTACT-05"
+  ],
+  "bid_deadline": {
+    "conflict": "Pack lists link/enquiry cutoff 31 August 16:30 yet also three working days before closing. Do not silently correct it.",
+    "precision": "MINUTE",
+    "timezone": "Africa/Johannesburg explicit",
+    "value": "2026-10-16T23:55:00+02:00"
+  },
+  "buyer": "DBSA / Water Partnerships Office",
+  "confidence": {
+    "candidate_fit": "HYPOTHESIS_ONLY",
+    "notice": "HIGH",
+    "participation": "REVIEW_REQUIRED",
+    "scope": "HIGH"
+  },
+  "cooperation_willingness": "UNKNOWN",
+  "country": "South Africa",
+  "deadline": "2026-10-16",
+  "deadline_caveat": "2026-10-16T23:55:00+02:00; Africa/Johannesburg explicit; Pack lists link/enquiry cutoff 31 August 16:30 yet also three working days before closing. Do not silently correct it.",
+  "delivery_route": "CONSORTIUM",
+  "dependencies": [
+    "Financial/legal transaction-advisory lead",
+    "Institutional/environmental experts",
+    "Cutoff conflict"
+  ],
+  "earlier_gates": [
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "LINK_REQUEST_AND_ENQUIRIES",
+      "value": "2026-08-31T16:30:00+02:00"
+    },
+    {
+      "mandatory": true,
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "COMPULSORY_BRIEFING",
+      "value": "2026-09-11T10:00:00+02:00"
+    }
+  ],
+  "eligibility": "C2.1 specifies JV/consortium/association; relevant professional fees ≥R25m in 10 years; registered multidisciplinary experts; compulsory attendance.",
+  "evidence_date": "2026-09-14",
+  "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
+  "id": "UT-014",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "introduction_consent": "NOT_OBTAINED",
+  "last_rechecked_at": "2026-09-14",
+  "lead_contractor_candidate": "UNKNOWN",
+  "missing_partner_roles": [
+    "Financial/legal transaction-advisory lead",
+    "Institutional/environmental experts",
+    "Cutoff conflict"
+  ],
+  "next_action": "HOLD new-prime participation unless recorded attendance is established; retain other gate conflicts.",
+  "official_reference": "RFP149/2026",
+  "outreach_state": "HOLD",
+  "pair_ids": [
+    "OPTION-UT-014-W37"
+  ],
+  "payment_security": "Lead professional indemnity ≥2×proposed fee; payment timing UNKNOWN.",
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "procurement_transaction_type": "Two-envelope professional-services RFP",
+  "proposed_work_packages": [
+    {
+      "description": "Lead: transaction advisory and finance/legal",
+      "inferred": true
+    },
+    {
+      "description": "WRP candidate: NRW baseline and technical feasibility",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: responsibility matrix and qualification coordination",
+      "inferred": true
+    }
+  ],
+  "published_amended": {
+    "amended": "No later amendment verified; not proof none exists",
+    "published": "2026-08-28"
+  },
+  "region": "Africa",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Lead: transaction advisory and finance/legal",
+      "WRP candidate: NRW baseline and technical feasibility",
+      "Integrator: responsibility matrix and qualification coordination"
+    ],
+    "software_hardware": "Financial models and editable technical outputs; no software licence purchase established. Advisory only; no hardware supply established.",
+    "unverified_gaps": [
+      "Financial/legal transaction-advisory lead",
+      "Institutional/environmental experts",
+      "Cutoff conflict"
+    ]
+  },
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W37",
+    "checkpoint_week": "2026-W38",
+    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
+    "finding": "Previously upcoming compulsory briefing has passed; participation requires evidence of attendance.",
+    "notice_amendment_claimed": false
+  },
+  "schema_version": 2,
+  "scope_quantities_delivery": "Thembelihle and Kai Garib NRW feasibility, CBA, finance and PBC procurement documents. Duration unresolved.",
+  "source_url": "https://www.dbsa.org/procurement",
+  "source_urls": [
+    "https://www.dbsa.org/procurement",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20v1.3.pdf"
+  ],
+  "stage": "OPEN_TENDER_GATE_CONFLICT",
+  "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
+  "status": "OPEN TENDER GATE CONFLICT",
+  "technology": {
+    "Hardware evidence": "Advisory only; no hardware supply established.",
+    "Participation caveat": "C2.1 specifies JV/consortium/association; relevant professional fees ≥R25m in 10 years; registered multidisciplinary experts; compulsory attendance.",
+    "Software evidence": "Financial models and editable technical outputs; no software licence purchase established.",
+    "Suggested delivery bundle": "Lead: transaction advisory and finance/legal; WRP candidate: NRW baseline and technical feasibility; Integrator: responsibility matrix and qualification coordination"
+  },
+  "title": "NRW bankable feasibility and transaction advisory",
+  "unknowns_explicit": [
+    "Unstated fields remain UNKNOWN; full pack/addenda review may change requirements",
+    "Payment, security or value omissions are not assumptions of favourable terms",
+    "Candidates are researched suppliers, not user-supplied member profiles"
+  ],
+  "value": {
+    "amount": null,
+    "basis": "Budget not disclosed; R25m is historical professional-fee qualification threshold",
+    "currency": "ZAR"
+  },
+  "version_history": [
+    {
+      "change": "NEW_TO_REGISTER; cached CONTACT-05 rematched without enrichment.",
+      "deadline": "2026-10-16T23:55:00+02:00",
+      "run_key": "gtmtechweek-2026-W37",
+      "source_urls": [
+        "https://www.dbsa.org/procurement",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20v1.3.pdf"
+      ],
+      "stage": "OPEN_TENDER_GATE_CONFLICT",
+      "verified_date": "2026-09-07"
+    },
+    {
+      "verified_date": "2026-09-14",
+      "attempt_date": "2026-09-14",
+      "logical_run_key": "gtmtechweek-2026-W37",
+      "change": "Previously upcoming compulsory briefing has passed; participation requires evidence of attendance.",
+      "source_urls": [
+        "https://www.dbsa.org/procurement",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20v1.3.pdf"
+      ]
+    }
+  ],
+  "last_recheck_attempt": "2026-09-14",
+  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+}

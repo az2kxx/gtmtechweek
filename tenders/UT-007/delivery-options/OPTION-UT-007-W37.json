@@ -1,0 +1,33 @@
+{
+  "id": "OPTION-UT-007-W37",
+  "tender_id": "UT-007",
+  "state": "PROPOSED_NOT_AGREED",
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "company_a": "Unresolved",
+  "company_b": "Missing or unqualified",
+  "rationale": "Prime: eligible transmission EPC; Integrator: civil/electrical/protection interfaces; SME: controls/testing or defined construction package",
+  "interfaces": [
+    "Prime: eligible transmission EPC",
+    "Integrator: civil/electrical/protection interfaces",
+    "SME: controls/testing or defined construction package"
+  ],
+  "requirements_evidence": [
+    "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+  ],
+  "eligibility_gaps": [
+    "Eligible bases-holder",
+    "HV EPC lead",
+    "Amendments"
+  ],
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "next_action": "Restrict to eligible participants or permitted subcontract routes; verify latest bases.",
+  "roles_are_inferred": true,
+  "evidence_date": "2026-09-07",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: eligible transmission EPC; Integrator: civil/electrical/protection interfaces; SME: controls/testing or defined construction package",
+  "gates": "Eligible bases-holder; HV EPC lead; Amendments"
+}
