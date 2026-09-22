@@ -20,7 +20,22 @@
   "agenda": "official EOI; consultant independence; comparable SCADA design references; site surveys; interface specification; local permissions",
   "software": "SCADA architecture and tender specifications; platform unspecified",
   "hardware": "Design input only; this lead is consultancy, not a hardware supply tender",
-  "gates": "Official EOI and buyer not yet confirmed. No verified independent SCADA consultancy references. Check conflicts from equipment supply interests and find a qualified lead if required. Khalaf current-role corroboration unavailable.",
+  "gates": "Resolve the -2 borrower notice; keep MENA-Water/Aqualine proposals HOLD and do not confuse older awards.",
   "delivery_route": "CONSORTIUM",
-  "commitment": "UNCONFIRMED"
+  "commitment": "UNCONFIRMED",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "OFFICIAL_EOI_AND_SHORTLIST_GATES",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "next_action": "Resolve the -2 borrower notice; keep MENA-Water/Aqualine proposals HOLD and do not confuse older awards.",
+  "latest_requirement_sources": [
+    "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+    "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466105"
+  ]
 }

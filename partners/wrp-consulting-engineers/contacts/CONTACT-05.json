@@ -12,10 +12,10 @@
   "pair_ids": [
     "PAIR-03"
   ],
-  "next_review": "2026-09-21",
+  "next_review": "2026-09-28",
   "cache_review": {
     "identity_role_email_evidence_date": "2026-09-04",
-    "read_from_existing_CRM": "2026-09-07",
+    "read_from_existing_CRM": "2026-09-21",
     "new_enrichment": false,
     "role_email_review_days": 30,
     "capability_review_days": 90,
@@ -27,7 +27,11 @@
       "delivery_route": "UNRESOLVED",
       "outreach_state": "HOLD",
       "eligibility": "REVIEW_REQUIRED",
-      "willingness": "UNKNOWN"
+      "willingness": "UNKNOWN",
+      "latest_gate_review": {
+        "date": "2026-09-21",
+        "next_action": "For an evidenced prior attendee: acknowledge Addendum3, review amended pack/Q&A and reconcile relative request cutoffs. Non-attending prime remains excluded; supplier/subcontract roles need explicit permission."
+      }
     },
     {
       "tender_id": "UT-014",
@@ -37,7 +41,11 @@
       "willingness": "UNKNOWN",
       "match_status": "NO_PAIR_FOUND",
       "reason": "MISSING_COMPLEMENTARY_COMPANY",
-      "next_review": "2026-09-21"
+      "next_review": "2026-09-21",
+      "latest_gate_review": {
+        "date": "2026-09-21",
+        "next_action": "Check attendance evidence and Addendum1 compliance before dialogue. WRP technical capability remains a hypothesis; no financial/legal transaction lead confirmed."
+      }
     }
   ]
 }

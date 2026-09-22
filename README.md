@@ -2,7 +2,7 @@
 
 A repository-first demonstration of utility tender origination, supplier matching and technical-dialogue preparation. The repository is the demo source of truth; the dashboard is a generated, read-only projection. Attio remains an optional mirror, with its existing integration preserved.
 
-> Current evidence, 14 September 2026: GitHub publication and readback succeeded. The earlier connector 403 is resolved. Fresh search-based research remains PARTIAL; detailed source/eligibility gaps and dashboard deployment evidence are in [the current execution](executions/2026-W38/run.json). The successful 8 September GitHub schedule was cached replay, not fresh scraping.
+> Current evidence, 21 September 2026: fresh research is PARTIAL. Eight entries added;31 dossiers and19 HOLD actor/tender packets. See [the current execution](executions/2026-W39/run.json) for source, CRM and publication/readback outcomes. GitHub cached replay is not fresh research.
 
 ## Start here
 
@@ -13,11 +13,11 @@ A repository-first demonstration of utility tender origination, supplier matchin
 
 ## Included
 
-- 23 tender dossiers across six regions, with explicit 7/14 September evidence dates and unresolved official-notice gaps.
+- 31 opportunity dossiers across six regions, with explicit mixed evidence dates and unresolved official-notice gaps.
 - 12 companies and 13 named professional contacts; direct business emails and private CRM/Clay identifiers are excluded from the public export.
 - Evidence-backed role hypotheses, including single-E2E and consortium routes; no confirmed willing/eligible team. Historical pair assessments are retained alongside current delivery options.
-- 18 actor/tender packets: tailored email and LinkedIn sequences, each with four followups. Some people appear under several tenders; these are associations, not extra contacts. All remain HOLD.
-- Two technology/use-case blog drafts that avoid announcing a proposed consortium or exposing confidential strategy.
+- 19 actor/tender packets: tailored email and LinkedIn sequences, each with four followups. Some people appear under several tenders; these are associations, not extra contacts. All remain HOLD.
+- Three technology/use-case blog drafts that avoid announcing a proposed consortium or exposing confidential strategy.
 - Weekly execution records, public-data validation, an interactive dashboard and optional GitHub Pages publishing.
 
 Every message is a draft. No distribution, enrichment or fresh scraping occurs in the repository replay. HeyReach trial is expired. Mentic and Surfer adapters remain documented, unconnected interfaces. A local replay is not evidence that all external tools are connected.

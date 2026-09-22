@@ -1,0 +1,50 @@
+{
+  "actor_id": "CONTACT-08",
+  "tender_id": "UT-027",
+  "state": "HOLD",
+  "delivery_route": "UNRESOLVED",
+  "technical_offer": "Prepare a dosing-package scope/acceptance matrix and coordinate a referral to the Queensland technical/commercial owner; full-scope supplier first if qualified.",
+  "counterparty": "None required unless a scope gap is evidenced",
+  "send_authorized": false,
+  "snapshot_date": "2026-09-21",
+  "gate_review_date": "2026-09-21",
+  "current_gate_review": [
+    {
+      "type": "PACK_ACCESS_AND_EARLIER_GATES",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "REVIEW"
+    }
+  ],
+  "next_review": "2026-09-28",
+  "followup_timing": "UNSCHEDULED. Recheck14 October close, earlier gates and remaining window before any approved outreach. Stop on reply/opt-out.",
+  "identity_basis": "Existing cachedClay/Attio professional identity; role evidence4 September; no new email enrichment",
+  "email": {
+    "subject": "Little Mulgrave dosing package: scope review for the right AQUATEC owner",
+    "initial": "Hi Jayden,\n\nCairns is listing Contract3090, Sodium Hypochlorite Package2 at Little Mulgrave Reservoir, closing14 October at16:30 AEST. AQUATEC's published water-systems design and adjacent chemical-dosing capabilities make a scope check worth considering, but I have not verified a reservoir-hypochlorite fit or the full tender gates.\n\nI can prepare a requirements and acceptance matrix covering the dosing equipment, controls, installation and operating handover, then coordinate a focused bid/no-bid discussion. A single capable supplier is the first option; no partner or package allocation is assumed.\n\nYour cached remit appears to be South Australia. Could you point me to the appropriate Queensland technical/commercial owner? No buyer mandate, fee or supplier commitment is agreed. If this is not relevant or you prefer no further messages, please let me know.",
+    "followups": [
+      "Hi Jayden,\n\nWould a short scope checklist help the relevant owner decide whether Contract3090 fits? The pack must establish the actual equipment, controls and installation boundaries before we propose a role.",
+      "Hi Jayden,\n\nThe main interface questions are chemical compatibility, dosing controls and commissioning acceptance. I would document requirements from the buyer pack, not assume AQUATEC supplies every element. Is there a better technical owner for that review?",
+      "Hi Jayden,\n\nIf one supplier meets the whole scope and eligibility, there is no need to assemble a team. Where a genuine gap remains, I can coordinate a responsibility matrix and seek consent before any introduction. Commercial terms would be agreed separately.",
+      "Hi Jayden,\n\nI will leave the Little Mulgrave scope proposal on hold. A referral is welcome if useful; otherwise no action is needed. Please say if you prefer no further contact."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Jayden, I qualify water-infrastructure opportunities and coordinate technical scope reviews. Your water-systems background looks relevant. Open to connecting?",
+    "initial": "Cairns Contract3090 covers Little Mulgrave Reservoir's hypochlorite package. I can prepare a scope/acceptance matrix, subject to full-pack review. Your cached remit is SA; who owns Queensland dosing opportunities? No partner or bid commitment is assumed.",
+    "followups": [
+      "Would a concise requirement checklist help the right owner assess fit?",
+      "The pack needs to resolve equipment, controls, installation and acceptance boundaries. Who should review those?",
+      "A single qualified supplier is sufficient; a partner is only useful for an evidenced gap. No mandate or fee is agreed.",
+      "I'll leave this on hold. A referral is welcome; please say if you'd prefer no further messages."
+    ]
+  },
+  "remaining_followup_window": "NOT_SCHEDULED; tender gate validation required before activation",
+  "current_deadline": {
+    "value": "2026-10-14T16:30:00+10:00",
+    "precision": "MINUTE",
+    "timezone": "AEST explicit",
+    "conflict": null
+  },
+  "current_next_action": "Seek internal scope/referral review only after pack access is authorized; assess single-E2E option before any consortium."
+}

@@ -31,5 +31,20 @@
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Potential prime: AMI supply and deployment; Integrator: interoperability/rollout; SME: installation/support",
-  "gates": "Official IFB; Local installation lead; System specifications"
+  "gates": "Retrieve borrower IFB before using deadline, budget or drafting named-actor outreach.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "OFFICIAL_IFB_AND_GATES",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+    "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465988",
+    "https://documents1.worldbank.org/curated/en/099040326140012452/pdf/P507588-21c78e5f-5d48-4415-8b5e-25f4b381414c.pdf"
+  ]
 }

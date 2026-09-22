@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "id": "UT-025",
+  "title": "Limpopo school water and sanitation professional services - Cluster 1",
+  "buyer": "DBSA / Limpopo Department of Education",
+  "country": "South Africa",
+  "region": "Africa",
+  "official_reference": "RFP164/2026",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-09-18 buyer list; PDF schedule says2026-09-21",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-14",
+  "bid_deadline": {
+    "value": "2026-10-14T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "South African buyer time; UTC+2 inferred",
+    "conflict": null
+  },
+  "deadline_caveat": "South African buyer time; UTC+2 inferred",
+  "earlier_gates": [
+    {
+      "type": "COMPULSORY_ONLINE_BRIEFING",
+      "value": "2026-09-28T11:00:00+02:00",
+      "mandatory": true,
+      "state": "UPCOMING; eligibility requires review"
+    },
+    {
+      "type": "ENQUIRIES",
+      "value": "2026-10-12T12:00:00+02:00",
+      "mandatory": false,
+      "state": "UPCOMING; eligibility requires review"
+    },
+    {
+      "type": "SUBMISSION_LINK_REQUEST",
+      "value": "2026-10-13T16:00:00+02:00",
+      "mandatory": true,
+      "state": "UPCOMING; eligibility requires review"
+    }
+  ],
+  "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP164.2026_Tender%20Document%20PSP%20FOR%20LDOE%20Cluster%201.pdf",
+  "source_urls": [
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP164.2026_Tender%20Document%20PSP%20FOR%20LDOE%20Cluster%201.pdf",
+    "https://www.dbsa.org/procurement"
+  ],
+  "evidence_date": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Official111-page pack read selectively; publication-date discrepancy retained.",
+  "scope_quantities_delivery": "Multidisciplinary stages1–7 for Capricorn/Waterberg sanitation and water: toilets, boreholes, tanks, refurbishment. Estimated12 months or stage7 completion; later stages budget-dependent; quantities unresolved.",
+  "technology": {
+    "Software evidence": "Native3D and IFC design outputs; BIMx/A360 review. No licence purchase established; existing estate UNKNOWN.",
+    "Hardware evidence": "Design/oversight of water/sanitation works, not direct equipment award.",
+    "Participation caveat": "Compulsory briefing; professional registrations, CSD/tax and full functional thresholds require review."
+  },
+  "value": {
+    "amount": null,
+    "currency": "ZAR",
+    "basis": "Total fee UNKNOWN. ZAR2m provisional survey/geotechnical sum is not total budget; tax basis unresolved.",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Compulsory briefing; professional registrations, CSD/tax and full functional thresholds require review.",
+  "procurement_transaction_type": "Professional-services RFP; separate works procurement",
+  "payment_security": "90-day validity; PI ZAR8m/claim unlimited claims or permitted insurer letter, public liability ZAR10m. Stage fees5/10/20/15/25/10/15%; disbursements preapproved/proven.",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: multidisciplinary professional-services lead",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: discipline interface and evidence coordination",
+      "inferred": true
+    },
+    {
+      "description": "SME: civil/electrical, surveying, geotechnical, QS, H&S",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Qualified registered multidisciplinary lead",
+    "Professional indemnity and functional review",
+    "Site/quantity confirmation"
+  ],
+  "missing_partner_roles": [
+    "Qualified registered multidisciplinary lead",
+    "Professional indemnity and functional review",
+    "Site/quantity confirmation"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: multidisciplinary professional-services lead",
+      "Integrator: discipline interface and evidence coordination",
+      "SME: civil/electrical, surveying, geotechnical, QS, H&S"
+    ],
+    "unverified_gaps": [
+      "Qualified registered multidisciplinary lead",
+      "Professional indemnity and functional review",
+      "Site/quantity confirmation"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-025-W39"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Assess lead capability before28 September briefing; preserve separate Cluster1/8 bids.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Budget, tax, payment and unextracted eligibility UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreachHOLD; no introduction consent or mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W39",
+    "finding": "NEW_TO_REGISTER; not necessarily published within overlap",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "verified_date": "2026-09-21",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP164.2026_Tender%20Document%20PSP%20FOR%20LDOE%20Cluster%201.pdf",
+        "https://www.dbsa.org/procurement"
+      ]
+    }
+  ],
+  "evidence_grade": "Official111-page pack read selectively; publication-date discrepancy retained."
+}

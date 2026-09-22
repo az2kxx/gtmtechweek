@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "id": "UT-024",
+  "title": "Water-efficient sanitation systems in Cape Town informal settlements",
+  "buyer": "DBSA / City of Cape Town",
+  "country": "South Africa",
+  "region": "Africa",
+  "official_reference": "RFP092/2026",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-09-17",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-30",
+  "bid_deadline": {
+    "value": "2026-10-30T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "Johannesburg buyer time; UTC+2",
+    "conflict": null
+  },
+  "deadline_caveat": "Johannesburg buyer time; UTC+2",
+  "earlier_gates": [
+    {
+      "type": "COMPULSORY_ONLINE_BRIEFING",
+      "value": "2026-09-29T10:00:00+02:00",
+      "mandatory": true,
+      "state": "UPCOMING; eligibility requires review"
+    },
+    {
+      "type": "VOLUNTARY_SITE_BRIEFING",
+      "value": "Date to be announced at online briefing",
+      "mandatory": false,
+      "state": "UNKNOWN"
+    },
+    {
+      "type": "OTHER_REQUEST_OR_REGISTRATION_CUTOFFS",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "PACK_REVIEW"
+    }
+  ],
+  "source_url": "https://www.dbsa.org/procurement",
+  "source_urls": [
+    "https://www.dbsa.org/procurement",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP092.2026%20Tender%20Volumes%20upd.zip"
+  ],
+  "evidence_date": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Official buyer listing retrieved; ZIP download unsupported by web reader, not an authentication denial.",
+  "scope_quantities_delivery": "Design, supply, installation, commissioning and initial O&M. Quantities, sites and delivery period UNKNOWN.",
+  "technology": {
+    "Software evidence": "Control/software requirements and existing estate UNKNOWN.",
+    "Hardware evidence": "Water-efficient sanitation systems required; equipment/quantities UNKNOWN pending ZIP pack.",
+    "Participation caveat": "Compulsory online attendance required. Technical/financial eligibility UNKNOWN; ZIP pack not parsed."
+  },
+  "value": {
+    "amount": null,
+    "currency": "ZAR",
+    "basis": "UNKNOWN; neither budget nor tax basis disclosed in accessible listing",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Compulsory online attendance required. Technical/financial eligibility UNKNOWN; ZIP pack not parsed.",
+  "procurement_transaction_type": "Design/supply/works/commissioning/O&M RFP",
+  "payment_security": "UNKNOWN",
+  "proposed_work_packages": [
+    {
+      "description": "E2E prime: sanitation design-build and initial O&M",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: equipment/civil/operations responsibility matrix",
+      "inferred": true
+    },
+    {
+      "description": "SME: treatment units, controls, installation or maintenance if permitted",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Sanitation lead",
+    "Full pack and financial/technical gates",
+    "Local installation and O&M responsibility"
+  ],
+  "missing_partner_roles": [
+    "Sanitation lead",
+    "Full pack and financial/technical gates",
+    "Local installation and O&M responsibility"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: sanitation design-build and initial O&M",
+      "Integrator: equipment/civil/operations responsibility matrix",
+      "SME: treatment units, controls, installation or maintenance if permitted"
+    ],
+    "unverified_gaps": [
+      "Sanitation lead",
+      "Full pack and financial/technical gates",
+      "Local installation and O&M responsibility"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-024-W39"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Review full tender volumes before29 September briefing; do not buy/register without authorization.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "LOW",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Budget, tax, payment and unextracted eligibility UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreachHOLD; no introduction consent or mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W39",
+    "finding": "NEW_TO_REGISTER; not necessarily published within overlap",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "verified_date": "2026-09-21",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.dbsa.org/procurement",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP092.2026%20Tender%20Volumes%20upd.zip"
+      ]
+    }
+  ],
+  "evidence_grade": "Official buyer listing retrieved; ZIP download unsupported by web reader, not an authentication denial."
+}

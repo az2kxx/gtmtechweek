@@ -12,10 +12,10 @@
   "pair_ids": [
     "PAIR-04"
   ],
-  "next_review": "2026-09-21",
+  "next_review": "2026-09-28",
   "cache_review": {
     "identity_role_email_evidence_date": "2026-09-04",
-    "read_from_existing_CRM": "2026-09-07",
+    "read_from_existing_CRM": "2026-09-21",
     "new_enrichment": false,
     "role_email_review_days": 30,
     "capability_review_days": 90,
@@ -27,7 +27,11 @@
       "delivery_route": "UNRESOLVED",
       "outreach_state": "HOLD",
       "eligibility": "REVIEW_REQUIRED",
-      "willingness": "UNKNOWN"
+      "willingness": "UNKNOWN",
+      "latest_gate_review": {
+        "date": "2026-09-21",
+        "next_action": "Use 28 September 16:30 AEST buyer-listed close; check pack for earlier gates and single-E2E suitability."
+      }
     }
   ]
 }

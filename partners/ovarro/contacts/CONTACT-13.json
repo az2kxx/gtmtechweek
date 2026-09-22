@@ -11,10 +11,10 @@
   "willingness": "UNKNOWN",
   "pair_ids": [],
   "match_status": "ROLE_NOT_REQUIRED_FOR_PROPOSED_E2E",
-  "next_review": "2026-09-21",
+  "next_review": "2026-09-28",
   "cache_review": {
     "identity_role_email_evidence_date": "2026-09-04",
-    "read_from_existing_CRM": "2026-09-07",
+    "read_from_existing_CRM": "2026-09-21",
     "new_enrichment": false,
     "role_email_review_days": 30,
     "capability_review_days": 90,
@@ -26,7 +26,11 @@
       "delivery_route": "SINGLE_E2E",
       "outreach_state": "HOLD",
       "eligibility": "REVIEW_REQUIRED",
-      "willingness": "UNKNOWN"
+      "willingness": "UNKNOWN",
+      "latest_gate_review": {
+        "date": "2026-09-21",
+        "next_action": "HOLD new bid effort: full-text 21 September 16:00 BST has passed; summary 22 September remains inconsistent. Verify buyer portal before any late-eligibility claim."
+      }
     }
   ],
   "previous_match_status": "NO_PAIR_FOUND"

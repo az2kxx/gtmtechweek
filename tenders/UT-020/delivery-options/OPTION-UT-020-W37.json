@@ -22,12 +22,26 @@
   ],
   "willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "next_action": "Screen costly entry and earlier gates before considering any purchase; no spending authorized.",
+  "next_action": "Recover detailed pack and earlier gates; do not confuse QAR7.1m bond with budget.",
   "roles_are_inferred": true,
   "evidence_date": "2026-09-07",
   "company_ids": [],
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: qualified SCADA support; Integrator: scope and OEM-interface assessment; SME: specialist maintenance if allowed",
-  "gates": "Full pack; Qualified Qatar lead; Gate times"
+  "gates": "Recover detailed pack and earlier gates; do not confuse QAR7.1m bond with budget.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "DOCUMENT_PURCHASE_AND_REGISTRATION",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.ashghal.gov.qa/en/Tenders/Pages/ERPTenderDetailes.aspx?Status=Open&TenderID=691707",
+    "https://www.ashghal.gov.qa/en/Tenders/pages/erptenders.aspx"
+  ]
 }

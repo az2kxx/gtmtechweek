@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-031-W39",
+  "tender_id": "UT-031",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: qualified wastewater works contractor",
+      "Integrator: package mapping and interface/gate review",
+      "SME: mechanical/electrical/control/works portions only after pack"
+    ],
+    "unverified_gaps": [
+      "US-qualified prime and bid set",
+      "Prebid gates and bonds",
+      "Technical quantities"
+    ]
+  },
+  "interfaces": [
+    "E2E prime: qualified wastewater works contractor",
+    "Integrator: package mapping and interface/gate review",
+    "SME: mechanical/electrical/control/works portions only after pack"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; singleE2E accepted if all scope/eligibility evidenced",
+  "next_review": "2026-09-28",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "E2E prime: qualified wastewater works contractor; Integrator: package mapping and interface/gate review; SME: mechanical/electrical/control/works portions only after pack",
+  "gates": "US-qualified prime and bid set; Prebid gates and bonds; Technical quantities"
+}

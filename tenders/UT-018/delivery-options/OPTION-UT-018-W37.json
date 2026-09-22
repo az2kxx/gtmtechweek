@@ -21,12 +21,25 @@
   ],
   "willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "next_action": "Read pack before matching; do not merge into Contract3047.",
+  "next_action": "Only pack-qualified existing bidders should assess imminent closing; full specification and earlier gates still UNKNOWN.",
   "roles_are_inferred": true,
   "evidence_date": "2026-09-07",
   "company_ids": [],
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: compliant router supply; Integrator: compatibility/acceptance review if required; SME: certified accessories/support",
-  "gates": "Specifications and gate dates; Hardware OEM/distributor"
+  "gates": "Only pack-qualified existing bidders should assess imminent closing; full specification and earlier gates still UNKNOWN.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "REGISTERED_TENDER_PACK",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://portal.tenderlink.com/cairns/alltenders/"
+  ]
 }

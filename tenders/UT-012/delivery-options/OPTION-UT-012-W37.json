@@ -22,12 +22,25 @@
   ],
   "willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "next_action": "Check nationality gate before OEM matching; preserve eight package identities.",
+  "next_action": "Use corrected G-24/G-27 package-year references; Bangladeshi-prime restriction still applies.",
   "roles_are_inferred": true,
   "evidence_date": "2026-09-07",
   "company_ids": [],
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Eligible local prime: supply and warranties; Integrator: OEM compliance/logistics matrix; SME/OEM: specified transformer packages",
-  "gates": "Bangladeshi bidder; Quantities; Manufacturer qualifications"
+  "gates": "Use corrected G-24/G-27 package-year references; Bangladeshi-prime restriction still applies.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "DATE_ONLY",
+      "type": "DOCUMENT_SALES",
+      "value": "2026-09-27"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98319.html"
+  ]
 }

@@ -12,7 +12,7 @@
   "lead_contractor_candidate": "UNKNOWN",
   "cooperation_willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "evidence_date": "2026-09-14",
+  "evidence_date": "2026-09-21",
   "confidence": {
     "notice": "HIGH",
     "scope": "MEDIUM",
@@ -59,20 +59,28 @@
     {
       "type": "COMPULSORY_BRIEFING",
       "value": "2026-09-18T11:00:00+02:00",
-      "state": "UPCOMING",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "mandatory": true
     },
     {
-      "type": "LINK_REQUEST_AND_ENQUIRIES",
+      "type": "ENQUIRIES",
       "value": "2026-09-22T16:30:00+02:00",
-      "state": "UPCOMING",
-      "mandatory": true
+      "mandatory": false,
+      "state": "UPCOMING; no questions after cutoff"
+    },
+    {
+      "type": "SUBMISSION_LINK_REQUEST",
+      "value": "Three working days before submission",
+      "precision": "RELATIVE_WORKING_DAYS",
+      "mandatory": true,
+      "state": "REVIEW; separate from enquiry cutoff"
     }
   ],
   "scope_quantities_delivery": "Transaction advice for independent TSO establishment; financial model, legal separation and execution support. Final transaction report target one year from appointment; post-transaction support up to four months.",
   "technology": {
     "Software evidence": "Financial-model deliverables; no software procurement established. Existing estate UNKNOWN.",
-    "Hardware evidence": "No hardware procurement established."
+    "Hardware evidence": "No hardware procurement established.",
+    "Participation caveat": "Compulsory briefing; tax/CSD and prescribed returnables; applicable foreign-supplier provisions. Functional qualifications require full professional-team review; no candidate qualified."
   },
   "value": {
     "currency": "ZAR",
@@ -105,12 +113,29 @@
     "Legal/financial lead",
     "Full evaluation evidence"
   ],
-  "next_action": "Review capability/eligibility and compulsory 18 September briefing before committing bid effort.",
+  "next_action": "Attendance gate first; qualified prior attendee to review imminent enquiry cutoff and full transaction track record.",
   "evidence_grade": "Official buyer notice and PDF; full qualification pending",
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "finding": "NEW_TO_REGISTER on 14 September",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Compulsory18 September briefing passed; enquiries22 September16:30 SAST. Link request rule separately three working days before submission.",
     "notice_amendment_claimed": false
-  }
+  },
+  "last_recheck_attempt": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise.",
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Compulsory18 September briefing passed; enquiries22 September16:30 SAST. Link request rule separately three working days before submission.",
+      "stage": "OPEN_TENDER",
+      "deadline": "2026-09-30T23:55:00+02:00",
+      "source_urls": [
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP166.2026.pdf",
+        "https://www.dbsa.org/procurement"
+      ]
+    }
+  ]
 }

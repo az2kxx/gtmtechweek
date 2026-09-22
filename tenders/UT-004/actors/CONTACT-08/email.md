@@ -1,6 +1,10 @@
-# UT-004 / CONTACT-08: email draft
+# UT-004 / CONTACT-08 - email draft
 
-HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
+State: HOLD - no sending or enrollment authorized.
+
+Gate review: 2026-09-21. Use 28 September 16:30 AEST buyer-listed close; check pack for earlier gates and single-E2E suitability.
+
+Four followups are drafts, not a schedule. Any reply pauses outreach; opt-out suppresses all channels. Introduction consent is required from both parties.
 
 ## Subject
 
@@ -12,13 +16,13 @@ Hi Jayden,
 
 I’m reviewing Cairns Contract 3047, titled Citect to AVEVA Plant SCADA migration. If pump or sewer interfaces are included, there may be a useful split between SAGE’s migration engineering and Aquatec’s asset-specific acceptance tests.
 
-The full scope and deadline are still unresolved, so this is only a scope check. No new pump supply or Aquatec work package is assumed.
+The current buyer list says28 September16:30 AEST. The detailed pack and earlier gates remain unresolved, so this is only a scope check. No new pump supply or Aquatec work package is assumed.
 
 Could you point me to your Queensland water or SCADA bid owner to assess whether this deserves a technical discussion? If there is a fit, I’d ask both sides before arranging an introduction with Paul Johnson. Neither side has committed.
 
 If this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.
 
-## Follow-up 1
+## Followup 1
 
 Hi Jayden,
 
@@ -26,7 +30,7 @@ Following up on Cairns Contract 3047 SCADA migration. The first question is whet
 
 Is that a useful scope to explore, or should I speak with another owner?
 
-## Follow-up 2
+## Followup 2
 
 Hi Jayden,
 
@@ -34,7 +38,7 @@ A practical agenda for the proposed SAGE Automation discussion would be: asset l
 
 Which interface or qualification would you want to resolve first?
 
-## Follow-up 3
+## Followup 3
 
 Hi Jayden,
 
@@ -42,7 +46,7 @@ For Cairns Contract 3047 SCADA migration, I would keep the commercial discussion
 
 Would you be comfortable assessing a possible introduction with Paul Johnson at SAGE Automation, once the access and scope questions are resolved?
 
-## Follow-up 4
+## Followup 4
 
 Hi Jayden,
 

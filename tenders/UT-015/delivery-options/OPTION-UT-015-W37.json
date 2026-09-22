@@ -22,12 +22,31 @@
   ],
   "willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "next_action": "Review 9–10 September site access first; retain risk/eligibility HOLD.",
+  "next_action": "Existing eligible bidder must obtain/reconcile Bulletin034-01 and updated BOQ before22 September17:30 UTC+2. No attendance or registration presumed.",
   "roles_are_inferred": true,
   "evidence_date": "2026-09-07",
   "company_ids": [],
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: qualified local water works delivery; Integrator: survey, procurement and acceptance coordination; SME: pumps/pipes/installation only if specifications establish",
-  "gates": "Site access and logistics; Eligible local lead; ITB specifications"
+  "gates": "Existing eligible bidder must obtain/reconcile Bulletin034-01 and updated BOQ before22 September17:30 UTC+2. No attendance or registration presumed.",
+  "current_gate_review": [
+    {
+      "mandatory": "UNKNOWN",
+      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "type": "SITE_VISIT",
+      "value": "2026-09-09/2026-09-10 10:00–15:00 GMT+2"
+    },
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "ENQUIRIES",
+      "value": "2026-09-14T17:30:00+02:00"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.ungm.org/Public/Notice/312894"
+  ]
 }

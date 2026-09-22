@@ -29,5 +29,24 @@
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: eligible transmission EPC; SME: reactor OEM / protection and commissioning; Integrator: OEM-civil-control interface coordination",
-  "gates": "Bases-holder; Reactor OEM; EPC lead"
+  "gates": "Check participant status and reactor package before any technical introduction.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "BASES_PURCHASE",
+      "value": "2026-08-24"
+    },
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "ENQUIRIES",
+      "value": "2026-09-07"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+  ]
 }

@@ -30,5 +30,31 @@
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Eligible Japanese prime: mechanical renewal; Integrator: outage/acceptance and OEM interfaces; SME: pumps, valves or crane if subcontracting allowed",
-  "gates": "Pre-registered Japanese prime; Pump reference; Subcontract permissions"
+  "gates": "Exclude unregistered new primes; investigate only permitted eligible-lead/OEM route.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "BUYER_LIST_REGISTRATION",
+      "value": "2026-09-04"
+    },
+    {
+      "mandatory": true,
+      "state": "UPCOMING",
+      "type": "PARTICIPATION_APPLICATION",
+      "value": "2026-09-25T16:00:00+09:00"
+    },
+    {
+      "mandatory": true,
+      "state": "UPCOMING",
+      "type": "ENQUIRIES",
+      "value": "2026-09-25T17:00:00+09:00"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.kazusa-kouiki.jp/2026/09/kokoku-0904/",
+    "https://www.kazusa-kouiki.jp/wp-content/uploads/2026/09/kokoku-shusuikikai2.pdf"
+  ]
 }

@@ -27,7 +27,7 @@
   "earlier_gates": [
     {
       "mandatory": true,
-      "state": "UPCOMING",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "ENQUIRIES",
       "value": "2026-09-21T16:00:00+01:00"
     },
@@ -39,7 +39,7 @@
     }
   ],
   "eligibility": "Legal/financial/technical selection requirements in unavailable EU-supply pack.",
-  "evidence_date": "2026-09-14",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-010",
   "integrator_commercial": {
@@ -54,14 +54,14 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-14",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "UNKNOWN",
   "missing_partner_roles": [
     "Full pack",
     "E2E lead",
     "Quantity and legal gates"
   ],
-  "next_action": "Recover EU-supply pack and resolve summary deadline; no invented actors.",
+  "next_action": "Review full buyer pack and deadline conflict; expired enquiry window is not by itself bid disqualification.",
   "official_reference": "PRO005115",
   "outreach_state": "HOLD",
   "pair_ids": [
@@ -104,10 +104,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "Source recheck only; no amendment established.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Enquiry cutoff21 September16:00 BST has passed;28 September16:00 full-text deadline still conflicts with summary29 September.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -161,8 +160,19 @@
       "source_urls": [
         "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Enquiry cutoff21 September16:00 BST has passed;28 September16:00 full-text deadline still conflicts with summary29 September.",
+      "stage": "FRAMEWORK_TENDER",
+      "deadline": "2026-09-28T16:00:00+01:00",
+      "source_urls": [
+        "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }

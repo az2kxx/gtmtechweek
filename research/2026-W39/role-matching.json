@@ -1,0 +1,67 @@
+{
+  "run_key": "gtmtechweek-2026-W39",
+  "next_review": "2026-09-28",
+  "member_profiles_supplied": 0,
+  "matching": "Tenders-to-role/cached-prospect and cached-prospect-to-tenders; not personalized member matching",
+  "cached_companies_reviewed": 12,
+  "cached_people_reused": 13,
+  "new_people": 0,
+  "new_association": {
+    "actor": "CONTACT-08",
+    "tender": "UT-027",
+    "basis": "Company capability refreshed; person retained as referral-only",
+    "route": "UNRESOLVED"
+  },
+  "no_pair": [
+    {
+      "actor": "CONTACT-05",
+      "tender": "UT-014",
+      "reason": "MISSING_COMPLEMENTARY_COMPANY",
+      "missing": "Financial/legal transaction-advisory lead",
+      "state": "HOLD"
+    }
+  ],
+  "optional_deferred": [
+    {
+      "actor": "CONTACT-13",
+      "reason": "No required counterpart forUT-001 SINGLE_E2E route; current tender deadline conflict"
+    }
+  ],
+  "unresolved": [
+    {
+      "tender": "UT-024",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-025",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-026",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-028",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-029",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-030",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-031",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    }
+  ],
+  "qualified_dialogues": 0,
+  "confirmed_teams": 0,
+  "agreed_mandates": 0,
+  "submissions": 0,
+  "awards": 0,
+  "earned_fees": null,
+  "fee_terms": "UNKNOWN_NOT_AGREED"
+}

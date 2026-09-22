@@ -35,7 +35,7 @@
     }
   ],
   "eligibility": "TenderLink pack access requires registration; qualifications, briefing and enquiry gates not verified.",
-  "evidence_date": "2026-09-14",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-004",
   "integrator_commercial": {
@@ -50,7 +50,7 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-14",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "SAGE Automation candidate; Plant SCADA credentials and water remit not verified",
   "missing_partner_roles": [
     "Pack and site scope",
@@ -99,10 +99,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "Source recheck only; no amendment established.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Official notice/listing rechecked; no further amendment established.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -157,8 +156,20 @@
         "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
         "https://portal.tenderlink.com/cairns/alltenders/"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Official notice/listing rechecked; no further amendment established.",
+      "stage": "OPEN_TENDER",
+      "deadline": "2026-09-28T16:30:00+10:00",
+      "source_urls": [
+        "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }

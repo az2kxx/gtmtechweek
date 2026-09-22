@@ -1,6 +1,10 @@
-# UT-006 / CONTACT-09: email draft
+# UT-006 / CONTACT-09 - email draft
 
-HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
+State: HOLD - no sending or enrollment authorized.
+
+Gate review: 2026-09-21. Resolve the -2 borrower notice; keep MENA-Water/Aqualine proposals HOLD and do not confuse older awards.
+
+Four followups are drafts, not a schedule. Any reply pauses outreach; opt-out suppresses all channels. Introduction consent is required from both parties.
 
 ## Subject
 
@@ -18,7 +22,7 @@ Who would be best placed to assess the consultancy scope and independent-design 
 
 If this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.
 
-## Follow-up 1
+## Followup 1
 
 Hi Khalaf,
 
@@ -26,7 +30,7 @@ Following up on Zarqa SCADA design advisory lead. The first question is whether 
 
 Is that a useful scope to explore, or should I speak with another owner?
 
-## Follow-up 2
+## Followup 2
 
 Hi Khalaf,
 
@@ -34,7 +38,7 @@ A practical agenda for the proposed Aqualine Water Technology discussion would b
 
 Which interface or qualification would you want to resolve first?
 
-## Follow-up 3
+## Followup 3
 
 Hi Khalaf,
 
@@ -42,7 +46,7 @@ For Zarqa SCADA design advisory lead, I would keep the commercial discussion tie
 
 Would you be comfortable assessing a possible introduction with Osaid Hardan at Aqualine Water Technology, once the access and scope questions are resolved?
 
-## Follow-up 4
+## Followup 4
 
 Hi Khalaf,
 

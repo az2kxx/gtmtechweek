@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-029-W39",
+  "tender_id": "UT-029",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E candidate role: solar engineering/supply/installation",
+      "Integrator: package and local-delivery qualification",
+      "SME: modules, inverters, mounting, electrical installation when defined"
+    ],
+    "unverified_gaps": [
+      "Solar E2E supplier",
+      "Uzbekistan delivery/permits capability",
+      "Future tender eligibility and terms"
+    ]
+  },
+  "interfaces": [
+    "E2E candidate role: solar engineering/supply/installation",
+    "Integrator: package and local-delivery qualification",
+    "SME: modules, inverters, mounting, electrical installation when defined"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; singleE2E accepted if all scope/eligibility evidenced",
+  "next_review": "2026-09-28",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "E2E candidate role: solar engineering/supply/installation; Integrator: package and local-delivery qualification; SME: modules, inverters, mounting, electrical installation when defined",
+  "gates": "Solar E2E supplier; Uzbekistan delivery/permits capability; Future tender eligibility and terms"
+}

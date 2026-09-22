@@ -1,0 +1,155 @@
+{
+  "schema_version": 2,
+  "id": "UT-026",
+  "title": "Limpopo school water and sanitation professional services - Cluster 8",
+  "buyer": "DBSA / Limpopo Department of Education",
+  "country": "South Africa",
+  "region": "Africa",
+  "official_reference": "RFP165/2026",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-09-18 buyer list; PDF schedule says2026-09-21",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-14",
+  "bid_deadline": {
+    "value": "2026-10-14T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "South African buyer time; UTC+2 inferred",
+    "conflict": null
+  },
+  "deadline_caveat": "South African buyer time; UTC+2 inferred",
+  "earlier_gates": [
+    {
+      "type": "COMPULSORY_ONLINE_BRIEFING",
+      "value": "2026-09-28T11:00:00+02:00",
+      "mandatory": true,
+      "state": "UPCOMING; eligibility requires review"
+    },
+    {
+      "type": "ENQUIRIES",
+      "value": "2026-10-12T12:00:00+02:00",
+      "mandatory": false,
+      "state": "UPCOMING; eligibility requires review"
+    },
+    {
+      "type": "SUBMISSION_LINK_REQUEST",
+      "value": "2026-10-13T16:00:00+02:00",
+      "mandatory": true,
+      "state": "UPCOMING; eligibility requires review"
+    }
+  ],
+  "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP165.2026_Tender%20Document%20PSP%20FOR%20LDOE%20Cluster%208.pdf",
+  "source_urls": [
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP165.2026_Tender%20Document%20PSP%20FOR%20LDOE%20Cluster%208.pdf",
+    "https://www.dbsa.org/procurement"
+  ],
+  "evidence_date": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Official108-page pack selectively read; do not merge with164.",
+  "scope_quantities_delivery": "Vhembe school water/sanitation professional stages1–7; estimated12 months/stage7, later stages budget-dependent. Pack retains contradictory Cluster1/Capricorn labels: verify site schedule, not assume same scope.",
+  "technology": {
+    "Software evidence": "Native3D/IFC outputs, BIMx/A360 design reviews; licence purchase not established; estate UNKNOWN.",
+    "Hardware evidence": "Professional design and oversight; no direct hardware supply award.",
+    "Participation caveat": "Compulsory briefing; CSD/tax and registered professionals. Detailed thresholds and insurance require independent review; not inherited from164."
+  },
+  "value": {
+    "amount": null,
+    "currency": "ZAR",
+    "basis": "Total fee UNKNOWN; ZAR2m provisional additional-services sum is not the total budget; tax unresolved.",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Compulsory briefing; CSD/tax and registered professionals. Detailed thresholds and insurance require independent review; not inherited from164.",
+  "procurement_transaction_type": "Professional-services RFP",
+  "payment_security": "90-day validity. Milestone percentages5/10/20/15/25/10/15. Disbursements preapproved/proven; securities/full payment terms require review.",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: multidisciplinary PSP",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: clarify cluster/sites and discipline interfaces",
+      "inferred": true
+    },
+    {
+      "description": "SME: surveying, geotechnical, QS, civil/electrical and H&S",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Registered multidisciplinary lead",
+    "Conflicting cluster labels",
+    "Functional/insurance qualification review"
+  ],
+  "missing_partner_roles": [
+    "Registered multidisciplinary lead",
+    "Conflicting cluster labels",
+    "Functional/insurance qualification review"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: multidisciplinary PSP",
+      "Integrator: clarify cluster/sites and discipline interfaces",
+      "SME: surveying, geotechnical, QS, civil/electrical and H&S"
+    ],
+    "unverified_gaps": [
+      "Registered multidisciplinary lead",
+      "Conflicting cluster labels",
+      "Functional/insurance qualification review"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-026-W39"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Review Vhembe/site inconsistency and qualification before28 September briefing.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Budget, tax, payment and unextracted eligibility UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreachHOLD; no introduction consent or mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W39",
+    "finding": "NEW_TO_REGISTER; not necessarily published within overlap",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "verified_date": "2026-09-21",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP165.2026_Tender%20Document%20PSP%20FOR%20LDOE%20Cluster%208.pdf",
+        "https://www.dbsa.org/procurement"
+      ]
+    }
+  ],
+  "evidence_grade": "Official108-page pack selectively read; do not merge with164."
+}

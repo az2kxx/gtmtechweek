@@ -1,0 +1,145 @@
+{
+  "schema_version": 2,
+  "id": "UT-031",
+  "title": "Main Wastewater Treatment Plant secondary reactors rehabilitation - Phase 2",
+  "buyer": "East Bay Municipal Utility District",
+  "country": "United States",
+  "region": "North America",
+  "official_reference": "SD462",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "UNKNOWN; now in current-bid list, prior run recorded future plan",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-11-18",
+  "bid_deadline": {
+    "value": "2026-11-18",
+    "precision": "DATE_ONLY",
+    "timezone": "Date-only bid-opening listing; time/timezone and submission cutoff UNKNOWN",
+    "conflict": "Buyer states bid-opening date, not verified submission deadline"
+  },
+  "deadline_caveat": "Date-only bid-opening listing; time/timezone and submission cutoff UNKNOWN",
+  "earlier_gates": [
+    {
+      "type": "PREBID_REGISTRATION_AND_SUBMISSION_CUTOFF",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "DETAIL_PAGE_SESSION_REDIRECT"
+    }
+  ],
+  "source_url": "https://construction-bids.ebmud.com/CurrentorFutureBid.aspx?BidMode=Current",
+  "source_urls": [
+    "https://construction-bids.ebmud.com/CurrentorFutureBid.aspx?BidMode=Current"
+  ],
+  "evidence_date": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current-list verified; detail link redirects toNoBookmarkRedirect. Comparison withW38 future-plan entry supported.",
+  "scope_quantities_delivery": "Secondary reactor rehabilitation, Phase2 atMWWTP. Detailed quantities, programme and equipment/controls specification UNKNOWN.",
+  "technology": {
+    "Software evidence": "UNKNOWN; no software package or replacement inferred.",
+    "Hardware evidence": "Reactor rehabilitation from title; detailed mechanical/civil/electrical scope and estate UNKNOWN.",
+    "Participation caveat": "UNKNOWN; separateEBMUD electrical prequalification0B does not establishSD462 eligibility."
+  },
+  "value": {
+    "amount": null,
+    "currency": "USD",
+    "basis": "Buyer construction estimateUSD18.5–19.5m; tax basis UNKNOWN, not award/revenue",
+    "tax_basis": "UNKNOWN",
+    "estimate_range": [
+      18500000,
+      19500000
+    ]
+  },
+  "eligibility": "UNKNOWN; separateEBMUD electrical prequalification0B does not establishSD462 eligibility.",
+  "procurement_transaction_type": "Construction bid listing; recorded date is bid opening, submission cutoff unverified",
+  "payment_security": "UNKNOWN; no bonds or payment timing established",
+  "proposed_work_packages": [
+    {
+      "description": "E2E prime: qualified wastewater works contractor",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: package mapping and interface/gate review",
+      "inferred": true
+    },
+    {
+      "description": "SME: mechanical/electrical/control/works portions only after pack",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "US-qualified prime and bid set",
+    "Prebid gates and bonds",
+    "Technical quantities"
+  ],
+  "missing_partner_roles": [
+    "US-qualified prime and bid set",
+    "Prebid gates and bonds",
+    "Technical quantities"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: qualified wastewater works contractor",
+      "Integrator: package mapping and interface/gate review",
+      "SME: mechanical/electrical/control/works portions only after pack"
+    ],
+    "unverified_gaps": [
+      "US-qualified prime and bid set",
+      "Prebid gates and bonds",
+      "Technical quantities"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-031-W39"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Obtain publicbid details through permitted session; reviewbid set before targeting packages.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "LOW",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Budget, tax, payment and unextracted eligibility UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreachHOLD; no introduction consent or mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W39",
+    "finding": "PRIOR_PLAN_NOW_CURRENT_BID_LIST",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "verified_date": "2026-09-21",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://construction-bids.ebmud.com/CurrentorFutureBid.aspx?BidMode=Current"
+      ]
+    }
+  ],
+  "evidence_grade": "Current-list verified; detail link redirects toNoBookmarkRedirect. Comparison withW38 future-plan entry supported."
+}

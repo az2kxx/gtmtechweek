@@ -32,13 +32,13 @@
     },
     {
       "mandatory": true,
-      "state": "UPCOMING",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "ENQUIRIES",
       "value": "2026-09-15T17:30:00+02:00"
     }
   ],
   "eligibility": "Basic UNGM registration; attachment gates/site-visit requirement unverified.",
-  "evidence_date": "2026-09-14",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-016",
   "integrator_commercial": {
@@ -53,14 +53,14 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-14",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "UNKNOWN",
   "missing_partner_roles": [
     "Deadline conflict",
     "Site access",
     "Qualified lead and pack"
   ],
-  "next_action": "Establish site-visit requirement and bidder compliance before preparing a bid; Jebal Moya questions close 15 September 17:30 GMT+2.",
+  "next_action": "HOLD until buyer confirms valid submission time and site compliance; never select the later time for convenience.",
   "official_reference": "ITB-SCU-AFDB-2026-033",
   "outreach_state": "HOLD",
   "pair_ids": [
@@ -103,10 +103,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "Site-visit dates have ended; mandatory status remains unverified. Al-Rawat enquiry cutoff also passed.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Header22 September00:00 UTC+2 has now elapsed while body says17:30; unresolved conflict, site/enquiry dates passed.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -115,9 +114,9 @@
   "source_urls": [
     "https://www.ungm.org/Public/Notice/312888"
   ],
-  "stage": "OPEN_TENDER_DEADLINE_CONFLICT",
+  "stage": "DEADLINE_CONFLICT_REVIEW",
   "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
-  "status": "OPEN TENDER DEADLINE CONFLICT",
+  "status": "DEADLINE CONFLICT REVIEW",
   "technology": {
     "Hardware evidence": "Water-system rehabilitation; equipment and quantities UNKNOWN.",
     "Participation caveat": "Basic UNGM registration; attachment gates/site-visit requirement unverified.",
@@ -154,8 +153,19 @@
       "source_urls": [
         "https://www.ungm.org/Public/Notice/312888"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Header22 September00:00 UTC+2 has now elapsed while body says17:30; unresolved conflict, site/enquiry dates passed.",
+      "stage": "DEADLINE_CONFLICT_REVIEW",
+      "deadline": "2026-09-22",
+      "source_urls": [
+        "https://www.ungm.org/Public/Notice/312888"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }

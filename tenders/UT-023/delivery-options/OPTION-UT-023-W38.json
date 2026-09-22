@@ -6,8 +6,29 @@
   "roles": [],
   "assessment": "RESEARCH_NEEDED; no willing or eligible team established",
   "pitch": "Prime: eligible specialist dam contractor; Integrator: plant/material/site interface qualification; SME: drilling, grouting or testing package if allowed",
-  "gates": "Official technical pack; Eligible dam-works lead; Site access",
+  "gates": "Exclude non-attending new prime; review only documented eligible route and full technical pack.",
   "source_urls": [
+    "https://www.dbsa.org/procurement",
+    "https://www.dbsa.org/procurement"
+  ],
+  "current_gate_review": [
+    {
+      "type": "COMPULSORY_ONSITE_BRIEFING",
+      "value": "2026-09-16T11:00:00+02:00",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "mandatory": true
+    },
+    {
+      "type": "COMPULSORY_ONLINE_BRIEFING",
+      "value": "2026-09-18T11:00:00+02:00",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "mandatory": true
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "next_action": "Exclude non-attending new prime; review only documented eligible route and full technical pack.",
+  "latest_requirement_sources": [
     "https://www.dbsa.org/procurement",
     "https://www.dbsa.org/procurement"
   ]

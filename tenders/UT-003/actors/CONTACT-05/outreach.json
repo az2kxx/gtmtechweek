@@ -6,7 +6,7 @@
   "counterparty": "Ovarro",
   "email": {
     "subject": "DBSA NRW panel: a specialist teaming question",
-    "initial": "Hi Willem,\n\nThe DBSA/WPO NRW contractor panel suggests a potential specialist pairing: WRP’s baseline and performance-measurement expertise with Ovarro’s leakage diagnostics. Your technical leadership looks relevant to testing that idea.\n\nThe compulsory briefing has passed. Any participation would first need an eligible contractor and a permitted subcontract route; neither firm is assumed to qualify as prime.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Tony Gwynne. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+    "initial": "Hi Willem,\n\nThe DBSA/WPO NRW contractor panel suggests a potential specialist pairing: WRP’s baseline and performance-measurement expertise with Ovarro’s leakage diagnostics. Your technical leadership looks relevant to testing that idea.\n\nAddendum3 extends closing to23 October23:55 SAST, but the compulsory14 August briefing has passed. Revised request cutoffs need review. Any participation would first need an eligible contractor and a permitted subcontract route; neither firm is assumed to qualify as prime.\n\nWould you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Tony Gwynne. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
     "followups": [
       "Hi Willem,\n\nFollowing up on DBSA/WPO NRW panel RFR001.2026. The first question is whether Ovarro would add a distinct, necessary work package. For your side, I had in mind: nRW engineering, baseline design and performance measurement; not confirmed CIDB lead.\n\nIs that a useful scope to explore, or should I speak with another owner?",
       "Hi Willem,\n\nA practical agenda for the proposed Ovarro discussion would be: DMA baseline; logger coverage; leak validation; repair handoff; savings attribution; payment evidence. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
@@ -27,21 +27,31 @@
   "send_authorized": false,
   "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
   "snapshot_date": "2026-09-04",
-  "gate_review_date": "2026-09-07",
+  "gate_review_date": "2026-09-21",
   "current_gate_review": [
     {
       "mandatory": true,
-      "state": "PASSED",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "COMPULSORY_BRIEFING",
       "value": "2026-08-14T10:00:00+02:00"
     },
     {
-      "mandatory": true,
-      "state": "PASSED",
       "type": "LINK_REQUEST_AND_ENQUIRIES",
-      "value": "2026-08-31T16:30:00+02:00"
+      "value": "Five working days before closing; three-working-day wording also remains",
+      "precision": "RELATIVE_WORKING_DAYS",
+      "mandatory": true,
+      "state": "REVIEW; conservative earlier five-day rule, exact calendar/time not independently established",
+      "supersedes": "2026-08-31T16:30:00+02:00"
     }
   ],
   "delivery_route": "UNRESOLVED",
-  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender"
+  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender",
+  "current_deadline": {
+    "value": "2026-10-23T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "Johannesburg time explicit; UTC+2",
+    "conflict": null
+  },
+  "next_review": "2026-09-28",
+  "current_next_action": "For an evidenced prior attendee: acknowledge Addendum3, review amended pack/Q&A and reconcile relative request cutoffs. Non-attending prime remains excluded; supplier/subcontract roles need explicit permission."
 }

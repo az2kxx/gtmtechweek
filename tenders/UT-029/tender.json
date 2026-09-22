@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "id": "UT-029",
+  "title": "Solar PV supply and installation for 200 schools - early market engagement",
+  "buyer": "Uzbekistan Ministry of Preschool and Secondary Education / ADB",
+  "country": "Uzbekistan",
+  "region": "Asia / Middle East",
+  "official_reference": "L4662 / project54031-001 / solar-PV EME",
+  "stage": "MARKET_ENGAGEMENT",
+  "status": "MARKET ENGAGEMENT",
+  "latest_notice_type": "MARKET_ENGAGEMENT",
+  "published_amended": {
+    "published": "UNKNOWN; event page current",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": null,
+  "bid_deadline": {
+    "value": null,
+    "precision": "NOT_APPLICABLE",
+    "timezone": "Event GMT+8 explicit; not a bid deadline",
+    "conflict": null
+  },
+  "deadline_caveat": "Event GMT+8 explicit; not a bid deadline",
+  "earlier_gates": [
+    {
+      "type": "MARKET_ENGAGEMENT_EVENT",
+      "value": "2026-09-24T08:30:00+08:00",
+      "mandatory": false,
+      "state": "UPCOMING; ends10:00 GMT+8 at ADB Manila"
+    },
+    {
+      "type": "BOF_PARTICIPATION",
+      "value": "Registration available to BOF participants; cutoff UNKNOWN",
+      "mandatory": true,
+      "state": "REVIEW; no registration performed"
+    }
+  ],
+  "source_url": "https://www.adb.org/news/events/eme-solar-pv-panels-schools-stem-project-uzbekistan",
+  "source_urls": [
+    "https://www.adb.org/news/events/eme-solar-pv-panels-schools-stem-project-uzbekistan"
+  ],
+  "evidence_date": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "OfficialEME page; no bid deadline and no procurement award.",
+  "scope_quantities_delivery": "Planned solar PV supply/installation at200 Uzbekistan schools; procurement plannedQ1 2027. Capacity, delivery period, procurement package reference and equipment details UNKNOWN.",
+  "technology": {
+    "Software evidence": "Monitoring/software requirements UNKNOWN; schoolICT is wider project scope, not assigned to this PV package.",
+    "Hardware evidence": "SolarPV systems; capacity and balance-of-system specification UNKNOWN.",
+    "Participation caveat": "EME targets solar suppliers and is open to BOF participants. No tender eligibility established."
+  },
+  "value": {
+    "amount": null,
+    "currency": "UNKNOWN",
+    "basis": "UNKNOWN; no project funding treated as package value",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "EME targets solar suppliers and is open to BOF participants. No tender eligibility established.",
+  "procurement_transaction_type": "Pre-procurement market engagement; not open tender",
+  "payment_security": "UNKNOWN; no bid/security terms at this stage",
+  "proposed_work_packages": [
+    {
+      "description": "E2E candidate role: solar engineering/supply/installation",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: package and local-delivery qualification",
+      "inferred": true
+    },
+    {
+      "description": "SME: modules, inverters, mounting, electrical installation when defined",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Solar E2E supplier",
+    "Uzbekistan delivery/permits capability",
+    "Future tender eligibility and terms"
+  ],
+  "missing_partner_roles": [
+    "Solar E2E supplier",
+    "Uzbekistan delivery/permits capability",
+    "Future tender eligibility and terms"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E candidate role: solar engineering/supply/installation",
+      "Integrator: package and local-delivery qualification",
+      "SME: modules, inverters, mounting, electrical installation when defined"
+    ],
+    "unverified_gaps": [
+      "Solar E2E supplier",
+      "Uzbekistan delivery/permits capability",
+      "Future tender eligibility and terms"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-029-W39"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "ReviewBOF participation requirements and futureQ1 2027 procurement plan; no account registration.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Budget, tax, payment and unextracted eligibility UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreachHOLD; no introduction consent or mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W39",
+    "finding": "NEW_TO_REGISTER; not necessarily published within overlap",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "verified_date": "2026-09-21",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.adb.org/news/events/eme-solar-pv-panels-schools-stem-project-uzbekistan"
+      ]
+    }
+  ],
+  "evidence_grade": "OfficialEME page; no bid deadline and no procurement award."
+}

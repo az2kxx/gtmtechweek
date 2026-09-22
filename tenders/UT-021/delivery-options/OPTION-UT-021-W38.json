@@ -6,8 +6,36 @@
   "roles": [],
   "assessment": "RESEARCH_NEEDED; no willing or eligible team established",
   "pitch": "Prime: utility/structural transaction-advisory lead; Integrator: evidence and interface coordination; SME: specialist legal, financial or technical advisory if permitted",
-  "gates": "Transmission transaction expertise; Legal/financial lead; Full evaluation evidence",
+  "gates": "Attendance gate first; qualified prior attendee to review imminent enquiry cutoff and full transaction track record.",
   "source_urls": [
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP166.2026.pdf",
+    "https://www.dbsa.org/procurement"
+  ],
+  "current_gate_review": [
+    {
+      "type": "COMPULSORY_BRIEFING",
+      "value": "2026-09-18T11:00:00+02:00",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "mandatory": true
+    },
+    {
+      "type": "ENQUIRIES",
+      "value": "2026-09-22T16:30:00+02:00",
+      "mandatory": false,
+      "state": "UPCOMING; no questions after cutoff"
+    },
+    {
+      "type": "SUBMISSION_LINK_REQUEST",
+      "value": "Three working days before submission",
+      "precision": "RELATIVE_WORKING_DAYS",
+      "mandatory": true,
+      "state": "REVIEW; separate from enquiry cutoff"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "next_action": "Attendance gate first; qualified prior attendee to review imminent enquiry cutoff and full transaction track record.",
+  "latest_requirement_sources": [
     "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP166.2026.pdf",
     "https://www.dbsa.org/procurement"
   ]

@@ -1,6 +1,10 @@
-# UT-002 / CONTACT-04: email draft
+# UT-002 / CONTACT-04 - email draft
 
-HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
+State: HOLD - no sending or enrollment authorized.
+
+Gate review: 2026-09-21. Assess eligible existing proposal route; enquiry window has ended.
+
+Four followups are drafts, not a schedule. Any reply pauses outreach; opt-out suppresses all channels. Introduction consent is required from both parties.
 
 ## Subject
 
@@ -18,7 +22,7 @@ Do you cover Canadian municipal metering, or could you point me to the right cha
 
 If this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.
 
-## Follow-up 1
+## Followup 1
 
 Hi Timothy,
 
@@ -26,7 +30,7 @@ Following up on Amherst RFP-26-09 water metering. The first question is whether 
 
 Is that a useful scope to explore, or should I speak with another owner?
 
-## Follow-up 2
+## Followup 2
 
 Hi Timothy,
 
@@ -34,7 +38,7 @@ A practical agenda for the proposed Metercor discussion would be: meter size/app
 
 Which interface or qualification would you want to resolve first?
 
-## Follow-up 3
+## Followup 3
 
 Hi Timothy,
 
@@ -42,7 +46,7 @@ For Amherst RFP-26-09 water metering, I would keep the commercial discussion tie
 
 Would you be comfortable assessing a possible introduction with Scott McIntyre at Metercor, once the access and scope questions are resolved?
 
-## Follow-up 4
+## Followup 4
 
 Hi Timothy,
 

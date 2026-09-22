@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "id": "UT-028",
+  "title": "OD660 MSCL watermain crossing at Cairns Arterial Road",
+  "buyer": "Cairns Regional Council",
+  "country": "Australia",
+  "region": "Australia / Oceania",
+  "official_reference": "Contract3076 / CAIRN-1170716",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "UNKNOWN; current-list discovery",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-09-23",
+  "bid_deadline": {
+    "value": "2026-09-23T16:30:00+10:00",
+    "precision": "MINUTE",
+    "timezone": "AEST explicit",
+    "conflict": null
+  },
+  "deadline_caveat": "AEST explicit",
+  "earlier_gates": [
+    {
+      "type": "PACK_AND_PRIOR_BRIEFING_OR_REGISTRATION",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "REVIEW"
+    }
+  ],
+  "source_url": "https://portal.tenderlink.com/cairns/alltenders/",
+  "source_urls": [
+    "https://portal.tenderlink.com/cairns/alltenders/"
+  ],
+  "evidence_date": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Title-level evidence; no verified construction method.",
+  "scope_quantities_delivery": "OD660 MSCL watermain road crossing; length, construction method and programme UNKNOWN.",
+  "technology": {
+    "Software evidence": "UNKNOWN; no software procurement evidenced.",
+    "Hardware evidence": "Watermain/crossing works from title; detailed pipe/material specification and estate UNKNOWN.",
+    "Participation caveat": "UNKNOWN beyond public listing; imminent close not proof eligible."
+  },
+  "value": {
+    "amount": null,
+    "currency": "AUD",
+    "basis": "UNKNOWN; tax basis UNKNOWN",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "UNKNOWN beyond public listing; imminent close not proof eligible.",
+  "procurement_transaction_type": "Council works tender",
+  "payment_security": "UNKNOWN",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: civil watermain contractor",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: road/utility interfaces and gate screening",
+      "inferred": true
+    },
+    {
+      "description": "SME: pipe supply, specialist crossing, testing if specified",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Eligible civil lead",
+    "Road access/traffic/interface pack",
+    "Prior participation gates"
+  ],
+  "missing_partner_roles": [
+    "Eligible civil lead",
+    "Road access/traffic/interface pack",
+    "Prior participation gates"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: civil watermain contractor",
+      "Integrator: road/utility interfaces and gate screening",
+      "SME: pipe supply, specialist crossing, testing if specified"
+    ],
+    "unverified_gaps": [
+      "Eligible civil lead",
+      "Road access/traffic/interface pack",
+      "Prior participation gates"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-028-W39"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Existing pack-holders only should evaluate imminent close; no invented expedited outreach.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "LOW",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Budget, tax, payment and unextracted eligibility UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreachHOLD; no introduction consent or mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W39",
+    "finding": "NEW_TO_REGISTER; not necessarily published within overlap",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "verified_date": "2026-09-21",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ]
+    }
+  ],
+  "evidence_grade": "Title-level evidence; no verified construction method."
+}

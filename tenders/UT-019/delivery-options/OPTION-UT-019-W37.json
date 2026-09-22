@@ -29,5 +29,24 @@
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: eligible DRS supplier; Integrator: technical compliance and OEM coordination; SME: station components if permitted",
-  "gates": "Authorized bidder; Scope/ratings; Local gates"
+  "gates": "Review tender pack and OEM authority; passed optional meeting alone is not a hard failure.",
+  "current_gate_review": [
+    {
+      "mandatory": false,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "OPTIONAL_BRIEFING",
+      "value": "2026-09-07T16:00:00+06:00"
+    },
+    {
+      "mandatory": true,
+      "state": "DATE_ONLY",
+      "type": "DOCUMENT_SALES",
+      "value": "2026-09-28"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98328.html"
+  ]
 }

@@ -12,7 +12,7 @@
   "lead_contractor_candidate": "UNKNOWN",
   "cooperation_willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "evidence_date": "2026-09-14",
+  "evidence_date": "2026-09-21",
   "confidence": {
     "notice": "HIGH",
     "scope": "MEDIUM",
@@ -59,7 +59,7 @@
     {
       "type": "COMPULSORY_BRIEFING",
       "value": "2026-09-15T09:00:00+02:00",
-      "state": "UPCOMING",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "mandatory": true
     },
     {
@@ -72,7 +72,8 @@
   "scope_quantities_delivery": "Five-year panel for legal transaction and specialist services supporting IPP procurement. Admission is not a guaranteed commission.",
   "technology": {
     "Software evidence": "None established; existing estate UNKNOWN.",
-    "Hardware evidence": "None established."
+    "Hardware evidence": "None established.",
+    "Participation caveat": "Compulsory briefing, CSD/tax and returnable documents; minimum 70% functional score. Professional legal eligibility and conflicts need full review."
   },
   "value": {
     "currency": "ZAR",
@@ -103,12 +104,29 @@
     "Qualified law-firm lead",
     "IPP experience and conflict screen"
   ],
-  "next_action": "Immediate eligibility review before 15 September 09:00 SAST briefing; no automatic registration or contact.",
+  "next_action": "Exclude non-attending new prime; review only documented eligible route and full technical pack.",
   "evidence_grade": "Official buyer notice and PDF; full qualification pending",
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "finding": "NEW_TO_REGISTER on 14 September",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Compulsory briefing dates elapsed; closing remains future. No evidence of attendance or reopened eligibility.",
     "notice_amendment_claimed": false
-  }
+  },
+  "last_recheck_attempt": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise.",
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Compulsory briefing dates elapsed; closing remains future. No evidence of attendance or reopened eligibility.",
+      "stage": "PREQUALIFICATION_PANEL",
+      "deadline": "2026-09-29T23:55:00+02:00",
+      "source_urls": [
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR%20LA%20IPPO-002%202026%20-%20Panel%20of%20Legal%20Advisors%20for%20the%20IPP%20Office.pdf",
+        "https://www.dbsa.org/procurement"
+      ]
+    }
+  ]
 }

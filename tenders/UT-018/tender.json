@@ -31,7 +31,7 @@
     }
   ],
   "eligibility": "Full pack gated by supplier registration; no bid eligibility established.",
-  "evidence_date": "2026-09-07",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-018",
   "integrator_commercial": {
@@ -46,13 +46,13 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-07",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "UNKNOWN",
   "missing_partner_roles": [
     "Specifications and gate dates",
     "Hardware OEM/distributor"
   ],
-  "next_action": "Read pack before matching; do not merge into Contract3047.",
+  "next_action": "Only pack-qualified existing bidders should assess imminent closing; full specification and earlier gates still UNKNOWN.",
   "official_reference": "Contract 3087 / CAIRN-1171744 / 600033",
   "outreach_state": "HOLD",
   "pair_ids": [
@@ -94,10 +94,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "Source recheck only; no amendment established.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Public Cairns list freshly confirms22 September16:30 AEST close; prior14 September recheck failure cleared at listing level.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -145,8 +144,19 @@
       "source_urls": [
         "https://portal.tenderlink.com/cairns/alltenders/"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Public Cairns list freshly confirms22 September16:30 AEST close; prior14 September recheck failure cleared at listing level.",
+      "stage": "OPEN_TENDER",
+      "deadline": "2026-09-22T16:30:00+10:00",
+      "source_urls": [
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "recheck_failure": "14 September retrieval did not refresh full official notice. Prior evidence retained, not relabelled fresh."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }

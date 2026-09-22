@@ -10,5 +10,14 @@
   "role_status": "PAIR-04",
   "actor_ids": [
     "CONTACT-08"
-  ]
+  ],
+  "capability_review": {
+    "verified_date": "2026-09-21",
+    "source_urls": [
+      "https://www.aquatecenviro.com/company",
+      "https://www.aquatecenviro.com/product/water-supply"
+    ],
+    "summary": "Official pages support water-systems hydraulic/electrical/mechanical design, controls/telemetry and list chemical dosing among data-centre applications. Reservoir hypochlorite competence remains unverified.",
+    "scope_caveat": "Company-wide evidence does not confirm CONTACT-08 authority or full Contract3090 compliance."
+  }
 }

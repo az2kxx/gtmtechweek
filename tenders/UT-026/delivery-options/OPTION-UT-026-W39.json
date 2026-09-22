@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-026-W39",
+  "tender_id": "UT-026",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: multidisciplinary PSP",
+      "Integrator: clarify cluster/sites and discipline interfaces",
+      "SME: surveying, geotechnical, QS, civil/electrical and H&S"
+    ],
+    "unverified_gaps": [
+      "Registered multidisciplinary lead",
+      "Conflicting cluster labels",
+      "Functional/insurance qualification review"
+    ]
+  },
+  "interfaces": [
+    "Prime: multidisciplinary PSP",
+    "Integrator: clarify cluster/sites and discipline interfaces",
+    "SME: surveying, geotechnical, QS, civil/electrical and H&S"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; singleE2E accepted if all scope/eligibility evidenced",
+  "next_review": "2026-09-28",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: multidisciplinary PSP; Integrator: clarify cluster/sites and discipline interfaces; SME: surveying, geotechnical, QS, civil/electrical and H&S",
+  "gates": "Registered multidisciplinary lead; Conflicting cluster labels; Functional/insurance qualification review"
+}

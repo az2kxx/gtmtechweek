@@ -3,7 +3,7 @@
     "CONTACT-05"
   ],
   "bid_deadline": {
-    "conflict": "Pack lists link/enquiry cutoff 31 August 16:30 yet also three working days before closing. Do not silently correct it.",
+    "conflict": "Request cutoffs: five-working-day amended provision versus residual three-day wording; use earlier rule pending clarification.",
     "precision": "MINUTE",
     "timezone": "Africa/Johannesburg explicit",
     "value": "2026-10-16T23:55:00+02:00"
@@ -18,7 +18,7 @@
   "cooperation_willingness": "UNKNOWN",
   "country": "South Africa",
   "deadline": "2026-10-16",
-  "deadline_caveat": "2026-10-16T23:55:00+02:00; Africa/Johannesburg explicit; Pack lists link/enquiry cutoff 31 August 16:30 yet also three working days before closing. Do not silently correct it.",
+  "deadline_caveat": "16 October23:55 SAST unchanged; compulsory11 September attendance remains. Old31 August request cutoff superseded.",
   "delivery_route": "CONSORTIUM",
   "dependencies": [
     "Financial/legal transaction-advisory lead",
@@ -28,19 +28,21 @@
   "earlier_gates": [
     {
       "mandatory": true,
-      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
-      "type": "LINK_REQUEST_AND_ENQUIRIES",
-      "value": "2026-08-31T16:30:00+02:00"
-    },
-    {
-      "mandatory": true,
-      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "COMPULSORY_BRIEFING",
       "value": "2026-09-11T10:00:00+02:00"
+    },
+    {
+      "type": "LINK_REQUEST_AND_ENQUIRIES",
+      "value": "Five working days before closing; residual three-day wording",
+      "precision": "RELATIVE_WORKING_DAYS",
+      "mandatory": true,
+      "state": "REVIEW; earlier five-day rule is conservative",
+      "supersedes": "2026-08-31T16:30:00+02:00"
     }
   ],
-  "eligibility": "C2.1 specifies JV/consortium/association; relevant professional fees ≥R25m in 10 years; registered multidisciplinary experts; compulsory attendance.",
-  "evidence_date": "2026-09-14",
+  "eligibility": "C2.1 requires JV/consortium/association; qualifying historical professional fees ZAR25m/10years. Recorded compulsory attendance, professional registration, tax/CSD and PI>=2xfee. Revised functionality thresholds14/20,24.5/35,28/40,3.5/5; total70/100, each minimum required.",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-014",
   "integrator_commercial": {
@@ -55,20 +57,20 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-14",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "UNKNOWN",
   "missing_partner_roles": [
     "Financial/legal transaction-advisory lead",
     "Institutional/environmental experts",
     "Cutoff conflict"
   ],
-  "next_action": "HOLD new-prime participation unless recorded attendance is established; retain other gate conflicts.",
+  "next_action": "Check attendance evidence and Addendum1 compliance before dialogue. WRP technical capability remains a hypothesis; no financial/legal transaction lead confirmed.",
   "official_reference": "RFP149/2026",
   "outreach_state": "HOLD",
   "pair_ids": [
     "OPTION-UT-014-W37"
   ],
-  "payment_security": "Lead professional indemnity ≥2×proposed fee; payment timing UNKNOWN.",
+  "payment_security": "Professional indemnity >=2x proposed fee. Subcontracting more than30% of professional fees prohibited; relevant work also needs employer approval. Payment timing UNKNOWN.",
   "pipeline_stage": "OUTREACH_DRAFTED",
   "procurement_transaction_type": "Two-envelope professional-services RFP",
   "proposed_work_packages": [
@@ -86,7 +88,7 @@
     }
   ],
   "published_amended": {
-    "amended": "No later amendment verified; not proof none exists",
+    "amended": "2026-09-16, Addendum1",
     "published": "2026-08-28"
   },
   "region": "Africa",
@@ -105,25 +107,26 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "Previously upcoming compulsory briefing has passed; participation requires evidence of attendance.",
-    "notice_amendment_claimed": false
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Addendum1 dated16 September replaces stale31 August requests with relative five-working-day wording; three-day text also remains. Evaluation and scope amended; closing16 October unchanged.",
+    "notice_amendment_claimed": true
   },
   "schema_version": 2,
   "scope_quantities_delivery": "Thembelihle and Kai Garib NRW feasibility, CBA, finance and PBC procurement documents. Duration unresolved.",
-  "source_url": "https://www.dbsa.org/procurement",
+  "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20updated%20document.pdf",
   "source_urls": [
     "https://www.dbsa.org/procurement",
-    "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20v1.3.pdf"
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20v1.3.pdf",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP149.2026-Addendum%20No%201.pdf",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20updated%20document.pdf"
   ],
   "stage": "OPEN_TENDER_GATE_CONFLICT",
   "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
   "status": "OPEN TENDER GATE CONFLICT",
   "technology": {
     "Hardware evidence": "Advisory only; no hardware supply established.",
-    "Participation caveat": "C2.1 specifies JV/consortium/association; relevant professional fees ≥R25m in 10 years; registered multidisciplinary experts; compulsory attendance.",
+    "Participation caveat": "C2.1 requires JV/consortium/association; qualifying historical professional fees ZAR25m/10years. Recorded compulsory attendance, professional registration, tax/CSD and PI>=2xfee. Revised functionality thresholds14/20,24.5/35,28/40,3.5/5; total70/100, each minimum required.",
     "Software evidence": "Financial models and editable technical outputs; no software licence purchase established.",
     "Suggested delivery bundle": "Lead: transaction advisory and finance/legal; WRP candidate: NRW baseline and technical feasibility; Integrator: responsibility matrix and qualification coordination"
   },
@@ -159,8 +162,23 @@
         "https://www.dbsa.org/procurement",
         "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20v1.3.pdf"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Addendum1 dated16 September replaces stale31 August requests with relative five-working-day wording; three-day text also remains. Evaluation and scope amended; closing16 October unchanged.",
+      "stage": "OPEN_TENDER_GATE_CONFLICT",
+      "deadline": "2026-10-16T23:55:00+02:00",
+      "source_urls": [
+        "https://www.dbsa.org/procurement",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20v1.3.pdf",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP149.2026-Addendum%20No%201.pdf",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP149_2026%20TA%20for%20TLMKGLM%20NRW%20BFS%20CBA%20and%20FM%20updated%20document.pdf"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise.",
+  "latest_notice_type": "AMENDMENT"
 }

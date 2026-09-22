@@ -20,7 +20,22 @@
   "agenda": "asset list; tag/alarm mapping; operating sequences; FAT/SAT; rollback; operator training",
   "software": "Tender title specifies Citect to AVEVA Plant SCADA. SAGE generic SCADA experience is not current AVEVA certification.",
   "hardware": "No new pumps, servers or panels established; asset support only if the pack requires it",
-  "gates": "Full scope and deadline unresolved (14 vs 28 Sep reported). Aquatec work package may be unnecessary. Paul remit is special-purpose machinery/OEM, Jayden mainly South Australia: request Queensland/water owner referrals.",
+  "gates": "Use 28 September 16:30 AEST buyer-listed close; check pack for earlier gates and single-E2E suitability.",
   "delivery_route": "CONSORTIUM",
-  "commitment": "UNCONFIRMED"
+  "commitment": "UNCONFIRMED",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "SUPPLIER_REGISTRATION_AND_PACK",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "next_action": "Use 28 September 16:30 AEST buyer-listed close; check pack for earlier gates and single-E2E suitability.",
+  "latest_requirement_sources": [
+    "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+    "https://portal.tenderlink.com/cairns/alltenders/"
+  ]
 }

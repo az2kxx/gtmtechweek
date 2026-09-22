@@ -1,3 +1,17 @@
+# Judge-facing status - 21 September 2026
+
+The PoC now holds31 sourced opportunity dossiers,12 companies,13 cached professional contacts,19 HOLD actor/tender packets and3 technology/use-case blog drafts. Each packet includes email and LinkedIn copy with four followups. Eight entries were added in this pass; one is market engagement, not an open tender. Evidence dates, unresolved fields and stage distinctions are explicit.
+
+Fresh research remains PARTIAL:26/27 source groups attempted,14 with accessible source material; global coverage and eligibility are incomplete. Successful GitHub cached replay is evidenced independently from fresh research. Current publication/CRM results are in executions/2026-W39/run.json; no permission flag or prepared workflow is treated as proof of execution.
+
+No paid enrichment, delivery, bid, partner consent, mandate or revenue was generated. Cost enforcement outside the local guard is unverified. Private emails and CRM IDs remain outside publicGit. Optional distribution is unconnected/untested; HeyReach expired. The Site shell/fallback was not redeployed in this data-only update and can show older fallback data when GitHub is unavailable.
+
+Review research/2026-W39/digest.md and source-coverage.md, a new dossier such asUT-024, the UT-027 referral-only draft, and the run diagnostics. Local31-dialog render tests passed; that is not a live browser or sending test.
+
+Earlier dated judging snapshots follow as history, not current deployment assertions.
+
+---
+
 # Judge-facing status — 14 September 2026
 
 Implemented evidence: 23 sourced tender dossiers; 12 researched companies; 13 cached professional contacts; 18 HOLD email/LinkedIn sequences with four followups; two editorial drafts; public-source coverage and real weekly diagnostic records. An actual scheduled GitHub cached replay succeeded on 8 September. The fresh research flow is PARTIAL because source access, eligibility and delivery qualification remain incomplete. It is not an exhaustive scraper or a revenue-producing pipeline.

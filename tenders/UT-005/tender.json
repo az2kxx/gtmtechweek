@@ -98,10 +98,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "Source recheck only; no amendment established.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Official notice/listing rechecked; no further amendment established.",
     "notice_amendment_claimed": false
   },
   "reserve_company_ids": [
@@ -163,8 +162,21 @@
         "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465988",
         "https://documents1.worldbank.org/curated/en/099040326140012452/pdf/P507588-21c78e5f-5d48-4415-8b5e-25f4b381414c.pdf"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": null,
+      "change": "Official notice/listing rechecked; no further amendment established.",
+      "stage": "UNVERIFIED_TENDER_LEAD",
+      "deadline": null,
+      "source_urls": [
+        "https://freetender.net/tender/procurement-and-installation-of-23000-smart-meters-op00465988",
+        "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00465988",
+        "https://documents1.worldbank.org/curated/en/099040326140012452/pdf/P507588-21c78e5f-5d48-4415-8b5e-25f4b381414c.pdf"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "recheck_failure": "14 September retrieval did not refresh full official notice. Prior evidence retained, not relabelled fresh."
+  "last_recheck_attempt": "2026-09-21",
+  "recheck_failure": "World Bank public notice returned a non-substantive shell. Prior evidence retained; no current eligibility established."
 }

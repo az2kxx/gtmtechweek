@@ -22,12 +22,31 @@
   ],
   "willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "next_action": "Recover EU-supply pack and resolve summary deadline; no invented actors.",
+  "next_action": "Review full buyer pack and deadline conflict; expired enquiry window is not by itself bid disqualification.",
   "roles_are_inferred": true,
   "evidence_date": "2026-09-07",
   "company_ids": [],
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: full flood-prevention responsibility; Integrator: supplier/works interface qualification; SME: valve/gate supply or installation if permitted",
-  "gates": "Full pack; E2E lead; Quantity and legal gates"
+  "gates": "Review full buyer pack and deadline conflict; expired enquiry window is not by itself bid disqualification.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "ENQUIRIES",
+      "value": "2026-09-21T16:00:00+01:00"
+    },
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "EU_SUPPLY_PACK_AND_REGISTRATION",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://uk.eu-supply.com/ctm/supplier/publictenders?b=UK"
+  ]
 }

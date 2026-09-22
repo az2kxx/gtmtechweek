@@ -1,0 +1,143 @@
+{
+  "schema_version": 2,
+  "id": "UT-027",
+  "title": "Little Mulgrave Reservoir sodium hypochlorite dosing - Package 2",
+  "buyer": "Cairns Regional Council",
+  "country": "Australia",
+  "region": "Australia / Oceania",
+  "official_reference": "Contract3090 / CAIRN-1174126",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "UNKNOWN; newly observed current buyer listing, not claimed newly published",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-14",
+  "bid_deadline": {
+    "value": "2026-10-14T16:30:00+10:00",
+    "precision": "MINUTE",
+    "timezone": "AEST explicit",
+    "conflict": null
+  },
+  "deadline_caveat": "AEST explicit",
+  "earlier_gates": [
+    {
+      "type": "PACK_ACCESS_AND_EARLIER_GATES",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "REVIEW"
+    }
+  ],
+  "source_url": "https://portal.tenderlink.com/cairns/alltenders/",
+  "source_urls": [
+    "https://portal.tenderlink.com/cairns/alltenders/"
+  ],
+  "evidence_date": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Official title/deadline verified; full pack unavailable. CachedCONTACT08 is South Australia/referral-only, not a Queensland decision-maker.",
+  "scope_quantities_delivery": "Sodium hypochlorite dosing at Little Mulgrave Reservoir, Package2. Quantities, delivery period and detailed responsibility split UNKNOWN.",
+  "technology": {
+    "Software evidence": "Controls and integration requirements UNKNOWN; no licence or replacement assumption.",
+    "Hardware evidence": "Dosing package from title; models/quantities/compatibility require pack. Existing estate UNKNOWN.",
+    "Participation caveat": "Public listing only; supplier registration/earlier gates UNKNOWN. AQUATEC is a research hypothesis, not qualified bidder."
+  },
+  "value": {
+    "amount": null,
+    "currency": "AUD",
+    "basis": "UNKNOWN; tax basis UNKNOWN",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Public listing only; supplier registration/earlier gates UNKNOWN. AQUATEC is a research hypothesis, not qualified bidder.",
+  "procurement_transaction_type": "Council works/supply tender; exact contract split UNKNOWN",
+  "payment_security": "UNKNOWN",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: compliant dosing-package delivery",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: package boundary and acceptance matrix",
+      "inferred": true
+    },
+    {
+      "description": "SME: dosing hardware, electrical/control work if permitted",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Pack scope and eligibility",
+    "Queensland technical/commercial owner",
+    "Chemical compatibility and civil/control interfaces"
+  ],
+  "missing_partner_roles": [
+    "Pack scope and eligibility",
+    "Queensland technical/commercial owner",
+    "Chemical compatibility and civil/control interfaces"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "AQUATEC capability-review hypothesis only",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: compliant dosing-package delivery",
+      "Integrator: package boundary and acceptance matrix",
+      "SME: dosing hardware, electrical/control work if permitted"
+    ],
+    "unverified_gaps": [
+      "Pack scope and eligibility",
+      "Queensland technical/commercial owner",
+      "Chemical compatibility and civil/control interfaces"
+    ]
+  },
+  "actor_ids": [
+    "CONTACT-08"
+  ],
+  "pair_ids": [
+    "OPTION-UT-027-W39"
+  ],
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Seek internal scope/referral review only after pack access is authorized; assess single-E2E option before any consortium.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "LOW",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "HYPOTHESIS_REFERRAL_ONLY"
+  },
+  "unknowns_explicit": [
+    "Budget, tax, payment and unextracted eligibility UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreachHOLD; no introduction consent or mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W39",
+    "finding": "NEW_TO_REGISTER; not necessarily published within overlap",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "verified_date": "2026-09-21",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ]
+    }
+  ],
+  "evidence_grade": "Official title/deadline verified; full pack unavailable. CachedCONTACT08 is South Australia/referral-only, not a Queensland decision-maker."
+}

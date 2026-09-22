@@ -6,7 +6,7 @@
   "counterparty": "AQUATEC",
   "email": {
     "subject": "Cairns SCADA: who owns the water bid?",
-    "initial": "Hi Paul,\n\nI’m reviewing Cairns Contract 3047, titled Citect to AVEVA Plant SCADA migration. If pump or sewer interfaces are included, there may be a useful split between SAGE’s migration engineering and Aquatec’s asset-specific acceptance tests.\n\nThe full scope and deadline are still unresolved, so this is only a scope check. No new pump supply or Aquatec work package is assumed.\n\nCould you point me to your Queensland water or SCADA bid owner to assess whether this deserves a technical discussion? If there is a fit, I’d ask both sides before arranging an introduction with Jayden Seeley. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
+    "initial": "Hi Paul,\n\nI’m reviewing Cairns Contract 3047, titled Citect to AVEVA Plant SCADA migration. If pump or sewer interfaces are included, there may be a useful split between SAGE’s migration engineering and Aquatec’s asset-specific acceptance tests.\n\nThe current buyer list says28 September16:30 AEST. The detailed pack and earlier gates remain unresolved, so this is only a scope check. No new pump supply or Aquatec work package is assumed.\n\nCould you point me to your Queensland water or SCADA bid owner to assess whether this deserves a technical discussion? If there is a fit, I’d ask both sides before arranging an introduction with Jayden Seeley. Neither side has committed.\n\nIf this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.",
     "followups": [
       "Hi Paul,\n\nFollowing up on Cairns Contract 3047 SCADA migration. The first question is whether Aquatec would add a distinct, necessary work package. For your side, I had in mind: sCADA migration/integration lead candidate; obtain water/Queensland bid owner referral.\n\nIs that a useful scope to explore, or should I speak with another owner?",
       "Hi Paul,\n\nA practical agenda for the proposed Aquatec discussion would be: asset list; tag/alarm mapping; operating sequences; FAT/SAT; rollback; operator training. The output could be a one-page responsibility and evidence matrix before either firm spends time on a bid.\n\nWhich interface or qualification would you want to resolve first?",
@@ -27,7 +27,7 @@
   "send_authorized": false,
   "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
   "snapshot_date": "2026-09-04",
-  "gate_review_date": "2026-09-07",
+  "gate_review_date": "2026-09-21",
   "current_gate_review": [
     {
       "mandatory": true,
@@ -37,5 +37,13 @@
     }
   ],
   "delivery_route": "UNRESOLVED",
-  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender"
+  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender",
+  "current_deadline": {
+    "conflict": null,
+    "precision": "MINUTE",
+    "timezone": "Australia/Brisbane; AEST explicit on buyer TenderLink",
+    "value": "2026-09-28T16:30:00+10:00"
+  },
+  "next_review": "2026-09-28",
+  "current_next_action": "Use 28 September 16:30 AEST buyer-listed close; check pack for earlier gates and single-E2E suitability."
 }

@@ -1,0 +1,75 @@
+{
+  "id": "CONTENT-W39-ADAPTERS",
+  "run_key": "gtmtechweek-2026-W39",
+  "state": "HOLD",
+  "mentic": {
+    "state": "DRAFT_ONLY_NOT_CONNECTED",
+    "media_budget": 0,
+    "currency": null,
+    "approved_budget": false,
+    "cohorts": [
+      "SouthAfrica water-efficient sanitation E2E and localO&M",
+      "SouthAfrica registered water/sanitation multidisciplinary PSPs",
+      "Australia reservoir dosing equipment/control/installation",
+      "Uzbekistan solarPV E2E/local delivery"
+    ],
+    "evidence": [
+      "https://www.dbsa.org/procurement",
+      "https://portal.tenderlink.com/cairns/alltenders/",
+      "https://www.adb.org/news/events/eme-solar-pv-panels-schools-stem-project-uzbekistan"
+    ],
+    "landing_page": "https://gtmtechweek-tender-observatory.adrian-k-zebrowski.chatgpt.site",
+    "cta": "Proposed capability intake; no functional intake or approved campaign",
+    "utm_source": "mentic",
+    "utm_medium": "paid",
+    "utm_campaign": "gtmtechweek-capability-intake-w39",
+    "campaign_id": null,
+    "activation_blockers": [
+      "Account/spend/feedback checks",
+      "Approved currency and media budget",
+      "Verified landing-page intake and attribution"
+    ]
+  },
+  "surfer": {
+    "state": "DRAFT_ONLY_NOT_CONNECTED",
+    "content_id": "chemical-dosing-scope-and-acceptance",
+    "path": "content/blog/chemical-dosing-scope-and-acceptance.md",
+    "language": "en",
+    "region": "Australia/global",
+    "intent": "Scope qualification for water-treatment suppliers",
+    "outline": [
+      "Known versus unknown",
+      "Acceptance matrix",
+      "E2E or genuine gaps",
+      "Commercial discipline"
+    ],
+    "review_date": "2026-09-28",
+    "optimization_task_id": null,
+    "published": false
+  },
+  "heyreach": {
+    "state": "TRIAL_EXPIRED",
+    "send_authorized": false,
+    "new_enrichment": false,
+    "actor_id": "CONTACT-08",
+    "tender_id": "UT-027",
+    "payload_path": "tenders/UT-027/actors/CONTACT-08/outreach.json",
+    "campaign_id": null
+  },
+  "woodpecker": {
+    "state": "NOT_CONNECTED",
+    "import_allowed": false,
+    "delivery_test_completed": false
+  },
+  "shared_feedback": {
+    "one_active_channel_per_contact": true,
+    "reply": "Halt until classified",
+    "opt_out": "Suppress all outbound",
+    "cross_channel_pause_confirmed": false,
+    "enrollment_allowed": false,
+    "source_event_id": null,
+    "event_timestamp": null,
+    "old_events_may_not_overwrite_newer": true,
+    "inbound": "Persist capability intake before rematching; general enquiry is not introduction consent"
+  }
+}

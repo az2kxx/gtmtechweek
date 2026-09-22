@@ -30,5 +30,19 @@
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: independent SCADA design consultant; Integrator: scope/interface qualification only; SME: survey/design discipline if permitted",
-  "gates": "Official -2 EOI; Qualified independent consultant; Remit corroboration"
+  "gates": "Resolve the -2 borrower notice; keep MENA-Water/Aqualine proposals HOLD and do not confuse older awards.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "OFFICIAL_EOI_AND_SHORTLIST_GATES",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.developmentaid.org/tenders/view/1709658/jordan-water-sector-efficiency-project-consultancy-services-for-detailed-design-tender-assistance-of",
+    "https://projects.worldbank.org/en/projects-operations/procurement-detail/OP00466105"
+  ]
 }

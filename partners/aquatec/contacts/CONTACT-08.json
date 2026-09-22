@@ -4,18 +4,19 @@
   "company_id": "aquatec",
   "title": "Business Development Manager",
   "profile_url": "https://www.linkedin.com/in/jayden-seeley",
-  "role_assessment": "BD Manager with South Australia pump/sewer remit. Referral-only for Cairns/Queensland project owner.",
+  "role_assessment": "BD Manager with South Australia pump/sewer remit. Referral-only for Cairns/Queensland project owner. Official21 September company page supports adjacent water-systems design and chemical-dosing capability, but does not verify Jayden's present remit.",
   "evidence_date": "2026-09-04",
   "email_status": "WITHHELD_FROM_PUBLIC_DEMO",
   "dialogue_state": "NOT_CONTACTED",
   "willingness": "UNKNOWN",
   "pair_ids": [
-    "PAIR-04"
+    "PAIR-04",
+    "OPTION-UT-027-W39"
   ],
-  "next_review": "2026-09-21",
+  "next_review": "2026-09-28",
   "cache_review": {
     "identity_role_email_evidence_date": "2026-09-04",
-    "read_from_existing_CRM": "2026-09-07",
+    "read_from_existing_CRM": "2026-09-21",
     "new_enrichment": false,
     "role_email_review_days": 30,
     "capability_review_days": 90,
@@ -27,7 +28,19 @@
       "delivery_route": "UNRESOLVED",
       "outreach_state": "HOLD",
       "eligibility": "REVIEW_REQUIRED",
-      "willingness": "UNKNOWN"
+      "willingness": "UNKNOWN",
+      "latest_gate_review": {
+        "date": "2026-09-21",
+        "next_action": "Use 28 September 16:30 AEST buyer-listed close; check pack for earlier gates and single-E2E suitability."
+      }
+    },
+    {
+      "tender_id": "UT-027",
+      "delivery_route": "UNRESOLVED",
+      "technical_role": "Referral to Queensland dosing/utility scope owner; not assumed decision-maker",
+      "eligibility": "REVIEW_REQUIRED",
+      "willingness": "UNKNOWN",
+      "outreach_state": "HOLD"
     }
   ]
 }

@@ -20,7 +20,27 @@
   "agenda": "existing-tool ingestion; asset/process context; incident escalation; safe containment approvals; evidence ownership",
   "software": "Existing Nozomi, Cisco Cyber Vision and CrowdStrike must be supported. Bridewell Microsoft capability is not proof of compatibility.",
   "hardware": "Existing OT estate; no replacement hardware assumed",
-  "gates": "Neither company is confirmed bidder. Resolve one-supplier subcontract rights, full pack, conflicting deadline/value, and prove support for all three existing tools. Ovarro is not asserted to supply OT cyber incident response.",
+  "gates": "HOLD new bid effort: full-text 21 September 16:00 BST has passed; summary 22 September remains inconsistent. Verify buyer portal before any late-eligibility claim.",
   "delivery_route": "CONSORTIUM",
-  "commitment": "UNCONFIRMED"
+  "commitment": "UNCONFIRMED",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "ENQUIRIES",
+      "value": "2026-08-21T16:00:00+01:00"
+    },
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "PLATFORM_REGISTRATION",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "next_action": "HOLD new bid effort: full-text 21 September 16:00 BST has passed; summary 22 September remains inconsistent. Verify buyer portal before any late-eligibility claim.",
+  "latest_requirement_sources": [
+    "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=AUG647015&catID="
+  ]
 }

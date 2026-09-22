@@ -1,0 +1,141 @@
+{
+  "schema_version": 2,
+  "id": "UT-030",
+  "title": "Cromwell WWTP geobag removal and pond desludging",
+  "buyer": "Central Otago District Council",
+  "country": "New Zealand",
+  "region": "Australia / Oceania",
+  "official_reference": "GETS RFx34819845",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-08-31T15:00:00+12:00; older than overlap, newly discovered",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-09-23",
+  "bid_deadline": {
+    "value": "2026-09-23T16:00:00+12:00",
+    "precision": "MINUTE",
+    "timezone": "Pacific/Auckland UTC+12 explicitly stated",
+    "conflict": null
+  },
+  "deadline_caveat": "Pacific/Auckland UTC+12 explicitly stated",
+  "earlier_gates": [
+    {
+      "type": "DETAILED_RFP_ACCESS_AND_EARLIER_GATES",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "REVIEW; GETS registration needed for detailed documents"
+    }
+  ],
+  "source_url": "https://www.gets.govt.nz/CODC/ExternalTenderDetails.htm?id=34819845",
+  "source_urls": [
+    "https://www.gets.govt.nz/CODC/ExternalTenderDetails.htm?id=34819845"
+  ],
+  "evidence_date": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "PublicGETSnotice only; detailedRFP unavailable.",
+  "scope_quantities_delivery": "Desludge2 oxidation ponds; design methodology, dewatering basin and monitoring. Existing geobag sludge removal optional separable portion. Sludge disposal and new geotextile bag excluded. Duration UNKNOWN.",
+  "technology": {
+    "Software evidence": "Monitoring programme required; specific software/estate UNKNOWN.",
+    "Hardware evidence": "Dredging/dewatering technology required, unspecified; existing ponds last desludged2017, surveyed2026.",
+    "Participation caveat": "Listing says no prequalification; still requires experienced/qualified contractor and fullRFP compliance. Price/non-price responses separate."
+  },
+  "value": {
+    "amount": null,
+    "currency": "NZD",
+    "basis": "UNKNOWN; tax basis UNKNOWN",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Listing says no prequalification; still requires experienced/qualified contractor and fullRFP compliance. Price/non-price responses separate.",
+  "procurement_transaction_type": "Sole-agency RFP; split price/non-price files; optional separable portion",
+  "payment_security": "UNKNOWN",
+  "proposed_work_packages": [
+    {
+      "description": "E2E prime: experienced desludging/dewatering contractor",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: optional-portion and exclusion/interface matrix",
+      "inferred": true
+    },
+    {
+      "description": "SME: dewatering technology, monitoring/testing if allowed",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Qualified local contractor",
+    "DetailedRFP and compliance evidence",
+    "Disposal handover interface"
+  ],
+  "missing_partner_roles": [
+    "Qualified local contractor",
+    "DetailedRFP and compliance evidence",
+    "Disposal handover interface"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: experienced desludging/dewatering contractor",
+      "Integrator: optional-portion and exclusion/interface matrix",
+      "SME: dewatering technology, monitoring/testing if allowed"
+    ],
+    "unverified_gaps": [
+      "Qualified local contractor",
+      "DetailedRFP and compliance evidence",
+      "Disposal handover interface"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-030-W39"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Existing qualified bidders review exclusions and gates before23 September; no assumption disposal is addressable revenue.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Budget, tax, payment and unextracted eligibility UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreachHOLD; no introduction consent or mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W39",
+    "finding": "NEW_TO_REGISTER; not necessarily published within overlap",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "verified_date": "2026-09-21",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.gets.govt.nz/CODC/ExternalTenderDetails.htm?id=34819845"
+      ]
+    }
+  ],
+  "evidence_grade": "PublicGETSnotice only; detailedRFP unavailable."
+}

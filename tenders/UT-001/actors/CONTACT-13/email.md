@@ -1,6 +1,10 @@
-# UT-001 / CONTACT-13: email draft
+# UT-001 / CONTACT-13 - email draft
 
-HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
+State: HOLD - no sending or enrollment authorized.
+
+Gate review: 2026-09-21. HOLD new bid effort: full-text 21 September 16:00 BST has passed; summary 22 September remains inconsistent. Verify buyer portal before any late-eligibility claim.
+
+Four followups are drafts, not a schedule. Any reply pauses outreach; opt-out suppresses all channels. Introduction consent is required from both parties.
 
 ## Subject
 
@@ -16,23 +20,24 @@ My proposed role is to qualify that boundary before anyone invests in a teaming 
 
 Deadline/value conflicts and passed enquiry gates remain unresolved. This is exploratory, not a consortium offer or buyer mandate. No introduction would happen without consent from both sides. Please let me know if you prefer no further contact.
 
-## Follow-up 1
+## Followup 1
 
 Hi Lewis,
 
 Would an evidence checklist for the existing estate and MDR onboarding responsibilities help assess fit? No additional company is required if one provider covers the scope.
 
-## Follow-up 2
+## Followup 2
 
-Hi Lewis,\nThe proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?
+Hi Lewis,
+The proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?
 
-## Follow-up 3
+## Followup 3
 
 Hi Lewis,
 
 Before any tender dialogue, the full pack and earlier gates must be checked. There is no assumed fee, bid or partner commitment. Is this worth a technical review with the correct owner?
 
-## Follow-up 4
+## Followup 4
 
 Hi Lewis,
 

@@ -29,5 +29,19 @@
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: Plant SCADA migration and acceptance; Integrator: inventory, interfaces, cutover and rollback; SME: testing/commissioning if required",
-  "gates": "Pack and site scope; Correct Queensland decision-maker"
+  "gates": "Use 28 September 16:30 AEST buyer-listed close; check pack for earlier gates and single-E2E suitability.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "REVIEW",
+      "type": "SUPPLIER_REGISTRATION_AND_PACK",
+      "value": "UNKNOWN"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+    "https://portal.tenderlink.com/cairns/alltenders/"
+  ]
 }

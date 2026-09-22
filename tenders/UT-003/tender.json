@@ -4,10 +4,10 @@
     "CONTACT-06"
   ],
   "bid_deadline": {
-    "conflict": null,
+    "value": "2026-10-23T23:55:00+02:00",
     "precision": "MINUTE",
-    "timezone": "Africa/Johannesburg; source states Johannesburg",
-    "value": "2026-09-30T23:55:00+02:00"
+    "timezone": "Johannesburg time explicit; UTC+2",
+    "conflict": null
   },
   "blog_path": "content/blog/utility-integration-before-the-bid.md",
   "buyer": "DBSA / Water Partnerships Office",
@@ -19,8 +19,8 @@
   },
   "cooperation_willingness": "UNKNOWN",
   "country": "South Africa",
-  "deadline": "2026-09-30",
-  "deadline_caveat": "30 September 2026, 23:55 South African time. Addendum 2 extends closing only; all other information unchanged.",
+  "deadline": "2026-10-23",
+  "deadline_caveat": "Addendum3:23 October23:55 SAST. Link/enquiry wording conflicts between five and three working days before closing.",
   "delivery_route": "UNRESOLVED",
   "dependencies": [
     "Eligible attended lead contractor",
@@ -29,19 +29,21 @@
   "earlier_gates": [
     {
       "mandatory": true,
-      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "COMPULSORY_BRIEFING",
       "value": "2026-08-14T10:00:00+02:00"
     },
     {
-      "mandatory": true,
-      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
       "type": "LINK_REQUEST_AND_ENQUIRIES",
-      "value": "2026-08-31T16:30:00+02:00"
+      "value": "Five working days before closing; three-working-day wording also remains",
+      "precision": "RELATIVE_WORKING_DAYS",
+      "mandatory": true,
+      "state": "REVIEW; conservative earlier five-day rule, exact calendar/time not independently established",
+      "supersedes": "2026-08-31T16:30:00+02:00"
     }
   ],
-  "eligibility": "CIDB 7CE or registration within 21 working days; NRW experience ZAR200m, construction lead ZAR300m, financing ZAR100m per pack. Passed compulsory gates: exclude fresh direct entrants absent evidence of compliance.",
-  "evidence_date": "2026-09-14",
+  "eligibility": "Compulsory14 August attendance; CIDB7CE through lead or partner, or permitted21-working-day registration route. Pack retains ZAR200m NRW/ZAR300m construction experience and ZAR100m finance tests; lead-vs-partner construction wording differs across clauses and needs review.",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-003",
   "integrator_commercial": {
@@ -56,20 +58,20 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-14",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "UNKNOWN",
   "missing_partner_roles": [
     "Eligible attended lead contractor",
     "Financing and CIDB evidence"
   ],
-  "next_action": "HOLD new direct entry unless prior gate compliance is evidenced; acknowledge Addendum 2 through an eligible bidder.",
+  "next_action": "For an evidenced prior attendee: acknowledge Addendum3, review amended pack/Q&A and reconcile relative request cutoffs. Non-attending prime remains excluded; supplier/subcontract roles need explicit permission.",
   "official_reference": "RFR001.2026",
   "outreach_state": "HOLD",
   "pair_ids": [
     "PAIR-03",
     "OPTION-UT-003-W37"
   ],
-  "payment_security": "Call-off payment/security UNKNOWN; financing threshold is not compensation.",
+  "payment_security": "Call-off terms UNKNOWN. Revised pack specifies relevant all-risk insurance at least ZAR100m without claim-count limit, enforceable in South Africa. Not a contract value.",
   "pipeline_stage": "OUTREACH_DRAFTED",
   "procurement_transaction_type": "Request for registration / NRW performance-based contractor panel",
   "proposed_work_packages": [
@@ -87,7 +89,7 @@
     }
   ],
   "published_amended": {
-    "amended": "2026-09-09, Addendum 2",
+    "amended": "2026-09-17, Addendum3",
     "published": "2026-07-28"
   },
   "region": "Africa",
@@ -105,18 +107,19 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "AMENDMENT: closing extended from 18 to 30 September; earlier compulsory gates unchanged.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Addendum 3 dated17 September extends closing to23 October23:55 SAST and publishes revised pack. The old31 August link/enquiry date is superseded by relative wording; compulsory14 August attendance still controls.",
     "notice_amendment_claimed": true
   },
   "schema_version": 2,
   "scope_quantities_delivery": "Five-year contractor panel; registration is not an award or guaranteed call-off.",
-  "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf",
+  "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document.pdf",
   "source_urls": [
     "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf",
-    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026%20Addendum%20No%202.pdf"
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026%20Addendum%20No%202.pdf",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026-Addendum%20No%203.pdf",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document.pdf"
   ],
   "stage": "PREQUALIFICATION",
   "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
@@ -124,7 +127,7 @@
   "technology": {
     "Evidence / source": "Addendum 1 pp.2,5,23. https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf",
     "Hardware evidence": "Leakage detection, network rehabilitation and metering possible; quantities unspecified.",
-    "Participation caveat": "CIDB 7CE or registration within 21 working days; NRW experience ZAR200m, construction lead ZAR300m, financing ZAR100m per pack. Passed compulsory gates: exclude fresh direct entrants absent evidence of compliance.",
+    "Participation caveat": "Compulsory14 August attendance; CIDB7CE through lead or partner, or permitted21-working-day registration route. Pack retains ZAR200m NRW/ZAR300m construction experience and ZAR100m finance tests; lead-vs-partner construction wording differs across clauses and needs review.",
     "Smaller-party role": "Proposed: leakage analysis; field diagnostics; measurement",
     "Software evidence": "NRW performance measurement and telemetry are possible packages; products unspecified.",
     "Suggested delivery bundle": "Eligible lead: civil works, financing and PBC accountability; WRP candidate: NRW baseline/M&V; Ovarro candidate: leakage diagnostics",
@@ -162,8 +165,23 @@
         "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf",
         "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026%20Addendum%20No%202.pdf"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Addendum 3 dated17 September extends closing to23 October23:55 SAST and publishes revised pack. The old31 August link/enquiry date is superseded by relative wording; compulsory14 August attendance still controls.",
+      "stage": "PREQUALIFICATION",
+      "deadline": "2026-10-23T23:55:00+02:00",
+      "source_urls": [
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document%20%28Addendum%20No.%201%29.pdf",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026%20Addendum%20No%202.pdf",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026-Addendum%20No%203.pdf",
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026%20Updated%20NRW%20PBC%20Contractor%20Panel%20Tender%20Document.pdf"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise.",
+  "latest_notice_type": "AMENDMENT"
 }

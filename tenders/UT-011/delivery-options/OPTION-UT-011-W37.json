@@ -29,5 +29,24 @@
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: gas EPC/design; Integrator: skid-civil-metering acceptance interfaces; SME: regulators, meters/EVC, valves, fabrication",
-  "gates": "Gas EPC references; Local Category1.4 installer; OEM authorizations"
+  "gates": "Find eligible EPC/local installation capability; verify pack before document purchase.",
+  "current_gate_review": [
+    {
+      "mandatory": false,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "OPTIONAL_BRIEFING",
+      "value": "2026-09-17T10:30:00+06:00"
+    },
+    {
+      "mandatory": true,
+      "state": "DATE_ONLY",
+      "type": "DOCUMENT_SALES",
+      "value": "2026-10-18"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.bppa.gov.bd/advertisement-goods/details-98305.html"
+  ]
 }

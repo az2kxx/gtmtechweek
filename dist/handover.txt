@@ -1,3 +1,23 @@
+# Current handover - 21 September 2026
+
+Read research/2026-W39/digest.md, source-coverage.json, role-matching.json and executions/2026-W39/run.json first. Current register:31 dossiers,12 companies,13 cached contacts,19 HOLD actor/tender packets and3 blog drafts. Eight entries were added, including one ADB market-engagement event (not a tender). No new people, paid enrichment or outreach.
+
+Logical run gtmtechweek-2026-W39 is a new weekly execution after the prior W37/W38 flow ended PARTIAL and published. Repeated same-week prompts/resumes keep W39 and its shared ledger:0 spent,0 reserved,299 nominal remaining DATA_CREDITS. Live paid work stays COST_REVIEW_REQUIRED/CACHE_ONLY. One saved Clay task was read. No account-level spend guarantee or known monthly account total.
+
+Material updates: DBSA RFR001 Addendum3 (17Sep) extends closing to23Oct; RFP149 Addendum1 (16Sep) revises request/evaluation/scope wording; Al-Rawat BOQ amended15Sep. Old31Aug DBSA request dates are superseded, but five-vs-three-working-day wording needs review. Mandatory attendance gates still control. Southern Water's full-text time has passed but summary date conflicts. RFP145's recorded close elapsed; no formal award/cancellation established. New CapeTown sanitation and Limpopo PSP briefings are29Sep and28Sep respectively. EBMUD SD462 moved from prior plan to current bid listing; USD18.5-19.5m is an estimate, not earnings.
+
+All13 contacts persisted independently in existing Attio records with appended project notes; CONTACT08 adds a referral-only UT027 association. CONTACT05/UT014 remains NO_PAIR_FOUND/MISSING_COMPLEMENTARY_COMPANY. Optional CONTACT13 is not forced into an E2E route. Private mapping is retained in Attio index notes outside publicGit. Notes/record writes were read back; exact counts and publication outcome are in the run JSON. Raw identifiers were additionally appended in a project-only description section because Markdown readback transforms escaped underscores. No unrelated content, replies or consent states were overwritten.
+
+GitHub's historical5Sep403 was resolved by actual14Sep writes. W39 publication must be judged from its own readback log, not inherited permission claims. The last pre-W39 cached replay completed15Sep01:00:10UTC. GitHub replay validates cached data, not fresh scraping. The current source update rebuilds dist/data.json; it does not redeploy the Site shell or its fallback package. Preserve concurrent Actions commits; only fast-forward updates.
+
+Checks: public data/followups,6 guard tests,JS syntax,7 views,all31 tender dialogs and empty future-week behavior passed. scripts/validate_dashboard.cjs is a non-mutating UI render check. Do not run record_execution.py merely to fill history. QA does not prove tender eligibility, partner willingness, delivery or inbox placement.
+
+Next: finish official-source and eligibility queue, revisit prior attendance, review new full packs, and retain draft-only channels. All fee terms/payer/mandate/revenue remain unknown. No member profiles supplied. Media budget zero; HeyReach expired; no distribution required.
+
+Historical handover follows, superseded by the current run evidence where inconsistent.
+
+---
+
 # Current handover — 14 September 2026
 
 The current research register has 23 tender dossiers, 12 companies, 13 cached named contacts and 18 HOLD outreach packets. Read research/2026-W38/digest.md, source-coverage.md and executions/2026-W38/run.json for evidence and unresolved gates.

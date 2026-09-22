@@ -9,14 +9,14 @@
     "initial": "Hi Lewis,\n\nI am reviewing Southern Water’s Prj_8501 as a possible single-provider IT/OT MDR opportunity. Ovarro is not assumed to be needed: a telemetry specialist only makes sense if the full pack reveals an interface that the MDR provider cannot cover.\n\nMy proposed role is to qualify that boundary before anyone invests in a teaming discussion. Are you the right person to assess such a residual telemetry scope, if one is established?\n\nDeadline/value conflicts and passed enquiry gates remain unresolved. This is exploratory, not a consortium offer or buyer mandate. No introduction would happen without consent from both sides. Please let me know if you prefer no further contact.",
     "followups": [
       "Hi Lewis,\n\nWould an evidence checklist for the existing estate and MDR onboarding responsibilities help assess fit? No additional company is required if one provider covers the scope.",
-      "Hi Lewis,\\nThe proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?",
+      "Hi Lewis,\nThe proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?",
       "Hi Lewis,\n\nBefore any tender dialogue, the full pack and earlier gates must be checked. There is no assumed fee, bid or partner commitment. Is this worth a technical review with the correct owner?",
       "Hi Lewis,\n\nI will leave this proposal on hold. If there is a relevant scope, I can coordinate a discussion after eligibility review and any required introduction consent. If you prefer no further contact, please let me know."
     ]
   },
   "linkedin": {
     "connection": "Hi Lewis, I qualify utility opportunities and coordinate technical scope discussions. Would you be open to connecting about IT/OT service interfaces?",
-    "initial": "I am reviewing Southern Water Prj_8501. The first option is a single E2E MDR provider; a partner is only useful for a proven gap. I can prepare a scope/evidence matrix. Full-pack and deadline conflicts remain open. Is a brief technical review relevant to your remit?",
+    "initial": "I am reviewing Southern Water Prj_8501. The first option is a single E2E MDR provider; a partner is only useful for a proven gap. I can prepare a scope/evidence matrix. Full-pack and deadline conflicts remain open. Is a brief technical review relevant to your remit? The full-text closing time has passed; this remains a held status/scope review.",
     "followups": [
       "Would the existing-tooling and response-responsibility checklist be useful?",
       "Which technical interface would decide whether your team has a role? No partner is assumed.",
@@ -27,11 +27,11 @@
   "send_authorized": false,
   "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
   "snapshot_date": "2026-09-04",
-  "gate_review_date": "2026-09-07",
+  "gate_review_date": "2026-09-21",
   "current_gate_review": [
     {
       "mandatory": true,
-      "state": "PASSED",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "ENQUIRIES",
       "value": "2026-08-21T16:00:00+01:00"
     },
@@ -44,5 +44,13 @@
   ],
   "delivery_route": "SINGLE_E2E",
   "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender",
-  "sequence_review": "Existing proposal superseded by SINGLE_E2E-first review. Optional specialists remain HOLD."
+  "sequence_review": "Existing proposal superseded by SINGLE_E2E-first review. Optional specialists remain HOLD.",
+  "current_deadline": {
+    "conflict": "Full text 21 September; summary 22 September. £8.5m narrative versus £10m including VAT structured value.",
+    "precision": "MINUTE",
+    "timezone": "Europe/London; BST inferred from UK local time",
+    "value": "2026-09-21T16:00:00+01:00"
+  },
+  "next_review": "2026-09-28",
+  "current_next_action": "HOLD new bid effort: full-text 21 September 16:00 BST has passed; summary 22 September remains inconsistent. Verify buyer portal before any late-eligibility claim."
 }

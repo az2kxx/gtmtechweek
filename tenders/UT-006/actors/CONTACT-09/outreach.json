@@ -27,7 +27,7 @@
   "send_authorized": false,
   "followup_timing": "Not scheduled. Revalidate tender gates and stop on reply or opt-out.",
   "snapshot_date": "2026-09-04",
-  "gate_review_date": "2026-09-07",
+  "gate_review_date": "2026-09-21",
   "current_gate_review": [
     {
       "mandatory": true,
@@ -37,5 +37,13 @@
     }
   ],
   "delivery_route": "UNRESOLVED",
-  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender"
+  "remaining_followup_window": "NOT_SCHEDULED; do not run five steps automatically against a closing tender",
+  "current_deadline": {
+    "conflict": null,
+    "precision": "UNKNOWN",
+    "timezone": "UNKNOWN",
+    "value": null
+  },
+  "next_review": "2026-09-28",
+  "current_next_action": "Resolve the -2 borrower notice; keep MENA-Water/Aqualine proposals HOLD and do not confuse older awards."
 }

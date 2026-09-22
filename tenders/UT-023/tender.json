@@ -12,7 +12,7 @@
   "lead_contractor_candidate": "UNKNOWN",
   "cooperation_willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "evidence_date": "2026-09-14",
+  "evidence_date": "2026-09-21",
   "confidence": {
     "notice": "HIGH",
     "scope": "MEDIUM",
@@ -59,20 +59,21 @@
     {
       "type": "COMPULSORY_ONSITE_BRIEFING",
       "value": "2026-09-16T11:00:00+02:00",
-      "state": "UPCOMING",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "mandatory": true
     },
     {
       "type": "COMPULSORY_ONLINE_BRIEFING",
       "value": "2026-09-18T11:00:00+02:00",
-      "state": "UPCOMING; confirm attendance requirements for both",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "mandatory": true
     }
   ],
   "scope_quantities_delivery": "Drilling and grouting for Tzaneen Dam; quantities and delivery duration UNKNOWN because tender-volume retrieval failed.",
   "technology": {
     "Software evidence": "UNKNOWN; no software inferred.",
-    "Hardware evidence": "Specialist drilling/grouting works; plant, materials and quantities require technical pack."
+    "Hardware evidence": "Specialist drilling/grouting works; plant, materials and quantities require technical pack.",
+    "Participation caveat": "Compulsory on-site/online briefings listed; CIDB class/grade, references and financial gates UNKNOWN."
   },
   "value": {
     "currency": "ZAR",
@@ -105,12 +106,29 @@
     "Eligible dam-works lead",
     "Site access"
   ],
-  "next_action": "Check onsite 16 September and online 18 September briefings; do not assume one substitutes for the other.",
+  "next_action": "Exclude non-attending new prime; review only documented eligible route and full technical pack.",
   "evidence_grade": "Official buyer listing; technical pack unavailable",
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "finding": "NEW_TO_REGISTER on 14 September",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Compulsory briefing dates elapsed; closing remains future. No evidence of attendance or reopened eligibility.",
     "notice_amendment_claimed": false
-  }
+  },
+  "last_recheck_attempt": "2026-09-21",
+  "last_rechecked_at": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise.",
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Compulsory briefing dates elapsed; closing remains future. No evidence of attendance or reopened eligibility.",
+      "stage": "OPEN_TENDER",
+      "deadline": "2026-09-30T23:55:00+02:00",
+      "source_urls": [
+        "https://www.dbsa.org/procurement",
+        "https://www.dbsa.org/procurement"
+      ]
+    }
+  ]
 }

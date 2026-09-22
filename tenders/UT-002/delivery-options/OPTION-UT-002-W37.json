@@ -22,12 +22,25 @@
   ],
   "willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "next_action": "Resolve questions by 10 September; verify experience thresholds and initial versus five-year quantities.",
+  "next_action": "Assess eligible existing proposal route; enquiry window has ended.",
   "roles_are_inferred": true,
   "evidence_date": "2026-09-07",
   "company_ids": [],
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: compliant AMI offer and references; Integrator: architecture, MDM onboarding and acceptance; SME: communications survey, training/support",
-  "gates": "20,000-meter evidence; Canada commercial owner; Firm package pricing"
+  "gates": "Assess eligible existing proposal route; enquiry window has ended.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "ENQUIRIES",
+      "value": "2026-09-10"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+  ]
 }

@@ -1,6 +1,10 @@
-# UT-001 / CONTACT-01: email draft
+# UT-001 / CONTACT-01 - email draft
 
-HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
+State: HOLD - no sending or enrollment authorized.
+
+Gate review: 2026-09-21. HOLD new bid effort: full-text 21 September 16:00 BST has passed; summary 22 September remains inconsistent. Verify buyer portal before any late-eligibility claim.
+
+Four followups are drafts, not a schedule. Any reply pauses outreach; opt-out suppresses all channels. Introduction consent is required from both parties.
 
 ## Subject
 
@@ -14,27 +18,28 @@ I originate and qualify utility opportunities and coordinate technical scoping. 
 
 Bridewell’s published MDR and OT SOC capabilities make a single-provider route worth assessing. My proposed contribution is an evidence and interface matrix so your team can make a focused bid/no-bid decision; I am not proposing an unnecessary partner.
 
-The notice still conflicts on deadline and value, and the enquiry cutoff has passed. Full-pack eligibility needs review before proceeding. Would a short scope discussion with the appropriate technical/commercial owner be useful?
+The full-text21 September16:00 BST deadline has passed while the summary says22 September. This draft is held for status review, not an assertion that a new bid remains possible. Value and full-pack eligibility also remain unresolved. Would a short scope discussion with the appropriate technical/commercial owner be useful?
 
 No mandate, buyer representation or fee is agreed. If this is outside your remit, a referral would help; let me know if you prefer no further contact.
 
-## Follow-up 1
+## Followup 1
 
 Hi Peter,
 
 Would an evidence checklist for the existing estate and MDR onboarding responsibilities help assess fit? No additional company is required if one provider covers the scope.
 
-## Follow-up 2
+## Followup 2
 
-Hi Peter,\nThe proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?
+Hi Peter,
+The proposed scoping output is a one-page responsibility matrix: detection, response authority, operational escalation, data access and acceptance. Which boundary would you need clarified first?
 
-## Follow-up 3
+## Followup 3
 
 Hi Peter,
 
 Before any tender dialogue, the full pack and earlier gates must be checked. There is no assumed fee, bid or partner commitment. Is this worth a technical review with the correct owner?
 
-## Follow-up 4
+## Followup 4
 
 Hi Peter,
 

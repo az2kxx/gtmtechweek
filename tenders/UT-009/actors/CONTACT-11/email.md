@@ -1,6 +1,10 @@
-# UT-009 / CONTACT-11: email draft
+# UT-009 / CONTACT-11 - email draft
 
-HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
+State: HOLD - no sending or enrollment authorized.
+
+Gate review: 2026-09-21. Check participant status and reactor package before any technical introduction.
+
+Four followups are drafts, not a schedule. Any reply pauses outreach; opt-out suppresses all channels. Introduction consent is required from both parties.
 
 ## Subject
 
@@ -18,7 +22,7 @@ La hipótesis es combinar ingeniería multidisciplinaria con montaje y pruebas d
 
 Si prefieres no recibir más mensajes, dímelo.
 
-## Follow-up 1
+## Followup 1
 
 Hola Enzo,
 
@@ -26,7 +30,7 @@ Retomo la posible cooperación con Proingesa. ¿Podéis confirmar si existe una 
 
 ¿Eres la persona adecuada para revisar ese punto?
 
-## Follow-up 2
+## Followup 2
 
 Hola Enzo,
 
@@ -34,7 +38,7 @@ Una agenda concreta para evaluar el encaje con Proingesa: elegir el lote, separa
 
 También conviene evitar duplicar ingeniería entre ambas firmas. ¿Qué alcance os interesaría evaluar?
 
-## Follow-up 3
+## Followup 3
 
 Hola Enzo,
 
@@ -42,7 +46,7 @@ Antes de plantear una presentación con Roberto Niño, faltaría revisar referen
 
 ¿Te interesa revisar esas condiciones o debemos dirigir la consulta a otro responsable?
 
-## Follow-up 4
+## Followup 4
 
 Hola Enzo,
 

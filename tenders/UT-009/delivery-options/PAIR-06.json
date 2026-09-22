@@ -22,7 +22,27 @@
   "agenda": "participant access; lot selection; design boundary; OEM long-lead items; protection responsibility; outage plan; guarantees",
   "software": "Relay/SCADA engineering tools and standards require technical annexes; no brands assumed",
   "hardware": "220 kV expansion and line reactor; OEM, civil contractor and equipment guarantees remain open",
-  "gates": "Bases purchase cutoff 24 August passed. Confirm lawful route through registered participant and consortium/subcontract rights. Ingesat also designs: avoid duplicate scope. Proingesa HV references and Enzo bid authority unconfirmed.",
+  "gates": "Check participant status and reactor package before any technical introduction.",
   "delivery_route": "CONSORTIUM",
-  "commitment": "UNCONFIRMED"
+  "commitment": "UNCONFIRMED",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "BASES_PURCHASE",
+      "value": "2026-08-24"
+    },
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "ENQUIRIES",
+      "value": "2026-09-07"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "next_action": "Check participant status and reactor package before any technical introduction.",
+  "latest_requirement_sources": [
+    "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+  ]
 }

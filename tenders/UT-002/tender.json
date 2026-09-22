@@ -30,13 +30,13 @@
   "earlier_gates": [
     {
       "mandatory": true,
-      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "ENQUIRIES",
       "value": "2026-09-10"
     }
   ],
   "eligibility": "Five years' industry experience; at least 20,000 active-service meters; comparable municipal references. Named subcontractors permitted; candidate proof missing.",
-  "evidence_date": "2026-09-14",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-002",
   "integrator_commercial": {
@@ -51,7 +51,7 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-14",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "Metercor / Badger Meter candidate route; Canadian remit and thresholds need evidence",
   "missing_partner_roles": [
     "20,000-meter evidence",
@@ -102,10 +102,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "Enquiry cutoff 10 September now passed; closing remains 22 September in retained official pack.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Official notice/listing rechecked; no further amendment established.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -157,8 +156,19 @@
       "source_urls": [
         "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Official notice/listing rechecked; no further amendment established.",
+      "stage": "OPEN_TENDER",
+      "deadline": "2026-09-22T14:00:00-03:00",
+      "source_urls": [
+        "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }

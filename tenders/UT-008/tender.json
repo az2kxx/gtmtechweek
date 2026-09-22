@@ -29,19 +29,19 @@
   "earlier_gates": [
     {
       "mandatory": true,
-      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "BASES_PURCHASE",
       "value": "2026-08-24"
     },
     {
       "mandatory": true,
-      "state": "PASSED_OR_ENDED; requirement and attendance evidence still control eligibility",
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
       "type": "ENQUIRIES",
       "value": "2026-09-07"
     }
   ],
   "eligibility": "Timely bases purchase and latest participant amendments require evidence.",
-  "evidence_date": "2026-09-07",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-008",
   "integrator_commercial": {
@@ -56,7 +56,7 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-07",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "UNKNOWN",
   "missing_partner_roles": [
     "Bases-holder",
@@ -105,10 +105,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "Source recheck only; no amendment established.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Official notice/listing rechecked; no further amendment established.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -161,8 +160,19 @@
       "source_urls": [
         "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Official notice/listing rechecked; no further amendment established.",
+      "stage": "OPEN_TENDER_GATED",
+      "deadline": "2026-12-16T16:00:00-03:00",
+      "source_urls": [
+        "https://www.engie.cl/wp-content/uploads/2026/07/01_26_276_OA_BAG-Bases-Administrativas-Generales-Rev.0.pdf"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "recheck_failure": "14 September retrieval did not refresh full official notice. Prior evidence retained, not relabelled fresh."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }

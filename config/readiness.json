@@ -2,7 +2,7 @@
   {
     "blocking_live_execution": false,
     "component": "GitHub SSOT",
-    "evidence": "14 September connector tree, commit and fast-forward main update succeeded; tender and run files read back.",
+    "evidence": "14 September writes verified. Current W39 publication/readback outcome is recorded separately in its run JSON.",
     "id": "repo",
     "next_action": "Preserve concurrent Actions records; continue fast-forward updates.",
     "owner": "agent",
@@ -12,7 +12,7 @@
   {
     "blocking_live_execution": true,
     "component": "Fresh tender collection",
-    "evidence": "Fresh 7 and 14 September search-based research; 23 dossiers, 27 source groups with explicit attempt outcomes. Official live notices and country/sector gaps remain.",
+    "evidence": "21 September fresh search:31 dossiers,26/27 source groups attempted,14 accessible. Source/eligibility gaps explicit.",
     "id": "research",
     "next_action": "Resume explicit source and eligibility queue; never treat failed retrieval as zero.",
     "owner": "research agent",
@@ -22,7 +22,7 @@
   {
     "blocking_live_execution": false,
     "component": "Weekly GitHub execution",
-    "evidence": "Actual 8 September scheduled cached replay and14September push-triggered replay succeeded. No fresh research performed by that GitHub workflow.",
+    "evidence": "Actual cached replay completed15 September01:00UTC. Repository workflow does not research fresh notices.",
     "id": "scheduler",
     "next_action": "Monitor actual Monday executions; keep replay distinct from fresh research.",
     "owner": "agent",
@@ -32,7 +32,7 @@
   {
     "blocking_live_execution": true,
     "component": "Clay enrichment",
-    "evidence": "Two saved task-context reads; zero paid submissions. Account-level cost/reservation enforcement unverified.",
+    "evidence": "W39:1 saved-task cache read;0 paid calls;299 DATA_CREDITS nominal allowance, live enforcement unverified.",
     "id": "clay",
     "next_action": "Keep COST_REVIEW_REQUIRED until live upper bounds and durable enforcement are verified.",
     "owner": "agent",
@@ -42,9 +42,9 @@
   {
     "blocking_live_execution": false,
     "component": "Attio mirror",
-    "evidence": "24 append-only project/contact notes across original and continuation checkpoints read back;13 contacts reused,23 dossiers, private history preserved.",
+    "evidence": "W39:28 notes and1 project-only description append read back;13 contacts reused; private history preserved.",
     "id": "attio",
-    "next_action": "Resume unresolved role and eligibility queue; next project review21September.",
+    "next_action": "Review unresolved associations and gates on28 September; preserve private relationship state.",
     "owner": "agent",
     "priority": "P1",
     "state": "READBACK_VERIFIED"

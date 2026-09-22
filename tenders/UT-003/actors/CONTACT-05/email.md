@@ -1,6 +1,10 @@
-# UT-003 / CONTACT-05: email draft
+# UT-003 / CONTACT-05 - email draft
 
-HOLD — not sent or enrolled. Not scheduled. Revalidate tender gates and stop on reply or opt-out.
+State: HOLD - no sending or enrollment authorized.
+
+Gate review: 2026-09-21. For an evidenced prior attendee: acknowledge Addendum3, review amended pack/Q&A and reconcile relative request cutoffs. Non-attending prime remains excluded; supplier/subcontract roles need explicit permission.
+
+Four followups are drafts, not a schedule. Any reply pauses outreach; opt-out suppresses all channels. Introduction consent is required from both parties.
 
 ## Subject
 
@@ -12,13 +16,13 @@ Hi Willem,
 
 The DBSA/WPO NRW contractor panel suggests a potential specialist pairing: WRP’s baseline and performance-measurement expertise with Ovarro’s leakage diagnostics. Your technical leadership looks relevant to testing that idea.
 
-The compulsory briefing has passed. Any participation would first need an eligible contractor and a permitted subcontract route; neither firm is assumed to qualify as prime.
+Addendum3 extends closing to23 October23:55 SAST, but the compulsory14 August briefing has passed. Revised request cutoffs need review. Any participation would first need an eligible contractor and a permitted subcontract route; neither firm is assumed to qualify as prime.
 
 Would you be open to a 20-minute technical scoping discussion? If there is a fit, I’d ask both sides before arranging an introduction with Tony Gwynne. Neither side has committed.
 
 If this is outside your remit, a referral would help. If you would prefer no further emails, please let me know.
 
-## Follow-up 1
+## Followup 1
 
 Hi Willem,
 
@@ -26,7 +30,7 @@ Following up on DBSA/WPO NRW panel RFR001.2026. The first question is whether Ov
 
 Is that a useful scope to explore, or should I speak with another owner?
 
-## Follow-up 2
+## Followup 2
 
 Hi Willem,
 
@@ -34,7 +38,7 @@ A practical agenda for the proposed Ovarro discussion would be: DMA baseline; lo
 
 Which interface or qualification would you want to resolve first?
 
-## Follow-up 3
+## Followup 3
 
 Hi Willem,
 
@@ -42,7 +46,7 @@ For DBSA/WPO NRW panel RFR001.2026, I would keep the commercial discussion tied 
 
 Would you be comfortable assessing a possible introduction with Tony Gwynne at Ovarro, once the access and scope questions are resolved?
 
-## Follow-up 4
+## Followup 4
 
 Hi Willem,
 

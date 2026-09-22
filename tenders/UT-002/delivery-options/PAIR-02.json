@@ -20,7 +20,21 @@
   "agenda": "meter size/approval matrix; endpoint compatibility; network coverage; billing export; warranty; phased acceptance",
   "software": "AMI/AMR configuration and meter-data integration; select supported communications and analytics stack before pricing",
   "hardware": "Badger E-Series ultrasonic meters as candidate; exact sizes, approvals, reading interface and coverage to prove",
-  "gates": "Metercor states Badger distribution; no OEM-side listing found. Confirm territory/product authorization, >=5 years and >=20,000 active-meter experience, three references and latest addenda. Town installs most meters. Timothy territory/product remit requires referral.",
+  "gates": "Assess eligible existing proposal route; enquiry window has ended.",
   "delivery_route": "CONSORTIUM",
-  "commitment": "UNCONFIRMED"
+  "commitment": "UNCONFIRMED",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "ENQUIRIES",
+      "value": "2026-09-10"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "next_action": "Assess eligible existing proposal route; enquiry window has ended.",
+  "latest_requirement_sources": [
+    "https://www.amherst.ca/documents/tenders/6821-rfp-26-09-water-metering-upgrades.html"
+  ]
 }

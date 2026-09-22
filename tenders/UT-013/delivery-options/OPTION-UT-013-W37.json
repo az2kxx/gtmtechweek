@@ -22,12 +22,32 @@
   ],
   "willingness": "UNKNOWN",
   "introduction_consent": "NOT_OBTAINED",
-  "next_action": "Immediate gate review before 8 September 10:00 SAST; no buyer contact or registration performed.",
+  "next_action": "Remove from active new-bid shortlist; retain for official outcome/extension check.",
   "roles_are_inferred": true,
   "evidence_date": "2026-09-07",
   "company_ids": [],
   "roles": [],
   "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
   "pitch": "Prime: multidisciplinary municipal advisory; Integrator: workstream and evidence coordination; SME: electrical-loss/GIS/civil/environmental specialist",
-  "gates": "Eligible municipal planning lead; Prior-award exclusion screen"
+  "gates": "Remove from active new-bid shortlist; retain for official outcome/extension check.",
+  "current_gate_review": [
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "COMPULSORY_BRIEFING",
+      "value": "2026-09-08T10:00:00+02:00"
+    },
+    {
+      "mandatory": true,
+      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "type": "SUBMISSION_LINK_REQUEST",
+      "value": "2026-09-15T16:00:00+02:00"
+    }
+  ],
+  "gate_review_date": "2026-09-21",
+  "next_review": "2026-09-28",
+  "latest_requirement_sources": [
+    "https://www.dbsa.org/procurement",
+    "https://www.dbsa.org/sites/default/files/media/documents/2026-08/RFP145.2026%20Document%20Enoch%20Mgijima%20and%20Blue%20Crane%20Route%20LMs%20IWMP%20RSWMP%20EMP%20and%20MPNRE.pdf"
+  ]
 }

@@ -32,7 +32,7 @@
     }
   ],
   "eligibility": "Open buyer listing; commercial/classification and earlier gates not verified.",
-  "evidence_date": "2026-09-14",
+  "evidence_date": "2026-09-21",
   "evidence_grade": "Official notice/pack or buyer portal; eligibility still subject to review",
   "id": "UT-020",
   "integrator_commercial": {
@@ -47,7 +47,7 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-14",
+  "last_rechecked_at": "2026-09-21",
   "lead_contractor_candidate": "UNKNOWN",
   "missing_partner_roles": [
     "Full pack",
@@ -97,10 +97,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W37",
-    "checkpoint_week": "2026-W38",
-    "comparison_basis": "Actual locally prepared / Attio-persisted 7 September dossier",
-    "finding": "BUYER_LISTING_CHANGE: 15 to 29 September close; formal amendment date and detailed gates unavailable.",
+    "run_key": "gtmtechweek-2026-W39",
+    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
+    "finding": "Official notice/listing rechecked; no further amendment established.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -150,8 +149,20 @@
         "https://www.ashghal.gov.qa/en/Tenders/Pages/ERPTenderDetailes.aspx?Status=Open&TenderID=691707",
         "https://www.ashghal.gov.qa/en/Tenders/pages/erptenders.aspx"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W39",
+      "attempt_date": "2026-09-21",
+      "verified_date": "2026-09-21",
+      "change": "Official notice/listing rechecked; no further amendment established.",
+      "stage": "OPEN_TENDER",
+      "deadline": "2026-09-29",
+      "source_urls": [
+        "https://www.ashghal.gov.qa/en/Tenders/Pages/ERPTenderDetailes.aspx?Status=Open&TenderID=691707",
+        "https://www.ashghal.gov.qa/en/Tenders/pages/erptenders.aspx"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-14",
-  "verification_scope": "Notice/listing and gate recheck; detailed scope/terms retain 7 September evidence unless explicitly amended."
+  "last_recheck_attempt": "2026-09-21",
+  "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }
