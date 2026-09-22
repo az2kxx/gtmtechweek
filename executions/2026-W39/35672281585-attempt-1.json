@@ -1,0 +1,67 @@
+{
+  "id": "35672281585-attempt-1",
+  "week": "2026-W39",
+  "started_at": "2026-09-22T00:31:05.738155+00:00",
+  "kind": "REPOSITORY_POC_REPLAY",
+  "trigger": "github_actions",
+  "status": "COMPLETED",
+  "dataset_as_of": "2026-09-21",
+  "evidence_dates_mixed": true,
+  "clay_data_credits": 0,
+  "clay_basis": "No Clay calls in this local replay",
+  "distribution_calls": 0,
+  "stages": [
+    {
+      "name": "Tender inputs",
+      "state": "CACHED",
+      "detail": "31 research snapshots; no new scraping in this run"
+    },
+    {
+      "name": "Partner mapping",
+      "state": "VALIDATED",
+      "detail": "12 companies / 13 actors; existing hypotheses"
+    },
+    {
+      "name": "Enrichment",
+      "state": "SKIPPED",
+      "detail": "Cached professional profiles; no billable requests"
+    },
+    {
+      "name": "Outreach drafts",
+      "state": "VALIDATED",
+      "detail": "19 actor/tender packets; email and LinkedIn plus four followups"
+    },
+    {
+      "name": "Blog content",
+      "state": "DRAFT_ONLY",
+      "detail": "Technology/use-case editorial draft, not published"
+    },
+    {
+      "name": "Attio mirror",
+      "state": "PRESERVED",
+      "detail": "Integration retained; no CRM write in replay"
+    },
+    {
+      "name": "Distribution",
+      "state": "DISABLED",
+      "detail": "PoC only; HeyReach trial expired"
+    },
+    {
+      "name": "Repository projection",
+      "state": "COMPLETED",
+      "detail": "Generated dashboard data from canonical dossiers"
+    }
+  ],
+  "source_revision": "a706f002ebd52fc57ba90fc3c5441e8f1600a88e",
+  "actions_url": "https://github.com/az2kxx/gtmtechweek/actions/runs/35672281585",
+  "attempt": "1",
+  "counts": {
+    "tenders": 31,
+    "partners": 12,
+    "actors": 13,
+    "actor_tender_packets": 19,
+    "email_drafts": 95,
+    "linkedin_sequences": 19
+  },
+  "completed_at": "2026-09-22T00:31:06.100165+00:00"
+}
