@@ -2,6 +2,8 @@
 
 Status: PARTIAL. Compared with the actually published 14 September register; this is not a synthetic change report. Search window: 7-21 September, plus 23 existing notices rechecked. Eight entries added: seven tender listings and one market-engagement event. The register now contains 31 dossiers, 12 companies, 13 cached contacts and 19 HOLD actor/tender packets. Older publications newly discovered are labelled as such.
 
+Publication verified: [research commit](https://github.com/az2kxx/gtmtechweek/commit/a706f002ebd52fc57ba90fc3c5441e8f1600a88e) and five canonical/projection readbacks. Attio: 29 notes plus one project-only description append verified. [Push-triggered cached replay](https://github.com/az2kxx/gtmtechweek/actions/runs/35672281585) succeeded; this is not fresh scraping. The hosted fallback was not redeployed.
+
 ## Material changes and expired gates
 
 - **DBSA RFR001.2026:** Addendum 3 (17 September) moves closing from 30 September to **23 October, 23:55 SAST (UTC+2)**. Revised request wording supersedes the old 31 August date but conflicts between five and three working days before closing. Compulsory 14 August attendance remains a gate. Review the revised qualification wording, not just the extension. [Addendum 3](https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR001.2026-Addendum%20No%203.pdf).

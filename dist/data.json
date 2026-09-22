@@ -2,7 +2,7 @@
   "project": "gtmtechweek",
   "data_as_of": "2026-09-21",
   "evidence_dates_mixed": true,
-  "generated_at": "2026-09-22T00:31:06.117660+00:00",
+  "generated_at": "2026-09-22T00:34:06.624529+00:00",
   "dataset_digest": "9789e173d77da90aaf22eda4d17f3d42b19a70de2632d6996fbe309af521475f",
   "config": {
     "project": "gtmtechweek",
@@ -10450,7 +10450,8 @@
           "name": "Attio mirror",
           "state": "COMPLETED",
           "recorded_at": "2026-09-22T00:24:24Z",
-          "detail": "28 new notes and1 project-only description append read back; private history preserved."
+          "detail": "29 new notes and 1 project-only description append read back; 13 contacts reused; private history preserved.",
+          "completed_at": "2026-09-22T00:33:58Z"
         },
         {
           "name": "Clay",
@@ -10465,8 +10466,9 @@
         },
         {
           "name": "Repository publication",
-          "state": "PENDING",
-          "detail": "Prepared canonical files and regenerated projection; successful write/readback recorded only after execution."
+          "state": "COMPLETED",
+          "detail": "Research commit a706f002ebd52fc57ba90fc3c5441e8f1600a88e fast-forwarded and five canonical/projection files read back exactly. Concurrent cached replay commit preserved.",
+          "completed_at": "2026-09-22T00:31:16Z"
         },
         {
           "name": "Distribution",
@@ -10475,11 +10477,13 @@
         }
       ],
       "attio_writeback": {
-        "verified_notes": 28,
+        "verified_notes": 29,
         "verified_project_description_updates": 1,
         "failed_writes": 0,
         "readback_required": true,
-        "private_ids_in_public": false
+        "private_ids_in_public": false,
+        "total_verified_writes": 30,
+        "terminal_note_readback": true
       },
       "errors": [
         {
@@ -10910,7 +10914,7 @@
           "success_definition": "Accessible source material, not exhaustive coverage or supplier eligibility"
         }
       ],
-      "last_checkpoint_at": "2026-09-22T00:24:24Z",
+      "last_checkpoint_at": "2026-09-22T00:33:58Z",
       "dataset_as_of": "2026-09-21",
       "evidence_dates_mixed": true,
       "continuity": "Repeated same-week instruction received while processing; continued the same W39 state and credit ledger, no parallel run or allowance reset.",
@@ -10954,18 +10958,31 @@
       "last_successful_completion": {
         "fully_completed_fresh_research": "NOT_ESTABLISHED; source and eligibility stages remain PARTIAL",
         "repository_replay": {
-          "completed_at": "2026-09-15T01:00:10.486601+00:00",
-          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/34915467581",
-          "kind": "REPOSITORY_POC_REPLAY"
+          "completed_at": "2026-09-22T00:31:06.100165+00:00",
+          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/35672281585",
+          "kind": "REPOSITORY_POC_REPLAY",
+          "event": "push"
         }
       },
       "repo_writeback": {
-        "state": "PENDING",
+        "state": "PUBLISHED_READBACK_VERIFIED",
         "base_commit": "2fb4b266b32a7d11281d632ff2e5d49d4ec0ff51",
-        "force": false
+        "research_commit": "a706f002ebd52fc57ba90fc3c5441e8f1600a88e",
+        "research_commit_url": "https://github.com/az2kxx/gtmtechweek/commit/a706f002ebd52fc57ba90fc3c5441e8f1600a88e",
+        "readback_at": "2026-09-22T00:31:16Z",
+        "verified_paths": [
+          "tenders/UT-003/tender.json",
+          "tenders/UT-024/tender.json",
+          "tenders/UT-027/actors/CONTACT-08/outreach.json",
+          "executions/2026-W39/run.json",
+          "dist/data.json"
+        ],
+        "preserved_concurrent_replay_commit": "6101dc75866c1a288d09a98e8c3077072c0b906c",
+        "force": false,
+        "publication_metadata_note": "This record logs the verified research commit. Its own metadata commit SHA is not embedded recursively."
       },
       "dashboard_writeback": {
-        "state": "GITHUB_PROJECTION_PREPARED",
+        "state": "GITHUB_PROJECTION_PUBLISHED_READBACK_VERIFIED",
         "hosted_shell_redeployed": false,
         "hosted_fallback_redeployed": false,
         "note": "Existing shell reads GitHub main with labelled hosted fallback. Browser end-to-end refresh not retested this run."
@@ -11004,8 +11021,11 @@
         "tenders/UT-031",
         "content/blog/chemical-dosing-scope-and-acceptance.md",
         "content/adapters/2026-W39-drafts.json",
-        "qa/research-2026-W39.md"
-      ]
+        "qa/research-2026-W39.md",
+        "scripts/validate_dashboard.cjs",
+        "executions/2026-W39/35672281585-attempt-1.json"
+      ],
+      "completed_at": "2026-09-22T00:33:58Z"
     }
   ],
   "content": [
@@ -11032,7 +11052,7 @@
     {
       "blocking_live_execution": false,
       "component": "GitHub SSOT",
-      "evidence": "14 September writes verified. Current W39 publication/readback outcome is recorded separately in its run JSON.",
+      "evidence": "W39 research commit a706f002ebd52fc57ba90fc3c5441e8f1600a88e published by fast-forward and five source/projection files read back exactly on 22 September. Historical 5 September 403 is resolved.",
       "id": "repo",
       "next_action": "Preserve concurrent Actions records; continue fast-forward updates.",
       "owner": "agent",
@@ -11052,7 +11072,7 @@
     {
       "blocking_live_execution": false,
       "component": "Weekly GitHub execution",
-      "evidence": "Actual cached replay completed15 September01:00UTC. Repository workflow does not research fresh notices.",
+      "evidence": "Push-triggered cached replay 35672281585 succeeded on 22 September at 00:31 UTC. Last previously verified scheduled replay was 15 September. Neither is fresh research.",
       "id": "scheduler",
       "next_action": "Monitor actual Monday executions; keep replay distinct from fresh research.",
       "owner": "agent",
@@ -11072,7 +11092,7 @@
     {
       "blocking_live_execution": false,
       "component": "Attio mirror",
-      "evidence": "W39:28 notes and1 project-only description append read back;13 contacts reused; private history preserved.",
+      "evidence": "W39: 29 notes and 1 project-only description append read back; 13 contacts reused; private relationship history preserved.",
       "id": "attio",
       "next_action": "Review unresolved associations and gates on28 September; preserve private relationship state.",
       "owner": "agent",

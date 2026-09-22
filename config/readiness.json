@@ -2,7 +2,7 @@
   {
     "blocking_live_execution": false,
     "component": "GitHub SSOT",
-    "evidence": "14 September writes verified. Current W39 publication/readback outcome is recorded separately in its run JSON.",
+    "evidence": "W39 research commit a706f002ebd52fc57ba90fc3c5441e8f1600a88e published by fast-forward and five source/projection files read back exactly on 22 September. Historical 5 September 403 is resolved.",
     "id": "repo",
     "next_action": "Preserve concurrent Actions records; continue fast-forward updates.",
     "owner": "agent",
@@ -22,7 +22,7 @@
   {
     "blocking_live_execution": false,
     "component": "Weekly GitHub execution",
-    "evidence": "Actual cached replay completed15 September01:00UTC. Repository workflow does not research fresh notices.",
+    "evidence": "Push-triggered cached replay 35672281585 succeeded on 22 September at 00:31 UTC. Last previously verified scheduled replay was 15 September. Neither is fresh research.",
     "id": "scheduler",
     "next_action": "Monitor actual Monday executions; keep replay distinct from fresh research.",
     "owner": "agent",
@@ -42,7 +42,7 @@
   {
     "blocking_live_execution": false,
     "component": "Attio mirror",
-    "evidence": "W39:28 notes and1 project-only description append read back;13 contacts reused; private history preserved.",
+    "evidence": "W39: 29 notes and 1 project-only description append read back; 13 contacts reused; private relationship history preserved.",
     "id": "attio",
     "next_action": "Review unresolved associations and gates on28 September; preserve private relationship state.",
     "owner": "agent",
