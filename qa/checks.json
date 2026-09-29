@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-09-05T15:35:02.813312+00:00",
+  "checked_at": "2026-09-29T00:14:13.368309+00:00",
   "scope": "OFFLINE_POC_ACCEPTANCE",
   "passed": true,
   "provider_calls": 0,
@@ -9,13 +9,13 @@
       "name": "Public data and four-followup validation",
       "passed": true,
       "exit_code": 0,
-      "output": "{\"tenders\": 10, \"partners\": 12, \"actors\": 13, \"actor_tender_packets\": 17, \"email_drafts\": 85, \"linkedin_sequences\": 17}"
+      "output": "{\"tenders\": 41, \"partners\": 12, \"actors\": 13, \"actor_tender_packets\": 21, \"email_drafts\": 105, \"linkedin_sequences\": 21}"
     },
     {
       "name": "Six budget, concurrency, resume and channel guard tests",
       "passed": true,
       "exit_code": 0,
-      "output": "......\n----------------------------------------------------------------------\nRan 6 tests in 0.012s\n\nOK"
+      "output": "......\n----------------------------------------------------------------------\nRan 6 tests in 0.006s\n\nOK"
     },
     {
       "name": "Dashboard JavaScript syntax",
@@ -27,7 +27,7 @@
       "name": "Actual local replay and projection",
       "passed": true,
       "exit_code": 0,
-      "output": "{\"run_id\": \"local-20260905T153502492805Z\", \"week\": \"2026-W36\", \"status\": \"COMPLETED\"}"
+      "output": "{\"run_id\": \"local-20260929T001412859161Z\", \"week\": \"2026-W40\", \"status\": \"COMPLETED\"}"
     },
     {
       "name": "All seven views and empty-week diagnostics",

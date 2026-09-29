@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-038-W40",
+  "tender_id": "UT-038",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Lot 1 E2E: device supply, fulfilment/logistics and customer platform",
+      "Lot 2 E2E: approved flow-regulator manufacturer/distributor with fulfilment",
+      "Integrator: device-platform-data-logistics responsibility and assurance matrix"
+    ],
+    "unverified_gaps": [
+      "Live CoPQ/ITN stage and pack access",
+      "UK product approvals and resilient supply chain",
+      "Customer-data/platform security and integrations"
+    ]
+  },
+  "interfaces": [
+    "Lot 1 E2E: device supply, fulfilment/logistics and customer platform",
+    "Lot 2 E2E: approved flow-regulator manufacturer/distributor with fulfilment",
+    "Integrator: device-platform-data-logistics responsibility and assurance matrix"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Lot 1 E2E: device supply, fulfilment/logistics and customer platform; Lot 2 E2E: approved flow-regulator manufacturer/distributor with fulfilment; Integrator: device-platform-data-logistics responsibility and assurance matrix",
+  "gates": "Live CoPQ/ITN stage and pack access; UK product approvals and resilient supply chain; Customer-data/platform security and integrations"
+}

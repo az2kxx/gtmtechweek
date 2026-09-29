@@ -1,0 +1,153 @@
+{
+  "schema_version": 2,
+  "id": "UT-037",
+  "title": "Monthly preventive maintenance of potable-water and sewage pump rooms at six housing complexes",
+  "buyer": "Carabineros de Chile - Dirección de Bienestar",
+  "country": "Chile",
+  "region": "South America",
+  "official_reference": "539119-91-LE26",
+  "stage": "OPEN_TENDER_ELIGIBILITY_BLOCKED_FOR_NEW_PRIME",
+  "status": "OPEN; MANDATORY VISIT PARTLY ELAPSED",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-09-22T17:23:23-03:00",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-09",
+  "bid_deadline": {
+    "value": "2026-10-09T12:00:00-03:00",
+    "precision": "MINUTE",
+    "timezone": "America/Santiago; UTC-3 inferred for 2026-09-28",
+    "conflict": null
+  },
+  "deadline_caveat": "Official Mercado Público page; timezone inferred from buyer location.",
+  "earlier_gates": [
+    {
+      "type": "MANDATORY_MULTI_SITE_VISIT_DAY_1",
+      "value": "2026-09-28 (10:00 and 15:00 local)",
+      "mandatory": true,
+      "state": "ELAPSED; fresh prime is blocked absent evidence of attendance"
+    },
+    {
+      "type": "MANDATORY_MULTI_SITE_VISIT_DAY_2",
+      "value": "2026-09-29 (10:00 and 12:00 local)",
+      "mandatory": true,
+      "state": "UPCOMING, but Day 1 was also mandatory"
+    },
+    {
+      "type": "ENQUIRY_CUTOFF",
+      "value": "2026-09-30T12:00:00-03:00",
+      "mandatory": false,
+      "state": "UPCOMING"
+    }
+  ],
+  "source_url": "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=jVZpJTYrHi+xEU07PSBBQA%3D%3D",
+  "source_urls": [
+    "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=jVZpJTYrHi+xEU07PSBBQA%3D%3D"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official buyer record verified status, dates, two-day mandatory six-site visit, budget, term, payment, evaluation and supplier-register requirements.",
+  "scope_quantities_delivery": "Monthly preventive maintenance of potable-water and sewage pump rooms at six Santiago-region housing complexes for 24 months; one service line. Detailed asset quantities are in attachments and remain UNKNOWN.",
+  "technology": {
+    "Software evidence": "No software requirement established; maintenance records/control-panel interfaces UNKNOWN.",
+    "Hardware evidence": "Existing potable-water and sewage pumps/pump rooms are the maintained estate; replacement parts and control hardware quantities UNKNOWN.",
+    "Participation caveat": "Active Chile supplier register, electronic declaration and attendance at all six sites over both mandatory days. A fresh prime that missed Day 1 is excluded unless it has independent attendance evidence. Subcontracting prohibited except prior written approval."
+  },
+  "value": {
+    "amount": 40000000,
+    "currency": "CLP",
+    "basis": "Available budget on official record; tax treatment UNKNOWN",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Active Chile supplier register, electronic declaration and attendance at all six sites over both mandatory days. A fresh prime that missed Day 1 is excluded unless it has independent attendance evidence. Subcontracting prohibited except prior written approval.",
+  "procurement_transaction_type": "Open public tender, one stage, 100-1,000 UTM category",
+  "payment_security": "30 days after accepted invoice by electronic transfer; no guarantee information shown",
+  "proposed_work_packages": [
+    {
+      "description": "Existing eligible prime: Chilean pump-maintenance contractor with Day 1 attendance",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: six-site asset/maintenance and reporting matrix",
+      "inferred": true
+    },
+    {
+      "description": "SME: pump/control specialist only with prior written subcontract approval",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Evidence of both mandatory visit days",
+    "Detailed six-site asset list",
+    "Local registered contracting entity"
+  ],
+  "missing_partner_roles": [
+    "Evidence of both mandatory visit days",
+    "Detailed six-site asset list",
+    "Local registered contracting entity"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Existing eligible prime: Chilean pump-maintenance contractor with Day 1 attendance",
+      "Integrator: six-site asset/maintenance and reporting matrix",
+      "SME: pump/control specialist only with prior written subcontract approval"
+    ],
+    "unverified_gaps": [
+      "Evidence of both mandatory visit days",
+      "Detailed six-site asset list",
+      "Local registered contracting entity"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-037-W40"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Exclude a new prime unless Day 1 attendance can be evidenced; an already attending bidder may use the 30 September enquiry window.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "ELIGIBILITY_BLOCKED_FOR_FRESH_PRIME",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.mercadopublico.cl/Procurement/Modules/RFB/DetailsAcquisition.aspx?qs=jVZpJTYrHi+xEU07PSBBQA%3D%3D"
+      ]
+    }
+  ],
+  "evidence_grade": "Official buyer record verified status, dates, two-day mandatory six-site visit, budget, term, payment, evaluation and supplier-register requirements."
+}

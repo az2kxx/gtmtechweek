@@ -1,0 +1,48 @@
+{
+  "id": "OPTION-UT-039-W40",
+  "tender_id": "UT-039",
+  "delivery_route": "CONSORTIUM",
+  "stage": "OUTREACH_DRAFTED",
+  "actor_ids": [
+    "CONTACT-11"
+  ],
+  "lead_candidate": "UNKNOWN; Ingesat is only a regional specialist hypothesis",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: 500 kV EPC contractor meeting UTE qualification",
+      "Integrator: line, substation, protection/control and local interfaces",
+      "SME: substation/protection engineering or field testing if allowed"
+    ],
+    "unverified_gaps": [
+      "Qualified 500 kV prime and UTE pack",
+      "Local civil/permitting interface",
+      "Protection/control, security and commercial terms"
+    ]
+  },
+  "interfaces": [
+    "E2E prime: 500 kV EPC contractor meeting UTE qualification",
+    "Integrator: line, substation, protection/control and local interfaces",
+    "SME: substation/protection engineering or field testing if allowed"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [
+    "ingesat-simm"
+  ],
+  "roles": [
+    {
+      "actor_id": "CONTACT-11",
+      "company_id": "ingesat-simm",
+      "role": "500 kV substation/protection specialist or prime referral",
+      "confidence": "PARTIAL_ONLY"
+    }
+  ],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "E2E prime: 500 kV EPC contractor meeting UTE qualification; Integrator: line, substation, protection/control and local interfaces; SME: substation/protection engineering or field testing if allowed",
+  "gates": "Qualified 500 kV prime and UTE pack; Local civil/permitting interface; Protection/control, security and commercial terms"
+}

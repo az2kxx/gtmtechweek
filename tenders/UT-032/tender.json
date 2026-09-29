@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "id": "UT-032",
+  "title": "Transaction advisory for NRW performance-based contracts in four municipalities",
+  "buyer": "DBSA / Mogale City, Lesedi, Merafong City and Rand West City local municipalities",
+  "country": "South Africa",
+  "region": "Africa",
+  "official_reference": "RFP178/2026",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-09-25",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-11-20",
+  "bid_deadline": {
+    "value": "2026-11-20T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "Africa/Johannesburg; SAST UTC+2",
+    "conflict": null
+  },
+  "deadline_caveat": "Official DBSA listing; SAST inferred from buyer location.",
+  "earlier_gates": [
+    {
+      "type": "COMPULSORY_ONLINE_BRIEFING",
+      "value": "2026-10-09T10:00:00+02:00",
+      "mandatory": true,
+      "state": "UPCOMING"
+    },
+    {
+      "type": "ENQUIRY_OR_LINK_REQUEST",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "PACK_REVIEW"
+    }
+  ],
+  "source_url": "https://www.dbsa.org/procurement",
+  "source_urls": [
+    "https://www.dbsa.org/procurement"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official buyer listing verifies title, publication, compulsory briefing and close; full tender volume not parsed.",
+  "scope_quantities_delivery": "Bankable feasibility studies, cost-benefit analysis, financial modelling, project preparation and procurement documents for NRW PBC projects in four municipalities. Quantities, delivery period and municipality-level budgets UNKNOWN.",
+  "technology": {
+    "Software evidence": "Hydraulic/financial modelling and project-preparation tools are likely work inputs, but no named software or replacement requirement is verified.",
+    "Hardware evidence": "No equipment supply is established at this advisory stage; later PBC packages may define metering/control hardware.",
+    "Participation caveat": "Compulsory 9 October briefing; professional, financial and transaction-advisory thresholds UNKNOWN pending pack."
+  },
+  "value": {
+    "amount": null,
+    "currency": "ZAR",
+    "basis": "UNKNOWN; no accessible tender budget",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Compulsory 9 October briefing; professional, financial and transaction-advisory thresholds UNKNOWN pending pack.",
+  "procurement_transaction_type": "Professional services / transaction advisory RFP",
+  "payment_security": "UNKNOWN",
+  "proposed_work_packages": [
+    {
+      "description": "Prime: transaction-advisory lead covering financial/legal/procurement work",
+      "inferred": true
+    },
+    {
+      "description": "Technical NRW lead: feasibility, water balance, modelling and PBC performance design",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: municipal data-room, workstream and deliverable interfaces",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Financial/legal transaction-advisory lead",
+    "Pack eligibility and briefing attendance",
+    "Municipality data and programme"
+  ],
+  "missing_partner_roles": [
+    "Financial/legal transaction-advisory lead",
+    "Pack eligibility and briefing attendance",
+    "Municipality data and programme"
+  ],
+  "delivery_route": "CONSORTIUM",
+  "lead_contractor_candidate": "UNKNOWN; WRP is a technical-role hypothesis, not a confirmed prime",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: transaction-advisory lead covering financial/legal/procurement work",
+      "Technical NRW lead: feasibility, water balance, modelling and PBC performance design",
+      "Integrator: municipal data-room, workstream and deliverable interfaces"
+    ],
+    "unverified_gaps": [
+      "Financial/legal transaction-advisory lead",
+      "Pack eligibility and briefing attendance",
+      "Municipality data and programme"
+    ]
+  },
+  "actor_ids": [
+    "CONTACT-05"
+  ],
+  "pair_ids": [
+    "OPTION-UT-032-W40"
+  ],
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Confirm pack eligibility and briefing registration path before 9 October; ask WRP only for technical-scope/referral review, not commitment.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "REFERRAL_OR_PARTIAL_ONLY"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.dbsa.org/procurement"
+      ]
+    }
+  ],
+  "evidence_grade": "Official buyer listing verifies title, publication, compulsory briefing and close; full tender volume not parsed."
+}

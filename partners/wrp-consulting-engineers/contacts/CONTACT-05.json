@@ -10,12 +10,13 @@
   "dialogue_state": "NOT_CONTACTED",
   "willingness": "UNKNOWN",
   "pair_ids": [
-    "PAIR-03"
+    "PAIR-03",
+    "OPTION-UT-032-W40"
   ],
-  "next_review": "2026-09-28",
+  "next_review": "2026-10-05",
   "cache_review": {
     "identity_role_email_evidence_date": "2026-09-04",
-    "read_from_existing_CRM": "2026-09-21",
+    "read_from_existing_CRM": "2026-09-28",
     "new_enrichment": false,
     "role_email_review_days": 30,
     "capability_review_days": 90,
@@ -45,6 +46,20 @@
       "latest_gate_review": {
         "date": "2026-09-21",
         "next_action": "Check attendance evidence and Addendum1 compliance before dialogue. WRP technical capability remains a hypothesis; no financial/legal transaction lead confirmed."
+      }
+    },
+    {
+      "tender_id": "UT-032",
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "HOLD",
+      "eligibility": "REVIEW_REQUIRED",
+      "willingness": "UNKNOWN",
+      "match_status": "NO_PAIR_FOUND",
+      "reason": "MISSING_COMPLEMENTARY_COMPANY",
+      "next_review": "2026-10-05",
+      "latest_gate_review": {
+        "date": "2026-09-28",
+        "next_action": "Confirm 9 October briefing and pack; WRP is a technical NRW hypothesis, with financial/legal lead still missing."
       }
     }
   ]

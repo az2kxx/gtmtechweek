@@ -1,4 +1,22 @@
-# Current handover - 21 September 2026
+# Current handover - 28 September 2026
+
+Read `research/2026-W40/digest.md`, `source-coverage.json`, `role-matching.json` and `executions/2026-W40/run.json` first. Current register: 41 dossiers, 12 companies, 13 cached contacts, 21 HOLD actor/tender packets and four blog drafts. Ten dossiers were added. No new people, paid enrichment or outreach occurred.
+
+Logical run `gtmtechweek-2026-W40` is a fresh search-based pass after the published W39 execution. It uses one ledger: 0 spent, 0 reserved and 299 nominal remaining DATA_CREDITS. Live provider cost enforcement and the account's monthly total remain unknown, so Clay stayed `COST_REVIEW_REQUIRED_CACHE_ONLY`; one saved task-context was read and no billable operation submitted.
+
+Material additions are DBSA NRW advisory and KZN defect works, three Singapore PUB procurements, Chile pump-room maintenance, United Utilities PRO005128, two UTE procurements and a New Zealand three-waters OT communications NOI. Distinguish the NOI, public-opening dates and framework ceilings from bid eligibility or expected earnings. The Chile mandatory Day 1 visits passed; a future close does not cure that gate. United Utilities' buyer-portal stage conflicts with the full notice and needs resolution.
+
+All 13 contacts were independently reviewed in Attio from cache without replacing email, reply, suppression, consent or campaign state. CONTACT-05 adds a referral/partial-scope UT-032 association; CONTACT-11 adds a referral/partial-scope UT-039 association. Both remain `NO_PAIR_FOUND / MISSING_COMPLEMENTARY_COMPANY`, HOLD, willingness unknown. Ten new tender notes and one material-rechecks note were also written and read back. Exact counts and repository publication outcome are in the current run JSON.
+
+Checks passed: public data/followups, six guard tests, JavaScript syntax, seven dashboard views, all 41 tender dialogs, future-week handling and failure retention. A first direct unit-test command used the wrong import path and failed; the documented discovery command then ran all six tests successfully. This recovered local diagnostic is retained in the execution record.
+
+Highest-priority gates are DBSA RFP092 briefing on 29 September 10:00 SAST, PGCL close on 29 September 12:00 Dhaka for already document-ready/eligible bidders, DBSA RFP162 briefing on 1 October 10:00 SAST, Singapore PUB000ETT26000109 close on 1 October 16:00 SGT, and DBSA RFP178 briefing on 9 October 10:00 SAST. Recheck the actual packs before action. No distribution, registration, document purchase, bid, mandate or revenue is claimed.
+
+The section below is the 21 September handover and remains historical context.
+
+---
+
+# Previous handover - 21 September 2026
 
 Read research/2026-W39/digest.md, source-coverage.json, role-matching.json and executions/2026-W39/run.json first. Current register:31 dossiers,12 companies,13 cached contacts,19 HOLD actor/tender packets and3 blog drafts. Eight entries were added, including one ADB market-engagement event (not a tender). No new people, paid enrichment or outreach.
 

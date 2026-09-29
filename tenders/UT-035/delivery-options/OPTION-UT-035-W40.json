@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-035-W40",
+  "tender_id": "UT-035",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: Singapore-qualified major sewer works contractor",
+      "Integrator: design, temporary works, utility and commissioning interfaces",
+      "SME: trenchless, pipe/manhole, survey or digital handover packages if allowed"
+    ],
+    "unverified_gaps": [
+      "Singapore-qualified CW02 A2 prime",
+      "Gated drawings and quantities",
+      "Utility/traffic/interface constraints"
+    ]
+  },
+  "interfaces": [
+    "E2E prime: Singapore-qualified major sewer works contractor",
+    "Integrator: design, temporary works, utility and commissioning interfaces",
+    "SME: trenchless, pipe/manhole, survey or digital handover packages if allowed"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "E2E prime: Singapore-qualified major sewer works contractor; Integrator: design, temporary works, utility and commissioning interfaces; SME: trenchless, pipe/manhole, survey or digital handover packages if allowed",
+  "gates": "Singapore-qualified CW02 A2 prime; Gated drawings and quantities; Utility/traffic/interface constraints"
+}

@@ -47,7 +47,7 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-21",
+  "last_rechecked_at": "2026-09-28",
   "lead_contractor_candidate": "UNKNOWN",
   "lots": [
     {
@@ -141,9 +141,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W39",
-    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
-    "finding": "Official notice/listing rechecked; no further amendment established.",
+    "run_key": "gtmtechweek-2026-W40",
+    "comparison_basis": "Published 21 September register and official-source recheck",
+    "finding": "Recorded 28 September 12:00 Dhaka deadline elapsed; no award, extension or cancellation verified.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -152,9 +152,9 @@
   "source_urls": [
     "https://www.bppa.gov.bd/advertisement-goods/details-98319.html"
   ],
-  "stage": "OPEN_TENDER",
+  "stage": "DEADLINE_ELAPSED_UNVERIFIED_OUTCOME",
   "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
-  "status": "OPEN TENDER",
+  "status": "DEADLINE ELAPSED; OUTCOME UNKNOWN",
   "technology": {
     "Hardware evidence": "Distribution transformers 5–50kVA; 10/14MVA three-phase power transformers with vacuum OLTC. Quantities UNKNOWN.",
     "Participation caveat": "Only Bangladeshi tenderers. Non-Bangladeshi direct prime EXCLUDED; indirect OEM role subject to pack.",
@@ -202,8 +202,16 @@
       "source_urls": [
         "https://www.bppa.gov.bd/advertisement-goods/details-98319.html"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "Recorded 28 September 12:00 Dhaka deadline elapsed; no award, extension or cancellation verified.",
+      "source_urls": [
+        "https://www.bppa.gov.bd/advertisement-goods/details-98319.html"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-21",
+  "last_recheck_attempt": "2026-09-28",
   "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }

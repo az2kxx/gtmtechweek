@@ -116,13 +116,13 @@
   "next_action": "Attendance gate first; qualified prior attendee to review imminent enquiry cutoff and full transaction track record.",
   "evidence_grade": "Official buyer notice and PDF; full qualification pending",
   "research_change": {
-    "run_key": "gtmtechweek-2026-W39",
-    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
-    "finding": "Compulsory18 September briefing passed; enquiries22 September16:30 SAST. Link request rule separately three working days before submission.",
+    "run_key": "gtmtechweek-2026-W40",
+    "comparison_basis": "Published 21 September register and official-source recheck",
+    "finding": "Compulsory briefing and enquiry/link-request gates elapsed; 30 September close alone does not restore eligibility.",
     "notice_amendment_claimed": false
   },
-  "last_recheck_attempt": "2026-09-21",
-  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
   "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise.",
   "version_history": [
     {
@@ -132,6 +132,15 @@
       "change": "Compulsory18 September briefing passed; enquiries22 September16:30 SAST. Link request rule separately three working days before submission.",
       "stage": "OPEN_TENDER",
       "deadline": "2026-09-30T23:55:00+02:00",
+      "source_urls": [
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP166.2026.pdf",
+        "https://www.dbsa.org/procurement"
+      ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "Compulsory briefing and enquiry/link-request gates elapsed; 30 September close alone does not restore eligibility.",
       "source_urls": [
         "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFP166.2026.pdf",
         "https://www.dbsa.org/procurement"

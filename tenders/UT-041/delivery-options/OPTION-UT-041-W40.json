@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-041-W40",
+  "tender_id": "UT-041",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Future E2E candidate: OT communications design, supply and support",
+      "Integrator: water/SCADA/network/cybersecurity responsibility architecture",
+      "SME: radios, routers, telemetry or security only after scope publication"
+    ],
+    "unverified_gaps": [
+      "Detailed NOI and existing estate",
+      "Future procurement route/timing",
+      "New Zealand delivery and security requirements"
+    ]
+  },
+  "interfaces": [
+    "Future E2E candidate: OT communications design, supply and support",
+    "Integrator: water/SCADA/network/cybersecurity responsibility architecture",
+    "SME: radios, routers, telemetry or security only after scope publication"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Future E2E candidate: OT communications design, supply and support; Integrator: water/SCADA/network/cybersecurity responsibility architecture; SME: radios, routers, telemetry or security only after scope publication",
+  "gates": "Detailed NOI and existing estate; Future procurement route/timing; New Zealand delivery and security requirements"
+}

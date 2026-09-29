@@ -36,7 +36,7 @@
   "official_reference": "RFR/LA/IPPO-002/2026",
   "stage": "PREQUALIFICATION_PANEL",
   "published": "2026-09-03",
-  "deadline": "2026-09-29",
+  "deadline": "2026-10-05",
   "eligibility": "Compulsory briefing, CSD/tax and returnable documents; minimum 70% functional score. Professional legal eligibility and conflicts need full review.",
   "source_url": "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR%20LA%20IPPO-002%202026%20-%20Panel%20of%20Legal%20Advisors%20for%20the%20IPP%20Office.pdf",
   "source_urls": [
@@ -46,10 +46,10 @@
   "status": "PREQUALIFICATION PANEL",
   "published_amended": {
     "published": "2026-09-03",
-    "amended": "UNKNOWN"
+    "amended": "Addendum 01 listed on official DBSA procurement page; exact addendum date UNKNOWN"
   },
   "bid_deadline": {
-    "value": "2026-09-29T23:55:00+02:00",
+    "value": "2026-10-05T23:55:00+02:00",
     "precision": "MINUTE",
     "timezone": "Africa/Johannesburg, UTC+2; buyer time",
     "conflict": null
@@ -59,13 +59,13 @@
     {
       "type": "COMPULSORY_BRIEFING",
       "value": "2026-09-15T09:00:00+02:00",
-      "state": "PASSED; verify compliance where mandatory. An enquiry cutoff alone is not automatic bid exclusion.",
+      "state": "ELAPSED; eligibility requires evidence of timely compliance",
       "mandatory": true
     },
     {
       "type": "SUBMISSION_LINK_REQUEST",
       "value": "2026-09-23T16:30:00+02:00",
-      "state": "UPCOMING",
+      "state": "ELAPSED; eligibility requires evidence of timely compliance",
       "mandatory": true
     }
   ],
@@ -104,16 +104,16 @@
     "Qualified law-firm lead",
     "IPP experience and conflict screen"
   ],
-  "next_action": "Exclude non-attending new prime; review only documented eligible route and full technical pack.",
+  "next_action": "Only evidenced briefing-compliant participants should review Addendum 01 and the extended close.",
   "evidence_grade": "Official buyer notice and PDF; full qualification pending",
   "research_change": {
-    "run_key": "gtmtechweek-2026-W39",
-    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
-    "finding": "Compulsory briefing dates elapsed; closing remains future. No evidence of attendance or reopened eligibility.",
-    "notice_amendment_claimed": false
+    "run_key": "gtmtechweek-2026-W40",
+    "comparison_basis": "Published 21 September register and official-source recheck",
+    "finding": "AMENDMENT: official DBSA list now records Addendum 01 and extends closing to 5 October 23:55 SAST; compulsory 15 September briefing remains passed.",
+    "notice_amendment_claimed": true
   },
-  "last_recheck_attempt": "2026-09-21",
-  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
   "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise.",
   "version_history": [
     {
@@ -123,6 +123,15 @@
       "change": "Compulsory briefing dates elapsed; closing remains future. No evidence of attendance or reopened eligibility.",
       "stage": "PREQUALIFICATION_PANEL",
       "deadline": "2026-09-29T23:55:00+02:00",
+      "source_urls": [
+        "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR%20LA%20IPPO-002%202026%20-%20Panel%20of%20Legal%20Advisors%20for%20the%20IPP%20Office.pdf",
+        "https://www.dbsa.org/procurement"
+      ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "AMENDMENT: official DBSA list now records Addendum 01 and extends closing to 5 October 23:55 SAST; compulsory 15 September briefing remains passed.",
       "source_urls": [
         "https://www.dbsa.org/sites/default/files/media/documents/2026-09/RFR%20LA%20IPPO-002%202026%20-%20Panel%20of%20Legal%20Advisors%20for%20the%20IPP%20Office.pdf",
         "https://www.dbsa.org/procurement"

@@ -1,0 +1,151 @@
+{
+  "schema_version": 2,
+  "id": "UT-039",
+  "title": "Third 500 kV corridor Chamberlain - Cardal - Pando",
+  "buyer": "UTE (Administración Nacional de Usinas y Trasmisiones Eléctricas)",
+  "country": "Uruguay",
+  "region": "South America",
+  "official_reference": "P103888",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "PUBLIC_TENDER_LISTING",
+  "published_amended": {
+    "published": "UNKNOWN; newly discovered in current official list",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2027-01-25",
+  "bid_deadline": {
+    "value": "2027-01-25T13:00:00-03:00",
+    "precision": "MINUTE",
+    "timezone": "America/Montevideo; UTC-3",
+    "conflict": "Official list labels an opening date/time; submission cutoff relationship must be confirmed in the pack."
+  },
+  "deadline_caveat": "Official UTE current-tender list; opening time is not automatically a submission cutoff.",
+  "earlier_gates": [
+    {
+      "type": "BID_DOCUMENT_COST",
+      "value": "No cost shown",
+      "mandatory": false,
+      "state": "PUBLIC_LISTING"
+    },
+    {
+      "type": "REGISTRATION_PREQUALIFICATION_AND_EARLIER_CUTOFFS",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "PACK_REVIEW"
+    }
+  ],
+  "source_url": "https://apps.ute.com.uy/ConsCompras/LicitacionesImp.aspx",
+  "source_urls": [
+    "https://apps.ute.com.uy/ConsCompras/LicitacionesImp.aspx",
+    "https://www.gub.uy/ministerio-transporte-obras-publicas/institucional/informacion-gestion/resoluciones/resolucion-n-191326-autorizar-empresas-extranjeras-participar"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official UTE current list verifies reference, title, free documents and opening time; official MTOP resolution verifies authorization for foreign-company participation. Scope pack not parsed.",
+  "scope_quantities_delivery": "Third 500 kV Chamberlain-Cardal-Pando transmission corridor. Route length, substations, line/equipment quantities, lots and delivery schedule UNKNOWN.",
+  "technology": {
+    "Software evidence": "Protection/control, telecoms, SCADA and digital-engineering requirements are UNKNOWN pending pack.",
+    "Hardware evidence": "500 kV line/substation equipment is implied by the title; towers, conductors, transformers/switchgear and quantities are not verified.",
+    "Participation caveat": "Foreign companies are authorized to participate by official MTOP resolution; detailed registration, JV, experience, security and local requirements UNKNOWN."
+  },
+  "value": {
+    "amount": null,
+    "currency": "UYU",
+    "basis": "UNKNOWN; no public value captured",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Foreign companies are authorized to participate by official MTOP resolution; detailed registration, JV, experience, security and local requirements UNKNOWN.",
+  "procurement_transaction_type": "Public tender; works/supply package structure UNKNOWN",
+  "payment_security": "UNKNOWN; bid/performance security not established",
+  "proposed_work_packages": [
+    {
+      "description": "E2E prime: 500 kV EPC contractor meeting UTE qualification",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: line, substation, protection/control and local interfaces",
+      "inferred": true
+    },
+    {
+      "description": "SME: substation/protection engineering or field testing if allowed",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Qualified 500 kV prime and UTE pack",
+    "Local civil/permitting interface",
+    "Protection/control, security and commercial terms"
+  ],
+  "missing_partner_roles": [
+    "Qualified 500 kV prime and UTE pack",
+    "Local civil/permitting interface",
+    "Protection/control, security and commercial terms"
+  ],
+  "delivery_route": "CONSORTIUM",
+  "lead_contractor_candidate": "UNKNOWN; Ingesat is only a regional specialist hypothesis",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: 500 kV EPC contractor meeting UTE qualification",
+      "Integrator: line, substation, protection/control and local interfaces",
+      "SME: substation/protection engineering or field testing if allowed"
+    ],
+    "unverified_gaps": [
+      "Qualified 500 kV prime and UTE pack",
+      "Local civil/permitting interface",
+      "Protection/control, security and commercial terms"
+    ]
+  },
+  "actor_ids": [
+    "CONTACT-11"
+  ],
+  "pair_ids": [
+    "OPTION-UT-039-W40"
+  ],
+  "pipeline_stage": "OUTREACH_DRAFTED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Retrieve the permitted UTE pack and confirm lot/JV rules before asking Ingesat for a specialist-scope or prime referral.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "REFERRAL_OR_PARTIAL_ONLY"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://apps.ute.com.uy/ConsCompras/LicitacionesImp.aspx",
+        "https://www.gub.uy/ministerio-transporte-obras-publicas/institucional/informacion-gestion/resoluciones/resolucion-n-191326-autorizar-empresas-extranjeras-participar"
+      ]
+    }
+  ],
+  "evidence_grade": "Official UTE current list verifies reference, title, free documents and opening time; official MTOP resolution verifies authorization for foreign-company participation. Scope pack not parsed."
+}

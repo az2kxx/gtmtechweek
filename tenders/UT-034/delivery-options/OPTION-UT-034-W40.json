@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-034-W40",
+  "tender_id": "UT-034",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: Singapore-qualified valve replacement contractor",
+      "Integrator: outage, network, civil and commissioning interfaces",
+      "SME: valve/actuator supply, installation or testing if allowed"
+    ],
+    "unverified_gaps": [
+      "Singapore-qualified ME11 L3 prime",
+      "Gated quantities and site schedule",
+      "Network outage/commissioning plan"
+    ]
+  },
+  "interfaces": [
+    "E2E prime: Singapore-qualified valve replacement contractor",
+    "Integrator: outage, network, civil and commissioning interfaces",
+    "SME: valve/actuator supply, installation or testing if allowed"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "E2E prime: Singapore-qualified valve replacement contractor; Integrator: outage, network, civil and commissioning interfaces; SME: valve/actuator supply, installation or testing if allowed",
+  "gates": "Singapore-qualified ME11 L3 prime; Gated quantities and site schedule; Network outage/commissioning plan"
+}

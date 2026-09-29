@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "id": "UT-040",
+  "title": "Remote control units",
+  "buyer": "UTE (Administración Nacional de Usinas y Trasmisiones Eléctricas)",
+  "country": "Uruguay",
+  "region": "South America",
+  "official_reference": "Y104113",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "PUBLIC_TENDER_LISTING",
+  "published_amended": {
+    "published": "UNKNOWN; newly observed current official list",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-09",
+  "bid_deadline": {
+    "value": "2026-10-09T12:00:00-03:00",
+    "precision": "MINUTE",
+    "timezone": "America/Montevideo; UTC-3",
+    "conflict": "Official list labels opening date/time; submission cutoff relationship must be confirmed."
+  },
+  "deadline_caveat": "Official UTE current list.",
+  "earlier_gates": [
+    {
+      "type": "BID_DOCUMENT_COST",
+      "value": "No cost shown",
+      "mandatory": false,
+      "state": "PUBLIC_LISTING"
+    },
+    {
+      "type": "REGISTRATION_TECHNICAL_AND_EARLIER_CUTOFFS",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "PACK_REVIEW"
+    }
+  ],
+  "source_url": "https://apps.ute.com.uy/ConsCompras/LicitacionesImp.aspx",
+  "source_urls": [
+    "https://apps.ute.com.uy/ConsCompras/LicitacionesImp.aspx"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official UTE current list verifies reference, title, free document status and opening time; no detailed pack captured.",
+  "scope_quantities_delivery": "Supply of remote control units. Quantity, I/O, protocols, environmental ratings, cybersecurity, integration, sites and delivery period UNKNOWN.",
+  "technology": {
+    "Software evidence": "Firmware/configuration, protocols, engineering tools, SCADA integration and cybersecurity requirements UNKNOWN.",
+    "Hardware evidence": "Remote control units explicitly required; accessories, communications and panels UNKNOWN.",
+    "Participation caveat": "Supplier registration, OEM authorization, experience and local-support requirements UNKNOWN pending pack."
+  },
+  "value": {
+    "amount": null,
+    "currency": "UYU",
+    "basis": "UNKNOWN; no public value captured",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Supplier registration, OEM authorization, experience and local-support requirements UNKNOWN pending pack.",
+  "procurement_transaction_type": "Goods/systems tender; lot structure UNKNOWN",
+  "payment_security": "UNKNOWN; security/warranty not established",
+  "proposed_work_packages": [
+    {
+      "description": "E2E prime: RTU OEM/integrator with UTE compliance and local support",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: protocol, panel, communications and SCADA acceptance",
+      "inferred": true
+    },
+    {
+      "description": "SME: RTU hardware, engineering or field commissioning if permitted",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "UTE technical pack and protocols",
+    "Qualified local delivery/support route",
+    "Cybersecurity, warranty and acceptance terms"
+  ],
+  "missing_partner_roles": [
+    "UTE technical pack and protocols",
+    "Qualified local delivery/support route",
+    "Cybersecurity, warranty and acceptance terms"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: RTU OEM/integrator with UTE compliance and local support",
+      "Integrator: protocol, panel, communications and SCADA acceptance",
+      "SME: RTU hardware, engineering or field commissioning if permitted"
+    ],
+    "unverified_gaps": [
+      "UTE technical pack and protocols",
+      "Qualified local delivery/support route",
+      "Cybersecurity, warranty and acceptance terms"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-040-W40"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Obtain the public pack and interface list before identifying an actor; no cached role is sufficiently geography- and authority-qualified.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://apps.ute.com.uy/ConsCompras/LicitacionesImp.aspx"
+      ]
+    }
+  ],
+  "evidence_grade": "Official UTE current list verifies reference, title, free document status and opening time; no detailed pack captured."
+}

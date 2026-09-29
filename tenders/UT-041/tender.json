@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "id": "UT-041",
+  "title": "Three-waters operational-technology communications network",
+  "buyer": "Queenstown-Lakes District Council",
+  "country": "New Zealand",
+  "region": "Australia/Oceania",
+  "official_reference": "GETS RFx 34799390 / PROC-27-400058",
+  "stage": "NOTICE_OF_INFORMATION",
+  "status": "ADVANCE NOTICE",
+  "latest_notice_type": "NOI",
+  "published_amended": {
+    "published": "UNKNOWN; current official listing, older than overlap possible",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-05",
+  "bid_deadline": {
+    "value": "2026-10-05T12:00:00+13:00",
+    "precision": "MINUTE",
+    "timezone": "Pacific/Auckland; UTC+13 explicitly listed",
+    "conflict": "NOI close is not a later tender deadline or proof of bid eligibility."
+  },
+  "deadline_caveat": "Advance notice response close, not an open-tender deadline.",
+  "earlier_gates": [
+    {
+      "type": "NOI_RESPONSE",
+      "value": "2026-10-05T12:00:00+13:00",
+      "mandatory": false,
+      "state": "UPCOMING; market-information stage"
+    },
+    {
+      "type": "FUTURE_PROCUREMENT_GATES",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "NOT_YET_DEFINED"
+    }
+  ],
+  "source_url": "https://www.gets.govt.nz/ExternalIndex.htm?orderBy=client&page=11",
+  "source_urls": [
+    "https://www.gets.govt.nz/ExternalIndex.htm?orderBy=client&page=11"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official GETS current listing verifies buyer, reference, NOI stage and close; detail pack not accessed.",
+  "scope_quantities_delivery": "Advance notice for a three-waters OT communications network. Sites, topology, existing estate, radio/carrier/fibre scope, cybersecurity and future procurement timetable UNKNOWN.",
+  "technology": {
+    "Software evidence": "OT network management, monitoring and cybersecurity may be relevant but are not verified requirements.",
+    "Hardware evidence": "Communications/network hardware may be required in a future procurement; no quantities or replacement scope verified.",
+    "Participation caveat": "This is a notice of information. Supplier response/registration and future tender eligibility are UNKNOWN and must not be inferred."
+  },
+  "value": {
+    "amount": null,
+    "currency": "NZD",
+    "basis": "UNKNOWN; advance notice only",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "This is a notice of information. Supplier response/registration and future tender eligibility are UNKNOWN and must not be inferred.",
+  "procurement_transaction_type": "Market engagement / advance notice",
+  "payment_security": "Not applicable/UNKNOWN at this stage",
+  "proposed_work_packages": [
+    {
+      "description": "Future E2E candidate: OT communications design, supply and support",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: water/SCADA/network/cybersecurity responsibility architecture",
+      "inferred": true
+    },
+    {
+      "description": "SME: radios, routers, telemetry or security only after scope publication",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Detailed NOI and existing estate",
+    "Future procurement route/timing",
+    "New Zealand delivery and security requirements"
+  ],
+  "missing_partner_roles": [
+    "Detailed NOI and existing estate",
+    "Future procurement route/timing",
+    "New Zealand delivery and security requirements"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Future E2E candidate: OT communications design, supply and support",
+      "Integrator: water/SCADA/network/cybersecurity responsibility architecture",
+      "SME: radios, routers, telemetry or security only after scope publication"
+    ],
+    "unverified_gaps": [
+      "Detailed NOI and existing estate",
+      "Future procurement route/timing",
+      "New Zealand delivery and security requirements"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-041-W40"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Treat 5 October as an NOI response point, not a bid close; review the public detail before any capability outreach.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.gets.govt.nz/ExternalIndex.htm?orderBy=client&page=11"
+      ]
+    }
+  ],
+  "evidence_grade": "Official GETS current listing verifies buyer, reference, NOI stage and close; detail pack not accessed."
+}

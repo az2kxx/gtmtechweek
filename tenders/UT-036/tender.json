@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "id": "UT-036",
+  "title": "Servicing, inspection and testing of lifting equipment and pressure vessels at waterworks/desalination plants",
+  "buyer": "PUB, Singapore national water agency",
+  "country": "Singapore",
+  "region": "Asia",
+  "official_reference": "PUB000ETT26000109 / WSP-PW/33260127",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-09-11T00:05:00+08:00",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-01",
+  "bid_deadline": {
+    "value": "2026-10-01T16:00:00+08:00",
+    "precision": "MINUTE",
+    "timezone": "Asia/Singapore; UTC+8",
+    "conflict": null
+  },
+  "deadline_caveat": "GeBIZ listing.",
+  "earlier_gates": [
+    {
+      "type": "OPTIONAL_SITE_BRIEFING",
+      "value": "2026-09-16T10:00:00+08:00",
+      "mandatory": false,
+      "state": "ELAPSED; not a bid gate"
+    },
+    {
+      "type": "GE_BIZ_REGISTRATION_AND_DOCUMENTS",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "LOGIN_GATED; not attempted"
+    }
+  ],
+  "source_url": "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search",
+  "source_urls": [
+    "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official GeBIZ public page verified status, dates, optional site briefing, one lot and BCA ME11 L1; documents require login.",
+  "scope_quantities_delivery": "Term servicing, inspection and testing of lifting equipment and pressure vessels at waterworks and desalination plants. Asset counts, sites, term and statutory test schedule UNKNOWN.",
+  "technology": {
+    "Software evidence": "No software requirement established; inspection reporting format/CMMS interface UNKNOWN.",
+    "Hardware evidence": "Existing lifting equipment and pressure vessels are the serviced estate; replacement parts/equipment quantities UNKNOWN.",
+    "Participation caveat": "BCA ME11 L1 shown; statutory inspection credentials, registration and pack gates UNKNOWN."
+  },
+  "value": {
+    "amount": null,
+    "currency": "SGD",
+    "basis": "A displayed SGD500,000 schedule-of-rates figure is not treated as a verified contract budget or ceiling",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "BCA ME11 L1 shown; statutory inspection credentials, registration and pack gates UNKNOWN.",
+  "procurement_transaction_type": "Services / schedule-of-rates tender; one lot",
+  "payment_security": "UNKNOWN; offer validity 120 days",
+  "proposed_work_packages": [
+    {
+      "description": "E2E prime: Singapore-qualified statutory inspection and maintenance provider",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: asset register, inspection, repair and CMMS/reporting interface",
+      "inferred": true
+    },
+    {
+      "description": "SME: certified lifting/pressure-vessel inspection or parts support if allowed",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "BCA ME11 L1 and statutory certifications",
+    "Gated asset list and service term",
+    "CMMS/reporting and repair boundaries"
+  ],
+  "missing_partner_roles": [
+    "BCA ME11 L1 and statutory certifications",
+    "Gated asset list and service term",
+    "CMMS/reporting and repair boundaries"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: Singapore-qualified statutory inspection and maintenance provider",
+      "Integrator: asset register, inspection, repair and CMMS/reporting interface",
+      "SME: certified lifting/pressure-vessel inspection or parts support if allowed"
+    ],
+    "unverified_gaps": [
+      "BCA ME11 L1 and statutory certifications",
+      "Gated asset list and service term",
+      "CMMS/reporting and repair boundaries"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-036-W40"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "For already registered suppliers only, review certification and asset schedules before the 1 October close.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search"
+      ]
+    }
+  ],
+  "evidence_grade": "Official GeBIZ public page verified status, dates, optional site briefing, one lot and BCA ME11 L1; documents require login."
+}

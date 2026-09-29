@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "id": "UT-033",
+  "title": "Completion of remaining defects at six KwaZulu-Natal ablution facilities",
+  "buyer": "DBSA / Department of Basic Education",
+  "country": "South Africa",
+  "region": "Africa",
+  "official_reference": "RFP162/2026",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-09-22",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-16",
+  "bid_deadline": {
+    "value": "2026-10-16T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "Africa/Johannesburg; SAST UTC+2",
+    "conflict": null
+  },
+  "deadline_caveat": "Official DBSA listing; SAST inferred.",
+  "earlier_gates": [
+    {
+      "type": "COMPULSORY_ONLINE_BRIEFING",
+      "value": "2026-10-01T10:00:00+02:00",
+      "mandatory": true,
+      "state": "UPCOMING"
+    },
+    {
+      "type": "ENQUIRY_OR_LINK_REQUEST",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "PACK_REVIEW"
+    }
+  ],
+  "source_url": "https://www.dbsa.org/procurement",
+  "source_urls": [
+    "https://www.dbsa.org/procurement"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official buyer listing verifies six named sites, publication, compulsory briefing and close; tender volume/activity schedule not parsed.",
+  "scope_quantities_delivery": "Execute and complete remaining defect works at Malangabi, Manguzi, Masulumane, Nyamane, Sithembinhlanhla and Star of the Sea ablution facilities. Quantities, defect schedule and completion period UNKNOWN.",
+  "technology": {
+    "Software evidence": "No software requirement established.",
+    "Hardware evidence": "Sanitation/ablution defect rectification is established; detailed fixtures, plumbing, civil and electrical quantities UNKNOWN.",
+    "Participation caveat": "Compulsory 1 October briefing; contractor grading, local-content and security requirements UNKNOWN pending pack."
+  },
+  "value": {
+    "amount": null,
+    "currency": "ZAR",
+    "basis": "UNKNOWN; no accessible tender budget",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "Compulsory 1 October briefing; contractor grading, local-content and security requirements UNKNOWN pending pack.",
+  "procurement_transaction_type": "Works RFP",
+  "payment_security": "UNKNOWN; bonds/retention not established",
+  "proposed_work_packages": [
+    {
+      "description": "E2E prime: qualified South African building/sanitation contractor",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: six-site defect and acceptance matrix",
+      "inferred": true
+    },
+    {
+      "description": "SME: plumbing, fixtures, electrical and remedial civil trades if subcontracting permits",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Qualified local prime",
+    "Full defect/activity schedule",
+    "Briefing and contractor-grade evidence"
+  ],
+  "missing_partner_roles": [
+    "Qualified local prime",
+    "Full defect/activity schedule",
+    "Briefing and contractor-grade evidence"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: qualified South African building/sanitation contractor",
+      "Integrator: six-site defect and acceptance matrix",
+      "SME: plumbing, fixtures, electrical and remedial civil trades if subcontracting permits"
+    ],
+    "unverified_gaps": [
+      "Qualified local prime",
+      "Full defect/activity schedule",
+      "Briefing and contractor-grade evidence"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-033-W40"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Review tender volume and contractor grading before the compulsory 1 October briefing; do not infer subcontract permissions.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.dbsa.org/procurement"
+      ]
+    }
+  ],
+  "evidence_grade": "Official buyer listing verifies six named sites, publication, compulsory briefing and close; tender volume/activity schedule not parsed."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-037-W40",
+  "tender_id": "UT-037",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Existing eligible prime: Chilean pump-maintenance contractor with Day 1 attendance",
+      "Integrator: six-site asset/maintenance and reporting matrix",
+      "SME: pump/control specialist only with prior written subcontract approval"
+    ],
+    "unverified_gaps": [
+      "Evidence of both mandatory visit days",
+      "Detailed six-site asset list",
+      "Local registered contracting entity"
+    ]
+  },
+  "interfaces": [
+    "Existing eligible prime: Chilean pump-maintenance contractor with Day 1 attendance",
+    "Integrator: six-site asset/maintenance and reporting matrix",
+    "SME: pump/control specialist only with prior written subcontract approval"
+  ],
+  "eligibility": "ELIGIBILITY_BLOCKED_FOR_FRESH_PRIME",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Existing eligible prime: Chilean pump-maintenance contractor with Day 1 attendance; Integrator: six-site asset/maintenance and reporting matrix; SME: pump/control specialist only with prior written subcontract approval",
+  "gates": "Evidence of both mandatory visit days; Detailed six-site asset list; Local registered contracting entity"
+}

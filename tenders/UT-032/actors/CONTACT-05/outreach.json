@@ -1,0 +1,50 @@
+{
+  "actor_id": "CONTACT-05",
+  "tender_id": "UT-032",
+  "state": "HOLD",
+  "delivery_route": "CONSORTIUM",
+  "technical_offer": "Build an evidence-led technical workstream for the four-municipality NRW PBC transaction advisory and identify the missing financial/legal lead.",
+  "counterparty": "Missing complementary lead remains unresolved",
+  "send_authorized": false,
+  "snapshot_date": "2026-09-28",
+  "gate_review_date": "2026-09-28",
+  "current_gate_review": [
+    {
+      "type": "ELIGIBILITY_AND_EARLIER_GATES",
+      "value": "Compulsory 9 October 10:00 SAST briefing; pack eligibility unknown",
+      "mandatory": true,
+      "state": "REVIEW"
+    }
+  ],
+  "next_review": "2026-10-05",
+  "followup_timing": "UNSCHEDULED. Recheck gates and remaining window before any approved outreach. Stop on reply or opt-out.",
+  "identity_basis": "Existing cached Clay/Attio professional identity; no new enrichment or email purchase",
+  "email": {
+    "subject": "Four-municipality NRW PBC advisory: technical workstream review",
+    "initial": "Hi Willem,\n\nDBSA published RFP178/2026 for feasibility, cost-benefit analysis, financial modelling, project preparation and procurement documents for NRW performance-based contracts across Mogale City, Lesedi, Merafong City and Rand West City. The compulsory briefing is 9 October and the listed close is 20 November.\n\nWRP's published NRW and pressure/flow-monitoring capabilities make a technical workstream review relevant. I can map the municipality data, water-balance/modelling, PBC performance and procurement interfaces, while explicitly leaving financial and legal transaction leadership unresolved until an eligible party is identified.\n\nCould you confirm whether this falls within WRP's remit, or refer me to the appropriate owner? This is a scope discussion only: no partner commitment, buyer mandate, fee or bid representation is assumed.",
+    "followups": [
+      "Hi Willem,\n\nWould a one-page responsibility matrix help assess whether WRP could cover the NRW technical workstream while another adviser leads financial/legal procurement work?",
+      "Hi Willem,\n\nThe first gate is the compulsory 9 October briefing. I would not propose outreach beyond a scope check until attendance, eligibility and the full tender volume are confirmed.",
+      "Hi Willem,\n\nA single adviser could lead if it evidences every discipline; otherwise the gaps should be explicit before any introduction. Counterpart willingness and commercial terms remain unknown.",
+      "Hi Willem,\n\nI will keep this on hold. A referral to the correct NRW/transaction-advisory owner is welcome; otherwise no action is needed. Please say if you prefer no further contact."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Willem, I qualify utility opportunities and coordinate technical scope reviews. Your WRP remit looks relevant. Open to connecting?",
+    "initial": "DBSA RFP178/2026 covers four municipal NRW PBC advisory packages. I can map the technical/financial/legal interfaces; WRP looks relevant to the NRW technical workstream, but I have not assumed prime eligibility. Who owns this scope?",
+    "followups": [
+      "Would a short workstream/eligibility matrix help the right owner assess fit?",
+      "The compulsory 9 October briefing is the first gate; no future close should be treated as eligibility.",
+      "One E2E adviser is sufficient if fully qualified; otherwise the financial/legal gap stays explicit.",
+      "I will keep this on hold. A referral is welcome; please say if you prefer no further messages."
+    ]
+  },
+  "remaining_followup_window": "NOT_SCHEDULED; tender gate validation required before activation",
+  "current_deadline": {
+    "value": "2026-11-20T23:55:00+02:00",
+    "precision": "MINUTE",
+    "timezone": "SAST UTC+2",
+    "conflict": null
+  },
+  "current_next_action": "Confirm pack eligibility and briefing path before any outreach approval."
+}

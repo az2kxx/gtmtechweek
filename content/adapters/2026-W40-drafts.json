@@ -1,0 +1,75 @@
+{
+  "run_key": "gtmtechweek-2026-W40",
+  "state": "DRAFT_ONLY",
+  "distribution_calls": 0,
+  "mentic": {
+    "state": "DISCONNECTED_DRAFT",
+    "media_budget": {
+      "amount": 0,
+      "currency": "UNSPECIFIED",
+      "basis": "activation requires approved currency and budget"
+    },
+    "cohorts": [
+      "NRW transaction advisers in Southern Africa",
+      "Singapore-qualified water-network contractors",
+      "UK water-efficiency product and fulfilment suppliers",
+      "Latin American 500 kV EPC and protection specialists"
+    ],
+    "landing_page_cta": "Submit a capability dossier for evidence-based tender matching",
+    "activation_requirements": [
+      "Public evidence",
+      "Landing page",
+      "UTMs and campaign IDs",
+      "Approved currency/budget",
+      "Account and spend-control round-trip test"
+    ]
+  },
+  "surfer": {
+    "state": "DISCONNECTED_DRAFT",
+    "content_path": "content/blog/water-efficiency-frameworks-hardware-platform-and-fulfilment.md",
+    "language": "English",
+    "region": "UK/global utility suppliers",
+    "intent": "commercial-informational",
+    "review_date": "2026-10-05",
+    "claims_policy": "No proposed consortium, award or confidential strategy claims"
+  },
+  "heyreach": {
+    "state": "EXPIRED_DRAFT_ONLY",
+    "identity_source": "Reuse canonical cached professional profiles; no channel-specific enrichment",
+    "packets": [
+      "UT-032/CONTACT-05",
+      "UT-039/CONTACT-11"
+    ],
+    "send": false
+  },
+  "woodpecker": {
+    "state": "PENDING_CONNECTION_HOLD",
+    "packets": [
+      "UT-032/CONTACT-05",
+      "UT-039/CONTACT-11"
+    ],
+    "send": false,
+    "requirements": [
+      "Paused campaign enforcement",
+      "Sender and domain checks",
+      "Suppression/stop-on-reply round-trip",
+      "Cross-channel pause confirmation"
+    ]
+  },
+  "event_policy": {
+    "dedupe_keys": [
+      "run_id",
+      "tender_id",
+      "company_id",
+      "person_id",
+      "pair_id",
+      "content_id",
+      "campaign_id",
+      "source_event_id",
+      "event_timestamp"
+    ],
+    "newer_event_wins": true,
+    "reply_halts_sequences": true,
+    "opt_out_suppresses_all": true
+  }
+}

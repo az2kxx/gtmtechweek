@@ -1,0 +1,48 @@
+{
+  "id": "OPTION-UT-032-W40",
+  "tender_id": "UT-032",
+  "delivery_route": "CONSORTIUM",
+  "stage": "OUTREACH_DRAFTED",
+  "actor_ids": [
+    "CONTACT-05"
+  ],
+  "lead_candidate": "UNKNOWN; WRP is a technical-role hypothesis, not a confirmed prime",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Prime: transaction-advisory lead covering financial/legal/procurement work",
+      "Technical NRW lead: feasibility, water balance, modelling and PBC performance design",
+      "Integrator: municipal data-room, workstream and deliverable interfaces"
+    ],
+    "unverified_gaps": [
+      "Financial/legal transaction-advisory lead",
+      "Pack eligibility and briefing attendance",
+      "Municipality data and programme"
+    ]
+  },
+  "interfaces": [
+    "Prime: transaction-advisory lead covering financial/legal/procurement work",
+    "Technical NRW lead: feasibility, water balance, modelling and PBC performance design",
+    "Integrator: municipal data-room, workstream and deliverable interfaces"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [
+    "wrp-consulting-engineers"
+  ],
+  "roles": [
+    {
+      "actor_id": "CONTACT-05",
+      "company_id": "wrp-consulting-engineers",
+      "role": "Technical NRW workstream / prime referral",
+      "confidence": "PARTIAL_ONLY"
+    }
+  ],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "Prime: transaction-advisory lead covering financial/legal/procurement work; Technical NRW lead: feasibility, water balance, modelling and PBC performance design; Integrator: municipal data-room, workstream and deliverable interfaces",
+  "gates": "Financial/legal transaction-advisory lead; Pack eligibility and briefing attendance; Municipality data and programme"
+}

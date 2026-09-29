@@ -1,0 +1,104 @@
+{
+  "run_key": "gtmtechweek-2026-W40",
+  "next_review": "2026-10-05",
+  "member_profiles_supplied": 0,
+  "matching": "Tenders-to-role/cached-prospect and cached-prospect-to-tenders; personalized member matching awaits profiles",
+  "cached_companies_reviewed": 12,
+  "cached_people_reused": 13,
+  "new_people": 0,
+  "new_associations": [
+    {
+      "actor": "CONTACT-05",
+      "company": "wrp-consulting-engineers",
+      "tender": "UT-032",
+      "basis": "Cached NRW technical capability; financial/legal transaction lead remains missing",
+      "route": "CONSORTIUM",
+      "state": "HOLD"
+    },
+    {
+      "actor": "CONTACT-11",
+      "company": "ingesat-simm",
+      "tender": "UT-039",
+      "basis": "Cached 525 kV substation/protection capability; UTE pack and prime/local route unresolved",
+      "route": "CONSORTIUM",
+      "state": "HOLD"
+    }
+  ],
+  "no_pair": [
+    {
+      "actor": "CONTACT-05",
+      "tender": "UT-014",
+      "reason": "MISSING_COMPLEMENTARY_COMPANY",
+      "missing": "Financial/legal transaction-advisory lead",
+      "state": "HOLD"
+    },
+    {
+      "actor": "CONTACT-05",
+      "tender": "UT-032",
+      "reason": "MISSING_COMPLEMENTARY_COMPANY",
+      "missing": "Financial/legal transaction-advisory lead",
+      "state": "HOLD"
+    },
+    {
+      "actor": "CONTACT-11",
+      "tender": "UT-039",
+      "reason": "MISSING_COMPLEMENTARY_COMPANY",
+      "missing": "Qualified 500 kV EPC/local delivery lead",
+      "state": "HOLD"
+    }
+  ],
+  "unresolved": [
+    {
+      "tender": "UT-033",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-034",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-035",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-036",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-037",
+      "reason": "ELIGIBILITY_BLOCKED_FOR_FRESH_PRIME"
+    },
+    {
+      "tender": "UT-038",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-040",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    },
+    {
+      "tender": "UT-041",
+      "reason": "No cached supplier sufficiently qualified; preserve research-needed, no invented actor"
+    }
+  ],
+  "prospect_to_tenders": {
+    "CONTACT-05": [
+      "UT-003",
+      "UT-014",
+      "UT-032"
+    ],
+    "CONTACT-11": [
+      "UT-007",
+      "UT-008",
+      "UT-009",
+      "UT-039"
+    ]
+  },
+  "qualified_dialogues": 0,
+  "confirmed_teams": 0,
+  "agreed_mandates": 0,
+  "submissions": 0,
+  "awards": 0,
+  "earned_fees": null,
+  "fee_terms": "UNKNOWN_NOT_AGREED"
+}

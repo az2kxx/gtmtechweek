@@ -1,4 +1,18 @@
-# Judge-facing status - 21 September 2026
+# Judge-facing status - 28 September 2026
+
+The PoC now holds 41 sourced opportunity dossiers, 12 companies, 13 cached professional contacts, 21 HOLD actor/tender packets and four technology/use-case blog drafts. Each packet includes email and LinkedIn copy with four followups. Ten dossiers were added in this pass; one is a notice of information and two use public opening dates whose submission precision remains unverified.
+
+Fresh research remains PARTIAL: all 27 named source groups were attempted, with seven SUCCESS, 14 PARTIAL and six BLOCKED classifications. These labels describe retrieval evidence, not exhaustive country coverage or supplier eligibility. The current execution record is `executions/2026-W40/run.json`; the detailed source ledger is `research/2026-W40/source-coverage.json`.
+
+This pass added two evidence-backed, partial-scope contact associations and no new people. Neither is a confirmed team: complementary leads, eligibility, willingness and mutual introduction consent are missing. Framework ceilings and public budgets are not revenue. No paid enrichment, buyer/member message, bid, mandate, award or collected fee is claimed.
+
+Inspect UT-032 for a consortium hypothesis with explicit financial/legal gaps, UT-037 for a future close that does not cure a missed mandatory visit, UT-038 for a two-lot framework and unresolved date stages, and UT-041 for market engagement rather than an open tender. The dashboard shows all 41 dialogs and current readiness gaps. GitHub replay validates cached artifacts only; optional distribution remains unconnected and HeyReach remains expired.
+
+The section below is the 21 September judging snapshot and remains historical context.
+
+---
+
+# Previous judge-facing status - 21 September 2026
 
 The PoC now holds31 sourced opportunity dossiers,12 companies,13 cached professional contacts,19 HOLD actor/tender packets and3 technology/use-case blog drafts. Each packet includes email and LinkedIn copy with four followups. Eight entries were added in this pass; one is market engagement, not an open tender. Evidence dates, unresolved fields and stage distinctions are explicit.
 

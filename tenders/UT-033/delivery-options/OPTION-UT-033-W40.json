@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-033-W40",
+  "tender_id": "UT-033",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: qualified South African building/sanitation contractor",
+      "Integrator: six-site defect and acceptance matrix",
+      "SME: plumbing, fixtures, electrical and remedial civil trades if subcontracting permits"
+    ],
+    "unverified_gaps": [
+      "Qualified local prime",
+      "Full defect/activity schedule",
+      "Briefing and contractor-grade evidence"
+    ]
+  },
+  "interfaces": [
+    "E2E prime: qualified South African building/sanitation contractor",
+    "Integrator: six-site defect and acceptance matrix",
+    "SME: plumbing, fixtures, electrical and remedial civil trades if subcontracting permits"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "E2E prime: qualified South African building/sanitation contractor; Integrator: six-site defect and acceptance matrix; SME: plumbing, fixtures, electrical and remedial civil trades if subcontracting permits",
+  "gates": "Qualified local prime; Full defect/activity schedule; Briefing and contractor-grade evidence"
+}

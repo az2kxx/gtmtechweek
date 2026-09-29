@@ -1,0 +1,147 @@
+{
+  "schema_version": 2,
+  "id": "UT-035",
+  "title": "Proposed sewers to serve Tengah New Town (Schedule II)",
+  "buyer": "PUB, Singapore national water agency",
+  "country": "Singapore",
+  "region": "Asia",
+  "official_reference": "PUB000ETT26000105 / WRN/33260120",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-08-28T12:20:00+08:00",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-10-08",
+  "bid_deadline": {
+    "value": "2026-10-08T16:00:00+08:00",
+    "precision": "MINUTE",
+    "timezone": "Asia/Singapore; UTC+8",
+    "conflict": null
+  },
+  "deadline_caveat": "GeBIZ listing; older than overlap, newly discovered.",
+  "earlier_gates": [
+    {
+      "type": "OPTIONAL_SITE_BRIEFING",
+      "value": "2026-09-10T10:00:00+08:00",
+      "mandatory": false,
+      "state": "ELAPSED; not a bid gate"
+    },
+    {
+      "type": "GE_BIZ_REGISTRATION_AND_DOCUMENTS",
+      "value": "UNKNOWN",
+      "mandatory": true,
+      "state": "LOGIN_GATED; not attempted"
+    }
+  ],
+  "source_url": "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search",
+  "source_urls": [
+    "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official GeBIZ public page verified open status, dates, optional briefing, WTO-GPA and BCA CW02 A2 requirement; documents require login.",
+  "scope_quantities_delivery": "Design/construction of sewers for Tengah New Town Schedule II. Diameters, lengths, trenchless portions, interfaces and construction period UNKNOWN.",
+  "technology": {
+    "Software evidence": "No named software; BIM/GIS/asset handover requirements UNKNOWN.",
+    "Hardware evidence": "Sewer pipework, manholes and associated civil works inferred from title only; quantities UNKNOWN.",
+    "Participation caveat": "BCA CW02 grade A2 (tender capacity up to SGD105m) and WTO-GPA listing shown; full qualification and registration gates UNKNOWN."
+  },
+  "value": {
+    "amount": null,
+    "currency": "SGD",
+    "basis": "UNKNOWN; no public budget",
+    "tax_basis": "UNKNOWN"
+  },
+  "eligibility": "BCA CW02 grade A2 (tender capacity up to SGD105m) and WTO-GPA listing shown; full qualification and registration gates UNKNOWN.",
+  "procurement_transaction_type": "Construction tender; one lot",
+  "payment_security": "UNKNOWN; offer validity 150 days",
+  "proposed_work_packages": [
+    {
+      "description": "E2E prime: Singapore-qualified major sewer works contractor",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: design, temporary works, utility and commissioning interfaces",
+      "inferred": true
+    },
+    {
+      "description": "SME: trenchless, pipe/manhole, survey or digital handover packages if allowed",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Singapore-qualified CW02 A2 prime",
+    "Gated drawings and quantities",
+    "Utility/traffic/interface constraints"
+  ],
+  "missing_partner_roles": [
+    "Singapore-qualified CW02 A2 prime",
+    "Gated drawings and quantities",
+    "Utility/traffic/interface constraints"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: Singapore-qualified major sewer works contractor",
+      "Integrator: design, temporary works, utility and commissioning interfaces",
+      "SME: trenchless, pipe/manhole, survey or digital handover packages if allowed"
+    ],
+    "unverified_gaps": [
+      "Singapore-qualified CW02 A2 prime",
+      "Gated drawings and quantities",
+      "Utility/traffic/interface constraints"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-035-W40"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Treat as older discovery; qualify only after reviewing gated drawings, contract conditions and permitted subcontracting.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.gebiz.gov.sg/ptn/opportunity/BOListing.xhtml?origin=search"
+      ]
+    }
+  ],
+  "evidence_grade": "Official GeBIZ public page verified open status, dates, optional briefing, WTO-GPA and BCA CW02 A2 requirement; documents require login."
+}

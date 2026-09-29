@@ -1,0 +1,37 @@
+{
+  "id": "OPTION-UT-040-W40",
+  "tender_id": "UT-040",
+  "delivery_route": "UNRESOLVED",
+  "stage": "DISCOVERED",
+  "actor_ids": [],
+  "lead_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "E2E prime: RTU OEM/integrator with UTE compliance and local support",
+      "Integrator: protocol, panel, communications and SCADA acceptance",
+      "SME: RTU hardware, engineering or field commissioning if permitted"
+    ],
+    "unverified_gaps": [
+      "UTE technical pack and protocols",
+      "Qualified local delivery/support route",
+      "Cybersecurity, warranty and acceptance terms"
+    ]
+  },
+  "interfaces": [
+    "E2E prime: RTU OEM/integrator with UTE compliance and local support",
+    "Integrator: protocol, panel, communications and SCADA acceptance",
+    "SME: RTU hardware, engineering or field commissioning if permitted"
+  ],
+  "eligibility": "REVIEW_REQUIRED",
+  "willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "outreach_state": "HOLD",
+  "basis": "Inferred role-level delivery option; single E2E accepted if all scope and eligibility are evidenced",
+  "next_review": "2026-10-05",
+  "company_ids": [],
+  "roles": [],
+  "assessment": "PROPOSED, NOT QUALIFIED OR AGREED",
+  "pitch": "E2E prime: RTU OEM/integrator with UTE compliance and local support; Integrator: protocol, panel, communications and SCADA acceptance; SME: RTU hardware, engineering or field commissioning if permitted",
+  "gates": "UTE technical pack and protocols; Qualified local delivery/support route; Cybersecurity, warranty and acceptance terms"
+}

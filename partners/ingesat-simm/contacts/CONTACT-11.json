@@ -10,12 +10,13 @@
   "dialogue_state": "NOT_CONTACTED",
   "willingness": "UNKNOWN",
   "pair_ids": [
-    "PAIR-06"
+    "PAIR-06",
+    "OPTION-UT-039-W40"
   ],
-  "next_review": "2026-09-28",
+  "next_review": "2026-10-05",
   "cache_review": {
     "identity_role_email_evidence_date": "2026-09-04",
-    "read_from_existing_CRM": "2026-09-21",
+    "read_from_existing_CRM": "2026-09-28",
     "new_enrichment": false,
     "role_email_review_days": 30,
     "capability_review_days": 90,
@@ -53,6 +54,20 @@
       "latest_gate_review": {
         "date": "2026-09-21",
         "next_action": "Check participant status and reactor package before any technical introduction."
+      }
+    },
+    {
+      "tender_id": "UT-039",
+      "delivery_route": "CONSORTIUM",
+      "outreach_state": "HOLD",
+      "eligibility": "REVIEW_REQUIRED",
+      "willingness": "UNKNOWN",
+      "match_status": "NO_PAIR_FOUND",
+      "reason": "MISSING_COMPLEMENTARY_COMPANY",
+      "next_review": "2026-10-05",
+      "latest_gate_review": {
+        "date": "2026-09-28",
+        "next_action": "Obtain UTE pack and lot/JV rules; seek only a 500 kV scope-owner or prime referral."
       }
     }
   ]

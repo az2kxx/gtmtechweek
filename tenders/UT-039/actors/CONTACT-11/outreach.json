@@ -1,0 +1,50 @@
+{
+  "actor_id": "CONTACT-11",
+  "tender_id": "UT-039",
+  "state": "HOLD",
+  "delivery_route": "CONSORTIUM",
+  "technical_offer": "Map the 500 kV line, substation and protection/control interfaces and seek the appropriate Latin American EPC owner; no prime status assumed.",
+  "counterparty": "Missing complementary lead remains unresolved",
+  "send_authorized": false,
+  "snapshot_date": "2026-09-28",
+  "gate_review_date": "2026-09-28",
+  "current_gate_review": [
+    {
+      "type": "ELIGIBILITY_AND_EARLIER_GATES",
+      "value": "Registration/prequalification, lot/JV and earlier cutoffs UNKNOWN",
+      "mandatory": true,
+      "state": "REVIEW"
+    }
+  ],
+  "next_review": "2026-10-05",
+  "followup_timing": "UNSCHEDULED. Recheck gates and remaining window before any approved outreach. Stop on reply or opt-out.",
+  "identity_basis": "Existing cached Clay/Attio professional identity; no new enrichment or email purchase",
+  "email": {
+    "subject": "UTE 500 kV corridor: substation and protection scope review",
+    "initial": "Hi Enzo,\n\nUTE's public list includes P103888, the Third 500 kV Chamberlain-Cardal-Pando corridor, with an opening date of 25 January 2027. An official Uruguayan resolution also authorises foreign-company participation, but the detailed lots, prequalification and local-delivery rules still need pack review.\n\nINGESAT SIMM's published 525 kV substation, protection/control and field-commissioning capabilities look relevant to a specialist workstream. I can build a line/substation/protection interface matrix and qualify the missing EPC and Uruguay-delivery roles before any introduction.\n\nCould you confirm whether this is within your development remit, or refer me to the appropriate technical/commercial owner? No partner commitment, mandate, fee or claim of bid eligibility is assumed.",
+    "followups": [
+      "Hi Enzo,\n\nWould a concise 500 kV scope and qualification checklist help determine whether the opportunity merits a pack review?",
+      "Hi Enzo,\n\nThe critical unknowns are UTE lot/JV rules, the local civil/permitting interface and the protection/SCADA boundaries. I would keep those explicit rather than assume an EPC role.",
+      "Hi Enzo,\n\nIf one qualified EPC covers the full corridor, no consortium is needed. If INGESAT is a specialist package, counterpart consent and responsibilities would be agreed before any introduction.",
+      "Hi Enzo,\n\nI will leave the corridor proposal on hold pending the public pack. A referral is welcome; otherwise no action is needed. Please say if you prefer no further contact."
+    ]
+  },
+  "linkedin": {
+    "connection": "Hi Enzo, I qualify utility opportunities and coordinate technical scope reviews. Your INGESAT SIMM remit looks relevant. Open to connecting?",
+    "initial": "UTE lists P103888, the Chamberlain-Cardal-Pando 500 kV corridor. INGESAT's 525 kV substation/protection background looks relevant to a scope review, but EPC and Uruguay eligibility remain unverified. Who owns this remit?",
+    "followups": [
+      "Would a short line/substation/protection interface checklist help assess fit?",
+      "UTE lot/JV, local delivery and SCADA boundaries need pack evidence before a role is proposed.",
+      "A single qualified EPC is preferred; a team is only justified by an evidenced gap.",
+      "I will keep this on hold pending the pack. A referral is welcome; opt-out is respected."
+    ]
+  },
+  "remaining_followup_window": "NOT_SCHEDULED; tender gate validation required before activation",
+  "current_deadline": {
+    "value": "2027-01-25T13:00:00-03:00",
+    "precision": "MINUTE",
+    "timezone": "America/Montevideo UTC-3",
+    "conflict": "Official list labels opening time; submission cutoff must be confirmed"
+  },
+  "current_next_action": "Retrieve UTE pack before any approved outreach."
+}

@@ -50,7 +50,7 @@
     "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
   },
   "introduction_consent": "NOT_OBTAINED",
-  "last_rechecked_at": "2026-09-21",
+  "last_rechecked_at": "2026-09-28",
   "lead_contractor_candidate": "SAGE Automation candidate; Plant SCADA credentials and water remit not verified",
   "missing_partner_roles": [
     "Pack and site scope",
@@ -99,9 +99,9 @@
     ]
   },
   "research_change": {
-    "run_key": "gtmtechweek-2026-W39",
-    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
-    "finding": "Official notice/listing rechecked; no further amendment established.",
+    "run_key": "gtmtechweek-2026-W40",
+    "comparison_basis": "Published 21 September register and official-source recheck",
+    "finding": "Recorded 28 September 16:30 AEST deadline elapsed; current buyer list moved the item to closed, with no award/cancellation verified.",
     "notice_amendment_claimed": false
   },
   "schema_version": 2,
@@ -111,9 +111,9 @@
     "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
     "https://portal.tenderlink.com/cairns/alltenders/"
   ],
-  "stage": "OPEN_TENDER",
+  "stage": "DEADLINE_ELAPSED_UNVERIFIED_OUTCOME",
   "stage_caveat": "Draft production is evidenced; commercial qualification, willing counterpart and tender eligibility are not implied.",
-  "status": "OPEN TENDER",
+  "status": "DEADLINE ELAPSED; OUTCOME UNKNOWN",
   "technology": {
     "Evidence / source": "Council title. https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
     "Hardware evidence": "New server/network hardware UNKNOWN; do not assume replacement.",
@@ -168,8 +168,17 @@
         "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
         "https://portal.tenderlink.com/cairns/alltenders/"
       ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "Recorded 28 September 16:30 AEST deadline elapsed; current buyer list moved the item to closed, with no award/cancellation verified.",
+      "source_urls": [
+        "https://www.cairns.qld.gov.au/council/tenders/open-tenders/3047",
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ]
     }
   ],
-  "last_recheck_attempt": "2026-09-21",
+  "last_recheck_attempt": "2026-09-28",
   "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise."
 }

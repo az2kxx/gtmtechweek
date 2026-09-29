@@ -12,9 +12,9 @@
   {
     "blocking_live_execution": true,
     "component": "Fresh tender collection",
-    "evidence": "21 September fresh search:31 dossiers,26/27 source groups attempted,14 accessible. Source/eligibility gaps explicit.",
+    "evidence": "28 September fresh search: 41 dossiers; all 27 named source groups attempted (7 SUCCESS, 14 PARTIAL, 6 BLOCKED). Source and eligibility gaps remain explicit.",
     "id": "research",
-    "next_action": "Resume explicit source and eligibility queue; never treat failed retrieval as zero.",
+    "next_action": "Recheck earliest mandatory gates and unresolved official packs; never treat failed retrieval as zero.",
     "owner": "research agent",
     "priority": "P0",
     "state": "PARTIAL"
@@ -32,7 +32,7 @@
   {
     "blocking_live_execution": true,
     "component": "Clay enrichment",
-    "evidence": "W39:1 saved-task cache read;0 paid calls;299 DATA_CREDITS nominal allowance, live enforcement unverified.",
+    "evidence": "W40: one saved-task cache read, 0 paid calls, 0 reserved and 299 nominal DATA_CREDITS remaining; live enforcement and monthly account total unverified.",
     "id": "clay",
     "next_action": "Keep COST_REVIEW_REQUIRED until live upper bounds and durable enforcement are verified.",
     "owner": "agent",
@@ -42,9 +42,9 @@
   {
     "blocking_live_execution": false,
     "component": "Attio mirror",
-    "evidence": "W39: 29 notes and 1 project-only description append read back; 13 contacts reused; private relationship history preserved.",
+    "evidence": "W40: 13 contact-review notes, 10 new-tender notes, one material-rechecks note and run checkpoints read back; 13 contacts reused and private relationship history preserved.",
     "id": "attio",
-    "next_action": "Review unresolved associations and gates on28 September; preserve private relationship state.",
+    "next_action": "Review unresolved associations and gates on 5 October; preserve private relationship state.",
     "owner": "agent",
     "priority": "P1",
     "state": "READBACK_VERIFIED"
@@ -52,7 +52,7 @@
   {
     "blocking_live_execution": true,
     "component": "Tender and partner qualification",
-    "evidence": "No fully qualified/willing team established. UT-001 single-E2E hypothesis; UT-014 missing transaction-advisory counterpart; multiple gate conflicts.",
+    "evidence": "No fully qualified/willing team established. UT-032 lacks financial/legal transaction leads; UT-039 lacks EPC/local delivery lead; multiple eligibility gates and date-stage conflicts remain.",
     "id": "gaps",
     "next_action": "Resolve earliest gates and capability evidence; personalized matching awaits member profiles.",
     "owner": "integrator",

@@ -1,0 +1,149 @@
+{
+  "schema_version": 2,
+  "id": "UT-038",
+  "title": "Water-saving devices and flow-regulator framework",
+  "buyer": "United Utilities Water Limited",
+  "country": "United Kingdom",
+  "region": "Europe",
+  "official_reference": "PRO005128 / 084272-2026 / ocds-h6vhtk-06f331",
+  "stage": "OPEN_TENDER",
+  "status": "OPEN TENDER",
+  "latest_notice_type": "UK4_TENDER_NOTICE",
+  "published_amended": {
+    "published": "2026-09-07 (buyer dispatch); official mirror published 2026-09-08",
+    "amended": "UNKNOWN; none established"
+  },
+  "deadline": "2026-11-20",
+  "bid_deadline": {
+    "value": "2026-11-20T15:00:00+00:00",
+    "precision": "MINUTE",
+    "timezone": "Europe/London; GMT on date",
+    "conflict": "Official mirror summary displays 21 November, while full notice says 20 November 15:00. Buyer portal still displays an earlier 16 October stage; treat that as procedure-stage information, not the final tender deadline, pending pack review."
+  },
+  "deadline_caveat": "Use the earlier applicable stage gate in the live buyer portal; full notice final submission is 20 November 15:00 GMT.",
+  "earlier_gates": [
+    {
+      "type": "ENQUIRY_DEADLINE",
+      "value": "2026-10-09T10:00:00+01:00",
+      "mandatory": false,
+      "state": "UPCOMING; BST inferred"
+    },
+    {
+      "type": "BUYER_PORTAL_STAGE_DEADLINE",
+      "value": "2026-10-16T14:00:00+01:00",
+      "mandatory": true,
+      "state": "UPCOMING; exact CoPQ/ITN significance requires pack review"
+    }
+  ],
+  "source_url": "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=SEP655136&catID=",
+  "source_urls": [
+    "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=SEP655136&catID=",
+    "https://uk.eu-supply.com/ctm/Supplier/PublicPurchase/108808/0/0?b=UK&returnUrl=ctm%2FSupplier%2FPublicTenders"
+  ],
+  "evidence_date": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
+  "verification_scope": "Official mirror full notice and buyer portal verified two lots, values, procedure, criteria and dates; summary/full-text/portal date conflict preserved.",
+  "scope_quantities_delivery": "Lot 1: supply, storage, stock management, fulfilment/delivery of water-efficiency devices plus a United Utilities-branded survey and ordering platform. Lot 2: flow regulators in specified sizes/rates. Initial term 23 Dec 2026-23 Dec 2028 with extensions to 2034.",
+  "technology": {
+    "Software evidence": "Lot 1 requires a branded customer water-usage survey and ordering platform; architecture, hosting and existing estate/interfaces UNKNOWN.",
+    "Hardware evidence": "Lot 1 water-saving products; Lot 2 flow regulators requiring applicable quality/testing approvals including WRAS and Regulation 31 where required.",
+    "Participation caveat": "Utilities competitive flexible procedure; SME-suitable. Detailed selection, data-security, logistics and product approval evidence require pack review."
+  },
+  "value": {
+    "amount": 15000000,
+    "currency": "GBP",
+    "basis": "Aggregate framework ceiling excluding VAT, not expected earnings or a single award; Lot 1 GBP3m, Lot 2 GBP12m",
+    "tax_basis": "Excluding VAT; GBP18m including VAT"
+  },
+  "eligibility": "Utilities competitive flexible procedure; SME-suitable. Detailed selection, data-security, logistics and product approval evidence require pack review.",
+  "procurement_transaction_type": "Two-lot utilities framework; reopening competition; supplier fee 0%",
+  "payment_security": "UNKNOWN; award criteria 30% technical / 70% commercial; pricing schedule required",
+  "proposed_work_packages": [
+    {
+      "description": "Lot 1 E2E: device supply, fulfilment/logistics and customer platform",
+      "inferred": true
+    },
+    {
+      "description": "Lot 2 E2E: approved flow-regulator manufacturer/distributor with fulfilment",
+      "inferred": true
+    },
+    {
+      "description": "Integrator: device-platform-data-logistics responsibility and assurance matrix",
+      "inferred": true
+    }
+  ],
+  "dependencies": [
+    "Live CoPQ/ITN stage and pack access",
+    "UK product approvals and resilient supply chain",
+    "Customer-data/platform security and integrations"
+  ],
+  "missing_partner_roles": [
+    "Live CoPQ/ITN stage and pack access",
+    "UK product approvals and resilient supply chain",
+    "Customer-data/platform security and integrations"
+  ],
+  "delivery_route": "UNRESOLVED",
+  "lead_contractor_candidate": "UNKNOWN",
+  "requirement_coverage": {
+    "full_compliance": "NOT_ESTABLISHED",
+    "role_hypothesis": [
+      "Lot 1 E2E: device supply, fulfilment/logistics and customer platform",
+      "Lot 2 E2E: approved flow-regulator manufacturer/distributor with fulfilment",
+      "Integrator: device-platform-data-logistics responsibility and assurance matrix"
+    ],
+    "unverified_gaps": [
+      "Live CoPQ/ITN stage and pack access",
+      "UK product approvals and resilient supply chain",
+      "Customer-data/platform security and integrations"
+    ]
+  },
+  "actor_ids": [],
+  "pair_ids": [
+    "OPTION-UT-038-W40"
+  ],
+  "pipeline_stage": "DISCOVERED",
+  "outreach_state": "HOLD",
+  "cooperation_willingness": "UNKNOWN",
+  "introduction_consent": "NOT_OBTAINED",
+  "integrator_commercial": {
+    "actual_collected_revenue": null,
+    "agreed_amount": null,
+    "currency": null,
+    "earnings_calculation": "NOT_CALCULATED: no evidenced member package/share/margin/win probability/bid cost",
+    "fee_model": "UNKNOWN; not agreed",
+    "mandate_status": "NOT_AGREED",
+    "payer": "UNKNOWN",
+    "payment_trigger": "UNKNOWN",
+    "service_scope": "Proposed opportunity qualification and technical-dialogue coordination"
+  },
+  "next_action": "Resolve the 16 October buyer-portal stage and review product/platform qualification before selecting a single-lot or multi-lot route.",
+  "confidence": {
+    "notice": "HIGH",
+    "scope": "MEDIUM",
+    "participation": "REVIEW_REQUIRED",
+    "candidate_fit": "NO_QUALIFIED_ACTOR"
+  },
+  "unknowns_explicit": [
+    "Unpublished budget/tax/payment/eligibility fields remain UNKNOWN; do not assume favourable terms.",
+    "No user-supplied member profiles; role-level hypotheses only.",
+    "All outreach HOLD; no introduction consent, supplier willingness or commercial mandate."
+  ],
+  "research_change": {
+    "run_key": "gtmtechweek-2026-W40",
+    "finding": "NEW_TO_REGISTER",
+    "notice_amendment_claimed": false
+  },
+  "version_history": [
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "First canonical dossier",
+      "source_urls": [
+        "https://www.sell2wales.gov.wales/search/show/search_view.aspx?ID=SEP655136&catID=",
+        "https://uk.eu-supply.com/ctm/Supplier/PublicPurchase/108808/0/0?b=UK&returnUrl=ctm%2FSupplier%2FPublicTenders"
+      ]
+    }
+  ],
+  "evidence_grade": "Official mirror full notice and buyer portal verified two lots, values, procedure, criteria and dates; summary/full-text/portal date conflict preserved."
+}

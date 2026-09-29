@@ -109,13 +109,13 @@
   "next_action": "Exclude non-attending new prime; review only documented eligible route and full technical pack.",
   "evidence_grade": "Official buyer listing; technical pack unavailable",
   "research_change": {
-    "run_key": "gtmtechweek-2026-W39",
-    "comparison_basis": "Published14 September dossier and actual prior run; source-specific version history retained",
-    "finding": "Compulsory briefing dates elapsed; closing remains future. No evidence of attendance or reopened eligibility.",
+    "run_key": "gtmtechweek-2026-W40",
+    "comparison_basis": "Published 21 September register and official-source recheck",
+    "finding": "Both compulsory briefing gates elapsed; 30 September close remains but a fresh prime is not presumed eligible.",
     "notice_amendment_claimed": false
   },
-  "last_recheck_attempt": "2026-09-21",
-  "last_rechecked_at": "2026-09-21",
+  "last_recheck_attempt": "2026-09-28",
+  "last_rechecked_at": "2026-09-28",
   "verification_scope": "Current notice/listing and dates rechecked. Detailed scope/terms retain earlier evidence unless a dated revision below states otherwise.",
   "version_history": [
     {
@@ -125,6 +125,15 @@
       "change": "Compulsory briefing dates elapsed; closing remains future. No evidence of attendance or reopened eligibility.",
       "stage": "OPEN_TENDER",
       "deadline": "2026-09-30T23:55:00+02:00",
+      "source_urls": [
+        "https://www.dbsa.org/procurement",
+        "https://www.dbsa.org/procurement"
+      ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "Both compulsory briefing gates elapsed; 30 September close remains but a fresh prime is not presumed eligible.",
       "source_urls": [
         "https://www.dbsa.org/procurement",
         "https://www.dbsa.org/procurement"

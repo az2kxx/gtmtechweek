@@ -6,8 +6,8 @@
   "country": "Australia",
   "region": "Australia / Oceania",
   "official_reference": "Contract3076 / CAIRN-1170716",
-  "stage": "OPEN_TENDER",
-  "status": "OPEN TENDER",
+  "stage": "DEADLINE_ELAPSED_UNVERIFIED_OUTCOME",
+  "status": "DEADLINE ELAPSED; OUTCOME UNKNOWN",
   "latest_notice_type": "TENDER_NOTICE",
   "published_amended": {
     "published": "UNKNOWN; current-list discovery",
@@ -34,8 +34,8 @@
     "https://portal.tenderlink.com/cairns/alltenders/"
   ],
   "evidence_date": "2026-09-21",
-  "last_rechecked_at": "2026-09-21",
-  "last_recheck_attempt": "2026-09-21",
+  "last_rechecked_at": "2026-09-28",
+  "last_recheck_attempt": "2026-09-28",
   "verification_scope": "Title-level evidence; no verified construction method.",
   "scope_quantities_delivery": "OD660 MSCL watermain road crossing; length, construction method and programme UNKNOWN.",
   "technology": {
@@ -123,8 +123,9 @@
     "All outreachHOLD; no introduction consent or mandate."
   ],
   "research_change": {
-    "run_key": "gtmtechweek-2026-W39",
-    "finding": "NEW_TO_REGISTER; not necessarily published within overlap",
+    "run_key": "gtmtechweek-2026-W40",
+    "comparison_basis": "Published 21 September register and official-source recheck",
+    "finding": "Recorded 23 September AEST deadline elapsed; Cairns closed list shows no award yet and historic close-date conflict remains.",
     "notice_amendment_claimed": false
   },
   "version_history": [
@@ -132,6 +133,14 @@
       "run_key": "gtmtechweek-2026-W39",
       "verified_date": "2026-09-21",
       "change": "First canonical dossier",
+      "source_urls": [
+        "https://portal.tenderlink.com/cairns/alltenders/"
+      ]
+    },
+    {
+      "run_key": "gtmtechweek-2026-W40",
+      "verified_date": "2026-09-28",
+      "change": "Recorded 23 September AEST deadline elapsed; Cairns closed list shows no award yet and historic close-date conflict remains.",
       "source_urls": [
         "https://portal.tenderlink.com/cairns/alltenders/"
       ]
