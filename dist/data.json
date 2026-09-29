@@ -2,7 +2,7 @@
   "project": "gtmtechweek",
   "data_as_of": "2026-09-28",
   "evidence_dates_mixed": true,
-  "generated_at": "2026-09-29T00:22:16.356286+00:00",
+  "generated_at": "2026-09-29T00:23:33.082780+00:00",
   "dataset_digest": "8948c9daca76651574e4d6a516b68e054880dd57dc9302cf7a43c8b672a70099",
   "config": {
     "project": "gtmtechweek",
@@ -13602,8 +13602,8 @@
       "week": "2026-W40",
       "canonical_path": "executions/2026-W40/run.json",
       "started_at": "2026-09-28T23:51:53.096Z",
-      "completed_at": "2026-09-29T00:20:40.741Z",
-      "last_checkpoint_at": "2026-09-29T00:20:40.741Z",
+      "completed_at": "2026-09-29T00:23:02.100Z",
+      "last_checkpoint_at": "2026-09-29T00:23:02.100Z",
       "status": "PARTIAL",
       "kind": "FRESH_SEARCH_BASED_RESEARCH",
       "trigger": "scheduled_research",
@@ -13705,8 +13705,8 @@
           "name": "Repository publication",
           "state": "COMPLETED",
           "recorded_at": "2026-09-29T00:13:59.743Z",
-          "detail": "Research commit a7800f2d81a174259980b017b4720c7d3b908a3c fast-forwarded; five canonical files read back exactly and dist/data.json tree blob matched. Push-triggered cached replay 36502456313 succeeded; bot commit 876562d76e1e28c7740f4ba92f8be78a3b419386 preserved.",
-          "completed_at": "2026-09-29T00:20:40.741Z"
+          "detail": "Research commit a7800f2d81a174259980b017b4720c7d3b908a3c and metadata commit 0df42d5909bb0f0ebcf51fd886306d1c8d845da2 fast-forwarded. Five canonical files were exact-read back; dist/data.json tree blob matched. Push-triggered cached replays 36502456313 and 36502746014 succeeded; their bot commits were preserved.",
+          "completed_at": "2026-09-29T00:23:02.100Z"
         },
         {
           "name": "Distribution",
@@ -14217,15 +14217,27 @@
           "dist/data.json (Git tree blob)"
         ],
         "preserved_concurrent_replay_commit": "876562d76e1e28c7740f4ba92f8be78a3b419386",
-        "replay_run": {
-          "id": 36502456313,
-          "status": "COMPLETED",
-          "conclusion": "success",
-          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/36502456313",
-          "kind": "REPOSITORY_POC_REPLAY"
-        },
         "force": false,
-        "publication_metadata_note": "This record logs the verified research commit and its first cached replay. Its own terminal metadata commit SHA is not embedded recursively."
+        "publication_metadata_note": "This record logs verified commits and cached replays. Its final execution-only metadata commit SHA is intentionally not embedded recursively.",
+        "terminal_metadata_commit": "0df42d5909bb0f0ebcf51fd886306d1c8d845da2",
+        "terminal_metadata_commit_url": "https://github.com/az2kxx/gtmtechweek/commit/0df42d5909bb0f0ebcf51fd886306d1c8d845da2",
+        "preserved_terminal_replay_commit": "df6f64add78e9349d11b4705a164adf7d77d5e34",
+        "replay_runs": [
+          {
+            "id": 36502456313,
+            "status": "COMPLETED",
+            "conclusion": "success",
+            "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/36502456313",
+            "kind": "REPOSITORY_POC_REPLAY"
+          },
+          {
+            "id": 36502746014,
+            "status": "COMPLETED",
+            "conclusion": "success",
+            "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/36502746014",
+            "kind": "REPOSITORY_POC_REPLAY"
+          }
+        ]
       },
       "dashboard_writeback": {
         "state": "GITHUB_PROJECTION_PUBLISHED_READBACK_VERIFIED",
@@ -14236,8 +14248,8 @@
       "last_successful_completion": {
         "fully_completed_fresh_research": "NOT_ESTABLISHED; source and eligibility stages remain PARTIAL",
         "repository_replay": {
-          "completed_at": "2026-09-29T00:18:50.991914+00:00",
-          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/36502456313",
+          "completed_at": "2026-09-29T00:22:22Z",
+          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/36502746014",
           "kind": "REPOSITORY_POC_REPLAY",
           "event": "push",
           "conclusion": "success"
@@ -14253,7 +14265,9 @@
         "qa/research-2026-W40.md",
         "QA_REPORT.md",
         "executions/2026-W40/run.json",
-        "dist/data.json"
+        "dist/data.json",
+        "executions/2026-W40/36502456313-attempt-1.json",
+        "executions/2026-W40/36502746014-attempt-1.json"
       ]
     }
   ],
