@@ -2,7 +2,7 @@
   "project": "gtmtechweek",
   "data_as_of": "2026-09-28",
   "evidence_dates_mixed": true,
-  "generated_at": "2026-09-29T00:18:51.013333+00:00",
+  "generated_at": "2026-09-29T00:20:58.284673+00:00",
   "dataset_digest": "8948c9daca76651574e4d6a516b68e054880dd57dc9302cf7a43c8b672a70099",
   "config": {
     "project": "gtmtechweek",
@@ -13535,8 +13535,8 @@
       "week": "2026-W40",
       "canonical_path": "executions/2026-W40/run.json",
       "started_at": "2026-09-28T23:51:53.096Z",
-      "completed_at": null,
-      "last_checkpoint_at": "2026-09-29T00:13:59.743Z",
+      "completed_at": "2026-09-29T00:20:40.741Z",
+      "last_checkpoint_at": "2026-09-29T00:20:40.741Z",
       "status": "PARTIAL",
       "kind": "FRESH_SEARCH_BASED_RESEARCH",
       "trigger": "scheduled_research",
@@ -13619,7 +13619,8 @@
           "name": "Attio mirror",
           "state": "COMPLETED",
           "recorded_at": "2026-09-29T00:13:59.743Z",
-          "detail": "25 notes written and read back so far: STARTED, 13 contact reviews, 10 tender notes and one material-rechecks note. Terminal checkpoint follows publication; private relationship state preserved."
+          "detail": "26 notes written and read back: STARTED, 13 contact reviews, 10 tender notes, one material-rechecks note and one terminal PARTIAL note. Private relationship state preserved.",
+          "completed_at": "2026-09-29T00:20:40.741Z"
         },
         {
           "name": "Clay",
@@ -13635,9 +13636,10 @@
         },
         {
           "name": "Repository publication",
-          "state": "IN_PROGRESS",
+          "state": "COMPLETED",
           "recorded_at": "2026-09-29T00:13:59.743Z",
-          "detail": "Sanitized canonical tree prepared against remote head 6838bc9ddcb186ab2d5af73185e69e5f3f0efa88; fast-forward publication and readback not yet claimed."
+          "detail": "Research commit a7800f2d81a174259980b017b4720c7d3b908a3c fast-forwarded; five canonical files read back exactly and dist/data.json tree blob matched. Push-triggered cached replay 36502456313 succeeded; bot commit 876562d76e1e28c7740f4ba92f8be78a3b419386 preserved.",
+          "completed_at": "2026-09-29T00:20:40.741Z"
         },
         {
           "name": "Distribution",
@@ -13646,12 +13648,12 @@
         }
       ],
       "attio_writeback": {
-        "verified_notes": 25,
+        "verified_notes": 26,
         "failed_writes": 0,
         "readback_required": true,
         "private_ids_in_public": false,
-        "total_verified_writes": 25,
-        "terminal_note_readback": false
+        "total_verified_writes": 26,
+        "terminal_note_readback": true
       },
       "errors": [
         {
@@ -14134,28 +14136,44 @@
         "Framework ceilings, project funding and budgets were not treated as expected earnings."
       ],
       "repo_writeback": {
-        "state": "IN_PROGRESS",
+        "state": "PUBLISHED_READBACK_VERIFIED",
         "base_commit": "6838bc9ddcb186ab2d5af73185e69e5f3f0efa88",
-        "research_commit": null,
-        "research_commit_url": null,
-        "readback_at": null,
-        "verified_paths": [],
+        "research_commit": "a7800f2d81a174259980b017b4720c7d3b908a3c",
+        "research_commit_url": "https://github.com/az2kxx/gtmtechweek/commit/a7800f2d81a174259980b017b4720c7d3b908a3c",
+        "readback_at": "2026-09-29T00:18:44Z",
+        "verified_paths": [
+          "tenders/UT-032/tender.json",
+          "tenders/UT-038/tender.json",
+          "tenders/UT-039/actors/CONTACT-11/outreach.json",
+          "research/2026-W40/source-coverage.json",
+          "executions/2026-W40/run.json",
+          "dist/data.json (Git tree blob)"
+        ],
+        "preserved_concurrent_replay_commit": "876562d76e1e28c7740f4ba92f8be78a3b419386",
+        "replay_run": {
+          "id": 36502456313,
+          "status": "COMPLETED",
+          "conclusion": "success",
+          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/36502456313",
+          "kind": "REPOSITORY_POC_REPLAY"
+        },
         "force": false,
-        "publication_metadata_note": "This record will be updated after an actual fast-forward and readback; no recursive self-SHA will be embedded."
+        "publication_metadata_note": "This record logs the verified research commit and its first cached replay. Its own terminal metadata commit SHA is not embedded recursively."
       },
       "dashboard_writeback": {
-        "state": "LOCAL_PROJECTION_VALIDATED",
+        "state": "GITHUB_PROJECTION_PUBLISHED_READBACK_VERIFIED",
         "hosted_shell_redeployed": false,
         "hosted_fallback_redeployed": false,
-        "note": "Existing public shell is expected to read GitHub main; browser end-to-end refresh is not yet retested."
+        "note": "GitHub projection blob and replay were verified. Existing public shell was not redeployed or browser-retested in this run."
       },
       "last_successful_completion": {
         "fully_completed_fresh_research": "NOT_ESTABLISHED; source and eligibility stages remain PARTIAL",
         "repository_replay": {
-          "completed_at": "2026-09-22T00:31:06.100165+00:00",
-          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/35672281585",
+          "completed_at": "2026-09-29T00:18:50.991914+00:00",
+          "url": "https://github.com/az2kxx/gtmtechweek/actions/runs/36502456313",
           "kind": "REPOSITORY_POC_REPLAY",
-          "event": "push"
+          "event": "push",
+          "conclusion": "success"
         }
       },
       "artifact_paths": [
